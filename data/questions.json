@@ -1,0 +1,5433 @@
+[
+  {
+    "id": "borders-001",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Deutschland?",
+    "options": [
+      "Zypern",
+      "Dänemark",
+      "Ukraine",
+      "Russland"
+    ],
+    "correct": 1,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-002",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Italien?",
+    "options": [
+      "Irland",
+      "Nordmazedonien",
+      "San Marino",
+      "Luxemburg"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-003",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Spanien?",
+    "options": [
+      "Schweden",
+      "Litauen",
+      "Portugal",
+      "Montenegro"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-004",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Österreich?",
+    "options": [
+      "Andorra",
+      "Belarus",
+      "Slowakei",
+      "Albanien"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-005",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Polen?",
+    "options": [
+      "Serbien",
+      "Frankreich",
+      "Deutschland",
+      "Irland"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-006",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Griechenland?",
+    "options": [
+      "Albanien",
+      "Kroatien",
+      "Italien",
+      "Andorra"
+    ],
+    "correct": 0,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-007",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Portugal?",
+    "options": [
+      "Spanien",
+      "Vereinigtes Königreich",
+      "Österreich",
+      "Finnland"
+    ],
+    "correct": 0,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-008",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit der Schweiz?",
+    "options": [
+      "Vatikanstadt",
+      "Vereinigtes Königreich",
+      "Liechtenstein",
+      "Polen"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-009",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Norwegen?",
+    "options": [
+      "Finnland",
+      "Spanien",
+      "Belgien",
+      "Island"
+    ],
+    "correct": 0,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-010",
+    "category": "borders",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Schweden?",
+    "options": [
+      "Irland",
+      "Portugal",
+      "Vatikanstadt",
+      "Norwegen"
+    ],
+    "correct": 3,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-011",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Finnland?",
+    "options": [
+      "Montenegro",
+      "Irland",
+      "Norwegen",
+      "Kroatien"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-012",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Tschechien?",
+    "options": [
+      "Irland",
+      "Bulgarien",
+      "Schweden",
+      "Deutschland"
+    ],
+    "correct": 3,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-013",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Ungarn?",
+    "options": [
+      "Litauen",
+      "Serbien",
+      "Deutschland",
+      "Albanien"
+    ],
+    "correct": 1,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-014",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Rumänien?",
+    "options": [
+      "Lettland",
+      "Frankreich",
+      "Bulgarien",
+      "Österreich"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-015",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Bulgarien?",
+    "options": [
+      "Italien",
+      "Serbien",
+      "Vatikanstadt",
+      "Malta"
+    ],
+    "correct": 1,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-016",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Kroatien?",
+    "options": [
+      "Rumänien",
+      "Luxemburg",
+      "Slowenien",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-017",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Slowenien?",
+    "options": [
+      "Kroatien",
+      "Russland",
+      "Spanien",
+      "Luxemburg"
+    ],
+    "correct": 0,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-018",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit der Slowakei?",
+    "options": [
+      "Schweiz",
+      "Portugal",
+      "Liechtenstein",
+      "Ukraine"
+    ],
+    "correct": 3,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-019",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Belgien?",
+    "options": [
+      "Island",
+      "Russland",
+      "Malta",
+      "Frankreich"
+    ],
+    "correct": 3,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-020",
+    "category": "borders",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit den Niederlanden?",
+    "options": [
+      "Finnland",
+      "Polen",
+      "Deutschland",
+      "Liechtenstein"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-021",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Dänemark?",
+    "options": [
+      "Russland",
+      "Serbien",
+      "Bosnien und Herzegowina",
+      "Deutschland"
+    ],
+    "correct": 3,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-022",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Mexiko?",
+    "options": [
+      "Chile",
+      "Argentinien",
+      "Belize",
+      "Barbados"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-023",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Argentinien?",
+    "options": [
+      "Venezuela",
+      "St. Vincent und die Grenadinen",
+      "Brasilien",
+      "Costa Rica"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-024",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Chile?",
+    "options": [
+      "Peru",
+      "St. Lucia",
+      "El Salvador",
+      "Mexiko"
+    ],
+    "correct": 0,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-025",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Peru?",
+    "options": [
+      "Belize",
+      "Dominica",
+      "Brasilien",
+      "Kanada"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-026",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Kolumbien?",
+    "options": [
+      "Argentinien",
+      "Guatemala",
+      "Ecuador",
+      "Bolivien"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-027",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Marokko?",
+    "options": [
+      "Sierra Leone",
+      "Liberia",
+      "Algerien",
+      "Botswana"
+    ],
+    "correct": 2,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-028",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Kenia?",
+    "options": [
+      "Sudan",
+      "Côte d'Ivoire",
+      "Komoren",
+      "Somalia"
+    ],
+    "correct": 3,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-029",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Thailand?",
+    "options": [
+      "Libanon",
+      "Laos",
+      "Armenien",
+      "Japan"
+    ],
+    "correct": 1,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "borders-030",
+    "category": "borders",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat eine Landgrenze mit Vietnam?",
+    "options": [
+      "Jemen",
+      "Kambodscha",
+      "Saudi-Arabien",
+      "Kasachstan"
+    ],
+    "correct": 1,
+    "explanation": "Diese beiden Länder haben eine gemeinsame Landgrenze.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-001",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Deutschland?",
+    "options": [
+      "Ottawa",
+      "Paris",
+      "Warschau",
+      "Berlin"
+    ],
+    "correct": 3,
+    "explanation": "Die gesuchte Stadt heißt Berlin.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-002",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Frankreich?",
+    "options": [
+      "Madrid",
+      "Oslo",
+      "Paris",
+      "Bogotá"
+    ],
+    "correct": 2,
+    "explanation": "Die gesuchte Stadt heißt Paris.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-003",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Italien?",
+    "options": [
+      "Rom",
+      "Lissabon",
+      "Canberra",
+      "Warschau"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Rom.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-004",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Spanien?",
+    "options": [
+      "Madrid",
+      "Helsinki",
+      "London",
+      "Nairobi"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Madrid.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-005",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt des Vereinigten Königreichs?",
+    "options": [
+      "Madrid",
+      "Helsinki",
+      "London",
+      "Tokio"
+    ],
+    "correct": 2,
+    "explanation": "Die gesuchte Stadt heißt London.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-006",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt der USA?",
+    "options": [
+      "Athen",
+      "Hanoi",
+      "Washington, D.C.",
+      "Bern"
+    ],
+    "correct": 2,
+    "explanation": "Die gesuchte Stadt heißt Washington, D.C..",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-007",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Kanada?",
+    "options": [
+      "Mexiko-Stadt",
+      "Kairo",
+      "Ottawa",
+      "Warschau"
+    ],
+    "correct": 2,
+    "explanation": "Die gesuchte Stadt heißt Ottawa.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-008",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Brasilien?",
+    "options": [
+      "Lissabon",
+      "Madrid",
+      "London",
+      "Brasília"
+    ],
+    "correct": 3,
+    "explanation": "Die gesuchte Stadt heißt Brasília.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-009",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Japan?",
+    "options": [
+      "Rabat",
+      "Bangkok",
+      "Madrid",
+      "Tokio"
+    ],
+    "correct": 3,
+    "explanation": "Die gesuchte Stadt heißt Tokio.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-010",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Australien?",
+    "options": [
+      "Washington, D.C.",
+      "Canberra",
+      "Paris",
+      "Lima"
+    ],
+    "correct": 1,
+    "explanation": "Die gesuchte Stadt heißt Canberra.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-011",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Schweden?",
+    "options": [
+      "Mexiko-Stadt",
+      "Stockholm",
+      "Canberra",
+      "Nairobi"
+    ],
+    "correct": 1,
+    "explanation": "Die gesuchte Stadt heißt Stockholm.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-012",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Norwegen?",
+    "options": [
+      "Oslo",
+      "Bogotá",
+      "Rabat",
+      "Paris"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Oslo.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-013",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Finnland?",
+    "options": [
+      "Wien",
+      "Bogotá",
+      "Santiago de Chile",
+      "Helsinki"
+    ],
+    "correct": 3,
+    "explanation": "Die gesuchte Stadt heißt Helsinki.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-014",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Polen?",
+    "options": [
+      "Warschau",
+      "Ottawa",
+      "Rabat",
+      "Lissabon"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Warschau.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-015",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Griechenland?",
+    "options": [
+      "Santiago de Chile",
+      "Athen",
+      "Buenos Aires",
+      "Paris"
+    ],
+    "correct": 1,
+    "explanation": "Die gesuchte Stadt heißt Athen.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-016",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Portugal?",
+    "options": [
+      "Bogotá",
+      "Santiago de Chile",
+      "Stockholm",
+      "Lissabon"
+    ],
+    "correct": 3,
+    "explanation": "Die gesuchte Stadt heißt Lissabon.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-017",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Welche Stadt ist die Bundesstadt der Schweiz?",
+    "options": [
+      "Ankara",
+      "Bern",
+      "Wien",
+      "Wellington"
+    ],
+    "correct": 1,
+    "explanation": "Die gesuchte Stadt heißt Bern.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries",
+        "https://www.admin.ch/gov/de/start/bundesstadt.html"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-018",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Österreich?",
+    "options": [
+      "Wien",
+      "Kairo",
+      "Lissabon",
+      "Santiago de Chile"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Wien.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-019",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt der Türkei?",
+    "options": [
+      "Wellington",
+      "Mexiko-Stadt",
+      "Ankara",
+      "Bern"
+    ],
+    "correct": 2,
+    "explanation": "Die gesuchte Stadt heißt Ankara.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-020",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Mexiko?",
+    "options": [
+      "Santiago de Chile",
+      "Washington, D.C.",
+      "Mexiko-Stadt",
+      "Ottawa"
+    ],
+    "correct": 2,
+    "explanation": "Die gesuchte Stadt heißt Mexiko-Stadt.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-021",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Argentinien?",
+    "options": [
+      "Lima",
+      "Buenos Aires",
+      "Washington, D.C.",
+      "Mexiko-Stadt"
+    ],
+    "correct": 1,
+    "explanation": "Die gesuchte Stadt heißt Buenos Aires.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-022",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Chile?",
+    "options": [
+      "Santiago de Chile",
+      "Bogotá",
+      "Rabat",
+      "Ottawa"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Santiago de Chile.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-023",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Peru?",
+    "options": [
+      "Wellington",
+      "Bogotá",
+      "Madrid",
+      "Lima"
+    ],
+    "correct": 3,
+    "explanation": "Die gesuchte Stadt heißt Lima.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-024",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Kolumbien?",
+    "options": [
+      "Bogotá",
+      "Hanoi",
+      "Rom",
+      "Stockholm"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Bogotá.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-025",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Marokko?",
+    "options": [
+      "Rabat",
+      "Canberra",
+      "Hanoi",
+      "Mexiko-Stadt"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Rabat.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-026",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Ägypten?",
+    "options": [
+      "Kairo",
+      "Helsinki",
+      "Canberra",
+      "Athen"
+    ],
+    "correct": 0,
+    "explanation": "Die gesuchte Stadt heißt Kairo.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-027",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Kenia?",
+    "options": [
+      "Canberra",
+      "Oslo",
+      "Nairobi",
+      "Wien"
+    ],
+    "correct": 2,
+    "explanation": "Die gesuchte Stadt heißt Nairobi.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-028",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Thailand?",
+    "options": [
+      "Bern",
+      "Ankara",
+      "Madrid",
+      "Bangkok"
+    ],
+    "correct": 3,
+    "explanation": "Die gesuchte Stadt heißt Bangkok.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-029",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Vietnam?",
+    "options": [
+      "Bogotá",
+      "Mexiko-Stadt",
+      "Berlin",
+      "Hanoi"
+    ],
+    "correct": 3,
+    "explanation": "Die gesuchte Stadt heißt Hanoi.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "capitals-030",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Neuseeland?",
+    "options": [
+      "Rom",
+      "Ankara",
+      "Wellington",
+      "Hanoi"
+    ],
+    "correct": 2,
+    "explanation": "Die gesuchte Stadt heißt Wellington.",
+    "media": null,
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-001",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Deutschland",
+      "Peru",
+      "Ägypten",
+      "Thailand"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Deutschland.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/68ade0edee746a76b9eb.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-002",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Frankreich",
+      "Griechenland",
+      "Schweiz",
+      "Portugal"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Frankreich.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/8a3a483cc994a44ce4a0.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-003",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Italien",
+      "Mexiko",
+      "Vietnam",
+      "Portugal"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Italien.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/c67ee13c2ff13dc94fc4.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-004",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Deutschland",
+      "Vereinigtes Königreich",
+      "Griechenland",
+      "Spanien"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Spanien.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/86b837846b0889d719b6.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-005",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Finnland",
+      "Chile",
+      "Vereinigtes Königreich",
+      "Spanien"
+    ],
+    "correct": 2,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Vereinigtes Königreich.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/7d5a7e5f5b4728525fc1.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-006",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Vereinigte Staaten",
+      "Neuseeland",
+      "Deutschland",
+      "Japan"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Vereinigte Staaten.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/f9b09ee5fc016aa1a6d1.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-007",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Türkei",
+      "Vietnam",
+      "Neuseeland",
+      "Kanada"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Kanada.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/21a5234167bfd83a8493.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-008",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Peru",
+      "Portugal",
+      "Kenia",
+      "Brasilien"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Brasilien.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/e80d23522b6cca6326a1.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-009",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Japan",
+      "Vietnam",
+      "Kolumbien",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Japan.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/c5209db2ee57a0dd054f.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-010",
+    "category": "flags",
+    "difficulty": 1,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Finnland",
+      "Australien",
+      "Vereinigtes Königreich",
+      "Ägypten"
+    ],
+    "correct": 1,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Australien.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/f367351c4f1e2924e872.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-011",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Schweden",
+      "Kolumbien",
+      "Deutschland",
+      "Neuseeland"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Schweden.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/ffdc10b9157e0a92de33.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-012",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Spanien",
+      "Australien",
+      "Vietnam",
+      "Norwegen"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Norwegen.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/c38a3f3b25f9f70fd177.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-013",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Argentinien",
+      "Vereinigtes Königreich",
+      "Spanien",
+      "Finnland"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Finnland.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/e73a7be2e9579f7b456b.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-014",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Spanien",
+      "Vereinigtes Königreich",
+      "Kanada",
+      "Polen"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Polen.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/e2b313b7a88b11690067.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-015",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Japan",
+      "Griechenland",
+      "Kolumbien",
+      "Brasilien"
+    ],
+    "correct": 1,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Griechenland.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/5d4eaa5d8ad2cf2a8a7e.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-016",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Portugal",
+      "Neuseeland",
+      "Norwegen",
+      "Deutschland"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Portugal.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/0b458dbbf7417b10ba1a.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-017",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Chile",
+      "Schweden",
+      "Thailand",
+      "Schweiz"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Schweiz.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/f3c4e575d7e653c6ec13.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-018",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Kanada",
+      "Brasilien",
+      "Australien",
+      "Österreich"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Österreich.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/bbdc07cdf5abecfcce78.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-019",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Schweden",
+      "Kenia",
+      "Türkei",
+      "Spanien"
+    ],
+    "correct": 2,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Türkei.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/2995ad46226807cb23d1.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-020",
+    "category": "flags",
+    "difficulty": 2,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Thailand",
+      "Australien",
+      "Mexiko",
+      "Portugal"
+    ],
+    "correct": 2,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Mexiko.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/de97b34dfa9b61769da9.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-021",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Österreich",
+      "Neuseeland",
+      "Schweden",
+      "Argentinien"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Argentinien.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/5e836cc01011c6a6893f.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-022",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Chile",
+      "Argentinien",
+      "Österreich",
+      "Kanada"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Chile.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/d2b1d6f2594da2e3201c.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-023",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Mexiko",
+      "Argentinien",
+      "Peru",
+      "Polen"
+    ],
+    "correct": 2,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Peru.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/58de8e3941bf58874e8b.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-024",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Kolumbien",
+      "Schweiz",
+      "Marokko",
+      "Italien"
+    ],
+    "correct": 0,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Kolumbien.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/4cad943f8fd1eaa9fcb9.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-025",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Norwegen",
+      "Brasilien",
+      "Marokko",
+      "Kanada"
+    ],
+    "correct": 2,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Marokko.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/017ea39fb40186bf4e5e.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-026",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Frankreich",
+      "Kolumbien",
+      "Ägypten",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 2,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Ägypten.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/064ce627235132eea787.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-027",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Vereinigte Staaten",
+      "Marokko",
+      "Kenia",
+      "Schweden"
+    ],
+    "correct": 2,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Kenia.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/aecb52f10cf67da00a24.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-028",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Polen",
+      "Japan",
+      "Brasilien",
+      "Thailand"
+    ],
+    "correct": 3,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Thailand.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/a23a3618517526d807bd.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-029",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Finnland",
+      "Vietnam",
+      "Thailand",
+      "Argentinien"
+    ],
+    "correct": 1,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Vietnam.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/4cb87c3908201e863d44.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "flags-030",
+    "category": "flags",
+    "difficulty": 3,
+    "prompt": "Zu welchem Land gehört diese Flagge?",
+    "options": [
+      "Australien",
+      "Ägypten",
+      "Neuseeland",
+      "Kolumbien"
+    ],
+    "correct": 2,
+    "explanation": "Die abgebildete Landesflagge gehört zu diesem Land: Neuseeland.",
+    "media": {
+      "alt": "Abgebildete Landesflagge",
+      "src": "/media/e63f6e02f4004af477a9.svg",
+      "type": "image",
+      "license": "MIT – flag-icons"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-001",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Eiffelturm“?",
+    "options": [
+      "Japan",
+      "Portugal",
+      "Frankreich",
+      "Thailand"
+    ],
+    "correct": 2,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Frankreich.",
+    "media": {
+      "alt": "Eiffelturm – stilisierte Illustration",
+      "src": "/media/e6b21f44dbcb86a88b2e.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/600/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-002",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Kolosseum“?",
+    "options": [
+      "Vereinigte Staaten",
+      "Italien",
+      "Mexiko",
+      "Neuseeland"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Italien.",
+    "media": {
+      "alt": "Kolosseum – stilisierte Illustration",
+      "src": "/media/9e5957f8f02c0f718a4d.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/91/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-003",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Taj Mahal“?",
+    "options": [
+      "Argentinien",
+      "Indien",
+      "Italien",
+      "Kolumbien"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Indien.",
+    "media": {
+      "alt": "Taj Mahal – stilisierte Illustration",
+      "src": "/media/72781fa7bcd8336c2a0b.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/252/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-004",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Pyramiden von Gizeh“?",
+    "options": [
+      "Vereinigtes Königreich",
+      "Ägypten",
+      "Japan",
+      "Vereinigte Staaten"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Ägypten.",
+    "media": {
+      "alt": "Pyramiden von Gizeh – stilisierte Illustration",
+      "src": "/media/b28de6af40fdaf1734ad.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/86/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-005",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Freiheitsstatue“?",
+    "options": [
+      "Brasilien",
+      "Vereinigte Staaten",
+      "Portugal",
+      "Griechenland"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Vereinigte Staaten.",
+    "media": {
+      "alt": "Freiheitsstatue – stilisierte Illustration",
+      "src": "/media/4a63c67d7ef740358b2a.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/307/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-006",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Opernhaus von Sydney“?",
+    "options": [
+      "Türkei",
+      "Australien",
+      "Chile",
+      "Thailand"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Australien.",
+    "media": {
+      "alt": "Opernhaus von Sydney – stilisierte Illustration",
+      "src": "/media/b00ed6a92dddcbbe9c25.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/166/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-007",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Große Mauer“?",
+    "options": [
+      "Griechenland",
+      "Chile",
+      "Vietnam",
+      "China"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: China.",
+    "media": {
+      "alt": "Große Mauer – stilisierte Illustration",
+      "src": "/media/55d4956dd343b1e8540e.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/438/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-008",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Schiefer Turm von Pisa“?",
+    "options": [
+      "Italien",
+      "Marokko",
+      "Norwegen",
+      "Mexiko"
+    ],
+    "correct": 0,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Italien.",
+    "media": {
+      "alt": "Schiefer Turm von Pisa – stilisierte Illustration",
+      "src": "/media/0abd4d0d298d9e2b7454.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/395/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-009",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Akropolis von Athen“?",
+    "options": [
+      "Norwegen",
+      "Kenia",
+      "Mexiko",
+      "Griechenland"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Griechenland.",
+    "media": {
+      "alt": "Akropolis von Athen – stilisierte Illustration",
+      "src": "/media/70ee52b147e0ad36285a.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/404/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-010",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Big Ben / Elizabeth Tower“?",
+    "options": [
+      "Vereinigtes Königreich",
+      "Neuseeland",
+      "Spanien",
+      "Norwegen"
+    ],
+    "correct": 0,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Vereinigtes Königreich.",
+    "media": {
+      "alt": "Big Ben / Elizabeth Tower – stilisierte Illustration",
+      "src": "/media/61a23e0376b5dee9bbba.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/426/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-011",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Petra – Al-Khazneh“?",
+    "options": [
+      "Kenia",
+      "Peru",
+      "Kanada",
+      "Jordanien"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Jordanien.",
+    "media": {
+      "alt": "Petra – Al-Khazneh – stilisierte Illustration",
+      "src": "/media/5025549af70a8f8aa702.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/326/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-012",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Machu Picchu“?",
+    "options": [
+      "Deutschland",
+      "Thailand",
+      "Schweiz",
+      "Peru"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Peru.",
+    "media": {
+      "alt": "Machu Picchu – stilisierte Illustration",
+      "src": "/media/0024f23c66807e41465e.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/274/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-013",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Sagrada Família“?",
+    "options": [
+      "Kanada",
+      "Vietnam",
+      "Chile",
+      "Spanien"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Spanien.",
+    "media": {
+      "alt": "Sagrada Família – stilisierte Illustration",
+      "src": "/media/f2e981b04d0b82f694d3.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/320/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-014",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Angkor Wat“?",
+    "options": [
+      "Türkei",
+      "Mexiko",
+      "Kambodscha",
+      "Vietnam"
+    ],
+    "correct": 2,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Kambodscha.",
+    "media": {
+      "alt": "Angkor Wat – stilisierte Illustration",
+      "src": "/media/0d64a1733dfca673a6fd.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/668/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-015",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Chichén Itzá – El Castillo“?",
+    "options": [
+      "Kanada",
+      "Japan",
+      "Österreich",
+      "Mexiko"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Mexiko.",
+    "media": {
+      "alt": "Chichén Itzá – El Castillo – stilisierte Illustration",
+      "src": "/media/f3dd1bae43df548a331a.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/483/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-016",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Moai von Rapa Nui“?",
+    "options": [
+      "Chile",
+      "Schweiz",
+      "Japan",
+      "Marokko"
+    ],
+    "correct": 0,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Chile.",
+    "media": {
+      "alt": "Moai von Rapa Nui – stilisierte Illustration",
+      "src": "/media/9addc20c7b98aec5479b.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/715/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-017",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Hagia Sophia“?",
+    "options": [
+      "Argentinien",
+      "Türkei",
+      "Griechenland",
+      "Norwegen"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Türkei.",
+    "media": {
+      "alt": "Hagia Sophia – stilisierte Illustration",
+      "src": "/media/e0eaf6e7cb09853b6096.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/356/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-018",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Schloss Schönbrunn“?",
+    "options": [
+      "Kanada",
+      "Deutschland",
+      "Thailand",
+      "Österreich"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Österreich.",
+    "media": {
+      "alt": "Schloss Schönbrunn – stilisierte Illustration",
+      "src": "/media/bf55501438c6f99a4118.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/786/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-019",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Mont-Saint-Michel“?",
+    "options": [
+      "Schweden",
+      "Frankreich",
+      "Marokko",
+      "Brasilien"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Frankreich.",
+    "media": {
+      "alt": "Mont-Saint-Michel – stilisierte Illustration",
+      "src": "/media/50d7efa2553b98f176c5.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/80/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-020",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Tower of Belém“?",
+    "options": [
+      "Argentinien",
+      "Portugal",
+      "Chile",
+      "Frankreich"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Portugal.",
+    "media": {
+      "alt": "Tower of Belém – stilisierte Illustration",
+      "src": "/media/6b6bb749332b8c888230.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/263/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-021",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Borobudur“?",
+    "options": [
+      "Indonesien",
+      "Kolumbien",
+      "Portugal",
+      "Italien"
+    ],
+    "correct": 0,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Indonesien.",
+    "media": {
+      "alt": "Borobudur – stilisierte Illustration",
+      "src": "/media/5838b94604cfae9799a8.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/592/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-022",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Felsenkirchen von Lalibela“?",
+    "options": [
+      "Italien",
+      "Äthiopien",
+      "Marokko",
+      "Spanien"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Äthiopien.",
+    "media": {
+      "alt": "Felsenkirchen von Lalibela – stilisierte Illustration",
+      "src": "/media/2451441a29e6cd6bb8c0.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/18/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-023",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Palast Potala“?",
+    "options": [
+      "Polen",
+      "Argentinien",
+      "Schweiz",
+      "China"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: China.",
+    "media": {
+      "alt": "Palast Potala – stilisierte Illustration",
+      "src": "/media/e27a6b0e6885420a0f6d.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/707/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-024",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Stari Most in Mostar“?",
+    "options": [
+      "Spanien",
+      "Bosnien und Herzegowina",
+      "Frankreich",
+      "Australien"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Bosnien und Herzegowina.",
+    "media": {
+      "alt": "Stari Most in Mostar – stilisierte Illustration",
+      "src": "/media/4310e7875d4b2156c84c.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/946/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-025",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Samarqand – Registan“?",
+    "options": [
+      "Chile",
+      "Österreich",
+      "Argentinien",
+      "Usbekistan"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Usbekistan.",
+    "media": {
+      "alt": "Samarqand – Registan – stilisierte Illustration",
+      "src": "/media/a897c3b9eed8e47eda16.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/603/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-026",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Kinkaku-ji in Kyoto“?",
+    "options": [
+      "Deutschland",
+      "Japan",
+      "Mexiko",
+      "Kenia"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Japan.",
+    "media": {
+      "alt": "Kinkaku-ji in Kyoto – stilisierte Illustration",
+      "src": "/media/6d5bc842c6cee944c79b.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/688/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-027",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Schloss Himeji“?",
+    "options": [
+      "Japan",
+      "Kenia",
+      "Schweiz",
+      "Griechenland"
+    ],
+    "correct": 0,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Japan.",
+    "media": {
+      "alt": "Schloss Himeji – stilisierte Illustration",
+      "src": "/media/6b48560c92e019c2aa7d.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/661/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-028",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Djenne – Große Moschee“?",
+    "options": [
+      "Finnland",
+      "Spanien",
+      "Kenia",
+      "Mali"
+    ],
+    "correct": 3,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Mali.",
+    "media": {
+      "alt": "Djenne – Große Moschee – stilisierte Illustration",
+      "src": "/media/dce608d4b675be0e94b1.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/116/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-029",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Buddhistische Stupa von Sanchi“?",
+    "options": [
+      "Thailand",
+      "Indien",
+      "Vereinigtes Königreich",
+      "Norwegen"
+    ],
+    "correct": 1,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Indien.",
+    "media": {
+      "alt": "Buddhistische Stupa von Sanchi – stilisierte Illustration",
+      "src": "/media/fdfd5dd05714dc8498ed.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/524/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "landmarks-030",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das Wahrzeichen „Schloss Malbork“?",
+    "options": [
+      "Schweden",
+      "Schweiz",
+      "Polen",
+      "Ägypten"
+    ],
+    "correct": 2,
+    "explanation": "Das abgebildete Wahrzeichen befindet sich hier: Polen.",
+    "media": {
+      "alt": "Schloss Malbork – stilisierte Illustration",
+      "src": "/media/450c610d097907cc689f.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "review": "UNESCO list XML country and site cross-check",
+      "sources": [
+        "https://whc.unesco.org/en/list/847/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-001",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Deutschland",
+      "Peru",
+      "Ägypten",
+      "Thailand"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Deutschland.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/38bc35b648245f22dace.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-002",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Frankreich",
+      "Griechenland",
+      "Schweiz",
+      "Portugal"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Frankreich.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/d17afbd53f8cbf69d782.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-003",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Italien",
+      "Mexiko",
+      "Vietnam",
+      "Portugal"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Italien.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/e85757c54a7aacd7e4bf.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-004",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Deutschland",
+      "Vereinigtes Königreich",
+      "Griechenland",
+      "Spanien"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Spanien.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/d4afba29abaf1d0cf415.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-005",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Finnland",
+      "Chile",
+      "Vereinigtes Königreich",
+      "Spanien"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Vereinigtes Königreich.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/333c9b05482db6e5c0d9.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-006",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vereinigte Staaten",
+      "Neuseeland",
+      "Deutschland",
+      "Japan"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Vereinigte Staaten.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/409a3f59cc02e8fe80d1.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-007",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Türkei",
+      "Vietnam",
+      "Neuseeland",
+      "Kanada"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Kanada.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/17ab76de7d1087fa5591.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-008",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Peru",
+      "Portugal",
+      "Kenia",
+      "Brasilien"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Brasilien.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/7b6979a636b80921525d.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-009",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Japan",
+      "Vietnam",
+      "Kolumbien",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Japan.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/568fa55d2bdac96d42ea.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-010",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Finnland",
+      "Australien",
+      "Vereinigtes Königreich",
+      "Ägypten"
+    ],
+    "correct": 1,
+    "explanation": "Das dargestellte Land: Australien.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/6b2688553a2c7aadd2d6.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-011",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Schweden",
+      "Kolumbien",
+      "Deutschland",
+      "Neuseeland"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Schweden.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/0e67880c1523b423a0c9.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-012",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Spanien",
+      "Australien",
+      "Vietnam",
+      "Norwegen"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Norwegen.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/4575cbcdd143e14bc7fc.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-013",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Argentinien",
+      "Vereinigtes Königreich",
+      "Spanien",
+      "Finnland"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Finnland.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/f476760185aee4a0fc15.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-014",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Spanien",
+      "Vereinigtes Königreich",
+      "Kanada",
+      "Polen"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Polen.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/c8b5dcb20679600cb780.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-015",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Japan",
+      "Griechenland",
+      "Kolumbien",
+      "Brasilien"
+    ],
+    "correct": 1,
+    "explanation": "Das dargestellte Land: Griechenland.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/cb72801449ca06f04462.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-016",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Portugal",
+      "Neuseeland",
+      "Norwegen",
+      "Deutschland"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Portugal.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/43e95125722b4c5a45f5.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-017",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Chile",
+      "Schweden",
+      "Thailand",
+      "Schweiz"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Schweiz.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/d929b8fc3dc148fdfcec.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-018",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kanada",
+      "Brasilien",
+      "Australien",
+      "Österreich"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Österreich.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/842c93978b6a4c2eb569.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-019",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Schweden",
+      "Kenia",
+      "Türkei",
+      "Spanien"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Türkei.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/60ca5eb14721976625f9.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-020",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Thailand",
+      "Australien",
+      "Mexiko",
+      "Portugal"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Mexiko.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/3c5dfea4161c009575fb.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-021",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Österreich",
+      "Neuseeland",
+      "Schweden",
+      "Argentinien"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Argentinien.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/b63f137df21329d15ee1.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-022",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Chile",
+      "Argentinien",
+      "Österreich",
+      "Kanada"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Chile.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/c2c8d7d6fdf8414b318c.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-023",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Mexiko",
+      "Argentinien",
+      "Peru",
+      "Polen"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Peru.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/c9112b77c92563c2f234.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-024",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kolumbien",
+      "Schweiz",
+      "Marokko",
+      "Italien"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Kolumbien.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/73a2e122ac6f174a9678.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-025",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Norwegen",
+      "Brasilien",
+      "Marokko",
+      "Kanada"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Marokko.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/cf43b516d9efa5fa3d57.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-026",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Frankreich",
+      "Kolumbien",
+      "Ägypten",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Ägypten.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/ed1d2b6d93a2ebf304ab.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-027",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vereinigte Staaten",
+      "Marokko",
+      "Kenia",
+      "Schweden"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Kenia.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/b2468d334ecf44c06651.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-028",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Polen",
+      "Japan",
+      "Brasilien",
+      "Thailand"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Thailand.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/1fae2aa11d901e50bbcc.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-029",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Finnland",
+      "Vietnam",
+      "Thailand",
+      "Argentinien"
+    ],
+    "correct": 1,
+    "explanation": "Das dargestellte Land: Vietnam.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/91c37c95bedec992c29b.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "maps-030",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Australien",
+      "Ägypten",
+      "Neuseeland",
+      "Kolumbien"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Neuseeland.",
+    "media": {
+      "alt": "Karte mit hervorgehobenem Land",
+      "src": "/media/da0adf34f5a2d67e3956.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-001",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Deutschland",
+      "Peru",
+      "Ägypten",
+      "Thailand"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Deutschland.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/095b751080729cc73b97.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-002",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Frankreich",
+      "Griechenland",
+      "Schweiz",
+      "Portugal"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Frankreich.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/88bcbd069b04c51af132.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-003",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Italien",
+      "Mexiko",
+      "Vietnam",
+      "Portugal"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Italien.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/19c0a787412126f80147.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-004",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Deutschland",
+      "Vereinigtes Königreich",
+      "Griechenland",
+      "Spanien"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Spanien.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/f4a7ea28c1ba4e9e6a21.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-005",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Finnland",
+      "Chile",
+      "Vereinigtes Königreich",
+      "Spanien"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Vereinigtes Königreich.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/344a06a5b5e342023209.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-006",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Vereinigte Staaten",
+      "Neuseeland",
+      "Deutschland",
+      "Japan"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Vereinigte Staaten.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/ea0fb76e40d7e4a24ac0.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-007",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Türkei",
+      "Vietnam",
+      "Neuseeland",
+      "Kanada"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Kanada.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/13fad55fc47eac17d6a0.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-008",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Peru",
+      "Portugal",
+      "Kenia",
+      "Brasilien"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Brasilien.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/d5e7f51b5fc8cfdd073d.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-009",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Japan",
+      "Vietnam",
+      "Kolumbien",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Japan.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/eec0b00e566e917dc3bd.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-010",
+    "category": "silhouettes",
+    "difficulty": 1,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Finnland",
+      "Australien",
+      "Vereinigtes Königreich",
+      "Ägypten"
+    ],
+    "correct": 1,
+    "explanation": "Das dargestellte Land: Australien.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/1a30737fc6154ec33962.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-011",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Schweden",
+      "Kolumbien",
+      "Deutschland",
+      "Neuseeland"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Schweden.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/9923d4295ed061218909.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-012",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Spanien",
+      "Australien",
+      "Vietnam",
+      "Norwegen"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Norwegen.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/ea5c6624c08f49119d5a.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-013",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Argentinien",
+      "Vereinigtes Königreich",
+      "Spanien",
+      "Finnland"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Finnland.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/abab605f15e650dd7e10.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-014",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Spanien",
+      "Vereinigtes Königreich",
+      "Kanada",
+      "Polen"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Polen.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/03e1b3c733d0afb45cb2.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-015",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Japan",
+      "Griechenland",
+      "Kolumbien",
+      "Brasilien"
+    ],
+    "correct": 1,
+    "explanation": "Das dargestellte Land: Griechenland.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/c4223b3573af7808c075.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-016",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Portugal",
+      "Neuseeland",
+      "Norwegen",
+      "Deutschland"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Portugal.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/debbae49b39a7ee598b3.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-017",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Chile",
+      "Schweden",
+      "Thailand",
+      "Schweiz"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Schweiz.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/b890ed1d82be20d342f8.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-018",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Kanada",
+      "Brasilien",
+      "Australien",
+      "Österreich"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Österreich.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/8830208e4eee8a4be472.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-019",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Schweden",
+      "Kenia",
+      "Türkei",
+      "Spanien"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Türkei.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/4a7ef84c00d6aaa8e1ac.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-020",
+    "category": "silhouettes",
+    "difficulty": 2,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Thailand",
+      "Australien",
+      "Mexiko",
+      "Portugal"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Mexiko.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/d99dada2a1ea7cbd396d.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-021",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Österreich",
+      "Neuseeland",
+      "Schweden",
+      "Argentinien"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Argentinien.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/45aec35c0b1e55af439b.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-022",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Chile",
+      "Argentinien",
+      "Österreich",
+      "Kanada"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Chile.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/bdb9ce02a97a6743163f.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-023",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Mexiko",
+      "Argentinien",
+      "Peru",
+      "Polen"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Peru.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/f9308a84efab367f9dc1.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-024",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Kolumbien",
+      "Schweiz",
+      "Marokko",
+      "Italien"
+    ],
+    "correct": 0,
+    "explanation": "Das dargestellte Land: Kolumbien.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/4aca0960fb6c6cf21efa.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-025",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Norwegen",
+      "Brasilien",
+      "Marokko",
+      "Kanada"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Marokko.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/26cdfd9084571323fa07.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-026",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Frankreich",
+      "Kolumbien",
+      "Ägypten",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Ägypten.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/c959eadc2d052e57c2b9.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-027",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Vereinigte Staaten",
+      "Marokko",
+      "Kenia",
+      "Schweden"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Kenia.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/20601db0bef854c4405c.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-028",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Polen",
+      "Japan",
+      "Brasilien",
+      "Thailand"
+    ],
+    "correct": 3,
+    "explanation": "Das dargestellte Land: Thailand.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/ae68c7fe25c04509708a.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-029",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Finnland",
+      "Vietnam",
+      "Thailand",
+      "Argentinien"
+    ],
+    "correct": 1,
+    "explanation": "Das dargestellte Land: Vietnam.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/92a88bda5d555dbbf10e.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "silhouettes-030",
+    "category": "silhouettes",
+    "difficulty": 3,
+    "prompt": "Welches Land zeigt dieser Umriss?",
+    "options": [
+      "Australien",
+      "Ägypten",
+      "Neuseeland",
+      "Kolumbien"
+    ],
+    "correct": 2,
+    "explanation": "Das dargestellte Land: Neuseeland.",
+    "media": {
+      "alt": "Länderumriss ohne Beschriftung",
+      "src": "/media/de57001d7c36f83ca270.svg",
+      "type": "image",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "review": "structured-source-check",
+      "sources": [
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-001",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welcher Ozean ist flächenmäßig der größte?",
+    "options": [
+      "Atlantischer Ozean",
+      "Indischer Ozean",
+      "Arktischer Ozean",
+      "Pazifischer Ozean"
+    ],
+    "correct": 3,
+    "explanation": "Die richtige Antwort ist Pazifischer Ozean.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/biggestocean.html"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-002",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Auf welchem Kontinent liegt die Sahara?",
+    "options": [
+      "Australien",
+      "Afrika",
+      "Asien",
+      "Südamerika"
+    ],
+    "correct": 1,
+    "explanation": "Die richtige Antwort ist Afrika.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://pubs.usgs.gov/gip/deserts/types/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-003",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Durch welche Stadt fließt die Themse?",
+    "options": [
+      "London",
+      "Paris",
+      "Rom",
+      "Madrid"
+    ],
+    "correct": 0,
+    "explanation": "Die richtige Antwort ist London.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://www.visitlondon.com/things-to-do/london-areas/river-thames"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-004",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Gebirge liegt zwischen Frankreich und Spanien?",
+    "options": [
+      "Pyrenäen",
+      "Apennin",
+      "Karpaten",
+      "Alpen"
+    ],
+    "correct": 0,
+    "explanation": "Die richtige Antwort ist Pyrenäen.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://www.jpl.nasa.gov/images/pia11162-pyrenees-mtns-spain/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-005",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt der Grand Canyon?",
+    "options": [
+      "Mexiko",
+      "USA",
+      "Chile",
+      "Kanada"
+    ],
+    "correct": 1,
+    "explanation": "Die richtige Antwort ist USA.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://www.nps.gov/grca/planyourvisit/directions.htm"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-006",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Meer liegt zwischen Europa und Nordafrika?",
+    "options": [
+      "Ochotskisches Meer",
+      "Arabisches Meer",
+      "Karibisches Meer",
+      "Mittelmeer"
+    ],
+    "correct": 3,
+    "explanation": "Die richtige Antwort ist Mittelmeer.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://www.eea.europa.eu/en/topics/in-depth/seas-and-coasts"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-007",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welche Insel gehört zu Italien?",
+    "options": [
+      "Korsika",
+      "Mallorca",
+      "Sizilien",
+      "Kreta"
+    ],
+    "correct": 2,
+    "explanation": "Die richtige Antwort ist Sizilien.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://whc.unesco.org/en/list/1427/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-008",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welcher Fluss fließt durch Paris?",
+    "options": [
+      "Donau",
+      "Seine",
+      "Themse",
+      "Rhein"
+    ],
+    "correct": 1,
+    "explanation": "Die richtige Antwort ist Seine.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://whc.unesco.org/en/list/600/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-009",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land ist flächenmäßig größer?",
+    "options": [
+      "Frankreich",
+      "Japan",
+      "Kanada",
+      "Deutschland"
+    ],
+    "correct": 2,
+    "explanation": "Die richtige Antwort ist Kanada.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-010",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "In welchem Gebirge liegt der Mount Everest?",
+    "options": [
+      "Anden",
+      "Atlas",
+      "Himalaya",
+      "Alpen"
+    ],
+    "correct": 2,
+    "explanation": "Die richtige Antwort ist Himalaya.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://whc.unesco.org/en/list/120/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-011",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welcher Fluss fließt durch Budapest?",
+    "options": [
+      "Wolga",
+      "Elbe",
+      "Donau",
+      "Seine"
+    ],
+    "correct": 2,
+    "explanation": "Die richtige Antwort ist Donau.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://www.danubecommission.org/dc/en/danube-navigation/danube-ports-map/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-012",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Wüste liegt im Norden Chiles?",
+    "options": [
+      "Thar",
+      "Atacama",
+      "Gobi",
+      "Kalahari"
+    ],
+    "correct": 1,
+    "explanation": "Die richtige Antwort ist Atacama.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://astrobiology.nasa.gov/research-locations/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-013",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Meerenge trennt Spanien und Marokko?",
+    "options": [
+      "Straße von Malakka",
+      "Bosporus",
+      "Beringstraße",
+      "Straße von Gibraltar"
+    ],
+    "correct": 3,
+    "explanation": "Die richtige Antwort ist Straße von Gibraltar.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://eol.jsc.nasa.gov/Collections/EarthObservatory/articles/TheStraitofGibraltar.htm"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-014",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welcher See liegt zwischen Peru und Bolivien?",
+    "options": [
+      "Viktoriasee",
+      "Genfersee",
+      "Baikalsee",
+      "Titicacasee"
+    ],
+    "correct": 3,
+    "explanation": "Die richtige Antwort ist Titicacasee.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/5080/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-015",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Insel liegt überwiegend innerhalb des Polarkreises?",
+    "options": [
+      "Kuba",
+      "Madagaskar",
+      "Grönland",
+      "Sri Lanka"
+    ],
+    "correct": 2,
+    "explanation": "Die richtige Antwort ist Grönland.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://pmel.noaa.gov/arctic-zone/faq.html"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-016",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche beiden Ozeane verbindet der Panamakanal?",
+    "options": [
+      "Pazifik und Indik",
+      "Atlantik und Indik",
+      "Atlantik und Pazifik",
+      "Arktischer Ozean und Indik"
+    ],
+    "correct": 2,
+    "explanation": "Die richtige Antwort ist Atlantik und Pazifik.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://pancanal.com/en/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-017",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welcher Fluss mündet in das Schwarze Meer?",
+    "options": [
+      "Seine",
+      "Donau",
+      "Rhein",
+      "Po"
+    ],
+    "correct": 1,
+    "explanation": "Die richtige Antwort ist Donau.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://www.icpdr.org/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-018",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt der Kilimandscharo?",
+    "options": [
+      "Tansania",
+      "Uganda",
+      "Kenia",
+      "Äthiopien"
+    ],
+    "correct": 0,
+    "explanation": "Die richtige Antwort ist Tansania.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://whc.unesco.org/en/list/403/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-019",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Insel teilen sich Haiti und die Dominikanische Republik?",
+    "options": [
+      "Kuba",
+      "Hispaniola",
+      "Puerto Rico",
+      "Jamaika"
+    ],
+    "correct": 1,
+    "explanation": "Die richtige Antwort ist Hispaniola.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://science.nasa.gov/missions/landsat/hispaniolas-changing-forests/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-020",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Wüste erstreckt sich über Teile der Mongolei und Chinas?",
+    "options": [
+      "Gobi",
+      "Atacama",
+      "Namib",
+      "Sahara"
+    ],
+    "correct": 0,
+    "explanation": "Die richtige Antwort ist Gobi.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://www.esa.int/media/envisat-radar-image-of-the-gobi-desert"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-021",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welcher See ist der tiefste der Erde?",
+    "options": [
+      "Baikalsee",
+      "Genfersee",
+      "Viktoriasee",
+      "Titicacasee"
+    ],
+    "correct": 0,
+    "explanation": "Die richtige Antwort ist Baikalsee.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://whc.unesco.org/en/list/754/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-022",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welcher Staat ist vollständig von Südafrika umschlossen?",
+    "options": [
+      "Namibia",
+      "Eswatini",
+      "Botswana",
+      "Lesotho"
+    ],
+    "correct": 3,
+    "explanation": "Die richtige Antwort ist Lesotho.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-023",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Meerenge trennt Alaska und Sibirien?",
+    "options": [
+      "Straße von Hormus",
+      "Dardanellen",
+      "Drakestraße",
+      "Beringstraße"
+    ],
+    "correct": 3,
+    "explanation": "Die richtige Antwort ist Beringstraße.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://www.jpl.nasa.gov/images/pia02638-misr-sights-the-bering-strait/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-024",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Auf welcher Insel liegt der Vulkan Ätna?",
+    "options": [
+      "Kreta",
+      "Sizilien",
+      "Sardinien",
+      "Korsika"
+    ],
+    "correct": 1,
+    "explanation": "Die richtige Antwort ist Sizilien.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://whc.unesco.org/en/list/1427/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-025",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welcher Fluss fließt durch Bagdad?",
+    "options": [
+      "Tigris",
+      "Indus",
+      "Jordan",
+      "Euphrat"
+    ],
+    "correct": 0,
+    "explanation": "Die richtige Antwort ist Tigris.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/5880/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-026",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Insel teilen sich Indonesien, Malaysia und Brunei?",
+    "options": [
+      "Java",
+      "Sumatra",
+      "Borneo",
+      "Sulawesi"
+    ],
+    "correct": 2,
+    "explanation": "Die richtige Antwort ist Borneo.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_East_Kalimantan_Borneo"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-027",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Gebirge trennt die Küstenebene Marokkos von Teilen der Sahara?",
+    "options": [
+      "Atlas",
+      "Zagros",
+      "Drakensberge",
+      "Kaukasus"
+    ],
+    "correct": 0,
+    "explanation": "Die richtige Antwort ist Atlas.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://science.nasa.gov/earth/earth-observatory/wet-and-dry-morocco-144677/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-028",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welcher See liegt zwischen Malawi, Mosambik und Tansania?",
+    "options": [
+      "Tanganjikasee",
+      "Turkanasee",
+      "Albertsee",
+      "Malawisee"
+    ],
+    "correct": 3,
+    "explanation": "Die richtige Antwort ist Malawisee.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://wldb.ilec.or.jp/Display/html/3594"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-029",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Wüste liegt an der Atlantikküste Namibias?",
+    "options": [
+      "Namib",
+      "Thar",
+      "Kalahari",
+      "Gobi"
+    ],
+    "correct": 0,
+    "explanation": "Die richtige Antwort ist Namib.",
+    "media": null,
+    "provenance": {
+      "review": "editorial-review",
+      "sources": [
+        "https://whc.unesco.org/en/list/1430/"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  },
+  {
+    "id": "world-030",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Meer liegt östlich der italienischen Halbinsel?",
+    "options": [
+      "Ligurisches Meer",
+      "Balearisches Meer",
+      "Tyrrhenisches Meer",
+      "Adriatisches Meer"
+    ],
+    "correct": 3,
+    "explanation": "Die richtige Antwort ist Adriatisches Meer.",
+    "media": null,
+    "provenance": {
+      "review": "source-supported editorial check",
+      "sources": [
+        "https://maritime-spatial-planning.ec.europa.eu/sea-basins/east-mediterranean"
+      ],
+      "accessed": "2026-11-09"
+    },
+    "enabled": true
+  }
+]

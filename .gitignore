@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.apk
+*.keystore
+*.jks
+.openai/
+recovery/
