@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import {flagQuestions,flags} from '../src/flags';
+const schema=fs.readFileSync('scripts/flag-schema.sql','utf8');
+fs.mkdirSync('supabase/migrations',{recursive:true});
+const legacy='DE FR IT ES GB US CA BR JP AU SE NO FI PL GR PT CH AT TR MX AR CL PE CO MA EG KE TH VN NZ'.split(' ');
+const legacyMetadata=legacy.map((iso,i)=>`update game.questions set provenance=jsonb_set(provenance,'{subjectKey}','"flag:${iso}"'::jsonb) where id='flags-${String(i+1).padStart(3,'0')}';`).join('\n');
+fs.writeFileSync('supabase/migrations/20261109_flag_registry_schema.sql',schema+'\n'+legacyMetadata+'\n');
+for(let i=0;i<flagQuestions.length;i+=75){const values=JSON.stringify(flagQuestions.slice(i,i+75));const sql=`insert into game.questions(id,category,difficulty,prompt,options,correct,explanation,media,provenance,enabled) select id,category,difficulty,prompt,options,correct,explanation,media,provenance,false from jsonb_to_recordset($flagdata$${values}$flagdata$::jsonb) as q(id text,category text,difficulty integer,prompt text,options jsonb,correct integer,explanation text,media jsonb,provenance jsonb) on conflict(id) do nothing;\n`;fs.writeFileSync(`supabase/migrations/20261109_flag_seed_${i/75}.sql`,sql);}
+const ids=flagQuestions.map(q=>`'${q.id}'`).join(',');
+fs.writeFileSync('supabase/migrations/20261109_flag_activate.sql',`-- Run only after the matching frontend and all 195 media assets are published.\nDO $$ BEGIN\n if (select count(*) from game.questions where id in (${ids}))<>585 then raise exception 'Incomplete flag seed'; end if;\n update game.questions set enabled=false where category='flags' and id like 'flags-%';\n update game.questions set enabled=true where id in (${ids});\nEND $$;\n`);
+fs.writeFileSync('public/licenses/flagpedia-PUBLIC-DOMAIN.txt','Native-ratio country SVGs from Flagpedia/FlagCDN, based on Wikimedia Commons.\nThe provider designates the collection Public Domain: https://flagpedia.net/download\nAfghanistan: https://commons.wikimedia.org/wiki/File:Flag_of_the_Taliban.svg (Public Domain).\nLocal SVGs optimized losslessly in geometry with SVGO (numeric precision defaults).\nPer-file source, aspect ratio, retrieval/review date and local SHA-256: data/flags/registry.json.\nLegacy flag-icons media retain their separate MIT notice.\n');
+console.log(`${flags.length} flags, ${flagQuestions.length} variants, staged non-destructive migrations generated`);

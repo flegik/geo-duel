@@ -1,6 +1,7 @@
 import raw from '../data/questions.json';
+import {flagQuestions,questionSubject,seenSubject} from './flags';
 export const categories = {
- flags:{name:'Flaggen',description:'Farben, die die Welt verbinden',icon:'Flag'},
+ flags:{name:'Flaggen',description:'195 Staaten. Originalgetreue Flaggen.',icon:'Flag'},
  maps:{name:'Länder auf Karten',description:'Finde deinen Platz auf der Welt',icon:'Map'},
  capitals:{name:'Hauptstädte',description:'Von Berlin bis Buenos Aires',icon:'Building2'},
  silhouettes:{name:'Länder-Silhouetten',description:'Erkennst du den Umriss?',icon:'Shapes'},
@@ -9,8 +10,8 @@ export const categories = {
  world:{name:'Weltwissen',description:'Kleine Fragen, große Welt',icon:'Globe2'},
 } as const;
 export type Category=keyof typeof categories;
-export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:{sources:string[]};enabled:boolean};
-export const questions=raw as Question[];
+export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:{sources:string[];subjectKey?:string;iso?:string;challenge?:number;confusions?:string[]};enabled:boolean};
+export const questions:Question[]=[...(raw as Question[]).map(q=>q.category==='flags'?{...q,enabled:false}:q),...flagQuestions];
 export type Answer={selected:number;points:number};
 export type Round={id:string;mode:'quick'|'training';category?:Category;questions:Question[];answers:Answer[];cursor:number;status:'playing'|'completed';createdAt:string};
 export type SoloRecord={id:string;mode:Round['mode'];category?:Category;date:string;points:number;maxPoints:number;correct:number;total:number;categories:Partial<Record<Category,{correct:number;total:number;points:number}>>};
@@ -20,12 +21,14 @@ export function shuffle<T>(values:T[],random:()=>number=Math.random){const a=[..
 export function createRound(state:SoloState,count:8|12|16,category?:Category,random:()=>number=Math.random):Round{
  const chosen=category?[category]:shuffle(Object.keys(categories) as Category[],random).slice(0,4);
  const per=count/chosen.length;
+ const seen=state.seen.map(seenSubject);
  const selected:Question[]=[];
  for(const cat of chosen){
   const pool=shuffle(questions.filter(q=>q.enabled&&q.category===cat),random);
   // Unseen questions always precede repeats; exhausted pools recycle oldest first.
-  pool.sort((a,b)=>state.seen.lastIndexOf(a.id)-state.seen.lastIndexOf(b.id));
-  selected.push(...pool.slice(0,per));
+  pool.sort((a,b)=>seen.lastIndexOf(questionSubject(a))-seen.lastIndexOf(questionSubject(b)));
+  const unique=pool.filter((q,i)=>pool.findIndex(other=>questionSubject(other)===questionSubject(q))===i);
+  selected.push(...unique.slice(0,per));
  }
  const prepared=shuffle(selected,random).map(q=>{const indices=shuffle([0,1,2,3],random);return {...q,options:indices.map(i=>q.options[i]),correct:indices.indexOf(q.correct)};});
  return {id:Array.from(crypto.getRandomValues(new Uint8Array(16)),v=>v.toString(16).padStart(2,'0')).join(''),mode:category?'training':'quick',...(category?{category}:{}),questions:prepared,answers:[],cursor:0,status:'playing',createdAt:new Date().toISOString()};

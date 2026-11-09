@@ -1,0 +1,6 @@
+Native-ratio country SVGs from Flagpedia/FlagCDN, based on Wikimedia Commons.
+The provider designates the collection Public Domain: https://flagpedia.net/download
+Afghanistan: https://commons.wikimedia.org/wiki/File:Flag_of_the_Taliban.svg (Public Domain).
+Local SVGs optimized losslessly in geometry with SVGO (numeric precision defaults).
+Per-file source, aspect ratio, retrieval/review date and local SHA-256: data/flags/registry.json.
+Legacy flag-icons media retain their separate MIT notice.

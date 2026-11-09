@@ -1,0 +1,4178 @@
+[
+  {
+    "questionIds": [
+      "flag-v2-98b6753e1f697bc62557",
+      "flag-v2-c2d7a304ef3b291d5553",
+      "flag-v2-02f4039a58bde42b921d"
+    ],
+    "iso": "AD",
+    "name": "Andorra",
+    "svg": "/media/flags/a17f22fd0cbb9a6497fc.svg",
+    "aspectRatio": 1.4285714285714286,
+    "familiarity": 3,
+    "groups": [
+      "blue-yellow-red-vertical",
+      "vertical-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ad.svg",
+    "sha256": "fcc9c15d6beae3518eb82363c39a23d61bbce6ea96e7ee93b6d8bdb9068de9e7",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a61f8e36dbf18811a36a",
+      "flag-v2-1833379a9f7409ebf258",
+      "flag-v2-adcd4491b2386e23f0dc"
+    ],
+    "iso": "AE",
+    "name": "Vereinigte Arabische Emirate",
+    "svg": "/media/flags/436466f233993d44a361.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ae.svg",
+    "sha256": "8db8bfc3d1a711967e44fbe237a52d75cd03a3dfbcefc9d78febd61c2973915e",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-e69d67bdf9735db0b68f",
+      "flag-v2-0e855611b14d5e062ca4",
+      "flag-v2-a4d0ab150986a391b6e2"
+    ],
+    "iso": "AF",
+    "name": "Afghanistan",
+    "svg": "/media/flags/7fffb0af9e3179da09d9.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "arabic-script",
+      "white-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "sha256": "c1f40f08dd4430d32578eb54e25f4a4f0a57840107786ac4590bd0244680a7e4",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ef444561c0d4c5af1d79",
+      "flag-v2-81533133cbe05df691fd",
+      "flag-v2-9bd31855ed9134f8c1be"
+    ],
+    "iso": "AG",
+    "name": "Antigua und Barbuda",
+    "svg": "/media/flags/16b59b7014965ff1f43a.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "british-heritage",
+      "caribbean"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ag.svg",
+    "sha256": "73f382e91c9e9ba8e786696f20011a04c7e22354e37db61921f2c57645ec7385",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-9c2507ae73d537105ff5",
+      "flag-v2-32232ac633a87e297eb3",
+      "flag-v2-915e904a50b9b9bc71de"
+    ],
+    "iso": "AL",
+    "name": "Albanien",
+    "svg": "/media/flags/0815c8319587fc98461f.svg",
+    "aspectRatio": 1.4,
+    "familiarity": 2,
+    "groups": [
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/al.svg",
+    "sha256": "173ec6b28100ddbaeb011b73b4776e50fc2545e14c81ad65e25c19b7137788be",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-3748662ce196aaa0110a",
+      "flag-v2-1d23c71b2259b5ea3a31",
+      "flag-v2-60591fb029a3654ae13a"
+    ],
+    "iso": "AM",
+    "name": "Armenien",
+    "svg": "/media/flags/8b5501e54fc744a00191.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "andean-tricolour",
+      "red-blue-horizontal",
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/am.svg",
+    "sha256": "e0354d10c504b1ef4e65f9becb7b09ffd8092f97a88528eb934c4de78b614990",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-fd6680a8efdff48a5658",
+      "flag-v2-f310913ca6420d1baf33",
+      "flag-v2-c64221c8bd121fd822bd"
+    ],
+    "iso": "AO",
+    "name": "Angola",
+    "svg": "/media/flags/c0b7b164adbe5d18ac99.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "red-white-black",
+      "black-red-yellow"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ao.svg",
+    "sha256": "5d5fbd8d1a154f26de7bedda22b3659b842192df3ac94514bf4edef031ad3a34",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-f57bb142b1d01283e8bf",
+      "flag-v2-c18dbb1675084f71d9fa",
+      "flag-v2-37db4a6caa133fb88593"
+    ],
+    "iso": "AR",
+    "name": "Argentinien",
+    "svg": "/media/flags/9221d4bcd736df92b77b.svg",
+    "aspectRatio": 1.6,
+    "familiarity": 1,
+    "groups": [
+      "central-american",
+      "blue-white-horizontal",
+      "sun"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ar.svg",
+    "sha256": "2d7e34b6864af3b0fea53cb84d181f905f4e92e0af2ad6645307c1b215bfb43f",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-e25c10526fc466fa1741",
+      "flag-v2-ac8bda90d5ad85863231",
+      "flag-v2-f9b11386ef97f8adc3f1"
+    ],
+    "iso": "AT",
+    "name": "Österreich",
+    "svg": "/media/flags/8e859dae30403cde50a9.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-white-bands",
+      "baltic-central-europe"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/at.svg",
+    "sha256": "5c5bded6c58d94069f75d61049773930b8a23aa2a73a17355f622c6ce40090dc",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-3e76546dd86599ba0f5c",
+      "flag-v2-53e0bcf2746fb6499dcc",
+      "flag-v2-ebdf14a0fd2a5d6ddc84"
+    ],
+    "iso": "AU",
+    "name": "Australien",
+    "svg": "/media/flags/c853e0d78e245158bbfc.svg",
+    "aspectRatio": 2,
+    "familiarity": 1,
+    "groups": [
+      "southern-cross-ensign",
+      "british-heritage",
+      "pacific-blue",
+      "blue-white-stars"
+    ],
+    "similar": [
+      "NZ",
+      "FJ",
+      "TV"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/au.svg",
+    "sha256": "6652c23801d50741f730811d8ba19f382c8dbcbcd8e9ec010cc5153a363535b7",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8ddf36b972eb2e2084ff",
+      "flag-v2-28ca51d67d34078015cb",
+      "flag-v2-b081a510f96f8b098798"
+    ],
+    "iso": "AZ",
+    "name": "Aserbaidschan",
+    "svg": "/media/flags/dfdce2ba7823595681de.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "crescent",
+      "red-blue-horizontal",
+      "red-green-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/az.svg",
+    "sha256": "b084e81e879a8eaa04e416d4952a4ff0f2d2c5f453d5c1d194747518789ffe8d",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-b997061a668a6388cea5",
+      "flag-v2-89aba87ccc72b7ef1f71",
+      "flag-v2-3a55badc6551d4d2555e"
+    ],
+    "iso": "BA",
+    "name": "Bosnien und Herzegowina",
+    "svg": "/media/flags/a75764f822269c528021.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "blue-yellow"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ba.svg",
+    "sha256": "dc22c74c3c598fb747ff880455184d9d0894d398cd281fcb95d8bd7e491b2851",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-6e30a6d6cd892fb94f17",
+      "flag-v2-2f1bd32334f542185221",
+      "flag-v2-2b3d7ee276956e362bd6"
+    ],
+    "iso": "BB",
+    "name": "Barbados",
+    "svg": "/media/flags/756b591cc4cee2d17574.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "british-heritage",
+      "blue-yellow",
+      "caribbean"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bb.svg",
+    "sha256": "b38fe14e1e967ea658331d386e8028c5a02d2de70c8376b06deda6ea77a4938b",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-0e1979fcbad44fb57f62",
+      "flag-v2-59bd6e026a07e132f9d0",
+      "flag-v2-cac2bc471f442dd32208"
+    ],
+    "iso": "BD",
+    "name": "Bangladesch",
+    "svg": "/media/flags/a8e20729b113a9badd8f.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 2,
+    "groups": [
+      "disc",
+      "green-red"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bd.svg",
+    "sha256": "b509e5c29b8c32761c273449647d5a35c5301227b27ee786d353be7916bfddaf",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-1e5a8f696dbce664254f",
+      "flag-v2-d7e3d0fafd25ec21ec5e",
+      "flag-v2-cd93ff2a2351b053c310"
+    ],
+    "iso": "BE",
+    "name": "Belgien",
+    "svg": "/media/flags/023e1275c4105b714011.svg",
+    "aspectRatio": 1.1538461538461537,
+    "familiarity": 1,
+    "groups": [
+      "vertical-tricolour",
+      "black-red-yellow"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/be.svg",
+    "sha256": "95933c385c9e72479ec7e63f6cbca50d07695fd2e41fab334ea549c20b234fd1",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d2c63bc2e7d93d64aa06",
+      "flag-v2-85866554f219ea32e5fd",
+      "flag-v2-253267f0e24fd98296ea"
+    ],
+    "iso": "BF",
+    "name": "Burkina Faso",
+    "svg": "/media/flags/e4fe2bb808a63a349b51.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "green-yellow-red-horizontal",
+      "red-yellow-green-star"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bf.svg",
+    "sha256": "dd6d1ccb291053146d4c4ec4988498ec12288f037cc4027286e2dc8e463901a0",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-eddd32a2a361b6719026",
+      "flag-v2-3c50dbf0d2d97b52d8ab",
+      "flag-v2-c7fd158999b5006c503b"
+    ],
+    "iso": "BG",
+    "name": "Bulgarien",
+    "svg": "/media/flags/a18c9517824f32131789.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 2,
+    "groups": [
+      "horizontal-tricolour",
+      "baltic-central-europe"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bg.svg",
+    "sha256": "16fe55a922a45c97c1b38c14787ef4766ab069659bf4edb30ccc55091958d063",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ad75e58076a476101ac4",
+      "flag-v2-4777aeb90572dcefe885",
+      "flag-v2-744666e0c0e340d2ee52"
+    ],
+    "iso": "BH",
+    "name": "Bahrain",
+    "svg": "/media/flags/98d4ffdfb4f87390f271.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 2,
+    "groups": [
+      "red-white-bands",
+      "diagonal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bh.svg",
+    "sha256": "4cb584ef406f6bc57ea9c935db43890b9719ae126fe1ad4fb10890709978162b",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-80a78933a08fa7cd9414",
+      "flag-v2-f3ddf273ffb025fb3136",
+      "flag-v2-3929285a8a94a25a6a82"
+    ],
+    "iso": "BI",
+    "name": "Burundi",
+    "svg": "/media/flags/a064efb666e968b4c305.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bi.svg",
+    "sha256": "0cdab203c28512bebcfbd31364d776643fd08fa1e52d82203b17f44b99ca44b8",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7bf1b5ae5de3153f58af",
+      "flag-v2-c47b65c5d1e7457a50cc",
+      "flag-v2-0f916a337e0f4027f140"
+    ],
+    "iso": "BJ",
+    "name": "Benin",
+    "svg": "/media/flags/81d280e645ffbbb88ae3.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "green-yellow-red-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bj.svg",
+    "sha256": "03e7fd78282d719338630eaf2301fa9c9dbcbf57a9639a20e8fbb43353409569",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-4765ab349891441f8e30",
+      "flag-v2-36f02679f6b3ae43bd6f",
+      "flag-v2-262374bac1f592c26a64"
+    ],
+    "iso": "BN",
+    "name": "Brunei Darussalam",
+    "svg": "/media/flags/4673783f267275bbd57e.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "island-emblem",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bn.svg",
+    "sha256": "734c7896b7fc0d37cad8473de94bb53e5a7d35e3eacd06b775179248423e1243",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-f514166fc1a777db06be",
+      "flag-v2-08fbba74ed7eb177a0c8",
+      "flag-v2-312ee31ffd2f0107783c"
+    ],
+    "iso": "BO",
+    "name": "Bolivien",
+    "svg": "/media/flags/374a1deddd09a04e319a.svg",
+    "aspectRatio": 1.4666666666666666,
+    "familiarity": 2,
+    "groups": [
+      "pan-african",
+      "green-yellow-red-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bo.svg",
+    "sha256": "6a17282ae70069d97f041234fcba534e153c950156c96f28beff83e138939885",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-4ea523136dc1fae5769b",
+      "flag-v2-907095405a91ea3098ba",
+      "flag-v2-62944bb7cfa40d56a120"
+    ],
+    "iso": "BR",
+    "name": "Brasilien",
+    "svg": "/media/flags/49d652bb287e89cb31a1.svg",
+    "aspectRatio": 1.4285714285714286,
+    "familiarity": 1,
+    "groups": [
+      "green-yellow-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/br.svg",
+    "sha256": "d094e8119fc4bcbb6d9ebd579c74f7d2dd42f81042bfdb29514342c2322cd623",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-0653c6de467b105a4918",
+      "flag-v2-40c9bd64f646da0c6949",
+      "flag-v2-ed4c2b81ee49280c902a"
+    ],
+    "iso": "BS",
+    "name": "Bahamas",
+    "svg": "/media/flags/19ace8efebfda1768190.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "british-heritage",
+      "blue-yellow",
+      "diagonal",
+      "caribbean"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bs.svg",
+    "sha256": "44946f0ba5ad43cabe8bfa6c52e0f7a9562f7ff336d58478577f3b3a19c1ef08",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-cbfc01f9a0b902e64f14",
+      "flag-v2-af53ca1f0a58c2febb09",
+      "flag-v2-e981c82bb4cf825deb12"
+    ],
+    "iso": "BT",
+    "name": "Bhutan",
+    "svg": "/media/flags/bbf353c2145fd37824b2.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "diagonal",
+      "island-emblem",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bt.svg",
+    "sha256": "d27a705a12bc6b20a82d5c44820c8b6910f517e300f078e1297e35869f9bb6d9",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-78139756a2c8fcd0bb0a",
+      "flag-v2-4ef18c1c021008d9b612",
+      "flag-v2-91f1bb340353519e24d7"
+    ],
+    "iso": "BW",
+    "name": "Botsuana",
+    "svg": "/media/flags/5cc7cae719a15312d898.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bw.svg",
+    "sha256": "3d6c3b50ef23381c7650d4d66ee9451a380d03b9adab024110b30e3f84bda83c",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-35d8e37deb77aa68e2db",
+      "flag-v2-224df29b12db752274d5",
+      "flag-v2-82bb7463987539e561d0"
+    ],
+    "iso": "BY",
+    "name": "Belarus",
+    "svg": "/media/flags/3689073f88f7ddac75cf.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "green-red"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/by.svg",
+    "sha256": "1b42b19b83792e8c23c7cb932a221bbd7cf22f7c401aebf3fefce7a1040603d2",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-b3603a717dfe2d98ca6e",
+      "flag-v2-98c380cabf8e928c3096",
+      "flag-v2-04ed075ec343ceccbede"
+    ],
+    "iso": "BZ",
+    "name": "Belize",
+    "svg": "/media/flags/1f19ae181cd60c89b0a3.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "british-heritage",
+      "caribbean",
+      "island-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/bz.svg",
+    "sha256": "f96a8e45a4e478cc65698d3019b8d3e8a5ac773d125b6e7b2fb9f683ca41758c",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-6858ae5902e49fb98b69",
+      "flag-v2-36d51665529c2d74ec0e",
+      "flag-v2-607eea46e797d54233c6"
+    ],
+    "iso": "CA",
+    "name": "Kanada",
+    "svg": "/media/flags/1e4e5da2ab208041234b.svg",
+    "aspectRatio": 2,
+    "familiarity": 1,
+    "groups": [
+      "red-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ca.svg",
+    "sha256": "3cd6c2b9fe12bc0617ef4374b570ad87920bae757a95b104384fc301352c6942",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-36739f9c695547652cb9",
+      "flag-v2-b741d2264d9678303145",
+      "flag-v2-4a4e7939d69b17be728e"
+    ],
+    "iso": "CD",
+    "name": "Demokratische Republik Kongo",
+    "svg": "/media/flags/01d3be3df3aec0914c2d.svg",
+    "aspectRatio": 1.3333333333333333,
+    "familiarity": 2,
+    "groups": [
+      "diagonal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cd.svg",
+    "sha256": "6d43d900fbad473641ac20f621e0cff2e234803e388bd82820375a3f63394d99",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d0e518c4b2c036b412fe",
+      "flag-v2-fe3b30d76a850018cf4a",
+      "flag-v2-dac4078259e803c8883b"
+    ],
+    "iso": "CF",
+    "name": "Zentralafrikanische Republik",
+    "svg": "/media/flags/e5e02236fe30a2fcad17.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cf.svg",
+    "sha256": "f36cc981bf26cff6c9111be3edf29aa565164e713f9704e22d98116ac80816aa",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-5bdfe547d3356c53634e",
+      "flag-v2-259ff4441308789f14f3",
+      "flag-v2-a5342e86f1bc44865a8a"
+    ],
+    "iso": "CG",
+    "name": "Republik Kongo",
+    "svg": "/media/flags/15d10e6f9a952d83a8da.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "diagonal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cg.svg",
+    "sha256": "3bff163be26e1c6877bf6aebdd3115eda88535d32c56b8c6406c998385caaebb",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-313eaa13c56458a8ce69",
+      "flag-v2-a4f54ca171ba3d72d5b2",
+      "flag-v2-a6ef73fd5b7a0707c262"
+    ],
+    "iso": "CH",
+    "name": "Schweiz",
+    "svg": "/media/flags/5beee3b0cd685902a96d.svg",
+    "aspectRatio": 1,
+    "familiarity": 1,
+    "groups": [
+      "cross"
+    ],
+    "similar": [
+      "DK",
+      "GE",
+      "TO"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/ch.svg",
+    "sha256": "1c50f7561a95ad7b8787e43b59d4f8ce322b965aaa074eab2750751848340a82",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-58198eb1858638851110",
+      "flag-v2-2fcbd4d2146404cd21fd",
+      "flag-v2-c3979272ca0afbfe2670"
+    ],
+    "iso": "CI",
+    "name": "Elfenbeinküste",
+    "svg": "/media/flags/feb241a7797e0fae61c2.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "green-white-orange-vertical",
+      "vertical-tricolour"
+    ],
+    "similar": [
+      "IE",
+      "IT",
+      "MX"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/ci.svg",
+    "sha256": "aaf7093dc7c4b1e65d6cd0a65cf20dc957971205a04985897fb3980bccb3a394",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-cdcbc5859acb8cb0c8fd",
+      "flag-v2-bcfe48ad92dd446a151a",
+      "flag-v2-9d242c8d2776dde9f0ef"
+    ],
+    "iso": "CL",
+    "name": "Chile",
+    "svg": "/media/flags/16b6a70e9ba3e14d70dc.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-white-blue-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cl.svg",
+    "sha256": "c60a9b34ee186fb2236a463eb9a9f31642c103da001a85377ab0116c89ee9962",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-443e57fc9035fb1b15c7",
+      "flag-v2-3f4581f65032127790ac",
+      "flag-v2-3c437ea33f371d8f6cd7"
+    ],
+    "iso": "CM",
+    "name": "Kamerun",
+    "svg": "/media/flags/b689480e12fccf76176f.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "vertical-tricolour",
+      "pan-african",
+      "red-yellow-green-star"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cm.svg",
+    "sha256": "0f46321d01ae0260e246df20339ba8bb83c58d0f5fb07a750a3423b0caca9e46",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8e57021649fb5b9fe29e",
+      "flag-v2-35d9f3f68ed031223241",
+      "flag-v2-4a74bd49d85185b5449e"
+    ],
+    "iso": "CN",
+    "name": "China",
+    "svg": "/media/flags/1b3cac7764cc9e69396b.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-stars",
+      "red-yellow-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cn.svg",
+    "sha256": "ec0671b08daae2077e427932119c2e54ae285e8d8c776b9eddbd03a8a70f9ebb",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a699b4996ec9d7c2c2e2",
+      "flag-v2-41368a8d9d3cd279de89",
+      "flag-v2-c6d8909996cf1548dcfe"
+    ],
+    "iso": "CO",
+    "name": "Kolumbien",
+    "svg": "/media/flags/b18320a1a09dfac24aa8.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "andean-tricolour",
+      "horizontal-tricolour"
+    ],
+    "similar": [
+      "EC",
+      "VE",
+      "AM"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/co.svg",
+    "sha256": "ec3daa5a284fc6d10104a53fd16ea77eba9ac1044ffa629f953644c1de63dcd3",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-396748ad670ca8376a03",
+      "flag-v2-f07bccfe436e8ef16962",
+      "flag-v2-f6a0055a0e141e2b3c89"
+    ],
+    "iso": "CR",
+    "name": "Costa Rica",
+    "svg": "/media/flags/c10dcbdec44988fa95aa.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 2,
+    "groups": [
+      "red-blue-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cr.svg",
+    "sha256": "109675b9756a0dc1bdb6fbff8d106b803a1c0b60f4a29375e5d02b3f79baeca4",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-e882281cf76d74e5ce8e",
+      "flag-v2-8213642409ba3d43c801",
+      "flag-v2-4b0c3cfb57eabc130d7d"
+    ],
+    "iso": "CU",
+    "name": "Kuba",
+    "svg": "/media/flags/e8b272938cdc7f16a978.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "red-white-blue-stars",
+      "caribbean",
+      "stars-and-triangle"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cu.svg",
+    "sha256": "f734c6200bede494be786892c40185a89ee5eb93ab81c14ed9d49436694b9900",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-633f034b46801e4a0768",
+      "flag-v2-0b7e906d871a8ddcfff8",
+      "flag-v2-75dc7ae57da923da4f1e"
+    ],
+    "iso": "CV",
+    "name": "Cabo Verde",
+    "svg": "/media/flags/f9e2fef720abbafcdcaa.svg",
+    "aspectRatio": 1.7,
+    "familiarity": 3,
+    "groups": [
+      "red-blue-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cv.svg",
+    "sha256": "bcbf0add799b13377bdf842e1f380ff630650d3b7dba2d8f1273093cfa6ceb0f",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-44b0efa68a59ab912cba",
+      "flag-v2-561f2e281303c5306934",
+      "flag-v2-6d507bafa0ebdeef7535"
+    ],
+    "iso": "CY",
+    "name": "Zypern",
+    "svg": "/media/flags/77a5a5ca56926abe48b8.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "white-symbol",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cy.svg",
+    "sha256": "4473ff55e82a2872232b71802ecf37784223bffc2f13d2e564489586f94ef691",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-311af13dc7acec4a22b6",
+      "flag-v2-951a8ef311bbe75cc28a",
+      "flag-v2-21fb3acddea84e4ae319"
+    ],
+    "iso": "CZ",
+    "name": "Tschechien",
+    "svg": "/media/flags/189df08fd868d5ae273e.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "baltic-central-europe"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/cz.svg",
+    "sha256": "7ae66c4505373a183e7c17fcbf98b3168fa76cd8f1891042ad872a9ca695a3d1",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-c67f97b8eb806baba853",
+      "flag-v2-ce8a7bef4030df44326a",
+      "flag-v2-f392c1b9829bbe864f4b"
+    ],
+    "iso": "DE",
+    "name": "Deutschland",
+    "svg": "/media/flags/cd23adb88f03ee0cce71.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 1,
+    "groups": [
+      "black-red-yellow",
+      "horizontal-tricolour"
+    ],
+    "similar": [
+      "BE",
+      "UG",
+      "AO"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/de.svg",
+    "sha256": "d0c051a462d1d9723969fbc36c0aacf7fd06a110e5a199e1ffef2887a1651846",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-193a403c77ae4b40aa23",
+      "flag-v2-8df0f93f7108b56f2a55",
+      "flag-v2-48ec1bb029a74d6b82ab"
+    ],
+    "iso": "DJ",
+    "name": "Dschibuti",
+    "svg": "/media/flags/b3a9fed3aa9c2057e981.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "red-green-blue",
+      "stars-and-triangle"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/dj.svg",
+    "sha256": "0fde41ceae4f2a9472e05c0490bab95ea54193dea8d15fb1c83960477b408e30",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-f562fa52d9df0d095b2e",
+      "flag-v2-f3ec4b40f68c966e4985",
+      "flag-v2-7c8adb8af95fb73a49f0"
+    ],
+    "iso": "DK",
+    "name": "Dänemark",
+    "svg": "/media/flags/8f555cee6c702372c485.svg",
+    "aspectRatio": 1.3214285714285714,
+    "familiarity": 1,
+    "groups": [
+      "nordic-cross",
+      "cross"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/dk.svg",
+    "sha256": "eb4ea9929e6491fd0444ea5da5b9a19dda089a2ac758ad63956cfbcc7fa81cc3",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-0f3499dddeaab675c410",
+      "flag-v2-b252789803b994a2fef5",
+      "flag-v2-5713b5e47d3d48311a90"
+    ],
+    "iso": "DM",
+    "name": "Dominica",
+    "svg": "/media/flags/9c6decb2709a646aef5f.svg",
+    "aspectRatio": 0.011666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "caribbean",
+      "island-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/dm.svg",
+    "sha256": "f3d1a04a96d1e32c004416df9fb78b699ffc8fdbe2cc657ff3a0eb9e32695516",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-1ac38e561575c0b3440f",
+      "flag-v2-971492b5a7ec4511dcff",
+      "flag-v2-b8e7dd697ec11104d3f2"
+    ],
+    "iso": "DO",
+    "name": "Dominikanische Republik",
+    "svg": "/media/flags/6a9036a590cb204ba427.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "cross",
+      "caribbean",
+      "island-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/do.svg",
+    "sha256": "1751e44a0338105e7b9ec06d7f39944f3fedabae035f1f3ac80ee34f1666f540",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7eb39751e2f3e51321de",
+      "flag-v2-4a3938e4101612de24b9",
+      "flag-v2-0478c878c1822e202888"
+    ],
+    "iso": "DZ",
+    "name": "Algerien",
+    "svg": "/media/flags/5756eca2dc5c899d2001.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "crescent",
+      "green-white"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/dz.svg",
+    "sha256": "51bda9bdc313fa5418550d94d46f31e0c396f4e70c810b629fac0430f4b7e638",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ff2e254642bcf16223a5",
+      "flag-v2-44a65172339e1400eb45",
+      "flag-v2-bc13c1e9b93b1d9ac40a"
+    ],
+    "iso": "EC",
+    "name": "Ecuador",
+    "svg": "/media/flags/db0fc42580d804732e37.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "andean-tricolour",
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ec.svg",
+    "sha256": "edff0fff043d7230c3f7bcc99b322b56d9ff9d261f2e6d7ec319b5ea9a6b7f40",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-1895206f36e0707a6e78",
+      "flag-v2-7307d9c86f115e8e1d86",
+      "flag-v2-d1bd26da252e336f8803"
+    ],
+    "iso": "EE",
+    "name": "Estland",
+    "svg": "/media/flags/c73341ecac3187ed9904.svg",
+    "aspectRatio": 1.5714285714285714,
+    "familiarity": 2,
+    "groups": [
+      "horizontal-tricolour",
+      "baltic-central-europe"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ee.svg",
+    "sha256": "a880630e92f27af0f8f183023a98ed1e9fcee60a9dbcf721d0630fec5189ed36",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-69e288ad4fbcf23a51b2",
+      "flag-v2-bfff6588384d615890cf",
+      "flag-v2-c6544d1a84209326245d"
+    ],
+    "iso": "EG",
+    "name": "Ägypten",
+    "svg": "/media/flags/87b9d853191fdb1ff168.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "pan-arab",
+      "red-white-black"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/eg.svg",
+    "sha256": "dc5da9384fe75ded99f6e44d6639b0df62d8ca3f78e9b6a6ebc880a957a5e396",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d29e1fed8262766574cf",
+      "flag-v2-d0b21b9944f2257b764a",
+      "flag-v2-9ed4b65f030a0e36ac0e"
+    ],
+    "iso": "ER",
+    "name": "Eritrea",
+    "svg": "/media/flags/6c130eb127ed43766bbe.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "diagonal",
+      "red-green-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/er.svg",
+    "sha256": "84aa946ce00966be2dc16cfe083d43998389aab6f75eb3c86749c582ad5d6962",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ad347b3a5fb520105f78",
+      "flag-v2-61cd057f6bcc3d5d93ae",
+      "flag-v2-2c3e2cefbc73b61fab18"
+    ],
+    "iso": "ES",
+    "name": "Spanien",
+    "svg": "/media/flags/d0409f5981e37805123c.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-yellow-emblem"
+    ],
+    "similar": [
+      "PT",
+      "AD",
+      "LT"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/es.svg",
+    "sha256": "48a17c763198b1e8eb3c00ba845336bf951c55c7b21f1c7dd08eb805bcf1a8f5",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-13c32de0b2e6a3a4bf99",
+      "flag-v2-d9f41cd90400718d6c2c",
+      "flag-v2-15da5234081c036f3e58"
+    ],
+    "iso": "ET",
+    "name": "Äthiopien",
+    "svg": "/media/flags/9b31b05cdbea941ebf0d.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "pan-african",
+      "green-yellow-red-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/et.svg",
+    "sha256": "6abfaa5727df0421419fa1a71faf317104b226c0cdecd2ac4fd9377d89545700",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a3e2ab9e125520f30fa1",
+      "flag-v2-ba76e52848180715bc42",
+      "flag-v2-2b6007e86f5a79bc9d8c"
+    ],
+    "iso": "FI",
+    "name": "Finnland",
+    "svg": "/media/flags/e16cf1a296a528dacaed.svg",
+    "aspectRatio": 1.6363636363636365,
+    "familiarity": 1,
+    "groups": [
+      "nordic-cross",
+      "cross"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/fi.svg",
+    "sha256": "50084e0400a8d916f5cc65835ce81b738869e3c93b3a06bc618f048d15c8ff5e",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d89b419a7f6d8c99a640",
+      "flag-v2-d22b12abe1dab514e808",
+      "flag-v2-635f7bf2017e050950a1"
+    ],
+    "iso": "FJ",
+    "name": "Fidschi",
+    "svg": "/media/flags/8aeb5b34929370063ca1.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "southern-cross-ensign",
+      "british-heritage",
+      "pacific-blue",
+      "island-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/fj.svg",
+    "sha256": "6af0adad7d7fb0dc9f5f1bffea3fde4f6a1b463cbdd58a850417b37baa7a10b0",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-bb6c3f24696fa3b2506b",
+      "flag-v2-063cbd7dea86f111ca1a",
+      "flag-v2-5e9286fd1e78de57e31d"
+    ],
+    "iso": "FM",
+    "name": "Mikronesien",
+    "svg": "/media/flags/5a9ce2f30ec34a42e3bb.svg",
+    "aspectRatio": 1.9,
+    "familiarity": 3,
+    "groups": [
+      "pacific-blue",
+      "blue-white-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/fm.svg",
+    "sha256": "b799c387c4beb84f6f57d42893c0273823151a46de02ce3b28041a8a3347b025",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-6ee2e66c484d525f9f46",
+      "flag-v2-f3420162d43ddd5cf416",
+      "flag-v2-04e0ada87a3f2562fef0"
+    ],
+    "iso": "FR",
+    "name": "Frankreich",
+    "svg": "/media/flags/257a0653630da8d240d5.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "vertical-tricolour"
+    ],
+    "similar": [
+      "IT",
+      "RO",
+      "IE"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/fr.svg",
+    "sha256": "a4f694c15e8b5adbc615d0d0ec3718f748e812e372cfdde85190c143f545bdf5",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-c9dbfa4ce3a46d27dc6c",
+      "flag-v2-b294c86f099408b145e2",
+      "flag-v2-6e78c3ba8f90d98cf150"
+    ],
+    "iso": "GA",
+    "name": "Gabun",
+    "svg": "/media/flags/c1471430d357caa42e1d.svg",
+    "aspectRatio": 1.3333333333333333,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "horizontal-tricolour",
+      "green-yellow-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ga.svg",
+    "sha256": "43e2be0bceff86a5e9611d197478256416e2ed1b106b9df24651d553bc87b41f",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-f30c3bc09d990a532f5f",
+      "flag-v2-e126614ec5cb483e9d07",
+      "flag-v2-6ba80863791e29f6ace1"
+    ],
+    "iso": "GB",
+    "name": "Vereinigtes Königreich",
+    "svg": "/media/flags/d03b87820b59abc6b618.svg",
+    "aspectRatio": 2,
+    "familiarity": 1,
+    "groups": [
+      "cross",
+      "british-heritage"
+    ],
+    "similar": [
+      "AU",
+      "NZ",
+      "FJ"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/gb.svg",
+    "sha256": "d8e85836abf80b5c81e38ad65e28e7c879ad64dd2574a23933655847dcaca516",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7f1dfff4cb58334bf326",
+      "flag-v2-d93296fa32c8796d90db",
+      "flag-v2-9817752bbbb2b080ef5e"
+    ],
+    "iso": "GD",
+    "name": "Grenada",
+    "svg": "/media/flags/281f00d1c8f4d5b9ad41.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "caribbean",
+      "island-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gd.svg",
+    "sha256": "dbc638b2a827bab09591d976f0c4e3ed885e0992438196d964a0015e81e055c1",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-4b2268b0109916480713",
+      "flag-v2-39b5c26b67bef4803eb1",
+      "flag-v2-5117874323baf3ec72d4"
+    ],
+    "iso": "GE",
+    "name": "Georgien",
+    "svg": "/media/flags/a0f2f4d750a39dff06fc.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "cross",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ge.svg",
+    "sha256": "5de159a339e6ce83d0bc970d2358bac34a3e1c43555df39d685b8849d3998433",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-726ddb5345a1503bc336",
+      "flag-v2-d7304945de59b111495d",
+      "flag-v2-4612f74baf3c2c0eb919"
+    ],
+    "iso": "GH",
+    "name": "Ghana",
+    "svg": "/media/flags/8f223f09733aa980ab1d.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "pan-african",
+      "green-yellow-red-horizontal",
+      "red-yellow-green-star"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gh.svg",
+    "sha256": "a8c4320f89adc39f1c43f0100031e6acfce9299aed5bf035732d00d34d44ee88",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-51149b05c953a1f1ee9a",
+      "flag-v2-8dc3933cbb05bb5ae4fd",
+      "flag-v2-30bb59e03a35880973fd"
+    ],
+    "iso": "GM",
+    "name": "Gambia",
+    "svg": "/media/flags/010b1d0df47e1c83657a.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "red-green-blue",
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gm.svg",
+    "sha256": "d4418b31447cb5b7ddfcc3b47f3075795700363cc97132d9ab8b2de417027b98",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8b8527b70716f930068f",
+      "flag-v2-97a66324495eb7e6a8f4",
+      "flag-v2-7c260633d367e88659aa"
+    ],
+    "iso": "GN",
+    "name": "Guinea",
+    "svg": "/media/flags/e0041cc15f462a0a6a74.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "vertical-tricolour",
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gn.svg",
+    "sha256": "4932e18d832d6a781bc00400b69136cc9406234d3800e1e66ea809550a84b423",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7cf63a8e7ec124ac99d2",
+      "flag-v2-d46892c04a0c491f1585",
+      "flag-v2-47213e1a28478e3f75c5"
+    ],
+    "iso": "GQ",
+    "name": "Äquatorialguinea",
+    "svg": "/media/flags/db53e8c7813e73945652.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gq.svg",
+    "sha256": "9b5a4c65a801529771c77d76ed0f96e9e4cd547b19597eb28badb6630049f815",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d05cb6f137d9886fc1b8",
+      "flag-v2-88acd35cbd5306ec2f29",
+      "flag-v2-93b6afd2e6437ceca804"
+    ],
+    "iso": "GR",
+    "name": "Griechenland",
+    "svg": "/media/flags/d3c7b194ff5d8b01672d.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "cross",
+      "blue-white-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gr.svg",
+    "sha256": "79c6453ea598c3be83373ba37be7e2f1b60c26e78bf2e9a75e2e4e7d11bdfde0",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-259a56de76c43546fe14",
+      "flag-v2-2048905a807ee76f57db",
+      "flag-v2-ad1bb6ae0601035cc0a8"
+    ],
+    "iso": "GT",
+    "name": "Guatemala",
+    "svg": "/media/flags/32569a9b54a8618bf94f.svg",
+    "aspectRatio": 1.6,
+    "familiarity": 2,
+    "groups": [
+      "central-american",
+      "blue-white-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gt.svg",
+    "sha256": "4f97b7d91faba271f470ca8363bbb1cb06322905202725758634a1c7e320a186",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-476235524be12ac75a0d",
+      "flag-v2-30d4532196c5c53d3aaa",
+      "flag-v2-e009c2b204025976e061"
+    ],
+    "iso": "GW",
+    "name": "Guinea-Bissau",
+    "svg": "/media/flags/1c7404146540f4e18046.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "red-yellow-green-star"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gw.svg",
+    "sha256": "34fe4c71aad016225df2fdb613a5b929784b031caae14c3fcca61bf6e4800b6a",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-46d4492bfc6d6c8891b5",
+      "flag-v2-d2ee07f5277eaf7a0fa0",
+      "flag-v2-7986b729ea9a850612b6"
+    ],
+    "iso": "GY",
+    "name": "Guyana",
+    "svg": "/media/flags/bbb72eada85db1736c7e.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "diagonal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/gy.svg",
+    "sha256": "fc683ada3250da9df0e05aae0362a17836a19f9bb78b561031cb9c4e060b7cc8",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a3e45a99f2c077f5d2b5",
+      "flag-v2-8452836db1ebf5642a0a",
+      "flag-v2-8c22f823d1cfbb7bcc34"
+    ],
+    "iso": "HN",
+    "name": "Honduras",
+    "svg": "/media/flags/5e73af0533094c469bba.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "central-american",
+      "blue-white-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/hn.svg",
+    "sha256": "d508b511e973e10cc86975c39ea3555a751675babca4cfa5001d39cb499c4600",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-806129f1084ad45b8dea",
+      "flag-v2-43ee9b15a6d19fa3487a",
+      "flag-v2-817b88436c8210e48419"
+    ],
+    "iso": "HR",
+    "name": "Kroatien",
+    "svg": "/media/flags/eabdf1c768a21bbbf220.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-red-horizontal",
+      "blue-red-emblem",
+      "baltic-central-europe",
+      "red-blue-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/hr.svg",
+    "sha256": "c5e28592f03e43cfa28e734fd10980affb2d236ea2836843ef064d83560b42ec",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8dd19808eea6bdf585e1",
+      "flag-v2-ebf09049275573df570f",
+      "flag-v2-32ed6bf873c9dc1b71f7"
+    ],
+    "iso": "HT",
+    "name": "Haiti",
+    "svg": "/media/flags/20a3ade1f17427cf4da7.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "red-blue-horizontal",
+      "caribbean",
+      "island-emblem",
+      "blue-red-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ht.svg",
+    "sha256": "87bd7f80f346a57dbda47a5f5c27eb6a1a766f85f3fc23e8da673f0ae37f92df",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-e54de580ee9a418d6081",
+      "flag-v2-bc952edb79ee4a8839c5",
+      "flag-v2-4480c99d478ad47f027b"
+    ],
+    "iso": "HU",
+    "name": "Ungarn",
+    "svg": "/media/flags/0e61ab5a297b2adb0d5c.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "horizontal-tricolour",
+      "baltic-central-europe"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/hu.svg",
+    "sha256": "e7249677092e5f201999bab668065e7f4f270c13c30de1cc9c8b42032cd037b4",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-532f3a80d1ed7fb7b55f",
+      "flag-v2-59701e27225024e896ad",
+      "flag-v2-e3cde5db742dbb4f81be"
+    ],
+    "iso": "ID",
+    "name": "Indonesien",
+    "svg": "/media/flags/0fbb527b3c5a701c0e20.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "red-white-bands"
+    ],
+    "similar": [
+      "PL",
+      "SG",
+      "AT"
+    ],
+    "excluded": [
+      "MC"
+    ],
+    "source": "https://flagcdn.com/id.svg",
+    "sha256": "b9d9dea991a06a1211e93e8fa33adc6035ede25d07dc6e98cf97cc57fd94a340",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-3e6dae155b4a8b956aa2",
+      "flag-v2-ab77db9b0f726911f271",
+      "flag-v2-99152f077f3c99f7d10c"
+    ],
+    "iso": "IE",
+    "name": "Irland",
+    "svg": "/media/flags/4dddf408ddcfe8fe6578.svg",
+    "aspectRatio": 2,
+    "familiarity": 1,
+    "groups": [
+      "green-white-orange-vertical",
+      "vertical-tricolour"
+    ],
+    "similar": [
+      "CI",
+      "IT",
+      "MX"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/ie.svg",
+    "sha256": "5a2e2ec73fb75642ce2a9f9237eb472016794fb49e825f72e769d2d10dff3f11",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7d54789de0e5b979e53f",
+      "flag-v2-6b513752661e35a5e922",
+      "flag-v2-02360aea499435e0802c"
+    ],
+    "iso": "IL",
+    "name": "Israel",
+    "svg": "/media/flags/9d5bb34d590322f5944b.svg",
+    "aspectRatio": 1.375,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/il.svg",
+    "sha256": "442623d8cc7b0abadd6c9c89e78b4ed5a697064672189ec99e90be147d1d26d3",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-e994ad69da91b2724727",
+      "flag-v2-a2938656b652abf933e7",
+      "flag-v2-165590ada8979a3f8bc3"
+    ],
+    "iso": "IN",
+    "name": "Indien",
+    "svg": "/media/flags/50722908e04069a1fe98.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/in.svg",
+    "sha256": "fbc606387f084f2fe03ef5eb87028c49909f341c4de0b4d3f684a70fe39e6fbf",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-17aa766f6def647202ae",
+      "flag-v2-f55e0c601ecf1ab02624",
+      "flag-v2-21c0949a51f9db405884"
+    ],
+    "iso": "IQ",
+    "name": "Irak",
+    "svg": "/media/flags/d7260a3d96d916109110.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab",
+      "arabic-script",
+      "red-white-black"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/iq.svg",
+    "sha256": "e7c24587fe5a0ade5e034370bd1a6cdf9537ec77f6747609198a8368b33c903f",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-098f38aebba896f4926a",
+      "flag-v2-4ed86c86ddb5a4c0efdc",
+      "flag-v2-39da34459c50f095ad18"
+    ],
+    "iso": "IR",
+    "name": "Iran",
+    "svg": "/media/flags/2f8d987104169c639a63.svg",
+    "aspectRatio": 1.75,
+    "familiarity": 2,
+    "groups": [
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ir.svg",
+    "sha256": "065bdd13ee4b400f683dc47257f7011d14463af8e78b44c3a778267c74803c77",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-949510e13962e56e8d74",
+      "flag-v2-e322ac252097671e2ece",
+      "flag-v2-18b103542542a05be3fa"
+    ],
+    "iso": "IS",
+    "name": "Island",
+    "svg": "/media/flags/affde67ee2bdf2d09ba6.svg",
+    "aspectRatio": 1.3888888888888888,
+    "familiarity": 2,
+    "groups": [
+      "nordic-cross",
+      "cross"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/is.svg",
+    "sha256": "cdc10b344a4d589df5e3a1669082829a79544edcc4f2193cf0ae055aa6cf23f2",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-36de160da8e40bc1e320",
+      "flag-v2-314636daa8ac1b65ee91",
+      "flag-v2-56ac4d25825dc45ac1c0"
+    ],
+    "iso": "IT",
+    "name": "Italien",
+    "svg": "/media/flags/8b4f78462c7c4c1b9ef1.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "green-white-orange-vertical",
+      "vertical-tricolour"
+    ],
+    "similar": [
+      "MX",
+      "IE",
+      "CI"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/it.svg",
+    "sha256": "7f818fa8e36ca606a8cbd35106fd7d277f094f10f2aa1f7a0585421a20e37070",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-28394ae2c0776fe8312a",
+      "flag-v2-c07c6241e2231c67b4d0",
+      "flag-v2-987ca47f5cf9b71b2839"
+    ],
+    "iso": "JM",
+    "name": "Jamaika",
+    "svg": "/media/flags/bb67450ba4bbf155a469.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "caribbean"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/jm.svg",
+    "sha256": "a34e079adf7f92d2eb0306e1f632b1d052e6a9ed275f78dd643761d71bb80634",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-6e7e3cf8d16b634e6efb",
+      "flag-v2-13560da79a8e830b6e72",
+      "flag-v2-2e5d1009d1ab5e040d65"
+    ],
+    "iso": "JO",
+    "name": "Jordanien",
+    "svg": "/media/flags/5c55806a92b416ae1526.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab"
+    ],
+    "similar": [
+      "PS",
+      "SD",
+      "KW"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/jo.svg",
+    "sha256": "fb2b2896420258e37d2e27a1d07c6488b5ff14a587edfbe7c4153f93042b8424",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-9acb044400179b278b8a",
+      "flag-v2-aae77661345aecc87062",
+      "flag-v2-79de2933f38628d3b0bb"
+    ],
+    "iso": "JP",
+    "name": "Japan",
+    "svg": "/media/flags/e6cc4fe66abf1c5c038d.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "disc",
+      "sun",
+      "white-symbol"
+    ],
+    "similar": [
+      "BD",
+      "PW",
+      "KR"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/jp.svg",
+    "sha256": "8344d5fa5a3dedec9fe0c45c6bce0fca67a18e038d5ff03c283ce91037927b24",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-cbdabe6d49c4c787a458",
+      "flag-v2-993f9a79539a87f8d97a",
+      "flag-v2-a1f1b6ac368a2dc20210"
+    ],
+    "iso": "KE",
+    "name": "Kenia",
+    "svg": "/media/flags/afc2da87489b80363d73.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-white-black"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ke.svg",
+    "sha256": "0c65788e07b97827d85662c06cd74e83ab6027c8915579821df896446b26d4d5",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-e459a600730704dd4c7f",
+      "flag-v2-4363fea1c0951e7a058d",
+      "flag-v2-a84d9f48d520c3031844"
+    ],
+    "iso": "KG",
+    "name": "Kirgisistan",
+    "svg": "/media/flags/80a04f30cf9a2c3f2e1a.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 2,
+    "groups": [
+      "red-stars",
+      "disc",
+      "sun",
+      "red-yellow-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/kg.svg",
+    "sha256": "01d2ab62d4002d08ce719dd4a5adb12bc8d6fca4258a084356e502da2a745d1b",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-f66b9feb75cd690c2a83",
+      "flag-v2-bf75e1f80a4a43da5ed7",
+      "flag-v2-27065c755fd55015b438"
+    ],
+    "iso": "KH",
+    "name": "Kambodscha",
+    "svg": "/media/flags/a63ab0bc115d90058bd8.svg",
+    "aspectRatio": 1.5625,
+    "familiarity": 2,
+    "groups": [
+      "red-blue-horizontal",
+      "blue-red-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/kh.svg",
+    "sha256": "abceeeeba487d31c3c55ee66dc916b5eb97a25256d376c34a4bbe85d6d1a18c1",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-9d4a9978fbe26d4fb9ed",
+      "flag-v2-23d75a420dc3f4095704",
+      "flag-v2-e292a92e99a9716b174b"
+    ],
+    "iso": "KI",
+    "name": "Kiribati",
+    "svg": "/media/flags/62f9ae2132d2ec9027b9.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "sun",
+      "pacific-red",
+      "island-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ki.svg",
+    "sha256": "3c5c18f1a61d1c782f2f313f197b00530b6de5d72b3ed81814d7984d73c4e05d",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-2c4bac2c0b1dc331414a",
+      "flag-v2-f838068eb0e6c33030bf",
+      "flag-v2-c76a0435a481e9a85371"
+    ],
+    "iso": "KM",
+    "name": "Komoren",
+    "svg": "/media/flags/e21d648ccee7548f2e71.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "crescent",
+      "stars-and-triangle"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/km.svg",
+    "sha256": "8915405dcea8fa858947a939243777d01926c478d6e51dfd1e621b4160f63528",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-2ee19a03f6166fbf88c4",
+      "flag-v2-81208bb3a28dc970b9a9",
+      "flag-v2-c1478607ebb17a04a128"
+    ],
+    "iso": "KN",
+    "name": "St. Kitts und Nevis",
+    "svg": "/media/flags/523ae94b589bdd200f9a.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "diagonal",
+      "caribbean"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/kn.svg",
+    "sha256": "5274df62085604bfd3586bc890842e0ea27a1c3dd3069571179e3eed381ed036",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-95392065ff237283b08a",
+      "flag-v2-bbbd84fc03c4c883f818",
+      "flag-v2-864311c407350cda4abe"
+    ],
+    "iso": "KP",
+    "name": "Nordkorea",
+    "svg": "/media/flags/a8fcc0cdf0b959b5e90f.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "red-white-blue-stars",
+      "red-blue-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/kp.svg",
+    "sha256": "2891274f3603b50b8eb795f50ba361b7b4586ecc1f42f900689decd527fcc386",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-cd341b143226ac8146a0",
+      "flag-v2-f421ce1652a6413cfb81",
+      "flag-v2-f5940f291635b4c06f90"
+    ],
+    "iso": "KR",
+    "name": "Südkorea",
+    "svg": "/media/flags/ba55af8c6c1c9eac3d62.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "disc",
+      "white-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/kr.svg",
+    "sha256": "6292c2ab96442a5f96d03e2c33aa8dc61e3087f211943e04833fc0f84a32054a",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-2c9a74104d54695e7afa",
+      "flag-v2-103013494bc91c632620",
+      "flag-v2-46b949f0b2886ec26335"
+    ],
+    "iso": "KW",
+    "name": "Kuwait",
+    "svg": "/media/flags/b66c61e07adb376c60b0.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/kw.svg",
+    "sha256": "ce62298731cb48e5f502af92203342f43bfa9568acfc6d2194c7227760e9184c",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-86f668f7f8c15b0b4894",
+      "flag-v2-7eb821ee45ce85fc2dd5",
+      "flag-v2-9921f114647fcde9c282"
+    ],
+    "iso": "KZ",
+    "name": "Kasachstan",
+    "svg": "/media/flags/541664253a921893a9fd.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "blue-yellow",
+      "disc",
+      "sun"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/kz.svg",
+    "sha256": "caa701e5e5790d4c06c21f8d4d063e5d23872d9079ed713b6471a22f9088eab1",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8a2ce52af16b3cc2d780",
+      "flag-v2-d5a33fa1774bc042dabc",
+      "flag-v2-73f7fc553db968cad91f"
+    ],
+    "iso": "LA",
+    "name": "Laos",
+    "svg": "/media/flags/f78ea2bdfd7a3cb946e8.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "disc",
+      "red-blue-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/la.svg",
+    "sha256": "d9df23e5fd48542448ea225e0d901346489f04fa48bcf20239ea00b45afa7801",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-db164842d7e1b9c9b8a7",
+      "flag-v2-660903ea7be5927dc106",
+      "flag-v2-07f27e51dada13838b16"
+    ],
+    "iso": "LB",
+    "name": "Libanon",
+    "svg": "/media/flags/e71f073af602ee7941a4.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "red-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/lb.svg",
+    "sha256": "2c69b33a241e21c003113bae58fda58a08113e265a94262f6d0de39277876462",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-9a3153452a32e9138e49",
+      "flag-v2-80b1108dd02b3c32854a",
+      "flag-v2-db171c2b4961a5149afd"
+    ],
+    "iso": "LC",
+    "name": "St. Lucia",
+    "svg": "/media/flags/5a429c79f1c9efb3900a.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "caribbean"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/lc.svg",
+    "sha256": "740e4c9020d05de5c2a15021c944fce092e83d9bebb27599eef4fc819a32b314",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-c1a94fc0fbd103bbdda2",
+      "flag-v2-2ffbcf37b278fe7523ee",
+      "flag-v2-957dd7cd6ca207a8c6ae"
+    ],
+    "iso": "LI",
+    "name": "Liechtenstein",
+    "svg": "/media/flags/01222b48b8fce9528266.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "red-blue-horizontal",
+      "blue-red-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/li.svg",
+    "sha256": "db94e2a96e1f808fa16a5e169aa5510c08b0ed9f68e0a28130ca720adcc04e57",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-15a7a52481cc005cf28f",
+      "flag-v2-0761e64271215f4f1aeb",
+      "flag-v2-5d84509550a536956a63"
+    ],
+    "iso": "LK",
+    "name": "Sri Lanka",
+    "svg": "/media/flags/472a11409f837890c912.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "island-emblem",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/lk.svg",
+    "sha256": "e4b547bd81b1a304d992e18a97635814bdd8e7978b7302846f68b8b6eaa6944b",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-037051ab54fb93bc79db",
+      "flag-v2-4e9c67cf320f5755a9c0",
+      "flag-v2-9be254237cf844b8b64e"
+    ],
+    "iso": "LR",
+    "name": "Liberia",
+    "svg": "/media/flags/893443e3df65185e5c1c.svg",
+    "aspectRatio": 1.9,
+    "familiarity": 3,
+    "groups": [
+      "red-white-blue-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/lr.svg",
+    "sha256": "256f0285e755653b1e36d87b5f0791d9d677bf01d2844ee1df4d89e18c13bf6e",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ae5c4d879b2316620b4d",
+      "flag-v2-598c18f6c2b0c0766682",
+      "flag-v2-dfc4c1c7c4148a81b179"
+    ],
+    "iso": "LS",
+    "name": "Lesotho",
+    "svg": "/media/flags/965d44232221aa34ffec.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ls.svg",
+    "sha256": "cf2de57751aeb0483b055ee05b75049397952c04e06217d994f185c57b18f361",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-37feab2177b4df257b3b",
+      "flag-v2-3325b49e07734d6e2c6e",
+      "flag-v2-92ccca1876a952c5cdf3"
+    ],
+    "iso": "LT",
+    "name": "Litauen",
+    "svg": "/media/flags/923b585a57a910006d0a.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 2,
+    "groups": [
+      "green-yellow-red-horizontal",
+      "horizontal-tricolour",
+      "baltic-central-europe",
+      "red-yellow-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/lt.svg",
+    "sha256": "9743f780184a60fc75a312b34151ff1a2699e0bf0d456eb91dcbae0472b4d566",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-964171e84f67fd84279a",
+      "flag-v2-d500db5c19e87cb875fb",
+      "flag-v2-c88ec6217b93811344ff"
+    ],
+    "iso": "LU",
+    "name": "Luxemburg",
+    "svg": "/media/flags/24cdf51bf54041fd6a51.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-red-horizontal",
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/lu.svg",
+    "sha256": "fdff2b7de3df2514972edf4169981f3b6ba902d5e1f25fc988b85351cc1730da",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-6af8e029d5e97d762730",
+      "flag-v2-9bc812ae71024f9c8296",
+      "flag-v2-400b4b930a8e89b20ad2"
+    ],
+    "iso": "LV",
+    "name": "Lettland",
+    "svg": "/media/flags/5bd1bcaf6b5201f130e2.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "red-white-bands",
+      "baltic-central-europe"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/lv.svg",
+    "sha256": "7d5267d5c8e789573ca4ad0e4d301725df799ba2a62b3b7dacdf4411842366d3",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-e959b4246f3e19e750d1",
+      "flag-v2-bfbabf07a35a869640e2",
+      "flag-v2-efc455c33c4ebba2b1c6"
+    ],
+    "iso": "LY",
+    "name": "Libyen",
+    "svg": "/media/flags/d9b6ccbe70e9969868b8.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab",
+      "crescent"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ly.svg",
+    "sha256": "3f2e9e59dba9fe8d99f24c8e82c61b155a5c060c20b9480af658bce30994e1be",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8d57cf5904c65024d454",
+      "flag-v2-c9b81c54fa3f612fff9e",
+      "flag-v2-68be230fa119504f7957"
+    ],
+    "iso": "MA",
+    "name": "Marokko",
+    "svg": "/media/flags/884445e019879e39bfb9.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ma.svg",
+    "sha256": "1f6f0d1bf2e6d69fc943eb0eb3a96a4e5f8473bfdd1bd6b5a4c903c6c7ee2fe2",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-0c16e1663f26cd82007f",
+      "flag-v2-391ebda542a27cc75363",
+      "flag-v2-a59c8bef50babedc86b0"
+    ],
+    "iso": "MC",
+    "name": "Monaco",
+    "svg": "/media/flags/75520ba4ae7843da55fb.svg",
+    "aspectRatio": 1.25,
+    "familiarity": 3,
+    "groups": [
+      "red-white-bands"
+    ],
+    "similar": [
+      "PL",
+      "SG",
+      "AT"
+    ],
+    "excluded": [
+      "ID"
+    ],
+    "source": "https://flagcdn.com/mc.svg",
+    "sha256": "1618cf7c214062ad02817f051407aa87d575e3d90a93af8e126a49e137dbfd52",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-c7ddbaa73c98c3ab3b3a",
+      "flag-v2-7d89b234e1f6a2391801",
+      "flag-v2-9499bf0bf9f17ea13778"
+    ],
+    "iso": "MD",
+    "name": "Republik Moldau",
+    "svg": "/media/flags/68c6881d4cef0a2549b5.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "blue-yellow-red-vertical",
+      "vertical-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/md.svg",
+    "sha256": "f2440f35e97d7e3f9d52e1ca1005ee03e7c359e5487aa828cc05bec21552a337",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-e85f341a82a3f0f973eb",
+      "flag-v2-520ae8a15d69ca79a3be",
+      "flag-v2-d327ce780a9e81af79f0"
+    ],
+    "iso": "ME",
+    "name": "Montenegro",
+    "svg": "/media/flags/f29865125cd2f351d1c9.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/me.svg",
+    "sha256": "94c7fe52d0974e2da914c75dbdc5e681ceb4344796ccaf54e9133ecaa7b9e006",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-c67a31e8b94edb388c71",
+      "flag-v2-42d790a3c7a6d367befa",
+      "flag-v2-6f2a08434d8de7371b07"
+    ],
+    "iso": "MG",
+    "name": "Madagaskar",
+    "svg": "/media/flags/956310043e7032d4de95.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "green-red"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mg.svg",
+    "sha256": "75e9abf8850cb28a7ff07eaba5db91b04187dbdfc6d94f6f744cb09b5eecdff0",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-dced8016316ca0a37b59",
+      "flag-v2-5a6b8cf623a1e1bbf0a0",
+      "flag-v2-2ff33337ae233021c8d5"
+    ],
+    "iso": "MH",
+    "name": "Marshallinseln",
+    "svg": "/media/flags/6db11e8753c609182be4.svg",
+    "aspectRatio": 1.9,
+    "familiarity": 3,
+    "groups": [
+      "pacific-blue",
+      "blue-white-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mh.svg",
+    "sha256": "6319ad20f177bcb504cc028a6d14c664e10f290a36aad8df5fb459736dc6bb4a",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-33726c141b8d0db39a0e",
+      "flag-v2-d912deee8f5e94f5347f",
+      "flag-v2-a29aceee99020bf011da"
+    ],
+    "iso": "MK",
+    "name": "Nordmazedonien",
+    "svg": "/media/flags/8ea85f99acebbbddcec8.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "sun",
+      "unique-symbol",
+      "red-yellow-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mk.svg",
+    "sha256": "ebe79b808fbc65086acd56f08c89765c8cb24b640cd85fdd43ae47ebdfeae9ac",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-07335f52f919799f447f",
+      "flag-v2-2743d7aeaf74faa4d053",
+      "flag-v2-db72678f777841c4a04b"
+    ],
+    "iso": "ML",
+    "name": "Mali",
+    "svg": "/media/flags/ee4ab4175063c310a505.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "vertical-tricolour",
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ml.svg",
+    "sha256": "63094a0104bd49dbc4563a8f2707e69de78551f0c919560fed382742c1a5b60e",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ee4a38f223fca00ee5bd",
+      "flag-v2-3057dcd1ff1359633dcf",
+      "flag-v2-0a3e401341bdb2184d35"
+    ],
+    "iso": "MM",
+    "name": "Myanmar",
+    "svg": "/media/flags/89a6d7524038d2f77f1b.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mm.svg",
+    "sha256": "2329f98328d898bd2a5498c8889f7538f333ffa07c55f98b4e705e38e35a9ce7",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-1a580c0b453edfc86b03",
+      "flag-v2-56404b383fef0385d97a",
+      "flag-v2-a86db6028d0d35b11921"
+    ],
+    "iso": "MN",
+    "name": "Mongolei",
+    "svg": "/media/flags/21ee0b3e80f6048950c9.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "vertical-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mn.svg",
+    "sha256": "34d26f84243b206728c92c74348ab5476f4b7706fc0cdeef4a61864de7c0def0",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-68e772e41cd3283b621e",
+      "flag-v2-8aa015b33b21c0c3b8af",
+      "flag-v2-2923378084b7744075e5"
+    ],
+    "iso": "MR",
+    "name": "Mauretanien",
+    "svg": "/media/flags/fa2f840046dc53291e5c.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "crescent"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mr.svg",
+    "sha256": "ed02cc9ba0c0e0aa15246bb8e20ae683a450ed102736bf116cc1d20b19247f9b",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a7247c931e3b0df26f25",
+      "flag-v2-f4c965e6558bd48cef49",
+      "flag-v2-f2c4abf504af51568862"
+    ],
+    "iso": "MT",
+    "name": "Malta",
+    "svg": "/media/flags/ac03ee4efc30b69169ca.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "red-white-bands",
+      "cross"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mt.svg",
+    "sha256": "5c486bd33615ae69b724e22af55ceee2669c8fe090a503fc69abbde637a705dc",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ba75b0058caa3c1e50c5",
+      "flag-v2-d1347c8e6764c15656a4",
+      "flag-v2-37755c9d581e0c8eab49"
+    ],
+    "iso": "MU",
+    "name": "Mauritius",
+    "svg": "/media/flags/b7a503cf9f4e2ef42a89.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mu.svg",
+    "sha256": "c35ef8388abd492cb6ddbb0b46e3be87244ec1088682de208a745c93c4852a80",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-bc725c7632a4f9c873f5",
+      "flag-v2-e951afd4e2ef5b5e7b05",
+      "flag-v2-a35c2bf7628c16d2755c"
+    ],
+    "iso": "MV",
+    "name": "Malediven",
+    "svg": "/media/flags/1ce0bebf9216addb3d0e.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "crescent",
+      "green-white"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mv.svg",
+    "sha256": "16b15e9f6e65ec29c2536b52c480cd9ddc1c3d9f9e5afa3e7dd479a62ac535ba",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-456398c01ae9421e83c1",
+      "flag-v2-81822a73c30c1473a333",
+      "flag-v2-bbe9ef1544cb2cf07f57"
+    ],
+    "iso": "MW",
+    "name": "Malawi",
+    "svg": "/media/flags/0a0df473cac0bb8fcb26.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mw.svg",
+    "sha256": "39e6b3ca954ed170b45d5fe61e29aa21d22f7cd1d8772d15b626aaf84bd8732d",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-99248f7df04485617071",
+      "flag-v2-82b9a2dbbf97751e0fe6",
+      "flag-v2-cb99d20b9c55a720084b"
+    ],
+    "iso": "MX",
+    "name": "Mexiko",
+    "svg": "/media/flags/ae0af53f0f91e09a9207.svg",
+    "aspectRatio": 1.75,
+    "familiarity": 1,
+    "groups": [
+      "green-white-orange-vertical",
+      "vertical-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mx.svg",
+    "sha256": "9e6da5e6d5bf46dce1196f94dbd73eaaed13da3d0d88776f38c61ab11ac3f111",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-041cc582af3b3295fdba",
+      "flag-v2-7190a11e417b80c4ad5c",
+      "flag-v2-3c3727f9d0c413ed22b5"
+    ],
+    "iso": "MY",
+    "name": "Malaysia",
+    "svg": "/media/flags/cfe4056269ff0f9299ea.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "crescent",
+      "red-white-blue-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/my.svg",
+    "sha256": "03d7c2529c45f7664f2bf24c696adf212c6be91cea5415a31b3859dc4b5b1e26",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-dc9ae7b2f4e9a7331c5a",
+      "flag-v2-11413fff92b1c3dbf71e",
+      "flag-v2-88ec38c6381b3ca84d2c"
+    ],
+    "iso": "MZ",
+    "name": "Mosambik",
+    "svg": "/media/flags/d5ca3a97ca4bdb5eb06f.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "pan-african",
+      "diagonal",
+      "green-red"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/mz.svg",
+    "sha256": "649e978eea07a70c6e7303a5291476b3f224063070abf4f6a5f4ddcbba7c1cf6",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a70394db00ab5ee5819d",
+      "flag-v2-2d49085c90390440d921",
+      "flag-v2-f06165e2f31d65fee8f5"
+    ],
+    "iso": "NA",
+    "name": "Namibia",
+    "svg": "/media/flags/9526c0a4d2adaa480321.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "sun",
+      "diagonal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/na.svg",
+    "sha256": "90e25cf1777d434c04857e1a77eb40b0301351ae361464f77d1aa056051199a0",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d9fec519bc7ab8712ce6",
+      "flag-v2-3663c6f996d2ace90343",
+      "flag-v2-64b6250c4f2d7d747a7f"
+    ],
+    "iso": "NE",
+    "name": "Niger",
+    "svg": "/media/flags/612da2aa36ec73e64e06.svg",
+    "aspectRatio": 1.1666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "vertical-tricolour",
+      "disc"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ne.svg",
+    "sha256": "6ca645980cfb7249ed439ee5fe025492c4338035c035a92c80c388e553adb448",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-83b24c8d54e8f7908343",
+      "flag-v2-b4fdf4d7656ef2aa2927",
+      "flag-v2-e58312226a7d7e6f157b"
+    ],
+    "iso": "NG",
+    "name": "Nigeria",
+    "svg": "/media/flags/4b12a69716600e813b34.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "vertical-tricolour",
+      "green-white"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ng.svg",
+    "sha256": "3dbebd9f8e31821d5fa22f976cfe9a338788fda81308f0d573e69fd9dfcce24e",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-991f0bbf4cbc0ea87e19",
+      "flag-v2-5162497088ffd9190771",
+      "flag-v2-e7262ed136784c24571f"
+    ],
+    "iso": "NI",
+    "name": "Nicaragua",
+    "svg": "/media/flags/ed9933cc1b97f4b70c51.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "central-american",
+      "blue-white-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ni.svg",
+    "sha256": "e580b2872d7e4038007489dd1585ac27c04b179a1116d8ff6f57f303fe6d3507",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-9273f79ebde0e0403658",
+      "flag-v2-1c25aa185ebfde797040",
+      "flag-v2-eafaa3cdbc271787ed07"
+    ],
+    "iso": "NL",
+    "name": "Niederlande",
+    "svg": "/media/flags/8efe4ef6b99d81fae3e5.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "blue-white-red-horizontal",
+      "horizontal-tricolour"
+    ],
+    "similar": [
+      "LU",
+      "RU",
+      "PY"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/nl.svg",
+    "sha256": "c6fd93e76b21ad057b81b7295eacff13c606c9db00e7990da1052eb691665193",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-986adf53bce638651096",
+      "flag-v2-fca261b09779244a2171",
+      "flag-v2-955e9898008100852a5d"
+    ],
+    "iso": "NO",
+    "name": "Norwegen",
+    "svg": "/media/flags/371f2fc633979224490e.svg",
+    "aspectRatio": 1.375,
+    "familiarity": 1,
+    "groups": [
+      "nordic-cross",
+      "cross"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/no.svg",
+    "sha256": "41ca1bc7e7d295f4836558fa495764d773c5854fafdc6f939c65ccfd1b3e0eb0",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a6b00ccc657bf715be0a",
+      "flag-v2-fe6939fcb2cdccc618b5",
+      "flag-v2-b0bc2fef3728b9e11fd0"
+    ],
+    "iso": "NP",
+    "name": "Nepal",
+    "svg": "/media/flags/590dbee54368159e8109.svg",
+    "aspectRatio": 0.8203389830508474,
+    "familiarity": 2,
+    "groups": [
+      "sun",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/np.svg",
+    "sha256": "1da84c6411e7fcc14e143f9c6a5b491bbcb7e26ce92750a8cf912d2d38127cf7",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-285dd67f8249e563d555",
+      "flag-v2-52c999e1b231339eff10",
+      "flag-v2-b9280074e9fb7ea50eca"
+    ],
+    "iso": "NR",
+    "name": "Nauru",
+    "svg": "/media/flags/b42b2bce9d86a9f04d39.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "pacific-blue",
+      "blue-white-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/nr.svg",
+    "sha256": "1db6563151cfc25388f8167a967a96b0794cde41f1bcfa3e521bdaa794af2fcc",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-5e61be2f73244354936b",
+      "flag-v2-13178287d73cea740e58",
+      "flag-v2-d50367b2d7669c6e9493"
+    ],
+    "iso": "NZ",
+    "name": "Neuseeland",
+    "svg": "/media/flags/c408bfc07e9c5e3edb84.svg",
+    "aspectRatio": 2,
+    "familiarity": 1,
+    "groups": [
+      "southern-cross-ensign",
+      "british-heritage",
+      "pacific-blue",
+      "blue-white-stars"
+    ],
+    "similar": [
+      "AU",
+      "FJ",
+      "TV"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/nz.svg",
+    "sha256": "ba21251394f718f523e3b8bbc9b857936de1dce6026bc8514cf1fefb5abcc626",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-451f0c3e39fe0fc33617",
+      "flag-v2-6cbdd8c8b8251b608255",
+      "flag-v2-1f2d74e694a62adefb78"
+    ],
+    "iso": "OM",
+    "name": "Oman",
+    "svg": "/media/flags/5d10584bd16d0fbf3abf.svg",
+    "aspectRatio": 1.75,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/om.svg",
+    "sha256": "efaca80868972b8af56cfc409e7a94d49360217b685e64b8e2f00033b24a6535",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-3f75c7cf28267ea2ed1c",
+      "flag-v2-193f9ebb39c76fac74c3",
+      "flag-v2-67219ec508c695af69ac"
+    ],
+    "iso": "PA",
+    "name": "Panama",
+    "svg": "/media/flags/645d3441d0cfd5c39606.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "red-white-blue-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/pa.svg",
+    "sha256": "8e8c7cf854aa3367d9ed9eda6c585540bde6369ef6163f435334216be4536200",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a60d9ff76fe62fba39b3",
+      "flag-v2-21f55caeec540f357e2c",
+      "flag-v2-ba8c3991f54128d39459"
+    ],
+    "iso": "PE",
+    "name": "Peru",
+    "svg": "/media/flags/9f10e73244dcc390c29d.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/pe.svg",
+    "sha256": "585326cd85af5032acb15b196b367ee47ba1015507220de41ebbe53bd45f417d",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-27c5e40eff7a93dd9b62",
+      "flag-v2-e21b9127e7a8cb6da074",
+      "flag-v2-ca83225fadf9bfd2acff"
+    ],
+    "iso": "PG",
+    "name": "Papua-Neuguinea",
+    "svg": "/media/flags/9011bd782636c7662d64.svg",
+    "aspectRatio": 1.3333333333333333,
+    "familiarity": 2,
+    "groups": [
+      "diagonal",
+      "pacific-red",
+      "black-red-yellow"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/pg.svg",
+    "sha256": "ff7318517949b70264c1cd547e6118a0c51a885aa913aae54434651cd6e7aed1",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8c9c2f8834743393d69a",
+      "flag-v2-c1e151561334cba84a9e",
+      "flag-v2-6833a4c34094f5f5b438"
+    ],
+    "iso": "PH",
+    "name": "Philippinen",
+    "svg": "/media/flags/24d9cd9436ec5826cc97.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "sun",
+      "stars-and-triangle"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ph.svg",
+    "sha256": "ed8f0196906075627b98c1224edade7d51e5bf0f95b2e51619475e0ad0a31101",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-5a4e15ff69ef7f2bbcf6",
+      "flag-v2-409c078285d9f04722e4",
+      "flag-v2-eaddb8c8ddaf1589032e"
+    ],
+    "iso": "PK",
+    "name": "Pakistan",
+    "svg": "/media/flags/14824b1cdff57abdd6ef.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "crescent",
+      "green-white"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/pk.svg",
+    "sha256": "f4b3e173dcca3762b74b38eca3232ff772cacf615aebac7f2b786492a7bf395e",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-376ea1bf64b96b4c5015",
+      "flag-v2-d815756ee414981357bf",
+      "flag-v2-2bdc52ea1acb365e2200"
+    ],
+    "iso": "PL",
+    "name": "Polen",
+    "svg": "/media/flags/98b2ce2513fafa4eb53d.svg",
+    "aspectRatio": 1.6,
+    "familiarity": 1,
+    "groups": [
+      "red-white-bands",
+      "baltic-central-europe"
+    ],
+    "similar": [
+      "MC",
+      "ID",
+      "SG"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/pl.svg",
+    "sha256": "da6d9e34f2007194b0082d4caac04d1744b7b27fc40098747d4bc62e0d5a5bb2",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ea46d533b19b17f40566",
+      "flag-v2-65cdbb7e6726a7161e92",
+      "flag-v2-ad6748c4b0e3a57d3d15"
+    ],
+    "iso": "PS",
+    "name": "Palästina",
+    "svg": "/media/flags/adcafb416c02de2a25aa.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab"
+    ],
+    "similar": [
+      "JO",
+      "SD",
+      "AE"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/ps.svg",
+    "sha256": "d218e88033f9361bf08071c1ee51acb7425dc63e8a7b5ecd7a6755ff6b359696",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-167475229951083682ab",
+      "flag-v2-1637a5af41eb3871863a",
+      "flag-v2-ee1317abc990a62eb4a7"
+    ],
+    "iso": "PT",
+    "name": "Portugal",
+    "svg": "/media/flags/e536801c55aca97ead49.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "green-red"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/pt.svg",
+    "sha256": "f5ac36ecede2b3ee3c1b7562cf13f6e7af7312a7697c731ca60674f183b20c0e",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-b0d3bfbcbf82aeb9f82a",
+      "flag-v2-22684719fe78b74ce299",
+      "flag-v2-444d94f737c71940fc8b"
+    ],
+    "iso": "PW",
+    "name": "Palau",
+    "svg": "/media/flags/b9c335bf491d1d92748b.svg",
+    "aspectRatio": 1.6,
+    "familiarity": 2,
+    "groups": [
+      "blue-yellow",
+      "disc",
+      "pacific-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/pw.svg",
+    "sha256": "dd7a4604ae65654684d2781e2efc026232daf529196857ac804fcf2815a32658",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-bd98628322e3ec37ca3a",
+      "flag-v2-5250f0e2b5d81c60e2b2",
+      "flag-v2-8918aad6d160b30281bd"
+    ],
+    "iso": "PY",
+    "name": "Paraguay",
+    "svg": "/media/flags/29610d193985df529f1d.svg",
+    "aspectRatio": 1.8181818181818181,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-red-horizontal",
+      "red-blue-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/py.svg",
+    "sha256": "f128872c823c0d9d2727c4ab903fc5e31b6c738d703e9dc87f654df91de49ccc",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-4e0f4dc82504b5ad1d43",
+      "flag-v2-b1e555e050a98d12361e",
+      "flag-v2-02fa1fa4b1f9055441fb"
+    ],
+    "iso": "QA",
+    "name": "Katar",
+    "svg": "/media/flags/fa269f17f7f789dc6efc.svg",
+    "aspectRatio": 2.5454545454545454,
+    "familiarity": 2,
+    "groups": [
+      "red-white-bands",
+      "diagonal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/qa.svg",
+    "sha256": "5332c024cb6bac6d7ca2f96347d2ce8cfc63f5bf2643a1d1e6ed6146e6b75a1d",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-a24a5841459dbc16fd9e",
+      "flag-v2-d9fa2d37b25b61cc81cc",
+      "flag-v2-b5ef9c8c6cc05352ec7f"
+    ],
+    "iso": "RO",
+    "name": "Rumänien",
+    "svg": "/media/flags/5017754f7ae6e16df348.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "blue-yellow-red-vertical",
+      "vertical-tricolour"
+    ],
+    "similar": [
+      "TD",
+      "MD",
+      "AD"
+    ],
+    "excluded": [
+      "TD"
+    ],
+    "source": "https://flagcdn.com/ro.svg",
+    "sha256": "3b36bf0ef9d485fc8b5a157ec8f1c203a49bb3dc938149c21b8a227144ea3b81",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d64e368cbd51fc68ac75",
+      "flag-v2-9e0fc097c823870bfbed",
+      "flag-v2-33afc94b3ce3979b0e00"
+    ],
+    "iso": "RS",
+    "name": "Serbien",
+    "svg": "/media/flags/bf4082bd89ff86c539c2.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-red-horizontal",
+      "blue-red-emblem",
+      "baltic-central-europe"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/rs.svg",
+    "sha256": "e372fd603755d96bf1dfbae9faa11f1227298a3e414294bc2b6782339021d547",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-b3d744ac527b328934a7",
+      "flag-v2-993e282ad3afe6888018",
+      "flag-v2-cdef0843109ead22ff4f"
+    ],
+    "iso": "RU",
+    "name": "Russland",
+    "svg": "/media/flags/cafd514bbe774605a7d5.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "blue-white-red-horizontal",
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ru.svg",
+    "sha256": "a8e38786abcae48ff91216466d26bcf6854e5f6a68a881f81c227d34557fc7cb",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-b317e166fcbfdfbb22fd",
+      "flag-v2-6b7f78721dfa785aeb5a",
+      "flag-v2-1288f4c9a54119736d91"
+    ],
+    "iso": "RW",
+    "name": "Ruanda",
+    "svg": "/media/flags/9560cc7461d270938f92.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "blue-yellow",
+      "green-yellow-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/rw.svg",
+    "sha256": "b475bd44b6e62d4fa61c0cdfe6c57ffb2cee1e4172ef1eabc2d3f0edf03ccb98",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-408925dd92024f980655",
+      "flag-v2-62459126095d57abe59c",
+      "flag-v2-196e315afb8603aca4d5"
+    ],
+    "iso": "SA",
+    "name": "Saudi-Arabien",
+    "svg": "/media/flags/1e6bd5315034ce7939f0.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "arabic-script",
+      "green-white"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sa.svg",
+    "sha256": "6b76e7c2b93cc1fa2da2c8fc0a0e51565af8c2b46625181cc2dbf0d9a7ed5d39",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-1beb1272966d9017d3c5",
+      "flag-v2-fcaf95e893c429400617",
+      "flag-v2-5ebb6061d220fb9a221a"
+    ],
+    "iso": "SB",
+    "name": "Salomonen",
+    "svg": "/media/flags/d19c7fb0ecd1bc52e3af.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "diagonal",
+      "pacific-blue",
+      "blue-white-stars",
+      "green-yellow-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sb.svg",
+    "sha256": "cf6532a6e56b7ce8a914471033ad77d390143d4772e3debb8a6beb2b52a15126",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7d566929fad34b9f29c4",
+      "flag-v2-38f024f3d702e7dba07f",
+      "flag-v2-3bc13502adf1f5639ab0"
+    ],
+    "iso": "SC",
+    "name": "Seychellen",
+    "svg": "/media/flags/1857f1240fbacf7bfde3.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "diagonal",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sc.svg",
+    "sha256": "b7a1ccdf0b210a2273426eaf334679dba7d3f5a90dddd91882beffa891bf3035",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d45ae4bf3e67c42d53a8",
+      "flag-v2-5361cce16e40d1dca5c5",
+      "flag-v2-a54d1df50ca02e977e63"
+    ],
+    "iso": "SD",
+    "name": "Sudan",
+    "svg": "/media/flags/8987b313a269170a40e0.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab",
+      "red-white-black"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sd.svg",
+    "sha256": "b242fd44d9527db915ed92887f77fce7477dd2f8d25a425a0bae0fa69491e589",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7ad3b0cba7b75438601c",
+      "flag-v2-061c742165ec6e2d39c6",
+      "flag-v2-431c2226bfd52dd10419"
+    ],
+    "iso": "SE",
+    "name": "Schweden",
+    "svg": "/media/flags/dfb4f55d4925c00e6ccc.svg",
+    "aspectRatio": 1.6,
+    "familiarity": 1,
+    "groups": [
+      "nordic-cross",
+      "cross",
+      "blue-yellow"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/se.svg",
+    "sha256": "426348d99d9cace2df6eaa6d6766d5a5ac21bb65a504a4ed974486cf96156b8f",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-234c2c9e827e18feb3c5",
+      "flag-v2-ab267ba38bc1676fd39c",
+      "flag-v2-b957f5599819f077e9c0"
+    ],
+    "iso": "SG",
+    "name": "Singapur",
+    "svg": "/media/flags/652e6190f54df8af9f92.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "red-white-bands",
+      "crescent"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sg.svg",
+    "sha256": "6b915c40570dc3896942b79a8a8965d3b429f8a8c38d280276a1094bb02e9ec3",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8c0fd5263accb782e288",
+      "flag-v2-6b0028f0ae3bd2dc025f",
+      "flag-v2-203fe0fa0b71cc93d86d"
+    ],
+    "iso": "SI",
+    "name": "Slowenien",
+    "svg": "/media/flags/8a88f01183b8255927e9.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-red-horizontal",
+      "blue-red-emblem",
+      "baltic-central-europe"
+    ],
+    "similar": [
+      "SK",
+      "HR",
+      "RS"
+    ],
+    "excluded": [],
+    "source": "https://flagcdn.com/si.svg",
+    "sha256": "10173fb39413a1ac00ecc595f1789a2ca98cffe1bc026655df1c2c9956ce26c6",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-5aca8b15a8676753a6fe",
+      "flag-v2-efb87c4c0b3096d6d1fe",
+      "flag-v2-999325222f617eee24a3"
+    ],
+    "iso": "SK",
+    "name": "Slowakei",
+    "svg": "/media/flags/8faf7511ed1ae9eee635.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-red-horizontal",
+      "blue-red-emblem",
+      "baltic-central-europe"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sk.svg",
+    "sha256": "3c4fda318c1d2117c984b92386d9ef7694ffedee7c21b4b6a6ea6fa845868bbc",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-1a1a4c9f9578245710b9",
+      "flag-v2-5367ddf19e4785fa826a",
+      "flag-v2-d3398745d4eedc44c22c"
+    ],
+    "iso": "SL",
+    "name": "Sierra Leone",
+    "svg": "/media/flags/4ef9477679ecaa187564.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sl.svg",
+    "sha256": "21d7e0663d2b8e1d455a0e1456c63dfbb273becdacbf7c1fa0e22d915f136cf4",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-b1fe4a2beb46d03f63d3",
+      "flag-v2-41e248798730afc11956",
+      "flag-v2-11f5ff42b37e98a17751"
+    ],
+    "iso": "SM",
+    "name": "San Marino",
+    "svg": "/media/flags/db8a793ac73f44ebb4c8.svg",
+    "aspectRatio": 1.3333333333333333,
+    "familiarity": 3,
+    "groups": [
+      "white-symbol",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sm.svg",
+    "sha256": "b3e1fe7c195d5e1180c4b24d6652c2f88981aded71c89405a2cde354e8b558c3",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d7dec5762617ab397764",
+      "flag-v2-c3b9a9e69eb471279380",
+      "flag-v2-b2fbbaac3797a5cc4ca0"
+    ],
+    "iso": "SN",
+    "name": "Senegal",
+    "svg": "/media/flags/8cc1f76be390b98e9110.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "vertical-tricolour",
+      "pan-african",
+      "red-yellow-green-star"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sn.svg",
+    "sha256": "c0593c9c104142eadae2d76bd739b28a37d2218bf1ef4b37bf8fa9655bfab087",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7329ae069a1509d4e188",
+      "flag-v2-e6195c34dad809f46195",
+      "flag-v2-b01bf06c731ed92f12e5"
+    ],
+    "iso": "SO",
+    "name": "Somalia",
+    "svg": "/media/flags/cd65d5049b57c6481284.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/so.svg",
+    "sha256": "3a342342f94f00a74984e10743f4589e7856076df6686f05e3192cd0ee0300e1",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-9989612d453b0fb096ac",
+      "flag-v2-1796119006b801bfce91",
+      "flag-v2-dfb366cda6e4022e6228"
+    ],
+    "iso": "SR",
+    "name": "Suriname",
+    "svg": "/media/flags/58ece2ce7cdeddd372a8.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sr.svg",
+    "sha256": "fe8d860ffc7f92f0e2ed844b8d2a159a35277bf1a4706d2d1df6b727686c44d0",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-61e3dfa0937ce6a1f6f0",
+      "flag-v2-546506e358e555112c52",
+      "flag-v2-769fdcc99a79132b164e"
+    ],
+    "iso": "SS",
+    "name": "Südsudan",
+    "svg": "/media/flags/b0cee5f0109a6ccd6691.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "pan-arab",
+      "stars-and-triangle"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ss.svg",
+    "sha256": "4be094f1c817e302a3661b54ad3a86c6aed0284635468017d513aaf6287b83cc",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-fc15e39afbd625e41549",
+      "flag-v2-9693dd8822667e712b90",
+      "flag-v2-745f6e322b3445b4ca94"
+    ],
+    "iso": "ST",
+    "name": "São Tomé und Príncipe",
+    "svg": "/media/flags/085609bdff5660eaf2a8.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "red-yellow-green-star",
+      "stars-and-triangle"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/st.svg",
+    "sha256": "a95075950bff55641b4274439a909c6bda8005b22c397ef6315839ce9d0dec55",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-4ef8fc220a70ff309496",
+      "flag-v2-cc93e1f073593d9564bc",
+      "flag-v2-915d87bba2df44cb9e93"
+    ],
+    "iso": "SV",
+    "name": "El Salvador",
+    "svg": "/media/flags/bb414e86d1cdd0cc1224.svg",
+    "aspectRatio": 1.7724867724867726,
+    "familiarity": 2,
+    "groups": [
+      "central-american",
+      "blue-white-horizontal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sv.svg",
+    "sha256": "d9cfcb364d1c82aefead63541b87a1c7fc549c5a5975d2c03d315b163eb99cf3",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-042a6015c9ce11cc5688",
+      "flag-v2-ccf17fe8c5bf8290d5c6",
+      "flag-v2-ba28adddcad12d30181a"
+    ],
+    "iso": "SY",
+    "name": "Syrien",
+    "svg": "/media/flags/c5f448c69449f4739601.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab",
+      "red-white-black"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sy.svg",
+    "sha256": "114f63ff44c34361216c25e49c65ade53ba07a4607e5e917b089c60a0df6c173",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-fac2308743c65034d304",
+      "flag-v2-15a2daeb5cadbf774e33",
+      "flag-v2-b87d19e94d8ac11e1813"
+    ],
+    "iso": "SZ",
+    "name": "Eswatini",
+    "svg": "/media/flags/a829114ea4a6c822533f.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "island-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/sz.svg",
+    "sha256": "3d48fcbb07942d6d590bceb07f8462db36130a625022f12710e53c6cfdc51f77",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-4565de5d73ed70a8d468",
+      "flag-v2-ec010a66d4ad6a9908b4",
+      "flag-v2-f595879c072d18f10b46"
+    ],
+    "iso": "TD",
+    "name": "Tschad",
+    "svg": "/media/flags/bd5ec6952b65f7d3edd4.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "blue-yellow-red-vertical",
+      "vertical-tricolour"
+    ],
+    "similar": [
+      "MD",
+      "AD",
+      "RO"
+    ],
+    "excluded": [
+      "RO"
+    ],
+    "source": "https://flagcdn.com/td.svg",
+    "sha256": "e00578199e8761de425e2d2c2da36cef6f86b1d5f619b5cea703b5e4f3df6686",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-5c81203136db7ecad363",
+      "flag-v2-895ce7b6ff24b5c40a35",
+      "flag-v2-7c60e7489ccaca324aa4"
+    ],
+    "iso": "TG",
+    "name": "Togo",
+    "svg": "/media/flags/dd90cda9c6e5fe0419d7.svg",
+    "aspectRatio": 1.618032,
+    "familiarity": 3,
+    "groups": [
+      "pan-african",
+      "red-yellow-green-star"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tg.svg",
+    "sha256": "0f844c1daa8eaa2ee72c2ff792e58dde2a894dcb75c72a60e9d022166b78bde9",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-6af0545afc831d15b40c",
+      "flag-v2-be36a183f2b28b4498ee",
+      "flag-v2-e2e6855f454ca089803a"
+    ],
+    "iso": "TH",
+    "name": "Thailand",
+    "svg": "/media/flags/5ffd8168e2ba54b35c15.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-blue-white-bands"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/th.svg",
+    "sha256": "5201e1bd595d355a574b91ce9e10c087baa0c2249d1d6282af18586e06669c61",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-2c5508e88ac2be0e5a64",
+      "flag-v2-c8c2ba3a0e3d89cbcabf",
+      "flag-v2-f4c04ed31920668027f9"
+    ],
+    "iso": "TJ",
+    "name": "Tadschikistan",
+    "svg": "/media/flags/8806c176a4526e0dcadc.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tj.svg",
+    "sha256": "9d340d129c89640548731d3ab13ca52f328e69fde22bd3b6b85d3f286c37ccee",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d4997d56c07783f456a2",
+      "flag-v2-ef3facd98e713d4ebbe1",
+      "flag-v2-823306e561cd4a2ea7c4"
+    ],
+    "iso": "TL",
+    "name": "Timor-Leste",
+    "svg": "/media/flags/4a2e1d6bf18a838c12d2.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "black-red-yellow",
+      "stars-and-triangle"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tl.svg",
+    "sha256": "1f25223cf5d05c32593ca66f0126a14bd728535a6678edb5ba84df13614c0312",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-057933944d00915cffa1",
+      "flag-v2-eaeca43efad599d32d0d",
+      "flag-v2-bafb5c57b32f0e5453a4"
+    ],
+    "iso": "TM",
+    "name": "Turkmenistan",
+    "svg": "/media/flags/ea10d3d75d68cce5c558.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "crescent"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tm.svg",
+    "sha256": "db4f1a71ea3c9dfdda079b68a893dbb5f0c754b714a2f3bba3aad33bc0849a0a",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-864f860667efe925956d",
+      "flag-v2-3593ec094811aa4ce494",
+      "flag-v2-a46c28de8d6c1f0d535a"
+    ],
+    "iso": "TN",
+    "name": "Tunesien",
+    "svg": "/media/flags/619dfc10cc497c8d1678.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "crescent",
+      "red-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tn.svg",
+    "sha256": "c44da124530207af78c5f4c86300116143e32c501bc7f7671a09ad1155c673df",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-7485c107ca2c11bc0ed5",
+      "flag-v2-3adf44238ae6f53519ff",
+      "flag-v2-d15bddb34c3891005f65"
+    ],
+    "iso": "TO",
+    "name": "Tonga",
+    "svg": "/media/flags/eed703a7a3844545882a.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "pacific-red"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/to.svg",
+    "sha256": "a62015eed12b60558b6df0eae70f23ad692ecfbb17fb4562d71ad0b660a0ef9f",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-46234040eead0307aaf3",
+      "flag-v2-8a34780fc0eacb43e1de",
+      "flag-v2-f75181fe43dbcbca804f"
+    ],
+    "iso": "TR",
+    "name": "Türkei",
+    "svg": "/media/flags/1a5da75bbd11c9497aac.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "crescent",
+      "red-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tr.svg",
+    "sha256": "8bd784cabd316b1a636b78092fd8ba5d61a986930528890e08cdd15b23f98cd7",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-c048ef21332766cf341e",
+      "flag-v2-4e888849562667996235",
+      "flag-v2-c88a44f2ec8fc3772272"
+    ],
+    "iso": "TT",
+    "name": "Trinidad und Tobago",
+    "svg": "/media/flags/fa243e34ab89bdd0f45e.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 2,
+    "groups": [
+      "diagonal",
+      "red-white-black",
+      "caribbean"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tt.svg",
+    "sha256": "b89d362327cb05e61a6153177fe58c8e3681953706d6ac9f6c90ca013cccee6d",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-658a9507422f0ed30f5e",
+      "flag-v2-b40b0a8b3a584b0b6dfb",
+      "flag-v2-4e037c8438ef7699593a"
+    ],
+    "iso": "TV",
+    "name": "Tuvalu",
+    "svg": "/media/flags/8f1b172d1e1fcd0cd178.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "southern-cross-ensign",
+      "british-heritage",
+      "pacific-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tv.svg",
+    "sha256": "5a09ddd0961afed3823eb2131d79538f98bd0f607b2db982430489c1a02bfca4",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-93e9946e79f30bbd1b36",
+      "flag-v2-73a054cca8f021818fa7",
+      "flag-v2-7f6f63a57665a62857b0"
+    ],
+    "iso": "TZ",
+    "name": "Tansania",
+    "svg": "/media/flags/9ee9073ec7628d49f415.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "diagonal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/tz.svg",
+    "sha256": "f2e1ae8f67f47448009e89308e59142887cfcf5ac00024881e3861ebd1e8c169",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-f1d0863686395cad531f",
+      "flag-v2-d011723adb6d1d20708c",
+      "flag-v2-18a764b63fd4395954f4"
+    ],
+    "iso": "UA",
+    "name": "Ukraine",
+    "svg": "/media/flags/0452de5a01cc155bdbad.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "blue-yellow"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ua.svg",
+    "sha256": "a7441ab133990a781964e367f983bc2f8eafaa029eb22832295cbe1e1392254f",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-2682f0e698b3c5247c11",
+      "flag-v2-af262995fea9cb0b79bd",
+      "flag-v2-b68b0fe0b3313119312a"
+    ],
+    "iso": "UG",
+    "name": "Uganda",
+    "svg": "/media/flags/08303c00230840d62989.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "black-red-yellow"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ug.svg",
+    "sha256": "10bbacfc388329de99c46125cb2ab6f3e39d188d831aca820d7f36f68c478f78",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-50a4f85936037f04c2a6",
+      "flag-v2-92a3b74c075c02c068b6",
+      "flag-v2-b80020018f18a5c01914"
+    ],
+    "iso": "US",
+    "name": "Vereinigte Staaten",
+    "svg": "/media/flags/13bcd796a878ad38a6a5.svg",
+    "aspectRatio": 1.9,
+    "familiarity": 1,
+    "groups": [
+      "red-white-blue-stars"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/us.svg",
+    "sha256": "3d84da32dd1defbe510ff4d898aaeed277cd51e60ed7e82de2dba57c2fca7efa",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-d7be12bca56e172333b4",
+      "flag-v2-645379f932b0c4451798",
+      "flag-v2-770bdec364b45a93289a"
+    ],
+    "iso": "UY",
+    "name": "Uruguay",
+    "svg": "/media/flags/e852bcdfc59faeae049f.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "blue-white-horizontal",
+      "sun"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/uy.svg",
+    "sha256": "8eecab4c0da74459c624d510b6649b6c16d19b3b57e35e4cf429076615d6fc6c",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-bcb0f3ec7975df05e095",
+      "flag-v2-8bf280a371cc35728b71",
+      "flag-v2-1e88b7c65e5ca78410e2"
+    ],
+    "iso": "UZ",
+    "name": "Usbekistan",
+    "svg": "/media/flags/c123b574729da424bd68.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "crescent",
+      "red-green-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/uz.svg",
+    "sha256": "7ce6e8b7f4dd2a5bc050f9e538d22fde2fd371df15b751e48a29c1c3cb3df00b",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-4c6497246fd24a8c38db",
+      "flag-v2-66aedcb17fda2359c62e",
+      "flag-v2-89eb1ebc82380ba886d1"
+    ],
+    "iso": "VA",
+    "name": "Vatikanstadt",
+    "svg": "/media/flags/c90b5b08655a3323cf13.svg",
+    "aspectRatio": 1,
+    "familiarity": 2,
+    "groups": [
+      "white-symbol",
+      "unique-symbol"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/va.svg",
+    "sha256": "9207e7fdf4ec70276cb5b18dbbd807b5b3aee5f91c3caa8f915732a2fd8c91d7",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-20f4baab2ef6b42cd593",
+      "flag-v2-d4c63f9962f33c72ea10",
+      "flag-v2-c834f06f7b9f6353bafa"
+    ],
+    "iso": "VC",
+    "name": "St. Vincent und die Grenadinen",
+    "svg": "/media/flags/72b430248fff82fb2b38.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 3,
+    "groups": [
+      "caribbean",
+      "green-yellow-blue"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/vc.svg",
+    "sha256": "c2a36b00c4c8c637b6847ed2dafb6d90b879ea298ab57d062f6ab968027e1766",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-ef9eda10c0fee60bf44b",
+      "flag-v2-31e2b51f340101ca6127",
+      "flag-v2-9db9dc08374c88fffa4f"
+    ],
+    "iso": "VE",
+    "name": "Venezuela",
+    "svg": "/media/flags/2e9fe30d45e0000da949.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "andean-tricolour",
+      "horizontal-tricolour"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ve.svg",
+    "sha256": "97cd28460b53818191a296c255c0307b403148b08744c710785da295f58dbe46",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-8b7b27963c9f31d83194",
+      "flag-v2-562e78bfc53c78199b4c",
+      "flag-v2-52b0beaac06f12e86242"
+    ],
+    "iso": "VN",
+    "name": "Vietnam",
+    "svg": "/media/flags/822c92339e183c7f2710.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "red-stars",
+      "red-yellow-emblem"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/vn.svg",
+    "sha256": "bd236e52dc564431ea569bca0a7b81ae8e8663675cb24a7b6da43ff926cc147c",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-9033b495de2f2bd6c11e",
+      "flag-v2-1dd92740ef0343b237f5",
+      "flag-v2-57029b3aca9526466460"
+    ],
+    "iso": "VU",
+    "name": "Vanuatu",
+    "svg": "/media/flags/731146288b9ae5ffbb9c.svg",
+    "aspectRatio": 1.6666666666666667,
+    "familiarity": 3,
+    "groups": [
+      "pacific-red"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/vu.svg",
+    "sha256": "34e908d63fd795868576aec8dffd4b64807748450d6fe3ca4a5df28e6f31fe27",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-03071820634b1bbeb072",
+      "flag-v2-31120d76c591e35837a3",
+      "flag-v2-1c5f37f943ce7b5ab80a"
+    ],
+    "iso": "WS",
+    "name": "Samoa",
+    "svg": "/media/flags/9578d6f75ac524d1e5c5.svg",
+    "aspectRatio": 2,
+    "familiarity": 3,
+    "groups": [
+      "british-heritage",
+      "red-white-blue-stars",
+      "pacific-red"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ws.svg",
+    "sha256": "16c39680208d248df9747986ce435aeab0ca436a6c556f4da65848ff52cfedb7",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-4e69ce9d7bb1c53878f1",
+      "flag-v2-5d9345b624fc67584c72",
+      "flag-v2-9d48622bc9fb568c13a7"
+    ],
+    "iso": "YE",
+    "name": "Jemen",
+    "svg": "/media/flags/2923dde833a0f5a05361.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "pan-arab",
+      "red-white-black"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/ye.svg",
+    "sha256": "a92f3989182049dc218f7698c45d8cdfc64e6f945c71f20a9d188dd01698df2d",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-dc33b50b90a355b98c01",
+      "flag-v2-f18b4e8c1424120734bb",
+      "flag-v2-b5ce4be14291f4e598ef"
+    ],
+    "iso": "ZA",
+    "name": "Südafrika",
+    "svg": "/media/flags/a5e220126bca408eeebf.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 1,
+    "groups": [
+      "pan-african",
+      "diagonal"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/za.svg",
+    "sha256": "d9b1e3932668add1aad89f73809072ed9cb3747656aeb784cf696b4f865e6e07",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-15b1bd51c52d9466170c",
+      "flag-v2-794d6b29ee605eb283b6",
+      "flag-v2-128838abbdf554f5b1c0"
+    ],
+    "iso": "ZM",
+    "name": "Sambia",
+    "svg": "/media/flags/5c9dbbb3d6c90342a956.svg",
+    "aspectRatio": 1.5,
+    "familiarity": 2,
+    "groups": [
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/zm.svg",
+    "sha256": "3f7c18b0319e5b5d2f235cf3239a28b593e72c783382daddb5462ea14707dc7f",
+    "reviewed": "2026-11-09"
+  },
+  {
+    "questionIds": [
+      "flag-v2-eedf18b7951520dbafd4",
+      "flag-v2-5cea264b3fd5c4d83247",
+      "flag-v2-fdb7440a33064ab8f1f8"
+    ],
+    "iso": "ZW",
+    "name": "Simbabwe",
+    "svg": "/media/flags/bdd1d65a818600efe538.svg",
+    "aspectRatio": 2,
+    "familiarity": 2,
+    "groups": [
+      "pan-african"
+    ],
+    "similar": [],
+    "excluded": [],
+    "source": "https://flagcdn.com/zw.svg",
+    "sha256": "0ac7448792d655dfa64a05506bef78fc0519ddfc0858482b118527ddb455ea3f",
+    "reviewed": "2026-11-09"
+  }
+]

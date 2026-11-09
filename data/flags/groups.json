@@ -1,0 +1,645 @@
+[
+  {
+    "id": "red-white-bands",
+    "description": "Rot-weiße Streifen",
+    "members": [
+      "PL",
+      "MC",
+      "ID",
+      "SG",
+      "AT",
+      "LV",
+      "PE",
+      "CA",
+      "BH",
+      "QA",
+      "MT",
+      "LB"
+    ]
+  },
+  {
+    "id": "blue-white-red-horizontal",
+    "description": "Blau-weiß-rote Querstreifen",
+    "members": [
+      "NL",
+      "LU",
+      "RU",
+      "SI",
+      "SK",
+      "HR",
+      "RS",
+      "PY"
+    ]
+  },
+  {
+    "id": "blue-yellow-red-vertical",
+    "description": "Blau-gelb-rote Längsstreifen",
+    "members": [
+      "RO",
+      "TD",
+      "MD",
+      "AD"
+    ]
+  },
+  {
+    "id": "green-white-orange-vertical",
+    "description": "Grün-weiß-orange/rote Längsstreifen",
+    "members": [
+      "IE",
+      "CI",
+      "IT",
+      "MX"
+    ]
+  },
+  {
+    "id": "vertical-tricolour",
+    "description": "Vertikale Trikoloren",
+    "members": [
+      "FR",
+      "IT",
+      "MX",
+      "IE",
+      "CI",
+      "BE",
+      "RO",
+      "TD",
+      "MD",
+      "AD",
+      "ML",
+      "GN",
+      "SN",
+      "CM",
+      "NG",
+      "NE",
+      "MN"
+    ]
+  },
+  {
+    "id": "nordic-cross",
+    "description": "Skandinavische Kreuze",
+    "members": [
+      "DK",
+      "SE",
+      "NO",
+      "FI",
+      "IS"
+    ]
+  },
+  {
+    "id": "cross",
+    "description": "Kreuzmotive",
+    "members": [
+      "CH",
+      "GE",
+      "GR",
+      "GB",
+      "DK",
+      "SE",
+      "NO",
+      "FI",
+      "IS",
+      "MT",
+      "DO"
+    ]
+  },
+  {
+    "id": "southern-cross-ensign",
+    "description": "Südkreuz und britischer Kanton",
+    "members": [
+      "AU",
+      "NZ",
+      "FJ",
+      "TV"
+    ]
+  },
+  {
+    "id": "british-heritage",
+    "description": "Britischer Kanton oder karibische Symbolik",
+    "members": [
+      "AU",
+      "NZ",
+      "FJ",
+      "TV",
+      "GB",
+      "WS",
+      "BZ",
+      "BB",
+      "BS",
+      "AG"
+    ]
+  },
+  {
+    "id": "andean-tricolour",
+    "description": "Gelb-blau-rote Querstreifen",
+    "members": [
+      "CO",
+      "EC",
+      "VE",
+      "AM"
+    ]
+  },
+  {
+    "id": "central-american",
+    "description": "Blau-weiß-blaue mittelamerikanische Flaggen",
+    "members": [
+      "GT",
+      "HN",
+      "SV",
+      "NI",
+      "AR"
+    ]
+  },
+  {
+    "id": "blue-white-horizontal",
+    "description": "Blau-weiße Querstreifen",
+    "members": [
+      "AR",
+      "UY",
+      "GR",
+      "IL",
+      "HN",
+      "SV",
+      "NI",
+      "GT"
+    ]
+  },
+  {
+    "id": "pan-arab",
+    "description": "Panarabische Farben und Streifen",
+    "members": [
+      "PS",
+      "JO",
+      "SD",
+      "AE",
+      "KW",
+      "SY",
+      "IQ",
+      "EG",
+      "YE",
+      "LY",
+      "SS",
+      "OM"
+    ]
+  },
+  {
+    "id": "arabic-script",
+    "description": "Arabische Schrift oder Schwert",
+    "members": [
+      "SA",
+      "AF",
+      "IQ"
+    ]
+  },
+  {
+    "id": "crescent",
+    "description": "Halbmond und Stern",
+    "members": [
+      "TR",
+      "TN",
+      "DZ",
+      "PK",
+      "MV",
+      "MR",
+      "AZ",
+      "UZ",
+      "TM",
+      "MY",
+      "SG",
+      "KM",
+      "LY"
+    ]
+  },
+  {
+    "id": "pan-african",
+    "description": "Grün-gelb-rote panafrikanische Farben",
+    "members": [
+      "ML",
+      "GN",
+      "SN",
+      "CM",
+      "GH",
+      "BF",
+      "BJ",
+      "TG",
+      "GW",
+      "ET",
+      "BO",
+      "ST",
+      "CG",
+      "GA",
+      "MZ",
+      "SZ",
+      "ER",
+      "ZA",
+      "ZM",
+      "ZW",
+      "CF",
+      "BI",
+      "GQ",
+      "MM",
+      "SR"
+    ]
+  },
+  {
+    "id": "green-yellow-red-horizontal",
+    "description": "Grün-gelb-rote Querstreifen",
+    "members": [
+      "ET",
+      "BO",
+      "GH",
+      "LT",
+      "BJ",
+      "BF"
+    ]
+  },
+  {
+    "id": "red-yellow-green-star",
+    "description": "Stern auf panafrikanischen Farben",
+    "members": [
+      "SN",
+      "CM",
+      "GH",
+      "BF",
+      "GW",
+      "ST",
+      "TG"
+    ]
+  },
+  {
+    "id": "blue-yellow",
+    "description": "Blau und Gelb",
+    "members": [
+      "UA",
+      "PW",
+      "KZ",
+      "SE",
+      "BS",
+      "BA",
+      "BB",
+      "RW"
+    ]
+  },
+  {
+    "id": "red-white-blue-stars",
+    "description": "Rot-weiß-blau mit Sternen",
+    "members": [
+      "US",
+      "LR",
+      "MY",
+      "CU",
+      "CL",
+      "PA",
+      "KP",
+      "WS"
+    ]
+  },
+  {
+    "id": "red-stars",
+    "description": "Rote Fläche mit Sternen",
+    "members": [
+      "CN",
+      "VN",
+      "MA",
+      "TR",
+      "TN",
+      "KG"
+    ]
+  },
+  {
+    "id": "disc",
+    "description": "Kreis/Sonne auf einfarbiger Fläche",
+    "members": [
+      "JP",
+      "BD",
+      "PW",
+      "LA",
+      "KR",
+      "KZ",
+      "KG",
+      "NE"
+    ]
+  },
+  {
+    "id": "sun",
+    "description": "Sonnenmotive",
+    "members": [
+      "JP",
+      "AR",
+      "UY",
+      "KZ",
+      "KG",
+      "KI",
+      "NA",
+      "MK",
+      "PH",
+      "NP"
+    ]
+  },
+  {
+    "id": "diagonal",
+    "description": "Diagonalen und Dreiecke",
+    "members": [
+      "TZ",
+      "CD",
+      "CG",
+      "NA",
+      "BS",
+      "TT",
+      "KN",
+      "GY",
+      "SB",
+      "SC",
+      "MZ",
+      "ER",
+      "PG",
+      "BT",
+      "BH",
+      "QA",
+      "ZA"
+    ]
+  },
+  {
+    "id": "pacific-blue",
+    "description": "Blaue pazifische Sternflaggen",
+    "members": [
+      "FM",
+      "MH",
+      "NR",
+      "PW",
+      "SB",
+      "AU",
+      "NZ",
+      "TV",
+      "FJ"
+    ]
+  },
+  {
+    "id": "pacific-red",
+    "description": "Rote pazifische Flaggen",
+    "members": [
+      "WS",
+      "TO",
+      "KI",
+      "PG",
+      "VU"
+    ]
+  },
+  {
+    "id": "red-blue-horizontal",
+    "description": "Rot-blaue Querstreifen",
+    "members": [
+      "HT",
+      "LI",
+      "KH",
+      "LA",
+      "AM",
+      "AZ"
+    ]
+  },
+  {
+    "id": "green-white",
+    "description": "Grün-weiße Flaggen",
+    "members": [
+      "NG",
+      "PK",
+      "DZ",
+      "SA",
+      "MV"
+    ]
+  },
+  {
+    "id": "red-white-black",
+    "description": "Rot-weiß-schwarze Flaggen",
+    "members": [
+      "EG",
+      "YE",
+      "IQ",
+      "SY",
+      "SD",
+      "KE",
+      "TT",
+      "AO"
+    ]
+  },
+  {
+    "id": "green-red",
+    "description": "Grün und Rot",
+    "members": [
+      "PT",
+      "BD",
+      "MG",
+      "BY",
+      "MZ"
+    ]
+  },
+  {
+    "id": "white-symbol",
+    "description": "Weißer Grund mit Symbol",
+    "members": [
+      "CY",
+      "KR",
+      "SM",
+      "AF",
+      "JP",
+      "VA"
+    ]
+  },
+  {
+    "id": "caribbean",
+    "description": "Karibische Symbole und Farbflächen",
+    "members": [
+      "AG",
+      "BS",
+      "BB",
+      "BZ",
+      "DM",
+      "DO",
+      "GD",
+      "HT",
+      "JM",
+      "KN",
+      "LC",
+      "VC",
+      "TT",
+      "CU"
+    ]
+  },
+  {
+    "id": "island-emblem",
+    "description": "Inselstaaten mit komplexem Wappen/Symbol",
+    "members": [
+      "BZ",
+      "DM",
+      "GD",
+      "HT",
+      "DO",
+      "FJ",
+      "KI",
+      "LK",
+      "BN",
+      "BT",
+      "SZ"
+    ]
+  },
+  {
+    "id": "blue-red-emblem",
+    "description": "Blau-rot mit Wappen",
+    "members": [
+      "LI",
+      "HT",
+      "KH",
+      "RS",
+      "HR",
+      "SK",
+      "SI"
+    ]
+  },
+  {
+    "id": "red-green-blue",
+    "description": "Blau-rot-grüne Flaggen",
+    "members": [
+      "AZ",
+      "GM",
+      "UZ",
+      "ER",
+      "DJ"
+    ]
+  },
+  {
+    "id": "black-red-yellow",
+    "description": "Schwarz-rot-gelbe Flaggen",
+    "members": [
+      "DE",
+      "BE",
+      "AO",
+      "UG",
+      "TL",
+      "PG"
+    ]
+  },
+  {
+    "id": "horizontal-tricolour",
+    "description": "Horizontale Trikoloren",
+    "members": [
+      "DE",
+      "HU",
+      "BG",
+      "LT",
+      "EE",
+      "AM",
+      "RU",
+      "NL",
+      "LU",
+      "CO",
+      "EC",
+      "VE",
+      "IN",
+      "IR",
+      "TJ",
+      "SL",
+      "GA",
+      "GM",
+      "MU",
+      "BW",
+      "LS",
+      "MW"
+    ]
+  },
+  {
+    "id": "stars-and-triangle",
+    "description": "Dreieck und Sterne",
+    "members": [
+      "CU",
+      "DJ",
+      "KM",
+      "PH",
+      "TL",
+      "ST",
+      "SS"
+    ]
+  },
+  {
+    "id": "unique-symbol",
+    "description": "Markante Einzelmotive",
+    "members": [
+      "NP",
+      "BT",
+      "LK",
+      "BN",
+      "CY",
+      "SM",
+      "VA",
+      "AL",
+      "ME",
+      "MK",
+      "GE",
+      "SC"
+    ]
+  },
+  {
+    "id": "baltic-central-europe",
+    "description": "Europäische Streifen",
+    "members": [
+      "EE",
+      "LV",
+      "LT",
+      "HU",
+      "BG",
+      "AT",
+      "PL",
+      "CZ",
+      "SK",
+      "SI",
+      "HR",
+      "RS"
+    ]
+  },
+  {
+    "id": "blue-white-stars",
+    "description": "Blauer Grund mit weißen Sternen",
+    "members": [
+      "SO",
+      "FM",
+      "NR",
+      "SB",
+      "AU",
+      "NZ",
+      "MH"
+    ]
+  },
+  {
+    "id": "green-yellow-blue",
+    "description": "Grün-gelb-blaue Farbflächen",
+    "members": [
+      "BR",
+      "GA",
+      "RW",
+      "VC",
+      "SB"
+    ]
+  },
+  {
+    "id": "red-yellow-emblem",
+    "description": "Rot und Gelb mit Symbol",
+    "members": [
+      "ES",
+      "CN",
+      "VN",
+      "MK",
+      "KG",
+      "LT"
+    ]
+  },
+  {
+    "id": "red-blue-white-bands",
+    "description": "Rot-blau-weiße Querstreifen",
+    "members": [
+      "TH",
+      "CR",
+      "CV",
+      "KP",
+      "PY",
+      "HR"
+    ]
+  }
+]
