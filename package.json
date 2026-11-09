@@ -7,7 +7,8 @@
     "dev": "vite --host 0.0.0.0",
     "build": "tsc -b && vite build",
     "test": "node --import tsx --test tests/*.test.ts",
-    "check": "tsc -b"
+    "check": "tsc -b",
+    "test:multiplayer": "node --env-file=.env.production scripts/test-multiplayer.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.57.4",
