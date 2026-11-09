@@ -7,5 +7,8 @@ dist/
 *.apk
 *.keystore
 *.jks
-.openai/
+.openai/*
+!.openai/hosting.json
 recovery/
+
+*.tsbuildinfo
