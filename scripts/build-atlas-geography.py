@@ -20,12 +20,16 @@ names={'Asia':'Asien','Europe':'Europa','Africa':'Afrika','North America':'Norda
 countries={}
 for country in registry:
  iso=country['iso'];f=lookup[iso];rs=rings(f);points=[p for r in rs for p in r];xs=sorted(set((p[0]+360)%360 for p in points));_,i=max(((xs[(i+1)%len(xs)]-x)%360,i) for i,x in enumerate(xs));start=xs[(i+1)%len(xs)];ys=[p[1] for p in points];cos=max(.05,math.cos(math.radians((min(ys)+max(ys))/2)))
- def project(x,y):return (((x-start)%360)*cos,-y)
+ def project(x,y):
+  delta=(x-start)%360
+  if delta>359.999999:delta=0.
+  return (delta*cos,-y)
  pts=[project(x,y) for x,y,*_ in points];minx=min(x for x,y in pts);miny=min(y for x,y in pts);width=max(x for x,y in pts)-minx;height=max(y for x,y in pts)-miny
  assert width>0 and height>0
  continent=f['properties']['CONTINENT']
  if continent not in names:continent=f['properties']['REGION_UN']
- countries[iso]={'continent':names[continent],'path':path(rs,lambda x,y:(project(x,y)[0]-minx,project(x,y)[1]-miny)),'width':width,'height':height}
+ scale=1000/max(width,height)
+ countries[iso]={'continent':names[continent],'path':path(rs,lambda x,y:((project(x,y)[0]-minx)*scale,(project(x,y)[1]-miny)*scale)),'width':width*scale,'height':height*scale}
 Path('data/atlas').mkdir(exist_ok=True)
 Path('data/atlas/geography.json').write_text(json.dumps({'countries':countries,'world':world},separators=(',',':')))
 Path('data/atlas/SOURCES.md').write_text('''# Atlas-Geometrien
