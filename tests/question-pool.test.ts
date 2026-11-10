@@ -32,3 +32,10 @@ test('Unseen subjects take priority; inverse capital questions do not repeat dur
  let state=emptyState();const seen=new Set<string>();for(let n=0;n<8;n++){let r=createRound(state,16,'capitals');for(const q of r.questions){assert.ok(!seen.has(questionSubject(q)));seen.add(questionSubject(q));}while(r.status==='playing')r=nextRound(answerRound(r,0));state=recordRound(state,r);}assert.equal(seen.size,128);
 });
 test('Round difficulty targets distribute 1/2/3 points while new subjects remain',()=>{const round=createRound(emptyState(),16,'maps',()=>.4);assert.deepEqual([1,2,3].map(d=>round.questions.filter(q=>q.difficulty===d).length),[4,8,4]);});
+test('Country-revealing UNESCO prompts are retired immutably and replaced with distinct site IDs',()=>{
+ const removed=new Set(['915','135','65','599','1499','699','1483','1245','286']);
+ const retired=questions.filter(q=>q.category==='landmarks'&&!q.enabled&&q.id.startsWith('geo-v3-'));
+ assert.equal(retired.length,9);
+ for(const q of retired){const siteId=(q.provenance as typeof q.provenance&{siteId:string}).siteId;assert.ok(removed.has(siteId));assert.ok(!expandedQuestions.some(n=>n.id===q.id));}
+ for(const q of expandedQuestions.filter(q=>q.category==='landmarks'&&q.media===null))assert.ok(!removed.has((q.provenance as typeof q.provenance&{siteId:string}).siteId));
+});

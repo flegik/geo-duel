@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "independentAnonymousProfiles": 2,
+  "duels": [
+    {
+      "roomId": "54cb898f-d2b5-4103-9fa5-3f8fd2d15262",
+      "selection": [
+        "landmarks"
+      ],
+      "total": 3,
+      "points": [
+        6,
+        0
+      ],
+      "questions": [
+        {
+          "id": "geo-v3-landmarks-cd62656423ae0dc0",
+          "category": "landmarks",
+          "difficulty": 1,
+          "mediaType": "image"
+        },
+        {
+          "id": "geo-v3-landmarks-1f1203f57918b69f",
+          "category": "landmarks",
+          "difficulty": 2
+        },
+        {
+          "id": "geo-v3-landmarks-99a385c4eb1b77bc",
+          "category": "landmarks",
+          "difficulty": 3
+        }
+      ]
+    }
+  ],
+  "checks": [
+    "all six expanded categories and unchanged flags",
+    "one-category and four-category rooms",
+    "identical question/media/options",
+    "authoritative 1/2/3 scoring",
+    "zero points for wrong answers",
+    "duplicate submission idempotency",
+    "feedback session restore",
+    "opponent scores hidden",
+    "result/review/stats",
+    "non-host configuration rejected"
+  ]
+}

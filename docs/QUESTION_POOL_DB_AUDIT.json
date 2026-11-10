@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-11-10",
+  "project": "qngzwhesblhzprurxelv",
+  "audit": {
+    "total": 2022,
+    "active": {
+      "maps": 195,
+      "flags": 585,
+      "world": 150,
+      "borders": 294,
+      "capitals": 264,
+      "landmarks": 120,
+      "silhouettes": 195
+    },
+    "flags_hash": "8aebbb1f05d7c045062926091a684b53",
+    "retired_review": 9,
+    "historical_nonflags": 180,
+    "existing_profiles_hash": "565d855869ebcb2d03e7bf430d03b5d6",
+    "historical_content_hash": "c4d24d5a6a3ae31c22847bd6dde96adc"
+  },
+  "baseline": {
+    "flags_hash": "8aebbb1f05d7c045062926091a684b53",
+    "existing_profiles_hash": "565d855869ebcb2d03e7bf430d03b5d6",
+    "historical_content_hash": "c4d24d5a6a3ae31c22847bd6dde96adc"
+  },
+  "note": "Original profile rows, all flag rows including enabled state, and preexisting question contents match before/after fingerprints. Live room/answer totals increased during concurrent traffic and QA, so global room/answer fingerprints are not asserted equal."
+}

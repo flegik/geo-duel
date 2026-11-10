@@ -5,8 +5,8 @@ const clients=[0,1].map(()=>createClient(url,key,{auth:{persistSession:false,aut
 async function rpc(c:typeof clients[number],action:string,payload:Record<string,unknown>={}){const {data,error}=['create','join'].includes(action)?await c.functions.invoke('game',{body:{action,payload}}):await c.rpc('geoduel',{action,payload});assert.ifError(error);assert.ok(!data?.error,data?.error);return data;}
 let room:any;const report:any[]=[];const totals=[0,0];const guestIds:string[]=[];
 try{
- for(let p=0;p<2;p++){const {data,error}=await clients[p].auth.signInAnonymously();assert.ifError(error);assert.ok(data.user?.is_anonymous);guestIds.push(data.user!.id);await rpc(clients[p],'profile',{nickname:`QA-Pool-${p+1}`});}assert.notEqual(guestIds[0],guestIds[1]);
- const cases:(Category[]|null)[]=[null,['capitals'],['silhouettes'],['maps'],['borders'],['landmarks'],['world'],['flags']];
+ for(let p=0;p<2;p++){const {data,error}=await clients[p].auth.signInAnonymously();assert.ifError(error);assert.ok(data.user?.is_anonymous);guestIds.push(data.user!.id);await rpc(clients[p],'profile',{nickname:`${process.env.GEODUEL_TEST_PROFILE_BASE??"QA-Pool"}-${p+1}`});}assert.notEqual(guestIds[0],guestIds[1]);
+ const cases:(Category[]|null)[]=process.env.GEODUEL_TEST_CATEGORIES?[process.env.GEODUEL_TEST_CATEGORIES.split(',') as Category[]]:[null,['capitals'],['silhouettes'],['maps'],['borders'],['landmarks'],['world'],['flags']];
  for(const selection of cases){
   room=await rpc(clients[0],'create',{perCategory:3});await rpc(clients[1],'join',{code:room.code});
   if(selection){room=await rpc(clients[0],'configure',{roomId:room.id,categories:selection,perCategory:3});assert.deepEqual(room.selectedCategories,selection);assert.equal(room.total,3);}
@@ -36,6 +36,6 @@ try{
   // Production throttle is intentionally respected across the eight sequential duels.
   if(report.length===4)await new Promise(resolve=>setTimeout(resolve,60000));
  }
- const result={status:'PASS',independentAnonymousProfiles:2,duels:report,checks:['all six expanded categories and unchanged flags','one-category and four-category rooms','identical question/media/options','authoritative 1/2/3 scoring','zero points for wrong answers','duplicate submission idempotency','feedback session restore','opponent scores hidden','result/review/stats','non-host configuration rejected']};writeFileSync('docs/QUESTION_POOL_MULTIPLAYER_TEST.json',JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify({status:'PASS',duels:report.length,answeredQuestions:report.reduce((s,r)=>s+2*r.total,0)}));
+ const result={status:'PASS',independentAnonymousProfiles:2,duels:report,checks:['all six expanded categories and unchanged flags','one-category and four-category rooms','identical question/media/options','authoritative 1/2/3 scoring','zero points for wrong answers','duplicate submission idempotency','feedback session restore','opponent scores hidden','result/review/stats','non-host configuration rejected']};writeFileSync(process.env.GEODUEL_TEST_REPORT??'docs/QUESTION_POOL_MULTIPLAYER_TEST.json',JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify({status:'PASS',duels:report.length,answeredQuestions:report.reduce((s,r)=>s+2*r.total,0)}));
 }finally{if(room)await rpc(clients[0],'leave',{roomId:room.id});await Promise.all(clients.map(c=>c.removeAllChannels()));}
 process.exit(0);
