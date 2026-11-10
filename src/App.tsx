@@ -1,4 +1,5 @@
-import WorldAtlas from './WorldAtlas';
+import {lazy,Suspense} from 'react';
+const WorldAtlas=lazy(()=>import('./WorldAtlas'));
 import {AnswerDiscovery,useDiscovery} from './AnswerDiscovery';
 import {PwaUpdate,APP_VERSION} from './PwaUpdate';
 import {useCallback,useEffect,useRef,useState,type ReactNode} from 'react';
@@ -64,7 +65,7 @@ export default function App(){
  <button className="mode-card atlas-entry" onClick={()=>navigate('atlas')}><span className="mode-icon"><BookOpen size={27}/></span><h2>Weltatlas</h2><p>195 Länder entdecken. Flaggen, Umrisse, Karten und Länderwissen – ohne Quiz und ohne Zeitlimit.</p><span className="card-cta">Atlas öffnen <ArrowRight size={19}/></span></button>
  <div className="discovery"><span className="small-icon"><Mountain/></span><div><span className="eyebrow">EIN BISSCHEN WEITER DENKEN</span><p>Die Welt ist voller Aha-Momente.<br/><strong>Dein nächster wartet schon.</strong></p></div><span className="discovery-number">{questions.filter(q=>q.enabled).length}<span>Fragen</span></span></div>
  </>;
- else if(view==='atlas')content=<WorldAtlas/>;
+ else if(view==='atlas')content=<Suspense fallback={<p role="status">Weltatlas wird geöffnet …</p>}><WorldAtlas/></Suspense>;
  else if(view==='solo')content=<>{intro('DEIN PERSÖNLICHER ENTDECKERPFAD','Hallo, Welt.','Einmal quer über den Globus oder ganz gezielt Neues lernen.')}
  {solo.round?.status==='playing'&&<button className="resume-panel" onClick={()=>navigate('quiz')}><Play/><span><strong>Offene Runde fortsetzen</strong><small>Frage {solo.round.cursor+1} von {solo.round.questions.length}</small></span><ChevronRight/></button>}
  <section className="panel quick-panel"><div className="section-heading"><div><span className="eyebrow">EINFACH LOSLEGEN</span><h2>Schnelles Quiz</h2></div><span className="small-icon mint"><Sparkles/></span></div><p>Vier zufällige Kategorien. Jede Runde eine neue Reise.</p>{lengths}<Button onClick={()=>startSolo()}><Play size={19}/>Quiz starten<ArrowRight size={19}/></Button></section>
