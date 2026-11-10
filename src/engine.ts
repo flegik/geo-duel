@@ -1,3 +1,4 @@
+import {pickBalanced} from './selection';
 import raw from '../data/questions.json';
 import {expandedQuestions,retiredQuestions} from './questionPool';
 import {flagQuestions,questionSubject,seenSubject} from './flags';
@@ -11,7 +12,7 @@ export const categories = {
  world:{name:'Weltwissen',description:'Kleine Fragen, große Welt',icon:'Globe2'},
 } as const;
 export type Category=keyof typeof categories;
-export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:{sources:string[];subjectKey?:string;iso?:string;challenge?:number;confusions?:string[]};enabled:boolean};
+export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:{sources:string[];subjectKey?:string;iso?:string;challenge?:number;confusions?:string[];topic?:string;population?:{[key:string]:unknown}};enabled:boolean};
 export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...expandedQuestions,...retiredQuestions];
 export type Answer={selected:number;points:number};
 export type Round={id:string;mode:'quick'|'training';category?:Category;questions:Question[];answers:Answer[];cursor:number;status:'playing'|'completed';createdAt:string};
@@ -36,7 +37,7 @@ export function createRound(state:SoloState,count:8|12|16,category?:Category,ran
    const oldest=available.length?seen.lastIndexOf(questionSubject(available[0])):-1;
    const eligible=unseen.length?unseen:available.filter(q=>seen.lastIndexOf(questionSubject(q))===oldest);
    const target=[1,2,3,2][i%4];
-   const q=eligible.find(q=>q.difficulty===target)??eligible[0];
+   const q=!category&&cat!=='flags'?pickBalanced(available,target,seen,random):eligible.find(q=>q.difficulty===target)??eligible[0];
    if(q){selected.push(q);chosenSubjects.add(questionSubject(q));}
   }
  }

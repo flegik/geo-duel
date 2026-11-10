@@ -1,0 +1,31 @@
+import {createClient} from '@supabase/supabase-js';import assert from 'node:assert/strict';import {writeFileSync} from 'node:fs';
+import {questions} from '../src/engine';
+const clients=[0,1].map(()=>createClient(process.env.VITE_SUPABASE_URL!,process.env.VITE_SUPABASE_PUBLISHABLE_KEY!,{auth:{persistSession:false,autoRefreshToken:false}}));const pool=new Map(questions.map(q=>[q.id,q]));
+async function rpc(c:typeof clients[number],action:string,payload:Record<string,unknown>={}){const {data,error}=['create','join'].includes(action)?await c.functions.invoke('game',{body:{action,payload}}):await c.rpc('geoduel',{action,payload});assert.ifError(error);assert.ok(!data?.error,data?.error);return data;}
+let room:any;const report:any[]=[];const populationKinds=new Set<string>();const totals=[0,0];
+async function start(categories?:string[]){room=await rpc(clients[0],'create',{perCategory:categories?4:3});await rpc(clients[1],'join',{code:room.code});if(categories)room=await rpc(clients[0],'configure',{roomId:room.id,categories});for(const c of clients)await rpc(c,'ready',{roomId:room.id,ready:true});return rpc(clients[0],'start',{roomId:room.id});}
+async function finish(preservation=false){
+ const initial=await rpc(clients[0],'snapshot',{roomId:room.id});const expected=[0,0];const seen:any[]=[];const subjects=new Set<string>();
+ for(let pos=0;pos<initial.total;pos++){
+  const snapshots=await Promise.all(clients.map(c=>rpc(c,'snapshot',{roomId:room.id})));assert.deepEqual(snapshots[0].question,snapshots[1].question);const q=snapshots[0].question,source=pool.get(q.id)!;assert.ok(source?.enabled);if(preservation)assert.ok(!q.id.startsWith('population-v1-'),'Pre-rollout room must retain its old questions');
+  assert.equal(q.correct,undefined);assert.equal(q.provenance,undefined);assert.equal(new Set(q.options).size,4);const subject=source.provenance.subjectKey??q.id;assert.ok(!subjects.has(subject));subjects.add(subject);if(source.provenance.population)populationKinds.add(String(source.provenance.population.kind));
+  const correct=q.options.indexOf(source.options[source.correct]);assert.ok(correct>=0);const options=[correct,(correct+1)%4];
+  const answers=await Promise.all(clients.map((c,p)=>rpc(c,'answer',{roomId:room.id,position:pos,option:options[p]})));
+  for(let p=0;p<2;p++){expected[p]+=p===0?source.difficulty:0;assert.equal(answers[p].feedback.correct,correct);assert.equal(answers[p].feedback.points,p===0?source.difficulty:0);assert.equal(answers[p].points,expected[p]);assert.ok(answers[p].players.every((x:any)=>!('points' in x)));}
+  if(pos===0){await Promise.all(clients.map(async(c,p)=>{const repeat=await rpc(c,'answer',{roomId:room.id,position:pos,option:(options[p]+1)%4});assert.deepEqual(repeat.feedback,answers[p].feedback);const {data:{session}}=await c.auth.getSession();const reconnect=createClient(process.env.VITE_SUPABASE_URL!,process.env.VITE_SUPABASE_PUBLISHABLE_KEY!,{auth:{persistSession:false,autoRefreshToken:false}});assert.ifError((await reconnect.auth.setSession(session!)).error);assert.deepEqual((await rpc(reconnect,'snapshot',{roomId:room.id})).feedback,answers[p].feedback);await reconnect.removeAllChannels();}));}
+  seen.push({id:q.id,category:q.category,difficulty:q.difficulty,populationKind:source.provenance.population?.kind});await Promise.all(clients.map(c=>rpc(c,'next',{roomId:room.id,position:pos})));
+ }
+ const done=await rpc(clients[0],'snapshot',{roomId:room.id});assert.equal(done.status,'completed');assert.equal(done.result.total,initial.total);const reviews=await Promise.all(clients.map(c=>rpc(c,'review',{roomId:room.id})));assert.equal(reviews[0].length,initial.total);
+ for(let p=0;p<2;p++){totals[p]+=expected[p];const stats=await rpc(clients[p],'stats');assert.equal(stats.played,report.length+1);assert.equal(stats.points,totals[p]);}
+ report.push({roomId:room.id,categories:done.categories,total:initial.total,points:expected,preservation,questions:seen});writeFileSync('docs/POPULATION_MULTIPLAYER_TEST.json',JSON.stringify({status:'IN_PROGRESS',duels:report,populationKinds:[...populationKinds]},null,2)+'\n');console.log('PASS',preservation?'pre-rollout room preserved':done.categories.join(','),initial.total,'questions',expected);room=null;
+}
+try{
+ const ids=[];for(let p=0;p<2;p++){const {data,error}=await clients[p].auth.signInAnonymously();assert.ifError(error);assert.ok(data.user?.is_anonymous);ids.push(data.user!.id);await rpc(clients[p],'profile',{nickname:`QA-Population-${p+1}`});}assert.notEqual(ids[0],ids[1]);
+ const before=await start();const q=before.question,source=pool.get(q.id)!;const correct=q.options.indexOf(source.options[source.correct]);await Promise.all(clients.map((c,p)=>rpc(c,'answer',{roomId:room.id,position:0,option:p===0?correct:(correct+1)%4})));
+ console.log(JSON.stringify({status:'PAUSED_FOR_ROLLOUT',roomId:room.id,firstQuestion:q.id,points:source.difficulty}));await new Promise<void>(resolve=>{process.stdin.resume();process.stdin.once('data',()=>{process.stdin.pause();resolve();});});
+ await finish(true);
+ await start(['borders']);await finish();
+ for(let n=0;n<6&&populationKinds.size<2;n++){if(report.length%4===0)await new Promise(resolve=>setTimeout(resolve,60000));await start(['world']);await finish();}
+ assert.deepEqual([...populationKinds].sort(),['city','country']);const result={status:'PASS',independentAnonymousProfiles:2,duels:report,populationKinds:[...populationKinds],checks:['pre-rollout playing room and answered feedback retained','same questions and option order for both guests','authoritative correct/wrong scores','duplicate answer idempotency','feedback reconnect','single-category borders and world duels','country and city population questions actually answered','reviews and persisted stats']};writeFileSync('docs/POPULATION_MULTIPLAYER_TEST.json',JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify({status:'PASS',duels:report.length,playerAnswers:report.reduce((n,r)=>n+r.total*2,0),populationKinds:[...populationKinds]}));
+}finally{if(room)await rpc(clients[0],'leave',{roomId:room.id});await Promise.all(clients.map(c=>c.removeAllChannels()));}
+process.exit(0);
