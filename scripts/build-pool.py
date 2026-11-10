@@ -50,6 +50,18 @@ elif category in ('silhouettes','maps'):
   media=dict(type='atlas-outline' if category=='silhouettes' else 'atlas-map',src='atlas:'+iso,alt='Länderumriss ohne Beschriftung' if category=='silhouettes' else 'Karte mit hervorgehobenem Land',license='Natural Earth – Public Domain')
   desc=f"Der Umriss gehört zu {flags[iso]['name']}. Vergleiche Küstenverlauf, Seitenverhältnis und Teilflächen." if category=='silhouettes' else f"Markiert ist {flags[iso]['name']} ({geo[iso]['continent']}). Die anderen Optionen liegen in derselben geografischen Großregion."
   out.append(question(category,iso,prompt,flags[iso]['name'],[flags[c]['name'] for c in alternative],d,desc,[NE],media,subject=f'{category}:{iso}',iso=iso,confusions=alternative,confusionGroup=group['id'] if group and category=='silhouettes' else 'regional-nearest'))
+elif category=='borders':
+ audit=json.loads(Path('data/learning/borders-audit.json').read_text());verified=audit['verified'];blocked=audit['blocked']
+ for i,iso in enumerate(flags):
+  neighbors=verified[iso]
+  if not neighbors:continue
+  candidates=[c for c in nearby(iso) if c not in blocked[iso] and c not in audit['excluded'] and geo[c]['continent']==geo[iso]['continent']]
+  if len(candidates)<3:continue
+  for j,correct in enumerate(sorted(neighbors,key=lambda c:distance(iso,c))[:2]):
+   out.append(question(category,iso+'-yes-'+correct,f'Welches dieser Länder hat eine direkte Landgrenze mit {flags[iso]["name"]}?',flags[correct]['name'],[flags[c]['name'] for c in candidates[:3]],level(iso,i),f'{flags[iso]["name"]} und {flags[correct]["name"]} teilen eine direkte Landgrenze. Die drei anderen Länder grenzen auf dem Landweg nicht an {flags[iso]["name"]}. Seegrenzen sind hier nicht gemeint.',[COUNTRIES,NE],subject='borders:'+iso,iso=iso,confusions=candidates[:3],borderAnswer=correct,relation='adjacent'))
+  if len(neighbors)>=3:
+   correct=candidates[0];wrong=sorted(neighbors,key=lambda c:distance(iso,c))[:3]
+   out.append(question(category,iso+'-no-'+correct,f'Welches dieser Länder hat KEINE direkte Landgrenze mit {flags[iso]["name"]}?',flags[correct]['name'],[flags[c]['name'] for c in wrong],3,f'{flags[correct]["name"]} hat keine direkte Landgrenze mit {flags[iso]["name"]}. '+', '.join(flags[c]['name'] for c in wrong)+' grenzen dagegen direkt an dieses Land. Seegrenzen zählen nicht.',[COUNTRIES,NE],subject='borders:'+iso,iso=iso,confusions=wrong,borderAnswer=correct,relation='not-adjacent'))
 else:raise SystemExit('Category not implemented yet: '+category)
 assert out and len({q['id'] for q in out})==len(out)
 for q in out:assert 1<=q['difficulty']<=3 and len(q['provenance']['sources'])>0 and q['explanation']
