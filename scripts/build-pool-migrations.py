@@ -8,8 +8,8 @@ for category in ['capitals','silhouettes','maps','borders','landmarks','world']:
  data=json.loads(Path(f'data/question-pool/{category}.json').read_text());blob=json.dumps(data,ensure_ascii=False,separators=(',',':'))
  assert '$question_data$' not in blob
  sql='''-- Stage new questions disabled. Existing IDs and content are never overwritten.
-insert into game.questions(id,category,difficulty,prompt,options,correct,explanation,media,provenance,enabled,subject_key)
-select id,category,difficulty,prompt,options,correct,explanation,nullif(media,'null'::jsonb),provenance,false,provenance->>'subjectKey'
+insert into game.questions(id,category,difficulty,prompt,options,correct,explanation,media,provenance,enabled)
+select id,category,difficulty,prompt,options,correct,explanation,nullif(media,'null'::jsonb),provenance,false
 from jsonb_to_recordset($question_data$'''+blob+'''$question_data$::jsonb) as x(id text,category text,difficulty int,prompt text,options jsonb,correct int,explanation text,media jsonb,provenance jsonb)
 on conflict(id) do nothing;
 '''
