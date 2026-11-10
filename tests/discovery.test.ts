@@ -1,0 +1,8 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';
+import {answerPreview} from '../src/answerPreview';import {answerRound,createRound,emptyState,recordRound} from '../src/engine';
+import registry from '../data/flags/registry.json';import raw from '../data/questions.json';import {readFileSync,existsSync} from 'node:fs';
+test('All 195 flag previews use their native local SVG',()=>{for(const f of registry){const p=answerPreview('flags',f.name);assert.equal(p.src,f.svg);assert.ok(existsSync('public'+p.src));}});
+test('Existing maps and outlines resolve by selected country, never original question media',()=>{for(const category of ['maps','silhouettes'] as const)for(const q of raw.filter(q=>q.category===category)){assert.equal(answerPreview(category,q.options[q.correct]).src,q.media!.src);}});
+test('Discovering options never changes saved answers, score or records, including restored feedback',()=>{for(const correct of [true,false]){const r=createRound(emptyState(),8);const q=r.questions[0];const answered=answerRound(r,correct?q.correct:(q.correct+1)%4);const state=recordRound(emptyState(),answered);const before=JSON.stringify(state);const restored=JSON.parse(before);for(let j=0;j<20;j++)answerPreview(q.category,q.options[j%4]);assert.equal(JSON.stringify(state),before);assert.deepEqual(restored.round.answers,answered.answers);}});
+test('Feedback routes option clicks exclusively to local preview state',()=>{const s=readFileSync('src/App.tsx','utf8');assert.ok(s.includes('feedback?setPreview(i):answer(i)'));assert.ok(s.includes('{feedback&&<AnswerDiscovery'));});
+test('Unmapped option has explicit honest fallback',()=>assert.match(answerPreview('world','Unbekannte Option').text,/keine gesicherte/));
