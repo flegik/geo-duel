@@ -1,6 +1,6 @@
 # Weltatlas · 10.11.2026
 
-Neue App-Version 0.4.1. Bestehende Website: https://geoduel-flegik.flegik.chatgpt.site/ . Implementierungsstand: 098ec34b3f352fdded0dc2e3ab35ccd106b30e9f.
+Neue App-Version 0.4.2. Bestehende Website: https://geoduel-flegik.flegik.chatgpt.site/ . Implementierungsstand: 098ec34b3f352fdded0dc2e3ab35ccd106b30e9f.
 
 ## Umfang
 
@@ -25,3 +25,5 @@ Die Geometrien sind vereinfacht und für geografisches Lernen gedacht, keine rec
 - Keine Supabase-Änderungen, keine APK, keine Änderung an Quizfragen, Spielständen, Scores oder dem offiziellen Logo. Zusätzliche Python-Abhängigkeiten dienen ausschließlich lokaler Geodatenprüfung, keine neuen Runtime-Abhängigkeiten.
 
 Zuerst wurde die funktionsfähige Version mit vorhandenen Daten auf GitHub gesichert, anschließend die vollständige Geografie und zuletzt die Präzisionskorrektur für Mikrostaaten. Änderungen sind im bestehenden Repository nachvollziehbar.
+
+Mikrostaaten mit weniger als einem Grad Ausdehnung behalten in der finalen Fassung ihre unveränderten Natural-Earth-Originalringe, damit keine künstlich dreieckigen Umrisse durch die Vereinfachung entstehen.

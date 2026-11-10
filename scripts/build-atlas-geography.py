@@ -9,6 +9,15 @@ with tempfile.TemporaryDirectory() as temp:
  simplified=Path(temp)/'countries.json'
  subprocess.run(['ogr2ogr','-f','GeoJSON',str(simplified),str(source),'-simplify','0.05'],check=True)
  features=json.loads(simplified.read_text())['features']
+# Keep exact source rings for microstates: a global simplification tolerance
+# would turn very small countries into unrecognizable triangles.
+originals={f['properties']['ADM0_A3']:f for f in json.loads(source.read_text())['features']}
+def coordinates(f):
+ g=f['geometry'];return [p for poly in (g['coordinates'] if g['type']=='MultiPolygon' else [g['coordinates']]) for ring in poly for p in ring]
+for i,f in enumerate(features):
+ original=originals[f['properties']['ADM0_A3']];points=coordinates(original)
+ if max(p[0] for p in points)-min(p[0] for p in points)<1 and max(p[1] for p in points)-min(p[1] for p in points)<1:
+  features[i]=original
 registry=json.loads(Path('data/flags/registry.json').read_text())
 lookup={f['properties']['ISO_A2_EH']:f for f in features if f['properties']['TYPE'] not in ['Dependency','Lease']}
 def rings(f):
@@ -42,6 +51,6 @@ Abgerufen: 2026-11-10. Original SHA-256: '''+hashlib.sha256(source.read_bytes())
 
 Zuordnung über ISO_A2_EH; Dependencies und Lease-Geometrien werden für Hauptumrisse ausgeschlossen (z. B. Frankreich statt Clipperton). Weltkarte enthält alle Geometrien als Kontext. Kontinent aus CONTINENT, bei der Datensatz-Kategorie Seven seas aus REGION_UN (Seychellen/Mauritius: Afrika, Malediven: Asien). Deutsche Übersetzung dieser Attribute. Keine zusätzlichen Staaten außerhalb des Flaggenregisters im Katalog.
 
-GDAL-Vereinfachung 0,05 Grad. Weltkarte equirektangular; Umrisse mit minimaler Längengradspanne am Datumswechsel und Kosinuskorrektur der mittleren Breite. Binnenringe bleiben erhalten (evenodd). Grenzen sind kartografische Darstellungen, keine rechtliche Festlegung. Kleine Staaten werden zusätzlich im vergrößerten Umriss gezeigt; Landesflächen werden nicht künstlich vergrößert.
+GDAL-Vereinfachung 0,05 Grad; Staaten mit weniger als einem Grad Ausdehnung in beiden Achsen behalten die unveränderten Originalringe. Weltkarte equirektangular; Umrisse mit minimaler Längengradspanne am Datumswechsel und Kosinuskorrektur der mittleren Breite. Binnenringe bleiben erhalten (evenodd). Grenzen sind kartografische Darstellungen, keine rechtliche Festlegung. Kleine Staaten werden zusätzlich im vergrößerten Umriss gezeigt; Landesflächen werden nicht künstlich vergrößert.
 ''')
 print(len(countries),'countries;',Path('data/atlas/geography.json').stat().st_size,'bytes')
