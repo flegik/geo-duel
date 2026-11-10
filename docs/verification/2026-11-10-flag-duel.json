@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "independentAnonymousProfiles": 2,
+  "rounds": [
+    {
+      "roomId": "f628bd78-0e11-49cd-a9d7-b13ab56b0057",
+      "categories": [
+        "flags",
+        "borders",
+        "capitals",
+        "landmarks"
+      ],
+      "questions": 12,
+      "flagQuestions": 3,
+      "points": [
+        24,
+        0
+      ],
+      "questionIds": [
+        "flag-v2-8b7b27963c9f31d83194",
+        "flag-v2-d64e368cbd51fc68ac75",
+        "flag-v2-1beb1272966d9017d3c5",
+        "borders-004",
+        "borders-011",
+        "borders-023",
+        "capitals-010",
+        "capitals-019",
+        "capitals-027",
+        "landmarks-002",
+        "landmarks-013",
+        "landmarks-027"
+      ]
+    }
+  ],
+  "checks": [
+    "identical questions and option order",
+    "195-country registry question IDs",
+    "no subject duplicates",
+    "correct answer earns difficulty 1/2/3",
+    "wrong answers earn zero",
+    "duplicate answer idempotency",
+    "opponent scores hidden until completion",
+    "first player waits",
+    "complete review",
+    "persistent stats",
+    "session reconnect"
+  ]
+}
