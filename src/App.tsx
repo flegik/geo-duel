@@ -1,3 +1,4 @@
+import WorldAtlas from './WorldAtlas';
 import {AnswerDiscovery,useDiscovery} from './AnswerDiscovery';
 import {PwaUpdate,APP_VERSION} from './PwaUpdate';
 import {useCallback,useEffect,useRef,useState,type ReactNode} from 'react';
@@ -5,7 +6,7 @@ import {motion,AnimatePresence,useReducedMotion} from 'motion/react';
 import {ArrowLeft,ArrowRight,BarChart3,BookOpen,Check,CheckCircle2,ChevronRight,Compass,Copy,Download,Flag,Globe2,Home,Landmark,LoaderCircle,Map,Mountain,Play,Plus,RotateCcw,Settings2,Share2,Shapes,Signpost,Sparkles,Swords,Target,Trophy,UserRound,Users,WifiOff,X,Building2} from 'lucide-react';
 import {questions,answerRound,categories,createRound,loadState,nextRound,recordRound,saveState,soloSummary,type Category,type Question,type Round,type SoloState} from './engine';
 import {connectGuest,rpc,supabase,type DuelStats,type Room} from './api';
-type View='home'|'solo'|'quiz'|'soloResult'|'duel'|'room'|'stats'|'profile';
+type View='atlas'|'home'|'solo'|'quiz'|'soloResult'|'duel'|'room'|'stats'|'profile';
 type InstallEvent=Event&{prompt:()=>Promise<void>;userChoice:Promise<{outcome:string}>};
 const icons={Flag,Map,Building2,Shapes,Signpost,Landmark,Globe2};
 function CategoryIcon({category,size=22}:{category:Category;size?:number}){const Icon=icons[categories[category].icon];return <Icon size={size}/>;}
@@ -60,8 +61,10 @@ export default function App(){
  <div className="mode-grid"><button className="mode-card solo-card" onClick={()=>navigate('solo')}><div className="mode-top"><span className="mode-icon"><Compass size={27}/></span><span className="badge">DEIN TEMPO</span></div><h2>Singleplayer</h2><p>Ein schnelles Quiz oder gezielt trainieren.<br/>Entdecke, wie viel Welt in dir steckt.</p><span className="card-cta">Welt entdecken <ArrowRight size={19}/></span><div className="card-decoration"><Compass/></div></button><button className="mode-card duel-card" onClick={()=>navigate('duel')}><div className="mode-top"><span className="mode-icon"><Swords size={27}/></span><span className="badge">FÜR ZWEI</span></div><h2>1v1-Duell</h2><p>Gleiche Fragen. Zwei Perspektiven.<br/>Fordere deinen Lieblingsmenschen heraus.</p><span className="card-cta">Duell starten <ArrowRight size={19}/></span><div className="card-decoration"><Swords/></div></button></div>
  {solo.round?.status==='playing'&&<button className="resume-panel" onClick={()=>navigate('quiz')}><Play size={20}/><span><strong>Deine Runde wartet</strong><small>Frage {solo.round.cursor+1} von {solo.round.questions.length} · Singleplayer</small></span><ChevronRight size={20}/></button>}
  {room&&room.status!=='aborted'&&<button className="resume-panel" onClick={()=>navigate('room')}><Users size={20}/><span><strong>{room.status==='completed'?'Duellergebnis ansehen':'Duell fortsetzen'}</strong><small>Raum {room.code} · {room.players.map(p=>p.nickname).join(' & ')}</small></span><ChevronRight size={20}/></button>}
+ <button className="mode-card atlas-entry" onClick={()=>navigate('atlas')}><span className="mode-icon"><BookOpen size={27}/></span><h2>Weltatlas</h2><p>195 Länder entdecken. Flaggen, Umrisse, Karten und Länderwissen – ohne Quiz und ohne Zeitlimit.</p><span className="card-cta">Atlas öffnen <ArrowRight size={19}/></span></button>
  <div className="discovery"><span className="small-icon"><Mountain/></span><div><span className="eyebrow">EIN BISSCHEN WEITER DENKEN</span><p>Die Welt ist voller Aha-Momente.<br/><strong>Dein nächster wartet schon.</strong></p></div><span className="discovery-number">{questions.filter(q=>q.enabled).length}<span>Fragen</span></span></div>
  </>;
+ else if(view==='atlas')content=<WorldAtlas/>;
  else if(view==='solo')content=<>{intro('DEIN PERSÖNLICHER ENTDECKERPFAD','Hallo, Welt.','Einmal quer über den Globus oder ganz gezielt Neues lernen.')}
  {solo.round?.status==='playing'&&<button className="resume-panel" onClick={()=>navigate('quiz')}><Play/><span><strong>Offene Runde fortsetzen</strong><small>Frage {solo.round.cursor+1} von {solo.round.questions.length}</small></span><ChevronRight/></button>}
  <section className="panel quick-panel"><div className="section-heading"><div><span className="eyebrow">EINFACH LOSLEGEN</span><h2>Schnelles Quiz</h2></div><span className="small-icon mint"><Sparkles/></span></div><p>Vier zufällige Kategorien. Jede Runde eine neue Reise.</p>{lengths}<Button onClick={()=>startSolo()}><Play size={19}/>Quiz starten<ArrowRight size={19}/></Button></section>
