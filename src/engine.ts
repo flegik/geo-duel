@@ -1,4 +1,5 @@
 import raw from '../data/questions.json';
+import {expandedQuestions} from './questionPool';
 import {flagQuestions,questionSubject,seenSubject} from './flags';
 export const categories = {
  flags:{name:'Flaggen',description:'195 Staaten. Originalgetreue Flaggen.',icon:'Flag'},
@@ -11,7 +12,7 @@ export const categories = {
 } as const;
 export type Category=keyof typeof categories;
 export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:{sources:string[];subjectKey?:string;iso?:string;challenge?:number;confusions?:string[]};enabled:boolean};
-export const questions:Question[]=[...(raw as Question[]).map(q=>q.category==='flags'?{...q,enabled:false}:q),...flagQuestions];
+export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...expandedQuestions];
 export type Answer={selected:number;points:number};
 export type Round={id:string;mode:'quick'|'training';category?:Category;questions:Question[];answers:Answer[];cursor:number;status:'playing'|'completed';createdAt:string};
 export type SoloRecord={id:string;mode:Round['mode'];category?:Category;date:string;points:number;maxPoints:number;correct:number;total:number;categories:Partial<Record<Category,{correct:number;total:number;points:number}>>};
@@ -27,8 +28,17 @@ export function createRound(state:SoloState,count:8|12|16,category?:Category,ran
   const pool=shuffle(questions.filter(q=>q.enabled&&q.category===cat),random);
   // Unseen questions always precede repeats; exhausted pools recycle oldest first.
   pool.sort((a,b)=>seen.lastIndexOf(questionSubject(a))-seen.lastIndexOf(questionSubject(b)));
-  const unique=pool.filter((q,i)=>pool.findIndex(other=>questionSubject(other)===questionSubject(q))===i);
-  selected.push(...unique.slice(0,per));
+  const chosenSubjects=new Set<string>();
+  for(let i=0;i<per;i++){
+   // Unseen subjects take priority over difficulty targets, including inverse capital variants.
+   const available=pool.filter(q=>!chosenSubjects.has(questionSubject(q)));
+   const unseen=available.filter(q=>!seen.includes(questionSubject(q)));
+   const oldest=available.length?seen.lastIndexOf(questionSubject(available[0])):-1;
+   const eligible=unseen.length?unseen:available.filter(q=>seen.lastIndexOf(questionSubject(q))===oldest);
+   const target=[1,2,3,2][i%4];
+   const q=eligible.find(q=>q.difficulty===target)??eligible[0];
+   if(q){selected.push(q);chosenSubjects.add(questionSubject(q));}
+  }
  }
  const prepared=shuffle(selected,random).map(q=>{const indices=shuffle([0,1,2,3],random);return {...q,options:indices.map(i=>q.options[i]),correct:indices.indexOf(q.correct)};});
  return {id:Array.from(crypto.getRandomValues(new Uint8Array(16)),v=>v.toString(16).padStart(2,'0')).join(''),mode:category?'training':'quick',...(category?{category}:{}),questions:prepared,answers:[],cursor:0,status:'playing',createdAt:new Date().toISOString()};

@@ -15,7 +15,7 @@ def nearby(iso,eligible=None):
 def question(category,key,prompt,correct,wrong,difficulty,explanation,sources,media=None,subject=None,**extra):
  options=[correct]+wrong;assert len(options)==4 and len(set(options))==4,(key,options)
  rng=random.Random(hashlib.sha256(key.encode()).hexdigest());rng.shuffle(options)
- return dict(id=f'geo-v3-{category}-{key}',category=category,difficulty=difficulty,prompt=prompt,options=options,correct=options.index(correct),enabled=True,explanation=explanation,media=media,provenance=dict(sources=sources,subjectKey=subject or f'{category}:{key}',edition='geo-v3-2026-11',**extra))
+ return dict(id=f'geo-v3-{category}-'+hashlib.sha256((category+':'+key).encode()).hexdigest()[:16],category=category,difficulty=difficulty,prompt=prompt,options=options,correct=options.index(correct),enabled=True,explanation=explanation,media=media,provenance=dict(sources=sources,subjectKey=subject or f'{category}:{key}',edition='geo-v3-2026-11',**extra))
 def level(iso,index):
  familiar=set('DE FR GB ES IT US CA AU JP CN IN BR MX RU EG GR AT PT CH NL'.split())
  return 1 if iso in familiar else 2+index%2
@@ -23,7 +23,7 @@ category=sys.argv[1];out=[]
 if category=='capitals':
  eligible=[iso for iso in flags if facts[iso]['capital']]
  for i,iso in enumerate(eligible):
-  city=facts[iso]['capital'];name=flags[iso]['name'];candidates=nearby(iso,eligible);d=level(iso,i)
+  city=facts[iso]['capital'];name=flags[iso]['name'];candidates=nearby(iso,eligible);d=3 if iso in set('SI SK HR RS BA ME MK LT LV EE CG CD GN GW GQ'.split()) else level(iso,i)
   # Tight neighboring-country capitals on hard questions; still regional on easy questions.
   offsets=[0,1,2] if d==3 else [0,2,4] if d==2 else [1,3,5]
   alternatives=[candidates[min(n,len(candidates)-1)] for n in offsets]

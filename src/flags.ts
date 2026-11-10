@@ -1,3 +1,4 @@
+import {expandedSubjects} from './questionPool';
 import registry from '../data/flags/registry.json';
 import families from '../data/flags/groups.json';
 import type {Question} from './engine';
@@ -36,11 +37,11 @@ export function generateFlagQuestions():Question[]{
 }
 export const flagQuestions=generateFlagQuestions();
 const subjects=new Map(flagQuestions.map(q=>[q.id,`flag:${q.provenance.iso}`]));
-export function questionSubject(question:Pick<Question,'id'|'category'|'options'|'correct'>){
- if(question.category!=='flags')return question.id;
+export function questionSubject(question:Pick<Question,'id'|'category'|'options'|'correct'|'provenance'>){
+ if(question.category!=='flags')return question.provenance?.subjectKey??question.id;
  return subjects.get(question.id)??`flag:${flags.find(f=>f.name===question.options[question.correct])?.iso??question.id}`;
 }
-export function seenSubject(id:string){return subjects.get(id)??legacySubjects.get(id)??id;}
+export function seenSubject(id:string){return subjects.get(id)??expandedSubjects.get(id)??legacySubjects.get(id)??id;}
 // Preserves the effect of old history without rewriting stored user data.
 const legacyCodes='DE FR IT ES GB US CA BR JP AU SE NO FI PL GR PT CH AT TR MX AR CL PE CO MA EG KE TH VN NZ'.split(' ');
 const legacySubjects=new Map(legacyCodes.map((iso,i)=>[`flags-${String(i+1).padStart(3,'0')}`,`flag:${iso}`]));

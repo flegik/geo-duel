@@ -1,6 +1,6 @@
 [
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-001",
+    "id": "geo-v3-landmarks-ab4d4353554eb139",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Eiffelturm“?",
@@ -35,7 +35,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-002",
+    "id": "geo-v3-landmarks-481c3263f5944980",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Kolosseum“?",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-003",
+    "id": "geo-v3-landmarks-aa1c9a64f13493a5",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Taj Mahal“?",
@@ -106,7 +106,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-004",
+    "id": "geo-v3-landmarks-fd7aec03aec81981",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Pyramiden von Gizeh“?",
@@ -141,7 +141,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-005",
+    "id": "geo-v3-landmarks-5b081cbd6d799203",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Freiheitsstatue“?",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-006",
+    "id": "geo-v3-landmarks-1ac170bd62675047",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Opernhaus von Sydney“?",
@@ -211,7 +211,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-007",
+    "id": "geo-v3-landmarks-d515acbf324c1115",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Große Mauer“?",
@@ -246,7 +246,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-008",
+    "id": "geo-v3-landmarks-91e31132491a2760",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Schiefer Turm von Pisa“?",
@@ -281,7 +281,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-009",
+    "id": "geo-v3-landmarks-cd62656423ae0dc0",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Akropolis von Athen“?",
@@ -316,7 +316,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-010",
+    "id": "geo-v3-landmarks-2c703c467a2d80ae",
     "category": "landmarks",
     "difficulty": 1,
     "prompt": "In welchem Land liegt das Wahrzeichen „Big Ben / Elizabeth Tower“?",
@@ -351,7 +351,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-011",
+    "id": "geo-v3-landmarks-3b4dcc2a4a979c75",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Petra – Al-Khazneh“?",
@@ -386,7 +386,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-012",
+    "id": "geo-v3-landmarks-78aefc8874e32e93",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Machu Picchu“?",
@@ -421,7 +421,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-013",
+    "id": "geo-v3-landmarks-bc775d7cc903e29f",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Sagrada Família“?",
@@ -456,7 +456,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-014",
+    "id": "geo-v3-landmarks-19856de8b6b29196",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Angkor Wat“?",
@@ -491,7 +491,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-015",
+    "id": "geo-v3-landmarks-365fd9b108eb381f",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Chichén Itzá – El Castillo“?",
@@ -526,7 +526,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-016",
+    "id": "geo-v3-landmarks-e0d0f59ce2803fa6",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Moai von Rapa Nui“?",
@@ -561,7 +561,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-017",
+    "id": "geo-v3-landmarks-de8e3feab2193c4c",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Hagia Sophia“?",
@@ -596,7 +596,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-018",
+    "id": "geo-v3-landmarks-ebb4c7497cf3ea13",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Schloss Schönbrunn“?",
@@ -631,7 +631,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-019",
+    "id": "geo-v3-landmarks-63f2712975f109e0",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Mont-Saint-Michel“?",
@@ -666,7 +666,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-020",
+    "id": "geo-v3-landmarks-d8a7efc9860dd54b",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das Wahrzeichen „Tower of Belém“?",
@@ -701,7 +701,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-021",
+    "id": "geo-v3-landmarks-415a4bcef6c78842",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Borobudur“?",
@@ -736,7 +736,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-022",
+    "id": "geo-v3-landmarks-6533af458d7cc4cb",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Felsenkirchen von Lalibela“?",
@@ -771,7 +771,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-023",
+    "id": "geo-v3-landmarks-bf28ce482ef7fbf7",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Palast Potala“?",
@@ -806,7 +806,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-024",
+    "id": "geo-v3-landmarks-db25eb8a7df4c19b",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Stari Most in Mostar“?",
@@ -841,7 +841,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-025",
+    "id": "geo-v3-landmarks-bf546c8644269bfe",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Samarqand – Registan“?",
@@ -876,7 +876,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-026",
+    "id": "geo-v3-landmarks-6121a3ad4195dbf4",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Kinkaku-ji in Kyoto“?",
@@ -911,7 +911,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-027",
+    "id": "geo-v3-landmarks-2473a9107bf4957b",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Schloss Himeji“?",
@@ -946,7 +946,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-028",
+    "id": "geo-v3-landmarks-01bd0ba57b2c7ca9",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Djenne – Große Moschee“?",
@@ -981,7 +981,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-029",
+    "id": "geo-v3-landmarks-36a3446db6a786a3",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Buddhistische Stupa von Sanchi“?",
@@ -1016,7 +1016,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-legacy-landmarks-030",
+    "id": "geo-v3-landmarks-673d1e562c8d46c8",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das Wahrzeichen „Schloss Malbork“?",
@@ -1051,7 +1051,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-596",
+    "id": "geo-v3-landmarks-8b80cc38a4abf6bb",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Villages with Fortified Churches in Transylvania“?",
@@ -1081,7 +1081,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-479",
+    "id": "geo-v3-landmarks-9bedf5b06e25e33a",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Town of Luang Prabang“?",
@@ -1111,7 +1111,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-648",
+    "id": "geo-v3-landmarks-44bf3a9c892af9ee",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue“?",
@@ -1141,7 +1141,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1152",
+    "id": "geo-v3-landmarks-316abe0d1ad37284",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Þingvellir National Park“?",
@@ -1171,7 +1171,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1310",
+    "id": "geo-v3-landmarks-79d1c398f599ebe5",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cidade Velha, Historic Centre of Ribeira Grande“?",
@@ -1201,7 +1201,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-95",
+    "id": "geo-v3-landmarks-f2eb8a170d7d4767",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old City of Dubrovnik“?",
@@ -1231,7 +1231,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1339",
+    "id": "geo-v3-landmarks-adc125f5150aeb31",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Bikini Atoll Nuclear Test Site“?",
@@ -1261,7 +1261,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-26",
+    "id": "geo-v3-landmarks-8cc65bfe8aac27b4",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Island of Gorée“?",
@@ -1291,7 +1291,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-618",
+    "id": "geo-v3-landmarks-bc7f35a18687f1fc",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity“?",
@@ -1321,7 +1321,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1643",
+    "id": "geo-v3-landmarks-538c9612d9f6581b",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „The works of Jože Plečnik in Ljubljana – Human Centred Urban Design“?",
@@ -1351,7 +1351,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-2",
+    "id": "geo-v3-landmarks-db8b1305cfed4280",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Quito“?",
@@ -1381,7 +1381,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-527",
+    "id": "geo-v3-landmarks-99a385c4eb1b77bc",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra“?",
@@ -1411,7 +1411,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-400",
+    "id": "geo-v3-landmarks-9072713957973ad0",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue“?",
@@ -1441,7 +1441,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1255",
+    "id": "geo-v3-landmarks-bff4b16591a99a75",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Twyfelfontein or /Ui-//aes“?",
@@ -1471,7 +1471,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-306",
+    "id": "geo-v3-landmarks-36efa774d4a871bf",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Matobo Hills“?",
@@ -1501,7 +1501,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-55",
+    "id": "geo-v3-landmarks-c878712833f53447",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Røros Mining Town and the Circumference“?",
@@ -1531,7 +1531,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-695",
+    "id": "geo-v3-landmarks-f611dd701b53a3b9",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Roskilde Cathedral“?",
@@ -1561,7 +1561,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-321",
+    "id": "geo-v3-landmarks-eabb1c316e1dfaa6",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Mosque City of Bagerhat“?",
@@ -1591,7 +1591,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1091",
+    "id": "geo-v3-landmarks-25fd98133fd28c25",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Complex of Koguryo Tombs“?",
@@ -1621,7 +1621,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-658",
+    "id": "geo-v3-landmarks-debf1aa063c37021",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Coro and its Port“?",
@@ -1651,7 +1651,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1014",
+    "id": "geo-v3-landmarks-d105b99c6543f1f0",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „The Archaeological Heritage of Niah National Park’s Caves Complex“?",
@@ -1681,7 +1681,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-750",
+    "id": "geo-v3-landmarks-1c8caa94dc39f9f7",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata“?",
@@ -1711,7 +1711,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1293",
+    "id": "geo-v3-landmarks-232d3061bf689448",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)“?",
@@ -1741,7 +1741,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-958",
+    "id": "geo-v3-landmarks-ec75c3d24c57b823",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Walled City of Baku with the Shirvanshah's Palace and Maiden Tower“?",
@@ -1771,7 +1771,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-574",
+    "id": "geo-v3-landmarks-a148535e3333e4fc",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Town of Sukhothai and Associated Historic Towns“?",
@@ -1801,7 +1801,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-130",
+    "id": "geo-v3-landmarks-24624bf8d98aee02",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ħal Saflieni Hypogeum“?",
@@ -1831,7 +1831,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-739",
+    "id": "geo-v3-landmarks-a92df628e87343a3",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Schokland and Surroundings“?",
@@ -1861,7 +1861,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-940",
+    "id": "geo-v3-landmarks-4ad779a156d08916",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Inner City of Paramaribo“?",
@@ -1891,7 +1891,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1402",
+    "id": "geo-v3-landmarks-2baf484d26ec395a",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Al Zubarah Archaeological Site“?",
@@ -1921,7 +1921,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1073",
+    "id": "geo-v3-landmarks-03a137adbcbe27bb",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Gebel Barkal and the Sites of the Napatan Region“?",
@@ -1951,7 +1951,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1141",
+    "id": "geo-v3-landmarks-1f1203f57918b69f",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Proto-urban Site of Sarazm“?",
@@ -1981,7 +1981,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-4",
+    "id": "geo-v3-landmarks-ad503cf8bb2336b2",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „L’Anse aux Meadows National Historic Site“?",
@@ -2011,7 +2011,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1103",
+    "id": "geo-v3-landmarks-79db9ddb4fa7a3b9",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Mausoleum of Khoja Ahmed Yasawi“?",
@@ -2041,7 +2041,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-102",
+    "id": "geo-v3-landmarks-2f84993c00b081ab",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Al Qal'a of Beni Hammad“?",
@@ -2071,7 +2071,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-699",
+    "id": "geo-v3-landmarks-45c892010cf126d8",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Luxembourg: its Old Quarters and Fortifications“?",
@@ -2101,7 +2101,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1225",
+    "id": "geo-v3-landmarks-96ce971e40a007e3",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ruins of Loropéni“?",
@@ -2131,7 +2131,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-678",
+    "id": "geo-v3-landmarks-b4a6d5559e334d41",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Complex of Hué Monuments“?",
@@ -2161,7 +2161,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-36",
+    "id": "geo-v3-landmarks-df665bab9731280e",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Medina of Tunis“?",
@@ -2191,7 +2191,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1483",
+    "id": "geo-v3-landmarks-2d1f7eb45fefb697",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Singapore Botanic Gardens“?",
@@ -2221,7 +2221,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-616",
+    "id": "geo-v3-landmarks-ca2839c313f6109a",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centre of Prague“?",
@@ -2251,7 +2251,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-625",
+    "id": "geo-v3-landmarks-a8a9be9bedf4cc90",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Mir Castle Complex“?",
@@ -2281,7 +2281,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-541",
+    "id": "geo-v3-landmarks-6d3eec034314a30d",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Vilnius Historic Centre“?",
@@ -2311,7 +2311,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-96",
+    "id": "geo-v3-landmarks-49a4e6df925f0aed",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Stari Ras and Sopoćani“?",
@@ -2341,7 +2341,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-3",
+    "id": "geo-v3-landmarks-09ce2a2a892f77c8",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Aachen Cathedral“?",
@@ -2371,7 +2371,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-267",
+    "id": "geo-v3-landmarks-07548ae4c0eac0bf",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old City of Berne“?",
@@ -2401,7 +2401,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-579",
+    "id": "geo-v3-landmarks-3ca265d2b608dc5a",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Bronze Age Burial Site of Sammallahdenmäki“?",
@@ -2431,7 +2431,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-950",
+    "id": "geo-v3-landmarks-913c65e294dda7ce",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Royal Hill of Ambohimanga“?",
@@ -2461,7 +2461,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1245",
+    "id": "geo-v3-landmarks-7e93d9804e1db52d",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „San Marino Historic Centre and Mount Titano“?",
@@ -2491,7 +2491,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-125",
+    "id": "geo-v3-landmarks-a9dfc7b6f93fb141",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Natural and Culturo-Historical Region of Kotor“?",
@@ -2521,7 +2521,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-747",
+    "id": "geo-v3-landmarks-3f0375441d51687f",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Quarter of the City of Colonia del Sacramento“?",
@@ -2551,7 +2551,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-910",
+    "id": "geo-v3-landmarks-45c872993a69e38c",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Brimstone Hill Fortress National Park“?",
@@ -2581,7 +2581,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-42",
+    "id": "geo-v3-landmarks-108a5242df40c70c",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Boyana Church“?",
@@ -2611,7 +2611,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-433",
+    "id": "geo-v3-landmarks-31e1a3d8a1cb22fd",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Bahla Fort“?",
@@ -2641,7 +2641,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-613",
+    "id": "geo-v3-landmarks-6c1c321b7c59d69f",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ruins of León Viejo“?",
@@ -2671,7 +2671,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1550",
+    "id": "geo-v3-landmarks-f32b407b99f34aa4",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Asmara: A Modernist African City“?",
@@ -2701,7 +2701,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1399",
+    "id": "geo-v3-landmarks-7300e5872c36e1db",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Levuka Historical Port Town“?",
@@ -2731,7 +2731,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1444",
+    "id": "geo-v3-landmarks-50dcd4e4adc55e08",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Pyu Ancient Cities“?",
@@ -2761,7 +2761,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-420",
+    "id": "geo-v3-landmarks-dfbc2c2166b9715a",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Potosí“?",
@@ -2791,7 +2791,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-286",
+    "id": "geo-v3-landmarks-21298252875f3264",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Vatican City“?",
@@ -2821,7 +2821,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-135",
+    "id": "geo-v3-landmarks-fba78bf4e2345ec0",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo“?",
@@ -2851,7 +2851,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-204",
+    "id": "geo-v3-landmarks-8c58be4071538135",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old Havana and its Fortification System“?",
@@ -2881,7 +2881,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1230",
+    "id": "geo-v3-landmarks-0d60e12e6c9610ca",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Sulaiman-Too Sacred Mountain“?",
@@ -2911,7 +2911,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-887",
+    "id": "geo-v3-landmarks-3e0a1efbd3f60f70",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kuk Early Agricultural Site“?",
@@ -2941,7 +2941,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-915",
+    "id": "geo-v3-landmarks-39145befd5464eb1",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Fossil Hominid Sites of South Africa“?",
@@ -2971,7 +2971,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1499",
+    "id": "geo-v3-landmarks-04854acb7acb245c",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Antigua Naval Dockyard and Related Archaeological Sites“?",
@@ -3001,7 +3001,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-208",
+    "id": "geo-v3-landmarks-d0055c6593a7e511",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cultural Landscape and Archaeological Remains of the Bamiyan Valley“?",
@@ -3031,7 +3031,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-599",
+    "id": "geo-v3-landmarks-b856cbec172225f0",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Island of Mozambique“?",
@@ -3061,7 +3061,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1040",
+    "id": "geo-v3-landmarks-64b1ba329d12f1b2",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Masada“?",
@@ -3091,7 +3091,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-476",
+    "id": "geo-v3-landmarks-5832736b0218de23",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Chongoni Rock-Art Area“?",
@@ -3121,7 +3121,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1227",
+    "id": "geo-v3-landmarks-980d3a89e38bbdbf",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Aapravasi Ghat“?",
@@ -3151,7 +3151,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-675",
+    "id": "geo-v3-landmarks-3bc362e26091f348",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Joya de Cerén Archaeological Site“?",
@@ -3181,7 +3181,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1586",
+    "id": "geo-v3-landmarks-f98e74d7b9f03958",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero“?",
@@ -3211,7 +3211,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-34",
+    "id": "geo-v3-landmarks-eca54a372b8417b2",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Forts and Castles, Volta, Greater Accra, Central and Western Regions“?",
@@ -3241,7 +3241,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-129",
+    "id": "geo-v3-landmarks-dddbeba89d643036",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Maya Site of Copan“?",
@@ -3271,7 +3271,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-113",
+    "id": "geo-v3-landmarks-2897aa76cb3a9366",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Tchogha Zanbil“?",
@@ -3301,7 +3301,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-144",
+    "id": "geo-v3-landmarks-e98ab0b8a2f40152",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ruins of Kilwa Kisiwani and Ruins of Songo Mnara“?",
@@ -3331,7 +3331,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-502",
+    "id": "geo-v3-landmarks-7773eff31fcf05e4",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic City of Vigan“?",
@@ -3361,7 +3361,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-936",
+    "id": "geo-v3-landmarks-1c27d17b0d96cb89",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cueva de las Manos, Río Pinturas“?",
@@ -3391,7 +3391,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-121",
+    "id": "geo-v3-landmarks-533db15729a22b61",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kathmandu Valley“?",
@@ -3421,7 +3421,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-183",
+    "id": "geo-v3-landmarks-e372e07e6a3ee822",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Archaeological Site of Leptis Magna“?",
@@ -3451,7 +3451,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-761",
+    "id": "geo-v3-landmarks-803cb3c7d526bea1",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kunta Kinteh Island and Related Sites“?",
@@ -3481,7 +3481,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1055",
+    "id": "geo-v3-landmarks-809eee9bef079849",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Lamu Old Town“?",
@@ -3511,7 +3511,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-569",
+    "id": "geo-v3-landmarks-702839c758c84931",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centres of Berat and Gjirokastra“?",
@@ -3541,7 +3541,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-65",
+    "id": "geo-v3-landmarks-bcbf0c23fc817480",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Antigua Guatemala“?",
@@ -3571,7 +3571,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1343",
+    "id": "geo-v3-landmarks-ceebf1d3244149ac",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)“?",
@@ -3601,7 +3601,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-124",
+    "id": "geo-v3-landmarks-10d26b5333ce7cb6",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Town of Ouro Preto“?",
@@ -3631,7 +3631,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-822",
+    "id": "geo-v3-landmarks-151043766006a404",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centre (Old Town) of Tallinn“?",
@@ -3661,7 +3661,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1022",
+    "id": "geo-v3-landmarks-98962897268c2b9d",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Tombs of Buganda Kings at Kasubi“?",
@@ -3691,7 +3691,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1453",
+    "id": "geo-v3-landmarks-6674fb41e7755752",
     "category": "landmarks",
     "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís“?",
@@ -3721,7 +3721,7 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1021",
+    "id": "geo-v3-landmarks-be41ebf9e7d32ea2",
     "category": "landmarks",
     "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Tsodilo“?",

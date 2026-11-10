@@ -18,7 +18,7 @@ translations={'Vienna':'Wien','Rome':'Rom','Prague':'Prag','Warsaw':'Warschau','
 facts={};audit=[]
 for f in registry:
  iso=f['iso'];r=by2[iso];possible=[r['name']['common'],r['name']['official'],alias.get(iso,'')]
- matches=[(country,cities) for country,cities in capitalRows.items() if any(p and (norm(country.split(' - ')[0]).rstrip('abcdefghijklmnopqrstuvwxyz')==norm(p) or norm(country.split(' - ')[0])==norm(p)) for p in possible)]
+ matches=[(country,cities) for country,cities in capitalRows.items() if any(p and norm(country.split(' - ')[0])==norm(p) for p in possible)]
  # Footnote digits vanish through normalization; only exact country aliases qualify.
  cap=r['capital'][0] if len(r['capital'])==1 else None
  verified=cap and iso not in exclude and any(norm(cap) in norm(city) for _,cities in matches for city in cities)

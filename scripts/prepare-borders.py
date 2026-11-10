@@ -3,7 +3,6 @@ Disputed/overseas-sensitive countries excluded, and union of both sources blocks
 """
 import sys,json
 from pathlib import Path
-sys.path.insert(0,'/workspace/scratch/dfff2f908647/geo-deps')
 from shapely.geometry import shape
 facts=json.loads(Path('data/learning/countries.json').read_text());raw=json.loads(Path(sys.argv[1]).read_text())['features'];geoms={}
 for f in raw:

@@ -1,6 +1,6 @@
 [
   {
-    "id": "geo-v3-world-legacy-world-001",
+    "id": "geo-v3-world-2b75e90e464ab574",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welcher Ozean ist flächenmäßig der größte?",
@@ -23,7 +23,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-002",
+    "id": "geo-v3-world-d844f08aaaf28dab",
     "category": "world",
     "difficulty": 1,
     "prompt": "Auf welchem Kontinent liegt die Sahara?",
@@ -46,7 +46,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-003",
+    "id": "geo-v3-world-6a2b726be2020444",
     "category": "world",
     "difficulty": 1,
     "prompt": "Durch welche Stadt fließt die Themse?",
@@ -69,7 +69,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-004",
+    "id": "geo-v3-world-8e003e414815e477",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches Gebirge liegt zwischen Frankreich und Spanien?",
@@ -92,7 +92,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-005",
+    "id": "geo-v3-world-ac0ca2a5db63767f",
     "category": "world",
     "difficulty": 1,
     "prompt": "In welchem Land liegt der Grand Canyon?",
@@ -115,7 +115,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-006",
+    "id": "geo-v3-world-f6bba386d33862f5",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches Meer liegt zwischen Europa und Nordafrika?",
@@ -138,7 +138,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-007",
+    "id": "geo-v3-world-fe52ecf3e7a6ca27",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welche Insel gehört zu Italien?",
@@ -161,7 +161,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-008",
+    "id": "geo-v3-world-e1c8e17baa4d4217",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welcher Fluss fließt durch Paris?",
@@ -184,7 +184,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-009",
+    "id": "geo-v3-world-b6c228d593377c8f",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches Land ist flächenmäßig größer?",
@@ -207,7 +207,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-010",
+    "id": "geo-v3-world-d60d5f4f5f0ec27c",
     "category": "world",
     "difficulty": 1,
     "prompt": "In welchem Gebirge liegt der Mount Everest?",
@@ -230,7 +230,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-011",
+    "id": "geo-v3-world-f5b3f12ff9bc539f",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welcher Fluss fließt durch Budapest?",
@@ -253,7 +253,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-012",
+    "id": "geo-v3-world-15f408d66fd12514",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welche Wüste liegt im Norden Chiles?",
@@ -276,7 +276,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-013",
+    "id": "geo-v3-world-131f756ad69cd7ba",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welche Meerenge trennt Spanien und Marokko?",
@@ -299,7 +299,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-014",
+    "id": "geo-v3-world-6d5e40ebd2ebdae3",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welcher See liegt zwischen Peru und Bolivien?",
@@ -322,7 +322,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-015",
+    "id": "geo-v3-world-565b5bbf8e39b738",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welche Insel liegt überwiegend innerhalb des Polarkreises?",
@@ -345,7 +345,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-016",
+    "id": "geo-v3-world-5f330f4cfa07689b",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welche beiden Ozeane verbindet der Panamakanal?",
@@ -368,7 +368,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-017",
+    "id": "geo-v3-world-22317d09b7b70eeb",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welcher Fluss mündet in das Schwarze Meer?",
@@ -391,7 +391,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-018",
+    "id": "geo-v3-world-b43dc9f3433064fd",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt der Kilimandscharo?",
@@ -414,7 +414,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-019",
+    "id": "geo-v3-world-01529dbe3a4bb693",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welche Insel teilen sich Haiti und die Dominikanische Republik?",
@@ -437,7 +437,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-020",
+    "id": "geo-v3-world-881823cf812f32ae",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welche Wüste erstreckt sich über Teile der Mongolei und Chinas?",
@@ -460,7 +460,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-021",
+    "id": "geo-v3-world-a8680b9c91915890",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welcher See ist der tiefste der Erde?",
@@ -483,7 +483,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-022",
+    "id": "geo-v3-world-461babbc3eca83f2",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welcher Staat ist vollständig von Südafrika umschlossen?",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-023",
+    "id": "geo-v3-world-e109186a5548f4a2",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welche Meerenge trennt Alaska und Sibirien?",
@@ -529,7 +529,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-024",
+    "id": "geo-v3-world-6d3d2d3d7433cc4a",
     "category": "world",
     "difficulty": 3,
     "prompt": "Auf welcher Insel liegt der Vulkan Ätna?",
@@ -552,7 +552,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-025",
+    "id": "geo-v3-world-4c060991e980fca8",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welcher Fluss fließt durch Bagdad?",
@@ -575,7 +575,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-026",
+    "id": "geo-v3-world-b5dee56d74f43dfb",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welche Insel teilen sich Indonesien, Malaysia und Brunei?",
@@ -598,7 +598,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-027",
+    "id": "geo-v3-world-c3d29f5314036432",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches Gebirge trennt die Küstenebene Marokkos von Teilen der Sahara?",
@@ -621,7 +621,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-028",
+    "id": "geo-v3-world-8b87b65a1ddccef0",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welcher See liegt zwischen Malawi, Mosambik und Tansania?",
@@ -644,7 +644,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-029",
+    "id": "geo-v3-world-9a52f0861eeb3aae",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welche Wüste liegt an der Atlantikküste Namibias?",
@@ -667,7 +667,7 @@
     }
   },
   {
-    "id": "geo-v3-world-legacy-world-030",
+    "id": "geo-v3-world-109d4ec25ea8d53d",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches Meer liegt östlich der italienischen Halbinsel?",
@@ -690,7 +690,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-1",
+    "id": "geo-v3-world-30c7e5d76f1f9b95",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Galápagos Islands“?",
@@ -720,7 +720,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-9",
+    "id": "geo-v3-world-5ccb67fdce0df40e",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Simien National Park“?",
@@ -750,7 +750,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-24",
+    "id": "geo-v3-world-756eaed9464de076",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Nahanni National Park“?",
@@ -780,7 +780,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-28",
+    "id": "geo-v3-world-6039438138205b61",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Yellowstone National Park“?",
@@ -810,7 +810,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-39",
+    "id": "geo-v3-world-e6e73a3453a885b8",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Ngorongoro Conservation Area“?",
@@ -840,7 +840,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-63",
+    "id": "geo-v3-world-d61c5a540729e217",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Virunga National Park“?",
@@ -870,7 +870,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-98",
+    "id": "geo-v3-world-c8a3aaf4a11a9a07",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Plitvice Lakes National Park“?",
@@ -900,7 +900,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-100",
+    "id": "geo-v3-world-995a53da75ff626b",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Durmitor National Park“?",
@@ -930,7 +930,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-120",
+    "id": "geo-v3-world-f6e2355db79ca33f",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Sagarmatha National Park“?",
@@ -960,7 +960,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-145",
+    "id": "geo-v3-world-06f94e9b5d2c040d",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Los Glaciares National Park“?",
@@ -990,7 +990,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-147",
+    "id": "geo-v3-world-d0972de7375def54",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Kakadu National Park“?",
@@ -1020,7 +1020,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-150",
+    "id": "geo-v3-world-02cb434464e4295b",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Mammoth Cave National Park“?",
@@ -1050,7 +1050,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-154",
+    "id": "geo-v3-world-f8cb8858e64a5c9e",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Great Barrier Reef“?",
@@ -1080,7 +1080,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-156",
+    "id": "geo-v3-world-d910a51beb0655a6",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Serengeti National Park“?",
@@ -1110,7 +1110,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-167",
+    "id": "geo-v3-world-62682f9a67d9c600",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Willandra Lakes Region“?",
@@ -1140,7 +1140,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-179",
+    "id": "geo-v3-world-3b3bad2d06266caf",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Tassili n'Ajjer“?",
@@ -1170,7 +1170,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-185",
+    "id": "geo-v3-world-b424b134af170b53",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Aldabra Atoll“?",
@@ -1200,7 +1200,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-186",
+    "id": "geo-v3-world-405cc57964a3cf07",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Lord Howe Island Group“?",
@@ -1230,7 +1230,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-196",
+    "id": "geo-v3-world-9dc95053d2f31a84",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Río Plátano Biosphere Reserve“?",
@@ -1260,7 +1260,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-219",
+    "id": "geo-v3-world-aa66f3cc4beb4ae7",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Srebarna Nature Reserve“?",
@@ -1290,7 +1290,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-225",
+    "id": "geo-v3-world-d10f29b01e05cf7d",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Pirin National Park“?",
@@ -1320,7 +1320,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-227",
+    "id": "geo-v3-world-127948663c2afe42",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Comoé National Park“?",
@@ -1350,7 +1350,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-256",
+    "id": "geo-v3-world-89d626971942058e",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Wood Buffalo National Park“?",
@@ -1380,7 +1380,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-258",
+    "id": "geo-v3-world-cb997a5b054fb396",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve“?",
@@ -1410,7 +1410,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-260",
+    "id": "geo-v3-world-3b5cedcbd7d2e1ba",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Sangay National Park“?",
@@ -1440,7 +1440,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-261",
+    "id": "geo-v3-world-1a1163108227a036",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Vallée de Mai Nature Reserve“?",
@@ -1470,7 +1470,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-280",
+    "id": "geo-v3-world-cb2b214251584b2a",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Salonga National Park“?",
@@ -1500,7 +1500,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-284",
+    "id": "geo-v3-world-ff239016a7fd8c46",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Chitwan National Park“?",
@@ -1530,7 +1530,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-302",
+    "id": "geo-v3-world-3f1b308cf0748954",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Mana Pools National Park, Sapi and Chewore Safari Areas“?",
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-308",
+    "id": "geo-v3-world-57d839e824e08409",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Yosemite National Park“?",
@@ -1590,7 +1590,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-333",
+    "id": "geo-v3-world-3e50d8458e362791",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Huascarán National Park“?",
@@ -1620,7 +1620,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-337",
+    "id": "geo-v3-world-b29a1890da20a3b6",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Kaziranga National Park“?",
@@ -1650,7 +1650,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-355",
+    "id": "geo-v3-world-68009aedab174f47",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Iguaçu National Park“?",
@@ -1680,7 +1680,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-369",
+    "id": "geo-v3-world-c6c6985db4d8ac9d",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Giant's Causeway and Causeway Coast“?",
@@ -1710,7 +1710,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-390",
+    "id": "geo-v3-world-92d70c38ef23fd57",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Škocjan Caves“?",
@@ -1740,7 +1740,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-402",
+    "id": "geo-v3-world-b2ed87023d94ffb8",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Manú National Park“?",
@@ -1770,7 +1770,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-405",
+    "id": "geo-v3-world-81d0b9432a8597e6",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Sinharaja Forest Reserve“?",
@@ -1800,7 +1800,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-410",
+    "id": "geo-v3-world-a5f542da90f9b46b",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Sian Ka'an“?",
@@ -1830,7 +1830,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-421",
+    "id": "geo-v3-world-88d40d0e30cef306",
     "category": "world",
     "difficulty": 2,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Tongariro National Park“?",
@@ -1860,7 +1860,7 @@
     }
   },
   {
-    "id": "geo-v3-world-nature-447",
+    "id": "geo-v3-world-dc685ea24df871df",
     "category": "world",
     "difficulty": 3,
     "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Uluru-Kata Tjuta National Park“?",
@@ -1890,7 +1890,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-RO",
+    "id": "geo-v3-world-f88d39544bf034cb",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -1920,7 +1920,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-LA",
+    "id": "geo-v3-world-a1b8b8c15267868f",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -1950,7 +1950,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-PY",
+    "id": "geo-v3-world-bda5f6eadd531531",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -1980,7 +1980,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-LR",
+    "id": "geo-v3-world-b35cd9c7ffbdedb6",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2010,7 +2010,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-LC",
+    "id": "geo-v3-world-4f7cb347e771ddcb",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2040,7 +2040,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-TG",
+    "id": "geo-v3-world-6e061c2d9e7c5436",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2070,7 +2070,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-IS",
+    "id": "geo-v3-world-6554087c37c2a668",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2100,7 +2100,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-SS",
+    "id": "geo-v3-world-03b580f33d0476d3",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2130,7 +2130,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-GA",
+    "id": "geo-v3-world-98109d36f3a311f3",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2160,7 +2160,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-HR",
+    "id": "geo-v3-world-de714557a0a54f2b",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2190,7 +2190,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-PT",
+    "id": "geo-v3-world-6aab69b6b11b4d79",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2220,7 +2220,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-SN",
+    "id": "geo-v3-world-37ff1cffd355b31a",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2250,7 +2250,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-SK",
+    "id": "geo-v3-world-46bdf500d5f1806f",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2280,7 +2280,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-EC",
+    "id": "geo-v3-world-b3c4633fc7523cda",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2310,7 +2310,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-HU",
+    "id": "geo-v3-world-c3ef2ca44c8a10a4",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2340,7 +2340,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-NA",
+    "id": "geo-v3-world-7f5d8652cdc1eecd",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2370,7 +2370,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-TR",
+    "id": "geo-v3-world-037472539388050f",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2400,7 +2400,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-ZW",
+    "id": "geo-v3-world-5c718211c9059330",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2430,7 +2430,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-BD",
+    "id": "geo-v3-world-be484085ac7eb004",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2460,7 +2460,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-KP",
+    "id": "geo-v3-world-270d8dfa7f1b459f",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2490,7 +2490,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-PL",
+    "id": "geo-v3-world-3391576b9b14d7e3",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2520,7 +2520,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-PE",
+    "id": "geo-v3-world-6096f808f52308a5",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2550,7 +2550,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-BA",
+    "id": "geo-v3-world-8cb7f0e37d76912e",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2580,7 +2580,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-EG",
+    "id": "geo-v3-world-f9dee735c7a65ad1",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2610,7 +2610,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-VE",
+    "id": "geo-v3-world-75e78a9063d1419f",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2640,7 +2640,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-MY",
+    "id": "geo-v3-world-bbb0be19a8e9de8b",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2670,7 +2670,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-MR",
+    "id": "geo-v3-world-7204d6efc17c85fb",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2700,7 +2700,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-KW",
+    "id": "geo-v3-world-28e49c865089211d",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2730,7 +2730,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-SA",
+    "id": "geo-v3-world-ee728a34e854c6aa",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2760,7 +2760,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-AZ",
+    "id": "geo-v3-world-023cbad3cb41c4d7",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2790,7 +2790,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-ID",
+    "id": "geo-v3-world-524daa5b8ed3533f",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2820,7 +2820,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-TL",
+    "id": "geo-v3-world-b89a3b71a78cdf95",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2850,7 +2850,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-TH",
+    "id": "geo-v3-world-06047f08ef9b6bcd",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2880,7 +2880,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-GW",
+    "id": "geo-v3-world-18b7f6c0f0425499",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2910,7 +2910,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-SD",
+    "id": "geo-v3-world-907cf1c0063a5621",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2940,7 +2940,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-TJ",
+    "id": "geo-v3-world-8fd7fad8b8367ee2",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -2970,7 +2970,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-CG",
+    "id": "geo-v3-world-ff1182155458b0aa",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -3000,7 +3000,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-KZ",
+    "id": "geo-v3-world-7499a62df568c79c",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -3030,7 +3030,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-BT",
+    "id": "geo-v3-world-4b991be8618cd13a",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -3060,7 +3060,7 @@
     }
   },
   {
-    "id": "geo-v3-world-area-DZ",
+    "id": "geo-v3-world-de001820812d148c",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
@@ -3090,7 +3090,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-LA",
+    "id": "geo-v3-world-ce4bbe764db05a5b",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3120,7 +3120,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-PY",
+    "id": "geo-v3-world-97e54b6fad1000bf",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3150,7 +3150,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-SS",
+    "id": "geo-v3-world-7eb0c0939a1dd52b",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3180,7 +3180,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-SK",
+    "id": "geo-v3-world-a14a1cd851cf6d0a",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3210,7 +3210,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-HU",
+    "id": "geo-v3-world-cb337661d297ae7b",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3240,7 +3240,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-ZW",
+    "id": "geo-v3-world-07f7e8d5f69e3a46",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3270,7 +3270,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-LI",
+    "id": "geo-v3-world-54041d93b21c5b48",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3300,7 +3300,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-TJ",
+    "id": "geo-v3-world-8c68e4774cbb67f0",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3330,7 +3330,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-BI",
+    "id": "geo-v3-world-bd1c65b333f1aa04",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3360,7 +3360,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-BT",
+    "id": "geo-v3-world-f32e8c696041d425",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3390,7 +3390,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-LU",
+    "id": "geo-v3-world-a1165ee67aa470b2",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3420,7 +3420,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-BF",
+    "id": "geo-v3-world-02fd6f840af9f6b4",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3450,7 +3450,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-CZ",
+    "id": "geo-v3-world-3fefcc01a2b90536",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3480,7 +3480,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-CF",
+    "id": "geo-v3-world-31fa1ed87a2e0d72",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3510,7 +3510,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-BY",
+    "id": "geo-v3-world-ef4e9a7432b421e7",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3540,7 +3540,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-CH",
+    "id": "geo-v3-world-42f108ae87e04eb1",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3570,7 +3570,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-SM",
+    "id": "geo-v3-world-4f331df2fc8a167f",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3600,7 +3600,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-MD",
+    "id": "geo-v3-world-9965fd0baf2576de",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3630,7 +3630,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-ZM",
+    "id": "geo-v3-world-c9c4a42522e9d30b",
     "category": "world",
     "difficulty": 2,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3660,7 +3660,7 @@
     }
   },
   {
-    "id": "geo-v3-world-landlocked-BO",
+    "id": "geo-v3-world-31f20c0cba8895ee",
     "category": "world",
     "difficulty": 3,
     "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
@@ -3690,7 +3690,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-BN",
+    "id": "geo-v3-world-244226fd6bdba7ce",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Asien?",
@@ -3720,7 +3720,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-FJ",
+    "id": "geo-v3-world-93600252f360142d",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Ozeanien?",
@@ -3750,7 +3750,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-JM",
+    "id": "geo-v3-world-07f7ab79ece35469",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Nordamerika?",
@@ -3780,7 +3780,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-HT",
+    "id": "geo-v3-world-d653ba1d969a26b7",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Nordamerika?",
@@ -3810,7 +3810,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-AO",
+    "id": "geo-v3-world-41b5d72cccbe884f",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Afrika?",
@@ -3840,7 +3840,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-KW",
+    "id": "geo-v3-world-4e76b6b4c678e48a",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Asien?",
@@ -3870,7 +3870,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-SV",
+    "id": "geo-v3-world-10baf89ff4d1de5a",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Nordamerika?",
@@ -3900,7 +3900,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-BB",
+    "id": "geo-v3-world-5bbf101a2a44f80c",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Nordamerika?",
@@ -3930,7 +3930,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-AE",
+    "id": "geo-v3-world-5c00707fb7455325",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Asien?",
@@ -3960,7 +3960,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-PL",
+    "id": "geo-v3-world-0511cd6b9e869803",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Europa?",
@@ -3990,7 +3990,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-UY",
+    "id": "geo-v3-world-a1a57f23927379d3",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Südamerika?",
@@ -4020,7 +4020,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-OM",
+    "id": "geo-v3-world-24037b7d4892894b",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Asien?",
@@ -4050,7 +4050,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-LU",
+    "id": "geo-v3-world-566da50a880651ea",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Europa?",
@@ -4080,7 +4080,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-MU",
+    "id": "geo-v3-world-3e7598c65db792fc",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Afrika?",
@@ -4110,7 +4110,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-KM",
+    "id": "geo-v3-world-97170986cdcc1be3",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Afrika?",
@@ -4140,7 +4140,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-MD",
+    "id": "geo-v3-world-29e4580910379ec5",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Europa?",
@@ -4170,7 +4170,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-GD",
+    "id": "geo-v3-world-d37837acc2a355de",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Nordamerika?",
@@ -4200,7 +4200,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-ZM",
+    "id": "geo-v3-world-2ccc0ad8d89d9545",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Afrika?",
@@ -4230,7 +4230,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-MN",
+    "id": "geo-v3-world-d88e774e0644389c",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Asien?",
@@ -4260,7 +4260,7 @@
     }
   },
   {
-    "id": "geo-v3-world-continent-PW",
+    "id": "geo-v3-world-c0e687c958db7796",
     "category": "world",
     "difficulty": 1,
     "prompt": "Welches dieser Länder liegt in Ozeanien?",
