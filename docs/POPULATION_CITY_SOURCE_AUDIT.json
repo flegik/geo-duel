@@ -1,0 +1,742 @@
+{
+  "download": "https://population.un.org/wup/assets/Download/Cities/WUP2025-DB-DEGURBA-Cities-Population-Surface-Data.csv.gz",
+  "sha256": "e9c9b41e374d776a9983e39bab54755405cecc263134db68ee706049294cd114",
+  "referenceYear": 2025,
+  "checked": 91,
+  "mismatches": 0,
+  "plausibilityCounts": {
+    "High": 55,
+    "Moderate": 34,
+    "Low": 2
+  },
+  "cities": [
+    {
+      "cityCode": 5576,
+      "name": "Berlin",
+      "population": 3560908,
+      "iso": "DE",
+      "plausibility": "High",
+      "areaKm2": "686"
+    },
+    {
+      "cityCode": 5337,
+      "name": "München",
+      "population": 1815022,
+      "iso": "DE",
+      "plausibility": "High",
+      "areaKm2": "345"
+    },
+    {
+      "cityCode": 4278,
+      "name": "Hamburg",
+      "population": 1759377,
+      "iso": "DE",
+      "plausibility": "High",
+      "areaKm2": "479"
+    },
+    {
+      "cityCode": 1160,
+      "name": "Köln",
+      "population": 1125292,
+      "iso": "DE",
+      "plausibility": "High",
+      "areaKm2": "285"
+    },
+    {
+      "cityCode": 3500,
+      "name": "Frankfurt am Main",
+      "population": 900483,
+      "iso": "DE",
+      "plausibility": "High",
+      "areaKm2": "192"
+    },
+    {
+      "cityCode": 5938,
+      "name": "London",
+      "population": 10416420,
+      "iso": "GB",
+      "plausibility": "High",
+      "areaKm2": "1646"
+    },
+    {
+      "cityCode": 3388,
+      "name": "Manchester",
+      "population": 2535427,
+      "iso": "GB",
+      "plausibility": "High",
+      "areaKm2": "741"
+    },
+    {
+      "cityCode": 2994,
+      "name": "Paris",
+      "population": 9381921,
+      "iso": "FR",
+      "plausibility": "High",
+      "areaKm2": "1381"
+    },
+    {
+      "cityCode": 4068,
+      "name": "Lyon",
+      "population": 1202985,
+      "iso": "FR",
+      "plausibility": "High",
+      "areaKm2": "242"
+    },
+    {
+      "cityCode": 4156,
+      "name": "Rom",
+      "population": 2376474,
+      "iso": "IT",
+      "plausibility": "High",
+      "areaKm2": "403"
+    },
+    {
+      "cityCode": 1848,
+      "name": "Mailand",
+      "population": 2599022,
+      "iso": "IT",
+      "plausibility": "High",
+      "areaKm2": "492"
+    },
+    {
+      "cityCode": 4726,
+      "name": "Neapel",
+      "population": 2767923,
+      "iso": "IT",
+      "plausibility": "High",
+      "areaKm2": "539"
+    },
+    {
+      "cityCode": 3440,
+      "name": "Madrid",
+      "population": 5583601,
+      "iso": "ES",
+      "plausibility": "Moderate",
+      "areaKm2": "645"
+    },
+    {
+      "cityCode": 5068,
+      "name": "Barcelona",
+      "population": 3982704,
+      "iso": "ES",
+      "plausibility": "Moderate",
+      "areaKm2": "454"
+    },
+    {
+      "cityCode": 1054,
+      "name": "Wien",
+      "population": 2031326,
+      "iso": "AT",
+      "plausibility": "High",
+      "areaKm2": "321"
+    },
+    {
+      "cityCode": 1668,
+      "name": "Zürich",
+      "population": 689657,
+      "iso": "CH",
+      "plausibility": "High",
+      "areaKm2": "182"
+    },
+    {
+      "cityCode": 60,
+      "name": "Genf",
+      "population": 436587,
+      "iso": "CH",
+      "plausibility": "High",
+      "areaKm2": "79"
+    },
+    {
+      "cityCode": 542,
+      "name": "Prag",
+      "population": 1197765,
+      "iso": "CZ",
+      "plausibility": "High",
+      "areaKm2": "261"
+    },
+    {
+      "cityCode": 3660,
+      "name": "Warschau",
+      "population": 1882756,
+      "iso": "PL",
+      "plausibility": "High",
+      "areaKm2": "401"
+    },
+    {
+      "cityCode": 942,
+      "name": "Budapest",
+      "population": 1609260,
+      "iso": "HU",
+      "plausibility": "High",
+      "areaKm2": "332"
+    },
+    {
+      "cityCode": 1754,
+      "name": "Amsterdam",
+      "population": 1235985,
+      "iso": "NL",
+      "plausibility": "High",
+      "areaKm2": "291"
+    },
+    {
+      "cityCode": 1672,
+      "name": "Stockholm",
+      "population": 1500093,
+      "iso": "SE",
+      "plausibility": "High",
+      "areaKm2": "338"
+    },
+    {
+      "cityCode": 680,
+      "name": "Kopenhagen",
+      "population": 1229370,
+      "iso": "DK",
+      "plausibility": "High",
+      "areaKm2": "292"
+    },
+    {
+      "cityCode": 931,
+      "name": "Oslo",
+      "population": 874991,
+      "iso": "NO",
+      "plausibility": "High",
+      "areaKm2": "249"
+    },
+    {
+      "cityCode": 555,
+      "name": "Helsinki",
+      "population": 1014317,
+      "iso": "FI",
+      "plausibility": "High",
+      "areaKm2": "379"
+    },
+    {
+      "cityCode": 217,
+      "name": "Lissabon",
+      "population": 1913798,
+      "iso": "PT",
+      "plausibility": "High",
+      "areaKm2": "387"
+    },
+    {
+      "cityCode": 833,
+      "name": "Athen",
+      "population": 3101979,
+      "iso": "GR",
+      "plausibility": "High",
+      "areaKm2": "404"
+    },
+    {
+      "cityCode": 8354,
+      "name": "New York City",
+      "population": 13920148,
+      "iso": "US",
+      "plausibility": "High",
+      "areaKm2": "2691"
+    },
+    {
+      "cityCode": 1725,
+      "name": "Los Angeles",
+      "population": 12740420,
+      "iso": "US",
+      "plausibility": "Moderate",
+      "areaKm2": "3699"
+    },
+    {
+      "cityCode": 7747,
+      "name": "Chicago",
+      "population": 3683385,
+      "iso": "US",
+      "plausibility": "Moderate",
+      "areaKm2": "932"
+    },
+    {
+      "cityCode": 6237,
+      "name": "Houston",
+      "population": 3955046,
+      "iso": "US",
+      "plausibility": "Moderate",
+      "areaKm2": "1583"
+    },
+    {
+      "cityCode": 1233,
+      "name": "San Francisco",
+      "population": 3163486,
+      "iso": "US",
+      "plausibility": "Moderate",
+      "areaKm2": "915"
+    },
+    {
+      "cityCode": 8123,
+      "name": "Washington, D.C.",
+      "population": 3270018,
+      "iso": "US",
+      "plausibility": "High",
+      "areaKm2": "1186"
+    },
+    {
+      "cityCode": 2925,
+      "name": "Toronto",
+      "population": 5494431,
+      "iso": "CA",
+      "plausibility": "High",
+      "areaKm2": "1360"
+    },
+    {
+      "cityCode": 3645,
+      "name": "Montreal",
+      "population": 2668723,
+      "iso": "CA",
+      "plausibility": "High",
+      "areaKm2": "706"
+    },
+    {
+      "cityCode": 341,
+      "name": "Vancouver",
+      "population": 1707865,
+      "iso": "CA",
+      "plausibility": "High",
+      "areaKm2": "468"
+    },
+    {
+      "cityCode": 5439,
+      "name": "Mexiko-Stadt",
+      "population": 17734212,
+      "iso": "MX",
+      "plausibility": "High",
+      "areaKm2": "2097"
+    },
+    {
+      "cityCode": 3099,
+      "name": "Guadalajara",
+      "population": 4135440,
+      "iso": "MX",
+      "plausibility": "Moderate",
+      "areaKm2": "591"
+    },
+    {
+      "cityCode": 7303,
+      "name": "São Paulo",
+      "population": 18949790,
+      "iso": "BR",
+      "plausibility": "High",
+      "areaKm2": "2044"
+    },
+    {
+      "cityCode": 7935,
+      "name": "Rio de Janeiro",
+      "population": 9500336,
+      "iso": "BR",
+      "plausibility": "High",
+      "areaKm2": "1260"
+    },
+    {
+      "cityCode": 4459,
+      "name": "Buenos Aires",
+      "population": 14017736,
+      "iso": "AR",
+      "plausibility": "Moderate",
+      "areaKm2": "2164"
+    },
+    {
+      "cityCode": 1987,
+      "name": "Lima",
+      "population": 10580241,
+      "iso": "PE",
+      "plausibility": "High",
+      "areaKm2": "1026"
+    },
+    {
+      "cityCode": 2380,
+      "name": "Santiago de Chile",
+      "population": 6726045,
+      "iso": "CL",
+      "plausibility": "Moderate",
+      "areaKm2": "803"
+    },
+    {
+      "cityCode": 3883,
+      "name": "Bogotá",
+      "population": 10624315,
+      "iso": "CO",
+      "plausibility": "Moderate",
+      "areaKm2": "542"
+    },
+    {
+      "cityCode": 2525,
+      "name": "Medellín",
+      "population": 3350384,
+      "iso": "CO",
+      "plausibility": "Moderate",
+      "areaKm2": "234"
+    },
+    {
+      "cityCode": 2139,
+      "name": "Sydney",
+      "population": 4150917,
+      "iso": "AU",
+      "plausibility": "High",
+      "areaKm2": "1317"
+    },
+    {
+      "cityCode": 1634,
+      "name": "Melbourne",
+      "population": 3639893,
+      "iso": "AU",
+      "plausibility": "Moderate",
+      "areaKm2": "1357"
+    },
+    {
+      "cityCode": 330,
+      "name": "Perth",
+      "population": 1079374,
+      "iso": "AU",
+      "plausibility": "Low",
+      "areaKm2": "556"
+    },
+    {
+      "cityCode": 2591,
+      "name": "Brisbane",
+      "population": 1071628,
+      "iso": "AU",
+      "plausibility": "Moderate",
+      "areaKm2": "460"
+    },
+    {
+      "cityCode": 1005,
+      "name": "Auckland",
+      "population": 1123094,
+      "iso": "NZ",
+      "plausibility": "Moderate",
+      "areaKm2": "403"
+    },
+    {
+      "cityCode": 486,
+      "name": "Wellington",
+      "population": 148555,
+      "iso": "NZ",
+      "plausibility": "High",
+      "areaKm2": "70"
+    },
+    {
+      "cityCode": 6030,
+      "name": "Tokio",
+      "population": 33412512,
+      "iso": "JP",
+      "plausibility": "High",
+      "areaKm2": "5148"
+    },
+    {
+      "cityCode": 4490,
+      "name": "Osaka",
+      "population": 12964145,
+      "iso": "JP",
+      "plausibility": "High",
+      "areaKm2": "2229"
+    },
+    {
+      "cityCode": 5245,
+      "name": "Nagoya",
+      "population": 7146160,
+      "iso": "JP",
+      "plausibility": "Moderate",
+      "areaKm2": "1979"
+    },
+    {
+      "cityCode": 11738,
+      "name": "Shanghai",
+      "population": 29558908,
+      "iso": "CN",
+      "plausibility": "High",
+      "areaKm2": "3130"
+    },
+    {
+      "cityCode": 9020,
+      "name": "Peking",
+      "population": 17013303,
+      "iso": "CN",
+      "plausibility": "High",
+      "areaKm2": "1713"
+    },
+    {
+      "cityCode": 11306,
+      "name": "Guangzhou",
+      "population": 27563372,
+      "iso": "CN",
+      "plausibility": "High",
+      "areaKm2": "4542"
+    },
+    {
+      "cityCode": 11478,
+      "name": "Shenzhen",
+      "population": 13878396,
+      "iso": "CN",
+      "plausibility": "High",
+      "areaKm2": "1459"
+    },
+    {
+      "cityCode": 332,
+      "name": "Seoul",
+      "population": 22490482,
+      "iso": "KR",
+      "plausibility": "Moderate",
+      "areaKm2": "2255"
+    },
+    {
+      "cityCode": 3878,
+      "name": "Busan",
+      "population": 3263221,
+      "iso": "KR",
+      "plausibility": "Moderate",
+      "areaKm2": "361"
+    },
+    {
+      "cityCode": 2286,
+      "name": "Bangkok",
+      "population": 18180280,
+      "iso": "TH",
+      "plausibility": "High",
+      "areaKm2": "2661"
+    },
+    {
+      "cityCode": 5590,
+      "name": "Jakarta",
+      "population": 41913860,
+      "iso": "ID",
+      "plausibility": "High",
+      "areaKm2": "4883"
+    },
+    {
+      "cityCode": 5991,
+      "name": "Bandung",
+      "population": 8909104,
+      "iso": "ID",
+      "plausibility": "Moderate",
+      "areaKm2": "1016"
+    },
+    {
+      "cityCode": 2369,
+      "name": "Manila",
+      "population": 24735305,
+      "iso": "PH",
+      "plausibility": "High",
+      "areaKm2": "2438"
+    },
+    {
+      "cityCode": 165,
+      "name": "Singapur",
+      "population": 4963998,
+      "iso": "SG",
+      "plausibility": "Moderate",
+      "areaKm2": "367"
+    },
+    {
+      "cityCode": 8364,
+      "name": "Neu-Delhi",
+      "population": 30222405,
+      "iso": "IN",
+      "plausibility": "High",
+      "areaKm2": "2101"
+    },
+    {
+      "cityCode": 7945,
+      "name": "Mumbai",
+      "population": 20203056,
+      "iso": "IN",
+      "plausibility": "Moderate",
+      "areaKm2": "740"
+    },
+    {
+      "cityCode": 11821,
+      "name": "Kolkata",
+      "population": 22549738,
+      "iso": "IN",
+      "plausibility": "Moderate",
+      "areaKm2": "2329"
+    },
+    {
+      "cityCode": 9949,
+      "name": "Bengaluru",
+      "population": 13187098,
+      "iso": "IN",
+      "plausibility": "Moderate",
+      "areaKm2": "642"
+    },
+    {
+      "cityCode": 10747,
+      "name": "Chennai",
+      "population": 11153205,
+      "iso": "IN",
+      "plausibility": "High",
+      "areaKm2": "1059"
+    },
+    {
+      "cityCode": 6249,
+      "name": "Dhaka",
+      "population": 36585479,
+      "iso": "BD",
+      "plausibility": "Moderate",
+      "areaKm2": "6812"
+    },
+    {
+      "cityCode": 2578,
+      "name": "Karachi",
+      "population": 21422590,
+      "iso": "PK",
+      "plausibility": "Moderate",
+      "areaKm2": "870"
+    },
+    {
+      "cityCode": 8021,
+      "name": "Lahore",
+      "population": 15156430,
+      "iso": "PK",
+      "plausibility": "Moderate",
+      "areaKm2": "967"
+    },
+    {
+      "cityCode": 2626,
+      "name": "Istanbul",
+      "population": 15014763,
+      "iso": "TR",
+      "plausibility": "Moderate",
+      "areaKm2": "1268"
+    },
+    {
+      "cityCode": 4941,
+      "name": "Ankara",
+      "population": 3612251,
+      "iso": "TR",
+      "plausibility": "High",
+      "areaKm2": "361"
+    },
+    {
+      "cityCode": 865,
+      "name": "Dubai",
+      "population": 5283789,
+      "iso": "AE",
+      "plausibility": "High",
+      "areaKm2": "903"
+    },
+    {
+      "cityCode": 2961,
+      "name": "Riad",
+      "population": 6916417,
+      "iso": "SA",
+      "plausibility": "Moderate",
+      "areaKm2": "1091"
+    },
+    {
+      "cityCode": 3303,
+      "name": "Bagdad",
+      "population": 6390735,
+      "iso": "IQ",
+      "plausibility": "High",
+      "areaKm2": "701"
+    },
+    {
+      "cityCode": 4435,
+      "name": "Kairo",
+      "population": 25566102,
+      "iso": "EG",
+      "plausibility": "Moderate",
+      "areaKm2": "1645"
+    },
+    {
+      "cityCode": 275,
+      "name": "Alexandria",
+      "population": 7266957,
+      "iso": "EG",
+      "plausibility": "Moderate",
+      "areaKm2": "591"
+    },
+    {
+      "cityCode": 413,
+      "name": "Kapstadt",
+      "population": 4508921,
+      "iso": "ZA",
+      "plausibility": "High",
+      "areaKm2": "715"
+    },
+    {
+      "cityCode": 3664,
+      "name": "Johannesburg",
+      "population": 7077175,
+      "iso": "ZA",
+      "plausibility": "Moderate",
+      "areaKm2": "1445"
+    },
+    {
+      "cityCode": 1265,
+      "name": "Lagos",
+      "population": 12791699,
+      "iso": "NG",
+      "plausibility": "Moderate",
+      "areaKm2": "1231"
+    },
+    {
+      "cityCode": 2076,
+      "name": "Casablanca",
+      "population": 4457471,
+      "iso": "MA",
+      "plausibility": "High",
+      "areaKm2": "411"
+    },
+    {
+      "cityCode": 2033,
+      "name": "Nairobi",
+      "population": 6134334,
+      "iso": "KE",
+      "plausibility": "High",
+      "areaKm2": "638"
+    },
+    {
+      "cityCode": 6353,
+      "name": "Addis Abeba",
+      "population": 6705705,
+      "iso": "ET",
+      "plausibility": "Moderate",
+      "areaKm2": "489"
+    },
+    {
+      "cityCode": 1378,
+      "name": "Tunis",
+      "population": 2473428,
+      "iso": "TN",
+      "plausibility": "Moderate",
+      "areaKm2": "438"
+    },
+    {
+      "cityCode": 3444,
+      "name": "Algier",
+      "population": 3246400,
+      "iso": "DZ",
+      "plausibility": "High",
+      "areaKm2": "471"
+    },
+    {
+      "cityCode": 3336,
+      "name": "Accra",
+      "population": 5592780,
+      "iso": "GH",
+      "plausibility": "Low",
+      "areaKm2": "1119"
+    },
+    {
+      "cityCode": 33,
+      "name": "Dakar",
+      "population": 3852475,
+      "iso": "SN",
+      "plausibility": "High",
+      "areaKm2": "284"
+    },
+    {
+      "cityCode": 1854,
+      "name": "Kinshasa",
+      "population": 10943641,
+      "iso": "CD",
+      "plausibility": "Moderate",
+      "areaKm2": "511"
+    }
+  ]
+}

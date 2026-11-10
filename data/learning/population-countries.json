@@ -1,0 +1,874 @@
+{
+  "dataset": "UN World Population Prospects 2024",
+  "revision": "2024, including 19 January 2026 Togo interim update",
+  "referenceYear": 2025,
+  "referenceDate": "2025-07-01",
+  "indicator": "TPopulation1July",
+  "variant": "Medium",
+  "status": "projection",
+  "definition": "Total population, both sexes combined, all ages, at 1 July 2025; UN WPP2024 medium projection for the country or area as defined by the UN dataset. This is not a municipal/urban population and not an observed 2025 census count.",
+  "definitionDe": "Gesamtbevölkerung beider Geschlechter und aller Altersgruppen am 1. Juli 2025; mittlere UN-Projektion der WPP-Ausgabe 2024 für das Land/Gebiet gemäß UN-Abgrenzung. Keine amtliche Volkszählung für 2025.",
+  "unit": "persons",
+  "originalUnit": "thousands of persons",
+  "conversion": "Exact decimal TPopulation1July multiplied by 1000; no binary float rounding.",
+  "citation": "United Nations, Department of Economic and Social Affairs, Population Division (2024). World Population Prospects 2024, Online Edition.",
+  "sourceUrl": "https://population.un.org/wpp/",
+  "catalogueUrl": "https://population.un.org/wpp/assets/downloads.json",
+  "downloadUrl": "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Demographic_Indicators_Medium.csv.gz",
+  "interimUpdateUrl": "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/WPP2024_CSV_files_update.zip",
+  "retrievedAt": "2026-11-10",
+  "sourceSha256": {
+    "medium.csv.gz": "286ac36bb1415e2e1ade03acfef0a29f0e4c087e2f78e38c48f50c5df89082bc",
+    "update.zip": "eb7846bf5d937ee15060198e1130e770b885e58c24035b314966681ed929ca9f",
+    "downloads.json": "5a088f7691f39ad5f1a7e11dccd149b481f88adf77705ffc907a31cada07df1a",
+    "notes.csv": "c6063ba18b23e899c02bb7f9c78b6e410f25b30cb9d40b66eda032e1127bea49"
+  },
+  "countries": {
+    "AD": {
+      "population": 82904,
+      "unLocationCode": 20
+    },
+    "AE": {
+      "population": 11346000,
+      "unLocationCode": 784
+    },
+    "AF": {
+      "population": 43844112,
+      "unLocationCode": 4
+    },
+    "AG": {
+      "population": 94208,
+      "unLocationCode": 28
+    },
+    "AL": {
+      "population": 2771508,
+      "unLocationCode": 8
+    },
+    "AM": {
+      "population": 2952365,
+      "unLocationCode": 51
+    },
+    "AO": {
+      "population": 39040039,
+      "unLocationCode": 24
+    },
+    "AR": {
+      "population": 45851378,
+      "unLocationCode": 32
+    },
+    "AT": {
+      "population": 9113574,
+      "unLocationCode": 40
+    },
+    "AU": {
+      "population": 26974026,
+      "unLocationCode": 36
+    },
+    "AZ": {
+      "population": 10397713,
+      "unLocationCode": 31
+    },
+    "BA": {
+      "population": 3140096,
+      "unLocationCode": 70
+    },
+    "BB": {
+      "population": 282623,
+      "unLocationCode": 52
+    },
+    "BD": {
+      "population": 175686900,
+      "unLocationCode": 50
+    },
+    "BE": {
+      "population": 11758603,
+      "unLocationCode": 56
+    },
+    "BF": {
+      "population": 24074580,
+      "unLocationCode": 854
+    },
+    "BG": {
+      "population": 6714560,
+      "unLocationCode": 100
+    },
+    "BH": {
+      "population": 1643332,
+      "unLocationCode": 48
+    },
+    "BI": {
+      "population": 14390002,
+      "unLocationCode": 108
+    },
+    "BJ": {
+      "population": 14814460,
+      "unLocationCode": 204
+    },
+    "BN": {
+      "population": 466330,
+      "unLocationCode": 96
+    },
+    "BO": {
+      "population": 12581842,
+      "unLocationCode": 68
+    },
+    "BR": {
+      "population": 212812405,
+      "unLocationCode": 76
+    },
+    "BS": {
+      "population": 403033,
+      "unLocationCode": 44
+    },
+    "BT": {
+      "population": 796682,
+      "unLocationCode": 64
+    },
+    "BW": {
+      "population": 2562122,
+      "unLocationCode": 72
+    },
+    "BY": {
+      "population": 8997603,
+      "unLocationCode": 112
+    },
+    "BZ": {
+      "population": 422924,
+      "unLocationCode": 84
+    },
+    "CA": {
+      "population": 40126723,
+      "unLocationCode": 124
+    },
+    "CD": {
+      "population": 112832473,
+      "unLocationCode": 180
+    },
+    "CF": {
+      "population": 5513282,
+      "unLocationCode": 140
+    },
+    "CG": {
+      "population": 6484437,
+      "unLocationCode": 178
+    },
+    "CH": {
+      "population": 8967408,
+      "unLocationCode": 756
+    },
+    "CI": {
+      "population": 32711547,
+      "unLocationCode": 384
+    },
+    "CL": {
+      "population": 19859921,
+      "unLocationCode": 152
+    },
+    "CM": {
+      "population": 29879337,
+      "unLocationCode": 120
+    },
+    "CN": {
+      "population": 1416096094,
+      "unLocationCode": 156
+    },
+    "CO": {
+      "population": 53425635,
+      "unLocationCode": 170
+    },
+    "CR": {
+      "population": 5152950,
+      "unLocationCode": 188
+    },
+    "CU": {
+      "population": 10937204,
+      "unLocationCode": 192
+    },
+    "CV": {
+      "population": 527326,
+      "unLocationCode": 132
+    },
+    "CY": {
+      "population": 1370754,
+      "unLocationCode": 196
+    },
+    "CZ": {
+      "population": 10609240,
+      "unLocationCode": 203
+    },
+    "DE": {
+      "population": 84075075,
+      "unLocationCode": 276
+    },
+    "DJ": {
+      "population": 1184076,
+      "unLocationCode": 262
+    },
+    "DK": {
+      "population": 6002507,
+      "unLocationCode": 208
+    },
+    "DM": {
+      "population": 65872,
+      "unLocationCode": 212
+    },
+    "DO": {
+      "population": 11520487,
+      "unLocationCode": 214
+    },
+    "DZ": {
+      "population": 47435312,
+      "unLocationCode": 12
+    },
+    "EC": {
+      "population": 18289896,
+      "unLocationCode": 218
+    },
+    "EE": {
+      "population": 1344232,
+      "unLocationCode": 233
+    },
+    "EG": {
+      "population": 118365994,
+      "unLocationCode": 818
+    },
+    "ER": {
+      "population": 3607003,
+      "unLocationCode": 232
+    },
+    "ES": {
+      "population": 47889958,
+      "unLocationCode": 724
+    },
+    "ET": {
+      "population": 135472051,
+      "unLocationCode": 231
+    },
+    "FI": {
+      "population": 5623330,
+      "unLocationCode": 246
+    },
+    "FJ": {
+      "population": 933154,
+      "unLocationCode": 242
+    },
+    "FM": {
+      "population": 113683,
+      "unLocationCode": 583
+    },
+    "FR": {
+      "population": 66650804,
+      "unLocationCode": 250
+    },
+    "GA": {
+      "population": 2593130,
+      "unLocationCode": 266
+    },
+    "GB": {
+      "population": 69551332,
+      "unLocationCode": 826
+    },
+    "GD": {
+      "population": 117304,
+      "unLocationCode": 308
+    },
+    "GE": {
+      "population": 3806671,
+      "unLocationCode": 268
+    },
+    "GH": {
+      "population": 35064272,
+      "unLocationCode": 288
+    },
+    "GM": {
+      "population": 2822093,
+      "unLocationCode": 270
+    },
+    "GN": {
+      "population": 15099727,
+      "unLocationCode": 324
+    },
+    "GQ": {
+      "population": 1938431,
+      "unLocationCode": 226
+    },
+    "GR": {
+      "population": 9938844,
+      "unLocationCode": 300
+    },
+    "GT": {
+      "population": 18687881,
+      "unLocationCode": 320
+    },
+    "GW": {
+      "population": 2249515,
+      "unLocationCode": 624
+    },
+    "GY": {
+      "population": 835986,
+      "unLocationCode": 328
+    },
+    "HN": {
+      "population": 11005850,
+      "unLocationCode": 340
+    },
+    "HR": {
+      "population": 3848160,
+      "unLocationCode": 191
+    },
+    "HT": {
+      "population": 11906096,
+      "unLocationCode": 332
+    },
+    "HU": {
+      "population": 9632287,
+      "unLocationCode": 348
+    },
+    "ID": {
+      "population": 285721236,
+      "unLocationCode": 360
+    },
+    "IE": {
+      "population": 5308039,
+      "unLocationCode": 372
+    },
+    "IL": {
+      "population": 9517180,
+      "unLocationCode": 376
+    },
+    "IN": {
+      "population": 1463865525,
+      "unLocationCode": 356
+    },
+    "IQ": {
+      "population": 47020774,
+      "unLocationCode": 368
+    },
+    "IR": {
+      "population": 92417681,
+      "unLocationCode": 364
+    },
+    "IS": {
+      "population": 398266,
+      "unLocationCode": 352
+    },
+    "IT": {
+      "population": 59146260,
+      "unLocationCode": 380
+    },
+    "JM": {
+      "population": 2837077,
+      "unLocationCode": 388
+    },
+    "JO": {
+      "population": 11520684,
+      "unLocationCode": 400
+    },
+    "JP": {
+      "population": 123103479,
+      "unLocationCode": 392
+    },
+    "KE": {
+      "population": 57532492,
+      "unLocationCode": 404
+    },
+    "KG": {
+      "population": 7295034,
+      "unLocationCode": 417
+    },
+    "KH": {
+      "population": 17847982,
+      "unLocationCode": 116
+    },
+    "KI": {
+      "population": 136488,
+      "unLocationCode": 296
+    },
+    "KM": {
+      "population": 882848,
+      "unLocationCode": 174
+    },
+    "KN": {
+      "population": 46922,
+      "unLocationCode": 659
+    },
+    "KP": {
+      "population": 26571036,
+      "unLocationCode": 408
+    },
+    "KR": {
+      "population": 51667029,
+      "unLocationCode": 410
+    },
+    "KW": {
+      "population": 5026078,
+      "unLocationCode": 414
+    },
+    "KZ": {
+      "population": 20843754,
+      "unLocationCode": 398
+    },
+    "LA": {
+      "population": 7873046,
+      "unLocationCode": 418
+    },
+    "LB": {
+      "population": 5849420,
+      "unLocationCode": 422
+    },
+    "LC": {
+      "population": 180149,
+      "unLocationCode": 662
+    },
+    "LI": {
+      "population": 40128,
+      "unLocationCode": 438
+    },
+    "LK": {
+      "population": 23229470,
+      "unLocationCode": 144
+    },
+    "LR": {
+      "population": 5731206,
+      "unLocationCode": 430
+    },
+    "LS": {
+      "population": 2363325,
+      "unLocationCode": 426
+    },
+    "LT": {
+      "population": 2830144,
+      "unLocationCode": 440
+    },
+    "LU": {
+      "population": 680454,
+      "unLocationCode": 442
+    },
+    "LV": {
+      "population": 1853559,
+      "unLocationCode": 428
+    },
+    "LY": {
+      "population": 7458554,
+      "unLocationCode": 434
+    },
+    "MA": {
+      "population": 38430770,
+      "unLocationCode": 504
+    },
+    "MC": {
+      "population": 38341,
+      "unLocationCode": 492
+    },
+    "MD": {
+      "population": 2996106,
+      "unLocationCode": 498
+    },
+    "ME": {
+      "population": 632729,
+      "unLocationCode": 499
+    },
+    "MG": {
+      "population": 32740678,
+      "unLocationCode": 450
+    },
+    "MH": {
+      "population": 36282,
+      "unLocationCode": 584
+    },
+    "MK": {
+      "population": 1813791,
+      "unLocationCode": 807
+    },
+    "ML": {
+      "population": 25198821,
+      "unLocationCode": 466
+    },
+    "MM": {
+      "population": 54850648,
+      "unLocationCode": 104
+    },
+    "MN": {
+      "population": 3517100,
+      "unLocationCode": 496
+    },
+    "MR": {
+      "population": 5315065,
+      "unLocationCode": 478
+    },
+    "MT": {
+      "population": 545405,
+      "unLocationCode": 470
+    },
+    "MU": {
+      "population": 1268280,
+      "unLocationCode": 480
+    },
+    "MV": {
+      "population": 529676,
+      "unLocationCode": 462
+    },
+    "MW": {
+      "population": 22216120,
+      "unLocationCode": 454
+    },
+    "MX": {
+      "population": 131946900,
+      "unLocationCode": 484
+    },
+    "MY": {
+      "population": 35977838,
+      "unLocationCode": 458
+    },
+    "MZ": {
+      "population": 35631653,
+      "unLocationCode": 508
+    },
+    "NA": {
+      "population": 3092816,
+      "unLocationCode": 516
+    },
+    "NE": {
+      "population": 27917831,
+      "unLocationCode": 562
+    },
+    "NG": {
+      "population": 237527782,
+      "unLocationCode": 566
+    },
+    "NI": {
+      "population": 7007502,
+      "unLocationCode": 558
+    },
+    "NL": {
+      "population": 18346819,
+      "unLocationCode": 528
+    },
+    "NO": {
+      "population": 5623071,
+      "unLocationCode": 578
+    },
+    "NP": {
+      "population": 29618118,
+      "unLocationCode": 524
+    },
+    "NR": {
+      "population": 12025,
+      "unLocationCode": 520
+    },
+    "NZ": {
+      "population": 5251899,
+      "unLocationCode": 554
+    },
+    "OM": {
+      "population": 5494691,
+      "unLocationCode": 512
+    },
+    "PA": {
+      "population": 4571189,
+      "unLocationCode": 591
+    },
+    "PE": {
+      "population": 34576665,
+      "unLocationCode": 604
+    },
+    "PG": {
+      "population": 10762817,
+      "unLocationCode": 598
+    },
+    "PH": {
+      "population": 116786962,
+      "unLocationCode": 608
+    },
+    "PK": {
+      "population": 255219554,
+      "unLocationCode": 586
+    },
+    "PL": {
+      "population": 38140910,
+      "unLocationCode": 616
+    },
+    "PS": {
+      "population": 5589623,
+      "unLocationCode": 275
+    },
+    "PT": {
+      "population": 10411834,
+      "unLocationCode": 620
+    },
+    "PW": {
+      "population": 17663,
+      "unLocationCode": 585
+    },
+    "PY": {
+      "population": 7013078,
+      "unLocationCode": 600
+    },
+    "QA": {
+      "population": 3115888,
+      "unLocationCode": 634
+    },
+    "RO": {
+      "population": 18908650,
+      "unLocationCode": 642
+    },
+    "RS": {
+      "population": 6689039,
+      "unLocationCode": 688
+    },
+    "RU": {
+      "population": 143997393,
+      "unLocationCode": 643
+    },
+    "RW": {
+      "population": 14569340,
+      "unLocationCode": 646
+    },
+    "SA": {
+      "population": 34566328,
+      "unLocationCode": 682
+    },
+    "SB": {
+      "population": 838646,
+      "unLocationCode": 90
+    },
+    "SC": {
+      "population": 132779,
+      "unLocationCode": 690
+    },
+    "SD": {
+      "population": 51662148,
+      "unLocationCode": 729
+    },
+    "SE": {
+      "population": 10656633,
+      "unLocationCode": 752
+    },
+    "SG": {
+      "population": 5870750,
+      "unLocationCode": 702
+    },
+    "SI": {
+      "population": 2117072,
+      "unLocationCode": 705
+    },
+    "SK": {
+      "population": 5474881,
+      "unLocationCode": 703
+    },
+    "SL": {
+      "population": 8819794,
+      "unLocationCode": 694
+    },
+    "SM": {
+      "population": 33572,
+      "unLocationCode": 674
+    },
+    "SN": {
+      "population": 18931966,
+      "unLocationCode": 686
+    },
+    "SO": {
+      "population": 19654739,
+      "unLocationCode": 706
+    },
+    "SR": {
+      "population": 639850,
+      "unLocationCode": 740
+    },
+    "SS": {
+      "population": 12188788,
+      "unLocationCode": 728
+    },
+    "ST": {
+      "population": 240254,
+      "unLocationCode": 678
+    },
+    "SV": {
+      "population": 6365503,
+      "unLocationCode": 222
+    },
+    "SY": {
+      "population": 25620427,
+      "unLocationCode": 760
+    },
+    "SZ": {
+      "population": 1256174,
+      "unLocationCode": 748
+    },
+    "TD": {
+      "population": 21003705,
+      "unLocationCode": 148
+    },
+    "TG": {
+      "population": 8591626,
+      "unLocationCode": 768,
+      "interimUpdate": "2026-01-19"
+    },
+    "TH": {
+      "population": 71619863,
+      "unLocationCode": 764
+    },
+    "TJ": {
+      "population": 10786734,
+      "unLocationCode": 762
+    },
+    "TL": {
+      "population": 1418517,
+      "unLocationCode": 626
+    },
+    "TM": {
+      "population": 7618848,
+      "unLocationCode": 795
+    },
+    "TN": {
+      "population": 12348573,
+      "unLocationCode": 788
+    },
+    "TO": {
+      "population": 103742,
+      "unLocationCode": 776
+    },
+    "TR": {
+      "population": 87685426,
+      "unLocationCode": 792
+    },
+    "TT": {
+      "population": 1511155,
+      "unLocationCode": 780
+    },
+    "TV": {
+      "population": 9492,
+      "unLocationCode": 798
+    },
+    "TZ": {
+      "population": 70545865,
+      "unLocationCode": 834
+    },
+    "UA": {
+      "population": 38980376,
+      "unLocationCode": 804
+    },
+    "UG": {
+      "population": 51384894,
+      "unLocationCode": 800
+    },
+    "US": {
+      "population": 347275808,
+      "unLocationCode": 840
+    },
+    "UY": {
+      "population": 3384688,
+      "unLocationCode": 858
+    },
+    "UZ": {
+      "population": 37053428,
+      "unLocationCode": 860
+    },
+    "VA": {
+      "population": 501,
+      "unLocationCode": 336
+    },
+    "VC": {
+      "population": 99924,
+      "unLocationCode": 670
+    },
+    "VE": {
+      "population": 28516896,
+      "unLocationCode": 862
+    },
+    "VN": {
+      "population": 101598527,
+      "unLocationCode": 704
+    },
+    "VU": {
+      "population": 335169,
+      "unLocationCode": 548
+    },
+    "WS": {
+      "population": 219306,
+      "unLocationCode": 882
+    },
+    "YE": {
+      "population": 41773878,
+      "unLocationCode": 887
+    },
+    "ZA": {
+      "population": 64747319,
+      "unLocationCode": 710
+    },
+    "ZM": {
+      "population": 21913874,
+      "unLocationCode": 894
+    },
+    "ZW": {
+      "population": 16950795,
+      "unLocationCode": 716
+    }
+  },
+  "suggestedQuestionSubjects": [
+    "DE",
+    "FR",
+    "GB",
+    "IT",
+    "ES",
+    "PL",
+    "NL",
+    "BE",
+    "CH",
+    "AT",
+    "SE",
+    "NO",
+    "DK",
+    "FI",
+    "IE",
+    "PT",
+    "GR",
+    "CZ",
+    "CN",
+    "IN",
+    "JP",
+    "KR",
+    "ID",
+    "PK",
+    "BD",
+    "VN",
+    "TH",
+    "MY",
+    "PH",
+    "SG",
+    "SA",
+    "IR",
+    "TR",
+    "US",
+    "CA",
+    "MX",
+    "BR",
+    "AR",
+    "CL",
+    "CO",
+    "PE",
+    "CU",
+    "DO",
+    "EG",
+    "ZA",
+    "NG",
+    "MA",
+    "DZ",
+    "TN",
+    "KE",
+    "ET",
+    "TZ",
+    "GH",
+    "SN",
+    "CD",
+    "AU",
+    "NZ",
+    "PG",
+    "FJ",
+    "WS"
+  ],
+  "license": "CC BY 3.0 IGO",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/igo/",
+  "projectionDefinitionSource": "https://data.un.org/Data.aspx?c=2%2C4%2C6%2C7&d=PopDiv&f=variableID%3A12%3BtimeID%3A85%3BvarID%3A2&s=_crEngNameOrderBy%3Aasc%2C_timeEngNameOrderBy%3Adesc%2C_varEngNameOrderBy%3Aasc&v=1"
+}

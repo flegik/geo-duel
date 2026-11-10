@@ -1,0 +1,97 @@
+{
+  "seed": 20261110,
+  "rounds": 1000,
+  "continuous": false,
+  "questions": 12000,
+  "eligibleCountryCityQuestions": 9856,
+  "flagsExcluded": 1770,
+  "globalQuestionsExcluded": 374,
+  "counts": {
+    "Südamerika": 685,
+    "Asien": 2137,
+    "Nordamerika": 1160,
+    "Europa": 3091,
+    "Afrika": 2225,
+    "Ozeanien": 558
+  },
+  "percentages": {
+    "Südamerika": 6.95,
+    "Asien": 21.682,
+    "Nordamerika": 11.769,
+    "Europa": 31.362,
+    "Afrika": 22.575,
+    "Ozeanien": 5.662
+  },
+  "byCategory": {
+    "world": {
+      "Südamerika": 139,
+      "Asien": 298,
+      "Europa": 261,
+      "Nordamerika": 190,
+      "Afrika": 322,
+      "Ozeanien": 96
+    },
+    "borders": {
+      "Asien": 224,
+      "Nordamerika": 192,
+      "Europa": 741,
+      "Afrika": 468,
+      "Südamerika": 121,
+      "Ozeanien": 6
+    },
+    "landmarks": {
+      "Nordamerika": 161,
+      "Asien": 480,
+      "Europa": 631,
+      "Südamerika": 94,
+      "Afrika": 331,
+      "Ozeanien": 85
+    },
+    "capitals": {
+      "Asien": 412,
+      "Europa": 428,
+      "Südamerika": 124,
+      "Ozeanien": 127,
+      "Afrika": 350,
+      "Nordamerika": 188
+    },
+    "silhouettes": {
+      "Europa": 525,
+      "Asien": 370,
+      "Afrika": 376,
+      "Nordamerika": 217,
+      "Südamerika": 101,
+      "Ozeanien": 130
+    },
+    "maps": {
+      "Asien": 353,
+      "Europa": 505,
+      "Afrika": 378,
+      "Nordamerika": 212,
+      "Südamerika": 106,
+      "Ozeanien": 114
+    }
+  },
+  "core": {
+    "questions": 6768,
+    "africa": 1572,
+    "africaPercent": 23.22695035460993
+  },
+  "difficulty": {
+    "1": 4000,
+    "2": 4000,
+    "3": 4000
+  },
+  "distinctSubjects": 1101,
+  "repeatedSubjectsWithinRound": 0,
+  "subjectsRepeatedFromImmediatelyPreviousRound": 270,
+  "poolCounts": {
+    "capitals": 264,
+    "silhouettes": 195,
+    "maps": 195,
+    "borders": 294,
+    "landmarks": 120,
+    "world": 150,
+    "flags": 585
+  }
+}
