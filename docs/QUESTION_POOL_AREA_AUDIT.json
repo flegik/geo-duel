@@ -1,0 +1,448 @@
+{
+  "source": "Natural Earth 10m Admin 0 Countries",
+  "method": "Independent spherical polygon area; used to cross-check ordering only, not replace sourced total-area values.",
+  "checked": 40,
+  "mismatches": 0,
+  "questions": [
+    {
+      "questionId": "geo-v3-world-f88d39544bf034cb",
+      "correctISO": "RO",
+      "geometricLargestISO": "RO",
+      "approximateMappedAreaKm2": {
+        "GR": 131244,
+        "BG": 112568,
+        "HU": 92947,
+        "RO": 235806
+      }
+    },
+    {
+      "questionId": "geo-v3-world-a1b8b8c15267868f",
+      "correctISO": "LA",
+      "geometricLargestISO": "LA",
+      "approximateMappedAreaKm2": {
+        "LA": 228827,
+        "KH": 181754,
+        "NP": 147324,
+        "BD": 137217
+      }
+    },
+    {
+      "questionId": "geo-v3-world-bda5f6eadd531531",
+      "correctISO": "PY",
+      "geometricLargestISO": "PY",
+      "approximateMappedAreaKm2": {
+        "SR": 145764,
+        "GY": 212139,
+        "PY": 400858,
+        "UY": 177440
+      }
+    },
+    {
+      "questionId": "geo-v3-world-b35cd9c7ffbdedb6",
+      "correctISO": "LR",
+      "geometricLargestISO": "LR",
+      "approximateMappedAreaKm2": {
+        "SL": 71912,
+        "GW": 32957,
+        "TG": 57102,
+        "LR": 95710
+      }
+    },
+    {
+      "questionId": "geo-v3-world-4f7cb347e771ddcb",
+      "correctISO": "LC",
+      "geometricLargestISO": "LC",
+      "approximateMappedAreaKm2": {
+        "LC": 607,
+        "BB": 446,
+        "GD": 349,
+        "VC": 369
+      }
+    },
+    {
+      "questionId": "geo-v3-world-6e061c2d9e7c5436",
+      "correctISO": "TG",
+      "geometricLargestISO": "TG",
+      "approximateMappedAreaKm2": {
+        "GQ": 26791,
+        "TG": 57102,
+        "RW": 25418,
+        "GW": 32957
+      }
+    },
+    {
+      "questionId": "geo-v3-world-6554087c37c2a668",
+      "correctISO": "IS",
+      "geometricLargestISO": "IS",
+      "approximateMappedAreaKm2": {
+        "BE": 30561,
+        "EE": 45576,
+        "IS": 101723,
+        "IE": 69160
+      }
+    },
+    {
+      "questionId": "geo-v3-world-03b580f33d0476d3",
+      "correctISO": "SS",
+      "geometricLargestISO": "SS",
+      "approximateMappedAreaKm2": {
+        "SS": 629530,
+        "CG": 346429,
+        "UG": 242936,
+        "CM": 466331
+      }
+    },
+    {
+      "questionId": "geo-v3-world-98109d36f3a311f3",
+      "correctISO": "GA",
+      "geometricLargestISO": "GA",
+      "approximateMappedAreaKm2": {
+        "MW": 119849,
+        "BJ": 116590,
+        "GA": 261133,
+        "LR": 95710
+      }
+    },
+    {
+      "questionId": "geo-v3-world-de714557a0a54f2b",
+      "correctISO": "HR",
+      "geometricLargestISO": "HR",
+      "approximateMappedAreaKm2": {
+        "SI": 20277,
+        "CH": 41326,
+        "HR": 54900,
+        "AL": 28298
+      }
+    },
+    {
+      "questionId": "geo-v3-world-6aab69b6b11b4d79",
+      "correctISO": "PT",
+      "geometricLargestISO": "PT",
+      "approximateMappedAreaKm2": {
+        "CH": 41326,
+        "IE": 69160,
+        "BE": 30561,
+        "PT": 91303
+      }
+    },
+    {
+      "questionId": "geo-v3-world-37ff1cffd355b31a",
+      "correctISO": "SN",
+      "geometricLargestISO": "SN",
+      "approximateMappedAreaKm2": {
+        "TG": 57102,
+        "LR": 95710,
+        "SL": 71912,
+        "SN": 196942
+      }
+    },
+    {
+      "questionId": "geo-v3-world-46bdf500d5f1806f",
+      "correctISO": "SK",
+      "geometricLargestISO": "SK",
+      "approximateMappedAreaKm2": {
+        "MD": 33116,
+        "MK": 25349,
+        "SK": 48308,
+        "SI": 20277
+      }
+    },
+    {
+      "questionId": "geo-v3-world-b3c4633fc7523cda",
+      "correctISO": "EC",
+      "geometricLargestISO": "EC",
+      "approximateMappedAreaKm2": {
+        "SR": 145764,
+        "EC": 256155,
+        "UY": 177440,
+        "GY": 212139
+      }
+    },
+    {
+      "questionId": "geo-v3-world-c3ef2ca44c8a10a4",
+      "correctISO": "HU",
+      "geometricLargestISO": "HU",
+      "approximateMappedAreaKm2": {
+        "HR": 54900,
+        "BA": 51722,
+        "HU": 92947,
+        "SK": 48308
+      }
+    },
+    {
+      "questionId": "geo-v3-world-7f5d8652cdc1eecd",
+      "correctISO": "NA",
+      "geometricLargestISO": "NA",
+      "approximateMappedAreaKm2": {
+        "CG": 346429,
+        "ZW": 390529,
+        "BW": 580515,
+        "NA": 824824
+      }
+    },
+    {
+      "questionId": "geo-v3-world-037472539388050f",
+      "correctISO": "TR",
+      "geometricLargestISO": "TR",
+      "approximateMappedAreaKm2": {
+        "TR": 779426,
+        "TM": 470449,
+        "UZ": 447180,
+        "IQ": 437585
+      }
+    },
+    {
+      "questionId": "geo-v3-world-5c718211c9059330",
+      "correctISO": "ZW",
+      "geometricLargestISO": "ZW",
+      "approximateMappedAreaKm2": {
+        "MW": 119849,
+        "GA": 261133,
+        "UG": 242936,
+        "ZW": 390529
+      }
+    },
+    {
+      "questionId": "geo-v3-world-be484085ac7eb004",
+      "correctISO": "BD",
+      "geometricLargestISO": "BD",
+      "approximateMappedAreaKm2": {
+        "KR": 98521,
+        "AE": 71247,
+        "LK": 66573,
+        "BD": 137217
+      }
+    },
+    {
+      "questionId": "geo-v3-world-270d8dfa7f1b459f",
+      "correctISO": "KP",
+      "geometricLargestISO": "KP",
+      "approximateMappedAreaKm2": {
+        "BT": 40488,
+        "LK": 66573,
+        "KR": 98521,
+        "KP": 122246
+      }
+    },
+    {
+      "questionId": "geo-v3-world-3391576b9b14d7e3",
+      "correctISO": "PL",
+      "geometricLargestISO": "PL",
+      "approximateMappedAreaKm2": {
+        "BY": 206632,
+        "RO": 235806,
+        "PL": 312218,
+        "HU": 92947
+      }
+    },
+    {
+      "questionId": "geo-v3-world-6096f808f52308a5",
+      "correctISO": "PE",
+      "geometricLargestISO": "PE",
+      "approximateMappedAreaKm2": {
+        "VE": 916571,
+        "CL": 736364,
+        "PE": 1295127,
+        "PY": 400858
+      }
+    },
+    {
+      "questionId": "geo-v3-world-8cb7f0e37d76912e",
+      "correctISO": "BA",
+      "geometricLargestISO": "BA",
+      "approximateMappedAreaKm2": {
+        "AL": 28298,
+        "BA": 51722,
+        "MK": 25349,
+        "SI": 20277
+      }
+    },
+    {
+      "questionId": "geo-v3-world-f9dee735c7a65ad1",
+      "correctISO": "EG",
+      "geometricLargestISO": "EG",
+      "approximateMappedAreaKm2": {
+        "EG": 1002870,
+        "CF": 620644,
+        "SO": 473872,
+        "SS": 629530
+      }
+    },
+    {
+      "questionId": "geo-v3-world-75e78a9063d1419f",
+      "correctISO": "VE",
+      "geometricLargestISO": "VE",
+      "approximateMappedAreaKm2": {
+        "CL": 736364,
+        "VE": 916571,
+        "PY": 400858,
+        "EC": 256155
+      }
+    },
+    {
+      "questionId": "geo-v3-world-bbb0be19a8e9de8b",
+      "correctISO": "MY",
+      "geometricLargestISO": "MY",
+      "approximateMappedAreaKm2": {
+        "KH": 181754,
+        "MY": 329335,
+        "BD": 137217,
+        "LA": 228827
+      }
+    },
+    {
+      "questionId": "geo-v3-world-7204d6efc17c85fb",
+      "correctISO": "MR",
+      "geometricLargestISO": "MR",
+      "approximateMappedAreaKm2": {
+        "CI": 322039,
+        "MR": 1039354,
+        "CG": 346429,
+        "CM": 466331
+      }
+    },
+    {
+      "questionId": "geo-v3-world-28e49c865089211d",
+      "correctISO": "KW",
+      "geometricLargestISO": "KW",
+      "approximateMappedAreaKm2": {
+        "LB": 10007,
+        "KW": 17496,
+        "BN": 5742,
+        "QA": 11173
+      }
+    },
+    {
+      "questionId": "geo-v3-world-ee728a34e854c6aa",
+      "correctISO": "SA",
+      "geometricLargestISO": "SA",
+      "approximateMappedAreaKm2": {
+        "SA": 1926006,
+        "AF": 642392,
+        "TR": 779426,
+        "IR": 1623488
+      }
+    },
+    {
+      "questionId": "geo-v3-world-023cbad3cb41c4d7",
+      "correctISO": "AZ",
+      "geometricLargestISO": "AZ",
+      "approximateMappedAreaKm2": {
+        "BT": 40488,
+        "GE": 69462,
+        "AZ": 86153,
+        "AM": 29555
+      }
+    },
+    {
+      "questionId": "geo-v3-world-524daa5b8ed3533f",
+      "correctISO": "ID",
+      "geometricLargestISO": "ID",
+      "approximateMappedAreaKm2": {
+        "MN": 1560553,
+        "AF": 642392,
+        "MM": 664957,
+        "ID": 1888146
+      }
+    },
+    {
+      "questionId": "geo-v3-world-b89a3b71a78cdf95",
+      "correctISO": "TL",
+      "geometricLargestISO": "TL",
+      "approximateMappedAreaKm2": {
+        "TL": 15145,
+        "QA": 11173,
+        "LB": 10007,
+        "BN": 5742
+      }
+    },
+    {
+      "questionId": "geo-v3-world-06047f08ef9b6bcd",
+      "correctISO": "TH",
+      "geometricLargestISO": "TH",
+      "approximateMappedAreaKm2": {
+        "KH": 181754,
+        "LA": 228827,
+        "VN": 329987,
+        "TH": 516275
+      }
+    },
+    {
+      "questionId": "geo-v3-world-18b7f6c0f0425499",
+      "correctISO": "GW",
+      "geometricLargestISO": "GW",
+      "approximateMappedAreaKm2": {
+        "GM": 10541,
+        "GW": 32957,
+        "RW": 25418,
+        "GQ": 26791
+      }
+    },
+    {
+      "questionId": "geo-v3-world-907cf1c0063a5621",
+      "correctISO": "SD",
+      "geometricLargestISO": "SD",
+      "approximateMappedAreaKm2": {
+        "SS": 629530,
+        "SD": 1861996,
+        "TD": 1270723,
+        "ET": 1132066
+      }
+    },
+    {
+      "questionId": "geo-v3-world-8fd7fad8b8367ee2",
+      "correctISO": "TJ",
+      "geometricLargestISO": "TJ",
+      "approximateMappedAreaKm2": {
+        "AE": 71247,
+        "GE": 69462,
+        "TJ": 142136,
+        "AZ": 86153
+      }
+    },
+    {
+      "questionId": "geo-v3-world-ff1182155458b0aa",
+      "correctISO": "CG",
+      "geometricLargestISO": "CG",
+      "approximateMappedAreaKm2": {
+        "GA": 261133,
+        "BJ": 116590,
+        "CG": 346429,
+        "UG": 242936
+      }
+    },
+    {
+      "questionId": "geo-v3-world-7499a62df568c79c",
+      "correctISO": "KZ",
+      "geometricLargestISO": "KZ",
+      "approximateMappedAreaKm2": {
+        "MN": 1560553,
+        "KZ": 2706356,
+        "TR": 779426,
+        "IR": 1623488
+      }
+    },
+    {
+      "questionId": "geo-v3-world-4b991be8618cd13a",
+      "correctISO": "BT",
+      "geometricLargestISO": "BT",
+      "approximateMappedAreaKm2": {
+        "BT": 40488,
+        "KW": 17496,
+        "AM": 29555,
+        "QA": 11173
+      }
+    },
+    {
+      "questionId": "geo-v3-world-de001820812d148c",
+      "correctISO": "DZ",
+      "geometricLargestISO": "DZ",
+      "approximateMappedAreaKm2": {
+        "LY": 1626531,
+        "ML": 1256813,
+        "NE": 1185161,
+        "DZ": 2312302
+      }
+    }
+  ]
+}

@@ -12,3 +12,6 @@ dist/
 recovery/
 
 *.tsbuildinfo
+
+supabase/.temp/
+scripts/generated/
