@@ -16,3 +16,14 @@ Shared `AtlasGeography` now renders regional context for silhouette questions, m
 45 automated tests pass; production build succeeds. Tests cover finite non-global views for all 195 countries, microstate context close-ups, Chile portrait framing, date-line islands, separate Kiribati/US regions, shared rendering, lake-layer validity and the existing scoring/history/flag invariants. The shared lazy geometry chunk remains below the existing 3 MB PWA precache limit.
 
 Physical iOS/Android devices are unavailable. Browser checks cover Switzerland, Vatican City, Fiji, Chile, Nepal and the quiz/answer-preview path. Publication details and final live check are recorded after deployment.
+
+## Published result
+
+Released on the existing public site as **PWA 0.5.2 / hosting version 13**.
+URL: https://geoduel-flegik.flegik.chatgpt.site
+Hosting source: `a70448b2b4d50e479b96229b5c7dca981f4f000e`.
+GitHub implementation checkpoint: `55d8e7a5d37e2961ee7c5223b1105aa5aac2113c`.
+
+The hosting checkout ran all **45 tests**, TypeScript and production build successfully. A regular PWA update was applied in live Chrome. A live silhouette question correctly showed Poland highlighted with surrounding countries and Baltic coastline; choosing the correct answer awarded 2 points. Selecting Estonia afterward displayed Estonia's regional context with islands and water, while the saved score remained 2 points. Browser checks also covered the shared Atlas views for Switzerland, Vatican City, Fiji, Chile and Nepal before publication. No backend writes/migrations were performed in this change.
+
+For sparse island states, a contextual closeup can also supplement the overview when the main island would otherwise be too small. Polar camera bounds stay within the geographic latitude range. Underlying microstate outlines are the existing generalized Natural Earth geometry, not cadastral borders. Terrain relief is intentionally omitted; water/land layers supply geographic orientation without adding speculative features.
