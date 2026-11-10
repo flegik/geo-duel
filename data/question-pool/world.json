@@ -1,0 +1,4292 @@
+[
+  {
+    "id": "geo-v3-world-legacy-world-001",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welcher Ozean ist flächenmäßig der größte?",
+    "options": [
+      "Südlicher Ozean",
+      "Indischer Ozean",
+      "Atlantischer Ozean",
+      "Pazifischer Ozean"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Der Pazifik ist nach Fläche der größte der fünf Ozeane.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://oceanservice.noaa.gov/facts/biggestocean.html"
+      ],
+      "subjectKey": "world:legacy:world-001",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-002",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Auf welchem Kontinent liegt die Sahara?",
+    "options": [
+      "Südamerika",
+      "Afrika",
+      "Asien",
+      "Australien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Die Sahara erstreckt sich über Nordafrika. Sie ist eine heiße Wüste; polare Wüsten sind eine andere Kategorie.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://pubs.usgs.gov/gip/deserts/types/"
+      ],
+      "subjectKey": "world:legacy:world-002",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-003",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Durch welche Stadt fließt die Themse?",
+    "options": [
+      "Edinburgh",
+      "London",
+      "Belfast",
+      "Cardiff"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "London liegt an der Themse. Die drei anderen Optionen sind Hauptstädte anderer Landesteile des Vereinigten Königreichs.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.visitlondon.com/things-to-do/london-areas/river-thames"
+      ],
+      "subjectKey": "world:legacy:world-003",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-004",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Gebirge liegt zwischen Frankreich und Spanien?",
+    "options": [
+      "Kantabrisches Gebirge",
+      "Pyrenäen",
+      "Alpen",
+      "Iberisches Gebirge"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Die Pyrenäen bilden das Gebirge zwischen der Iberischen Halbinsel und Frankreich. Andorra liegt ebenfalls in diesem Gebirge.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.jpl.nasa.gov/images/pia11162-pyrenees-mtns-spain/"
+      ],
+      "subjectKey": "world:legacy:world-004",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-005",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "In welchem Land liegt der Grand Canyon?",
+    "options": [
+      "Kanada",
+      "USA",
+      "Mexiko",
+      "Chile"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Der Grand Canyon liegt im US-Bundesstaat Arizona und wurde vom Colorado River geprägt.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.nps.gov/grca/planyourvisit/directions.htm"
+      ],
+      "subjectKey": "world:legacy:world-005",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-006",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Meer liegt zwischen Europa und Nordafrika?",
+    "options": [
+      "Mittelmeer",
+      "Schwarzes Meer",
+      "Arabisches Meer",
+      "Rotes Meer"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Das Mittelmeer liegt zwischen Südeuropa, Nordafrika und Vorderasien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.eea.europa.eu/en/topics/in-depth/seas-and-coasts"
+      ],
+      "subjectKey": "world:legacy:world-006",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-007",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welche Insel gehört zu Italien?",
+    "options": [
+      "Korsika",
+      "Malta",
+      "Kreta",
+      "Sizilien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Sizilien gehört zu Italien. Korsika gehört zu Frankreich, Malta ist ein eigener Staat und Kreta gehört zu Griechenland.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1427/"
+      ],
+      "subjectKey": "world:legacy:world-007",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-008",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welcher Fluss fließt durch Paris?",
+    "options": [
+      "Garonne",
+      "Seine",
+      "Loire",
+      "Rhône"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Die Seine durchfließt Paris. Die drei anderen Optionen sind ebenfalls französische Flüsse.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/600/"
+      ],
+      "subjectKey": "world:legacy:world-008",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-009",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land ist flächenmäßig größer?",
+    "options": [
+      "Vereinigte Staaten",
+      "China",
+      "Brasilien",
+      "Kanada"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Unter diesen vier Ländern hat Kanada die größte Gesamtfläche. Gemeint ist die Gesamtfläche einschließlich Binnengewässern.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:legacy:world-009",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-010",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "In welchem Gebirge liegt der Mount Everest?",
+    "options": [
+      "Karakorum",
+      "Himalaya",
+      "Kunlun",
+      "Hindukusch"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Der Mount Everest liegt im Himalaya an der Grenze zwischen Nepal und China.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/120/"
+      ],
+      "subjectKey": "world:legacy:world-010",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-011",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welcher Fluss fließt durch Budapest?",
+    "options": [
+      "Theiß",
+      "Donau",
+      "Save",
+      "Drau"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Budapest liegt an der Donau. Die drei anderen Flüsse gehören ebenfalls zum Donaueinzugsgebiet.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.danubecommission.org/dc/en/danube-navigation/danube-ports-map/"
+      ],
+      "subjectKey": "world:legacy:world-011",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-012",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Wüste liegt im Norden Chiles?",
+    "options": [
+      "Atacama",
+      "Sechura",
+      "Monte",
+      "Patagonische Wüste"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Die Atacama liegt an der Pazifikseite Südamerikas, insbesondere im Norden Chiles.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://astrobiology.nasa.gov/research-locations/"
+      ],
+      "subjectKey": "world:legacy:world-012",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-013",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Meerenge trennt Spanien und Marokko?",
+    "options": [
+      "Straße von Gibraltar",
+      "Straße von Messina",
+      "Straße von Sizilien",
+      "Straße von Otranto"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Die Straße von Gibraltar verbindet Atlantik und Mittelmeer und trennt Spanien von Marokko.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://eol.jsc.nasa.gov/Collections/EarthObservatory/articles/TheStraitofGibraltar.htm"
+      ],
+      "subjectKey": "world:legacy:world-013",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-014",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welcher See liegt zwischen Peru und Bolivien?",
+    "options": [
+      "Poopósee",
+      "Junínsee",
+      "Titicacasee",
+      "Maracaibo-See"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Der Titicacasee liegt im Andenhochland auf der Grenze zwischen Peru und Bolivien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/5080/"
+      ],
+      "subjectKey": "world:legacy:world-014",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-015",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Insel liegt überwiegend innerhalb des Polarkreises?",
+    "options": [
+      "Neufundland",
+      "Island",
+      "Grönland",
+      "Sachalin"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Der größte Teil Grönlands liegt nördlich des nördlichen Polarkreises.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://pmel.noaa.gov/arctic-zone/faq.html"
+      ],
+      "subjectKey": "world:legacy:world-015",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-016",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche beiden Ozeane verbindet der Panamakanal?",
+    "options": [
+      "Atlantik und Pazifik",
+      "Pazifik und Indischer Ozean",
+      "Atlantik und Indischer Ozean",
+      "Atlantik und Arktischer Ozean"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Der Panamakanal verbindet über die Landenge von Panama den Atlantik mit dem Pazifik.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://pancanal.com/en/"
+      ],
+      "subjectKey": "world:legacy:world-016",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-017",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welcher Fluss mündet in das Schwarze Meer?",
+    "options": [
+      "Wolga",
+      "Donau",
+      "Rhein",
+      "Elbe"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Die Donau mündet über ihr Delta in das Schwarze Meer. Die Wolga mündet ins Kaspische Meer, Rhein und Elbe in die Nordsee.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.icpdr.org/"
+      ],
+      "subjectKey": "world:legacy:world-017",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-018",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt der Kilimandscharo?",
+    "options": [
+      "Tansania",
+      "Kenia",
+      "Uganda",
+      "Äthiopien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Der Kilimandscharo liegt im Nordosten Tansanias nahe der Grenze zu Kenia.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/403/"
+      ],
+      "subjectKey": "world:legacy:world-018",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-019",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Insel teilen sich Haiti und die Dominikanische Republik?",
+    "options": [
+      "Kuba",
+      "Hispaniola",
+      "Jamaika",
+      "Puerto Rico"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Haiti nimmt den westlichen, die Dominikanische Republik den östlichen Teil Hispaniolas ein.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://science.nasa.gov/missions/landsat/hispaniolas-changing-forests/"
+      ],
+      "subjectKey": "world:legacy:world-019",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-020",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Wüste erstreckt sich über Teile der Mongolei und Chinas?",
+    "options": [
+      "Gobi",
+      "Karakum",
+      "Kysylkum",
+      "Taklamakan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Die Gobi erstreckt sich über Teile der südlichen Mongolei und Nordchinas.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.esa.int/media/envisat-radar-image-of-the-gobi-desert"
+      ],
+      "subjectKey": "world:legacy:world-020",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-021",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welcher See ist der tiefste der Erde?",
+    "options": [
+      "Baikalsee",
+      "Kaspisches Meer",
+      "Tanganjikasee",
+      "Malawisee"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Der Baikalsee in Russland ist mit rund 1.642 Metern der tiefste See der Erde.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/754/"
+      ],
+      "subjectKey": "world:legacy:world-021",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-022",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welcher Staat ist vollständig von Südafrika umschlossen?",
+    "options": [
+      "Simbabwe",
+      "Eswatini",
+      "Botswana",
+      "Lesotho"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Lesotho ist vollständig von Südafrika umschlossen. Eswatini grenzt zusätzlich an Mosambik.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:legacy:world-022",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-023",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Meerenge trennt Alaska und Sibirien?",
+    "options": [
+      "Beringstraße",
+      "Davisstraße",
+      "Hudsonstraße",
+      "Dänemarkstraße"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Die Beringstraße liegt zwischen Alaska in Nordamerika und der Tschuktschen-Halbinsel in Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.jpl.nasa.gov/images/pia02638-misr-sights-the-bering-strait/"
+      ],
+      "subjectKey": "world:legacy:world-023",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-024",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Auf welcher Insel liegt der Vulkan Ätna?",
+    "options": [
+      "Vulcano",
+      "Sizilien",
+      "Lipari",
+      "Stromboli"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Der Ätna liegt auf Sizilien. Die anderen drei Optionen sind ebenfalls italienische Vulkaninseln, aber nicht der Standort des Ätna.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1427/"
+      ],
+      "subjectKey": "world:legacy:world-024",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-025",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welcher Fluss fließt durch Bagdad?",
+    "options": [
+      "Schatt al-Arab",
+      "Tigris",
+      "Diyala",
+      "Euphrat"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Bagdad liegt am Tigris. Der Euphrat verläuft weiter westlich; Tigris und Euphrat vereinigen sich weiter südlich zum Schatt al-Arab.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/5880/"
+      ],
+      "subjectKey": "world:legacy:world-025",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-026",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Insel teilen sich Indonesien, Malaysia und Brunei?",
+    "options": [
+      "Sumatra",
+      "Sulawesi",
+      "Borneo",
+      "Neuguinea"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Borneo ist zwischen Indonesien, Malaysia und Brunei aufgeteilt. Neuguinea ist zwischen Indonesien und Papua-Neuguinea geteilt.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_East_Kalimantan_Borneo"
+      ],
+      "subjectKey": "world:legacy:world-026",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-027",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Gebirge trennt die Küstenebene Marokkos von Teilen der Sahara?",
+    "options": [
+      "Tibesti",
+      "Ahaggar",
+      "Rif",
+      "Atlas"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Der Atlas erstreckt sich über Nordwestafrika; Teile des Gebirgssystems trennen marokkanische Küstenregionen vom Sahara-Raum.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://science.nasa.gov/earth/earth-observatory/wet-and-dry-morocco-144677/"
+      ],
+      "subjectKey": "world:legacy:world-027",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-028",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welcher See liegt zwischen Malawi, Mosambik und Tansania?",
+    "options": [
+      "Victoriasee",
+      "Malawisee",
+      "Tanganjikasee",
+      "Turkanasee"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Der Malawisee, auch Nyassasee genannt, grenzt an Malawi, Mosambik und Tansania.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://wldb.ilec.or.jp/Display/html/3594"
+      ],
+      "subjectKey": "world:legacy:world-028",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-029",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Wüste liegt an der Atlantikküste Namibias?",
+    "options": [
+      "Namib",
+      "Sahara",
+      "Karoo",
+      "Kalahari"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Die Namib liegt an der Atlantikküste des südwestlichen Afrikas, besonders in Namibia.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1430/"
+      ],
+      "subjectKey": "world:legacy:world-029",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-legacy-world-030",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Meer liegt östlich der italienischen Halbinsel?",
+    "options": [
+      "Tyrrhenisches Meer",
+      "Balearen-Meer",
+      "Adriatisches Meer",
+      "Ligurisches Meer"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Das Adriatische Meer liegt zwischen der italienischen Halbinsel und der Balkanhalbinsel.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://maritime-spatial-planning.ec.europa.eu/sea-basins/east-mediterranean"
+      ],
+      "subjectKey": "world:legacy:world-030",
+      "edition": "geo-v3-2026-11"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-1",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Galápagos Islands“?",
+    "options": [
+      "Ecuador",
+      "Peru",
+      "Kolumbien",
+      "Venezuela"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Galápagos Islands“ liegt in Ecuador. Der UNESCO-Eintrag 1 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1/"
+      ],
+      "subjectKey": "world:nature:1",
+      "edition": "geo-v3-2026-11",
+      "iso": "EC",
+      "confusions": [
+        "CO",
+        "PE",
+        "VE"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-9",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Simien National Park“?",
+    "options": [
+      "Eritrea",
+      "Äthiopien",
+      "Kenia",
+      "Dschibuti"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Simien National Park“ liegt in Äthiopien. Der UNESCO-Eintrag 9 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/9/"
+      ],
+      "subjectKey": "world:nature:9",
+      "edition": "geo-v3-2026-11",
+      "iso": "ET",
+      "confusions": [
+        "DJ",
+        "KE",
+        "ER"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-24",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Nahanni National Park“?",
+    "options": [
+      "Mexiko",
+      "Kanada",
+      "Bahamas",
+      "Vereinigte Staaten"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Nahanni National Park“ liegt in Kanada. Der UNESCO-Eintrag 24 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/24/"
+      ],
+      "subjectKey": "world:nature:24",
+      "edition": "geo-v3-2026-11",
+      "iso": "CA",
+      "confusions": [
+        "US",
+        "MX",
+        "BS"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-28",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Yellowstone National Park“?",
+    "options": [
+      "Belize",
+      "Mexiko",
+      "Vereinigte Staaten",
+      "Kanada"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Yellowstone National Park“ liegt in Vereinigte Staaten. Der UNESCO-Eintrag 28 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/28/"
+      ],
+      "subjectKey": "world:nature:28",
+      "edition": "geo-v3-2026-11",
+      "iso": "US",
+      "confusions": [
+        "MX",
+        "BZ",
+        "CA"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-39",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Ngorongoro Conservation Area“?",
+    "options": [
+      "Ruanda",
+      "Burundi",
+      "Tansania",
+      "Malawi"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Ngorongoro Conservation Area“ liegt in Tansania. Der UNESCO-Eintrag 39 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/39/"
+      ],
+      "subjectKey": "world:nature:39",
+      "edition": "geo-v3-2026-11",
+      "iso": "TZ",
+      "confusions": [
+        "BI",
+        "RW",
+        "MW"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-63",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Virunga National Park“?",
+    "options": [
+      "Demokratische Republik Kongo",
+      "Ruanda",
+      "Uganda",
+      "Burundi"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Virunga National Park“ liegt in Demokratische Republik Kongo. Der UNESCO-Eintrag 63 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/63/"
+      ],
+      "subjectKey": "world:nature:63",
+      "edition": "geo-v3-2026-11",
+      "iso": "CD",
+      "confusions": [
+        "RW",
+        "BI",
+        "UG"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-98",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Plitvice Lakes National Park“?",
+    "options": [
+      "Kroatien",
+      "San Marino",
+      "Slowenien",
+      "Bosnien und Herzegowina"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Plitvice Lakes National Park“ liegt in Kroatien. Der UNESCO-Eintrag 98 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/98/"
+      ],
+      "subjectKey": "world:nature:98",
+      "edition": "geo-v3-2026-11",
+      "iso": "HR",
+      "confusions": [
+        "SI",
+        "BA",
+        "SM"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-100",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Durmitor National Park“?",
+    "options": [
+      "Albanien",
+      "Serbien",
+      "Bosnien und Herzegowina",
+      "Montenegro"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Durmitor National Park“ liegt in Montenegro. Der UNESCO-Eintrag 100 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/100/"
+      ],
+      "subjectKey": "world:nature:100",
+      "edition": "geo-v3-2026-11",
+      "iso": "ME",
+      "confusions": [
+        "AL",
+        "BA",
+        "RS"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-120",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Sagarmatha National Park“?",
+    "options": [
+      "Bhutan",
+      "Nepal",
+      "Indien",
+      "Bangladesch"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Sagarmatha National Park“ liegt in Nepal. Der UNESCO-Eintrag 120 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/120/"
+      ],
+      "subjectKey": "world:nature:120",
+      "edition": "geo-v3-2026-11",
+      "iso": "NP",
+      "confusions": [
+        "BT",
+        "BD",
+        "IN"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-145",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Los Glaciares National Park“?",
+    "options": [
+      "Paraguay",
+      "Argentinien",
+      "Chile",
+      "Uruguay"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Los Glaciares National Park“ liegt in Argentinien. Der UNESCO-Eintrag 145 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/145/"
+      ],
+      "subjectKey": "world:nature:145",
+      "edition": "geo-v3-2026-11",
+      "iso": "AR",
+      "confusions": [
+        "UY",
+        "CL",
+        "PY"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-147",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Kakadu National Park“?",
+    "options": [
+      "Australien",
+      "Papua-Neuguinea",
+      "Vanuatu",
+      "Salomonen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Kakadu National Park“ liegt in Australien. Der UNESCO-Eintrag 147 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/147/"
+      ],
+      "subjectKey": "world:nature:147",
+      "edition": "geo-v3-2026-11",
+      "iso": "AU",
+      "confusions": [
+        "PG",
+        "SB",
+        "VU"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-150",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Mammoth Cave National Park“?",
+    "options": [
+      "Belize",
+      "Mexiko",
+      "Vereinigte Staaten",
+      "Kanada"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Mammoth Cave National Park“ liegt in Vereinigte Staaten. Der UNESCO-Eintrag 150 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/150/"
+      ],
+      "subjectKey": "world:nature:150",
+      "edition": "geo-v3-2026-11",
+      "iso": "US",
+      "confusions": [
+        "MX",
+        "BZ",
+        "CA"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-154",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Great Barrier Reef“?",
+    "options": [
+      "Australien",
+      "Salomonen",
+      "Papua-Neuguinea",
+      "Vanuatu"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Great Barrier Reef“ liegt in Australien. Der UNESCO-Eintrag 154 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/154/"
+      ],
+      "subjectKey": "world:nature:154",
+      "edition": "geo-v3-2026-11",
+      "iso": "AU",
+      "confusions": [
+        "PG",
+        "SB",
+        "VU"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-156",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Serengeti National Park“?",
+    "options": [
+      "Tansania",
+      "Malawi",
+      "Ruanda",
+      "Burundi"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Serengeti National Park“ liegt in Tansania. Der UNESCO-Eintrag 156 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/156/"
+      ],
+      "subjectKey": "world:nature:156",
+      "edition": "geo-v3-2026-11",
+      "iso": "TZ",
+      "confusions": [
+        "BI",
+        "RW",
+        "MW"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-167",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Willandra Lakes Region“?",
+    "options": [
+      "Vanuatu",
+      "Papua-Neuguinea",
+      "Australien",
+      "Salomonen"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Willandra Lakes Region“ liegt in Australien. Der UNESCO-Eintrag 167 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/167/"
+      ],
+      "subjectKey": "world:nature:167",
+      "edition": "geo-v3-2026-11",
+      "iso": "AU",
+      "confusions": [
+        "PG",
+        "SB",
+        "VU"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-179",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Tassili n'Ajjer“?",
+    "options": [
+      "Algerien",
+      "Mali",
+      "Tunesien",
+      "Marokko"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Tassili n'Ajjer“ liegt in Algerien. Der UNESCO-Eintrag 179 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/179/"
+      ],
+      "subjectKey": "world:nature:179",
+      "edition": "geo-v3-2026-11",
+      "iso": "DZ",
+      "confusions": [
+        "TN",
+        "MA",
+        "ML"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-185",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Aldabra Atoll“?",
+    "options": [
+      "Seychellen",
+      "Komoren",
+      "Mauritius",
+      "Somalia"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Aldabra Atoll“ liegt in Seychellen. Der UNESCO-Eintrag 185 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/185/"
+      ],
+      "subjectKey": "world:nature:185",
+      "edition": "geo-v3-2026-11",
+      "iso": "SC",
+      "confusions": [
+        "KM",
+        "MU",
+        "SO"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-186",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Lord Howe Island Group“?",
+    "options": [
+      "Salomonen",
+      "Australien",
+      "Vanuatu",
+      "Papua-Neuguinea"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Lord Howe Island Group“ liegt in Australien. Der UNESCO-Eintrag 186 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/186/"
+      ],
+      "subjectKey": "world:nature:186",
+      "edition": "geo-v3-2026-11",
+      "iso": "AU",
+      "confusions": [
+        "PG",
+        "SB",
+        "VU"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-196",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Río Plátano Biosphere Reserve“?",
+    "options": [
+      "Belize",
+      "El Salvador",
+      "Nicaragua",
+      "Honduras"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Río Plátano Biosphere Reserve“ liegt in Honduras. Der UNESCO-Eintrag 196 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/196/"
+      ],
+      "subjectKey": "world:nature:196",
+      "edition": "geo-v3-2026-11",
+      "iso": "HN",
+      "confusions": [
+        "NI",
+        "SV",
+        "BZ"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-219",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Srebarna Nature Reserve“?",
+    "options": [
+      "Rumänien",
+      "Serbien",
+      "Nordmazedonien",
+      "Bulgarien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Srebarna Nature Reserve“ liegt in Bulgarien. Der UNESCO-Eintrag 219 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/219/"
+      ],
+      "subjectKey": "world:nature:219",
+      "edition": "geo-v3-2026-11",
+      "iso": "BG",
+      "confusions": [
+        "MK",
+        "RO",
+        "RS"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-225",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Pirin National Park“?",
+    "options": [
+      "Serbien",
+      "Nordmazedonien",
+      "Rumänien",
+      "Bulgarien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Pirin National Park“ liegt in Bulgarien. Der UNESCO-Eintrag 225 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/225/"
+      ],
+      "subjectKey": "world:nature:225",
+      "edition": "geo-v3-2026-11",
+      "iso": "BG",
+      "confusions": [
+        "MK",
+        "RO",
+        "RS"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-227",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Comoé National Park“?",
+    "options": [
+      "Ghana",
+      "Guinea",
+      "Liberia",
+      "Elfenbeinküste"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Comoé National Park“ liegt in Elfenbeinküste. Der UNESCO-Eintrag 227 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/227/"
+      ],
+      "subjectKey": "world:nature:227",
+      "edition": "geo-v3-2026-11",
+      "iso": "CI",
+      "confusions": [
+        "GH",
+        "LR",
+        "GN"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-256",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Wood Buffalo National Park“?",
+    "options": [
+      "Bahamas",
+      "Mexiko",
+      "Vereinigte Staaten",
+      "Kanada"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Wood Buffalo National Park“ liegt in Kanada. Der UNESCO-Eintrag 256 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/256/"
+      ],
+      "subjectKey": "world:nature:256",
+      "edition": "geo-v3-2026-11",
+      "iso": "CA",
+      "confusions": [
+        "US",
+        "MX",
+        "BS"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-258",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve“?",
+    "options": [
+      "Frankreich",
+      "Schweiz",
+      "Andorra",
+      "Monaco"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve“ liegt in Frankreich. Der UNESCO-Eintrag 258 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/258/"
+      ],
+      "subjectKey": "world:nature:258",
+      "edition": "geo-v3-2026-11",
+      "iso": "FR",
+      "confusions": [
+        "AD",
+        "CH",
+        "MC"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-260",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Sangay National Park“?",
+    "options": [
+      "Peru",
+      "Kolumbien",
+      "Ecuador",
+      "Venezuela"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Sangay National Park“ liegt in Ecuador. Der UNESCO-Eintrag 260 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/260/"
+      ],
+      "subjectKey": "world:nature:260",
+      "edition": "geo-v3-2026-11",
+      "iso": "EC",
+      "confusions": [
+        "CO",
+        "PE",
+        "VE"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-261",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Vallée de Mai Nature Reserve“?",
+    "options": [
+      "Seychellen",
+      "Somalia",
+      "Komoren",
+      "Mauritius"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Vallée de Mai Nature Reserve“ liegt in Seychellen. Der UNESCO-Eintrag 261 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/261/"
+      ],
+      "subjectKey": "world:nature:261",
+      "edition": "geo-v3-2026-11",
+      "iso": "SC",
+      "confusions": [
+        "KM",
+        "MU",
+        "SO"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-280",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Salonga National Park“?",
+    "options": [
+      "Demokratische Republik Kongo",
+      "Uganda",
+      "Ruanda",
+      "Burundi"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Salonga National Park“ liegt in Demokratische Republik Kongo. Der UNESCO-Eintrag 280 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/280/"
+      ],
+      "subjectKey": "world:nature:280",
+      "edition": "geo-v3-2026-11",
+      "iso": "CD",
+      "confusions": [
+        "RW",
+        "BI",
+        "UG"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-284",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Chitwan National Park“?",
+    "options": [
+      "Bangladesch",
+      "Nepal",
+      "Indien",
+      "Bhutan"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Chitwan National Park“ liegt in Nepal. Der UNESCO-Eintrag 284 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/284/"
+      ],
+      "subjectKey": "world:nature:284",
+      "edition": "geo-v3-2026-11",
+      "iso": "NP",
+      "confusions": [
+        "BT",
+        "BD",
+        "IN"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-302",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Mana Pools National Park, Sapi and Chewore Safari Areas“?",
+    "options": [
+      "Botsuana",
+      "Mosambik",
+      "Simbabwe",
+      "Sambia"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Mana Pools National Park, Sapi and Chewore Safari Areas“ liegt in Simbabwe. Der UNESCO-Eintrag 302 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/302/"
+      ],
+      "subjectKey": "world:nature:302",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZW",
+      "confusions": [
+        "ZM",
+        "MZ",
+        "BW"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-308",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Yosemite National Park“?",
+    "options": [
+      "Kanada",
+      "Vereinigte Staaten",
+      "Mexiko",
+      "Belize"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Yosemite National Park“ liegt in Vereinigte Staaten. Der UNESCO-Eintrag 308 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/308/"
+      ],
+      "subjectKey": "world:nature:308",
+      "edition": "geo-v3-2026-11",
+      "iso": "US",
+      "confusions": [
+        "MX",
+        "BZ",
+        "CA"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-333",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Huascarán National Park“?",
+    "options": [
+      "Ecuador",
+      "Kolumbien",
+      "Peru",
+      "Bolivien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Huascarán National Park“ liegt in Peru. Der UNESCO-Eintrag 333 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/333/"
+      ],
+      "subjectKey": "world:nature:333",
+      "edition": "geo-v3-2026-11",
+      "iso": "PE",
+      "confusions": [
+        "EC",
+        "BO",
+        "CO"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-337",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Kaziranga National Park“?",
+    "options": [
+      "Pakistan",
+      "Bangladesch",
+      "Nepal",
+      "Indien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Kaziranga National Park“ liegt in Indien. Der UNESCO-Eintrag 337 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/337/"
+      ],
+      "subjectKey": "world:nature:337",
+      "edition": "geo-v3-2026-11",
+      "iso": "IN",
+      "confusions": [
+        "NP",
+        "PK",
+        "BD"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-355",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Iguaçu National Park“?",
+    "options": [
+      "Suriname",
+      "Bolivien",
+      "Paraguay",
+      "Brasilien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Iguaçu National Park“ liegt in Brasilien. Der UNESCO-Eintrag 355 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/355/"
+      ],
+      "subjectKey": "world:nature:355",
+      "edition": "geo-v3-2026-11",
+      "iso": "BR",
+      "confusions": [
+        "BO",
+        "PY",
+        "SR"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-369",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Giant's Causeway and Causeway Coast“?",
+    "options": [
+      "Niederlande",
+      "Vereinigtes Königreich",
+      "Irland",
+      "Belgien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Giant's Causeway and Causeway Coast“ liegt in Vereinigtes Königreich. Der UNESCO-Eintrag 369 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/369/"
+      ],
+      "subjectKey": "world:nature:369",
+      "edition": "geo-v3-2026-11",
+      "iso": "GB",
+      "confusions": [
+        "IE",
+        "BE",
+        "NL"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-390",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Škocjan Caves“?",
+    "options": [
+      "San Marino",
+      "Österreich",
+      "Slowenien",
+      "Kroatien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Škocjan Caves“ liegt in Slowenien. Der UNESCO-Eintrag 390 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/390/"
+      ],
+      "subjectKey": "world:nature:390",
+      "edition": "geo-v3-2026-11",
+      "iso": "SI",
+      "confusions": [
+        "HR",
+        "AT",
+        "SM"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-402",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Manú National Park“?",
+    "options": [
+      "Kolumbien",
+      "Peru",
+      "Ecuador",
+      "Bolivien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Manú National Park“ liegt in Peru. Der UNESCO-Eintrag 402 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/402/"
+      ],
+      "subjectKey": "world:nature:402",
+      "edition": "geo-v3-2026-11",
+      "iso": "PE",
+      "confusions": [
+        "EC",
+        "BO",
+        "CO"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-405",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Sinharaja Forest Reserve“?",
+    "options": [
+      "Malediven",
+      "Indien",
+      "Sri Lanka",
+      "Bangladesch"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Sinharaja Forest Reserve“ liegt in Sri Lanka. Der UNESCO-Eintrag 405 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/405/"
+      ],
+      "subjectKey": "world:nature:405",
+      "edition": "geo-v3-2026-11",
+      "iso": "LK",
+      "confusions": [
+        "MV",
+        "IN",
+        "BD"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-410",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Sian Ka'an“?",
+    "options": [
+      "El Salvador",
+      "Guatemala",
+      "Belize",
+      "Mexiko"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Sian Ka'an“ liegt in Mexiko. Der UNESCO-Eintrag 410 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/410/"
+      ],
+      "subjectKey": "world:nature:410",
+      "edition": "geo-v3-2026-11",
+      "iso": "MX",
+      "confusions": [
+        "GT",
+        "BZ",
+        "SV"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-421",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Tongariro National Park“?",
+    "options": [
+      "Fidschi",
+      "Tonga",
+      "Neuseeland",
+      "Vanuatu"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Tongariro National Park“ liegt in Neuseeland. Der UNESCO-Eintrag 421 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/421/"
+      ],
+      "subjectKey": "world:nature:421",
+      "edition": "geo-v3-2026-11",
+      "iso": "NZ",
+      "confusions": [
+        "TO",
+        "FJ",
+        "VU"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-nature-447",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt das UNESCO-gelistete Gebiet „Uluru-Kata Tjuta National Park“?",
+    "options": [
+      "Vanuatu",
+      "Australien",
+      "Salomonen",
+      "Papua-Neuguinea"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Uluru-Kata Tjuta National Park“ liegt in Australien. Der UNESCO-Eintrag 447 bestätigt diese Länderzuordnung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/447/"
+      ],
+      "subjectKey": "world:nature:447",
+      "edition": "geo-v3-2026-11",
+      "iso": "AU",
+      "confusions": [
+        "PG",
+        "SB",
+        "VU"
+      ],
+      "topic": "Naturregionen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-RO",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Griechenland",
+      "Bulgarien",
+      "Ungarn",
+      "Rumänien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Rumänien: rund 238.391 km²; Griechenland: rund 131.990 km²; Bulgarien: rund 110.879 km²; Ungarn: rund 93.028 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:RO",
+      "edition": "geo-v3-2026-11",
+      "iso": "RO",
+      "confusions": [
+        "BG",
+        "HU",
+        "GR"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-LA",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Laos",
+      "Kambodscha",
+      "Nepal",
+      "Bangladesch"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Laos: rund 236.800 km²; Kambodscha: rund 181.035 km²; Bangladesch: rund 147.570 km²; Nepal: rund 147.181 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:LA",
+      "edition": "geo-v3-2026-11",
+      "iso": "LA",
+      "confusions": [
+        "KH",
+        "BD",
+        "NP"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-PY",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Suriname",
+      "Guyana",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Paraguay: rund 406.752 km²; Guyana: rund 214.969 km²; Uruguay: rund 181.034 km²; Suriname: rund 163.820 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:PY",
+      "edition": "geo-v3-2026-11",
+      "iso": "PY",
+      "confusions": [
+        "UY",
+        "SR",
+        "GY"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-LR",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Sierra Leone",
+      "Guinea-Bissau",
+      "Togo",
+      "Liberia"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Liberia: rund 111.369 km²; Sierra Leone: rund 71.740 km²; Togo: rund 56.785 km²; Guinea-Bissau: rund 36.125 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:LR",
+      "edition": "geo-v3-2026-11",
+      "iso": "LR",
+      "confusions": [
+        "SL",
+        "GW",
+        "TG"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-LC",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "St. Lucia",
+      "Barbados",
+      "Grenada",
+      "St. Vincent und die Grenadinen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. St. Lucia: rund 616 km²; Barbados: rund 430 km²; St. Vincent und die Grenadinen: rund 389 km²; Grenada: rund 344 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:LC",
+      "edition": "geo-v3-2026-11",
+      "iso": "LC",
+      "confusions": [
+        "VC",
+        "BB",
+        "GD"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-TG",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Äquatorialguinea",
+      "Togo",
+      "Ruanda",
+      "Guinea-Bissau"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Togo: rund 56.785 km²; Guinea-Bissau: rund 36.125 km²; Äquatorialguinea: rund 28.051 km²; Ruanda: rund 26.338 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:TG",
+      "edition": "geo-v3-2026-11",
+      "iso": "TG",
+      "confusions": [
+        "GQ",
+        "GW",
+        "RW"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-IS",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Belgien",
+      "Estland",
+      "Island",
+      "Irland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Island: rund 103.000 km²; Irland: rund 70.273 km²; Estland: rund 45.227 km²; Belgien: rund 30.528 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:IS",
+      "edition": "geo-v3-2026-11",
+      "iso": "IS",
+      "confusions": [
+        "IE",
+        "BE",
+        "EE"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-SS",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Südsudan",
+      "Republik Kongo",
+      "Uganda",
+      "Kamerun"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Südsudan: rund 619.745 km²; Kamerun: rund 475.442 km²; Republik Kongo: rund 342.000 km²; Uganda: rund 241.550 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:SS",
+      "edition": "geo-v3-2026-11",
+      "iso": "SS",
+      "confusions": [
+        "UG",
+        "CG",
+        "CM"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-GA",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Malawi",
+      "Benin",
+      "Gabun",
+      "Liberia"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Gabun: rund 267.668 km²; Malawi: rund 118.484 km²; Benin: rund 112.622 km²; Liberia: rund 111.369 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:GA",
+      "edition": "geo-v3-2026-11",
+      "iso": "GA",
+      "confusions": [
+        "BJ",
+        "LR",
+        "MW"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-HR",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Slowenien",
+      "Schweiz",
+      "Kroatien",
+      "Albanien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Kroatien: rund 56.594 km²; Schweiz: rund 41.284 km²; Albanien: rund 28.748 km²; Slowenien: rund 20.273 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:HR",
+      "edition": "geo-v3-2026-11",
+      "iso": "HR",
+      "confusions": [
+        "SI",
+        "AL",
+        "CH"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-PT",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Schweiz",
+      "Irland",
+      "Belgien",
+      "Portugal"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Portugal: rund 92.090 km²; Irland: rund 70.273 km²; Schweiz: rund 41.284 km²; Belgien: rund 30.528 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:PT",
+      "edition": "geo-v3-2026-11",
+      "iso": "PT",
+      "confusions": [
+        "IE",
+        "CH",
+        "BE"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-SN",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Togo",
+      "Liberia",
+      "Sierra Leone",
+      "Senegal"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Senegal: rund 196.722 km²; Liberia: rund 111.369 km²; Sierra Leone: rund 71.740 km²; Togo: rund 56.785 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:SN",
+      "edition": "geo-v3-2026-11",
+      "iso": "SN",
+      "confusions": [
+        "SL",
+        "LR",
+        "TG"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-SK",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Republik Moldau",
+      "Nordmazedonien",
+      "Slowakei",
+      "Slowenien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Slowakei: rund 49.037 km²; Republik Moldau: rund 33.846 km²; Nordmazedonien: rund 25.713 km²; Slowenien: rund 20.273 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:SK",
+      "edition": "geo-v3-2026-11",
+      "iso": "SK",
+      "confusions": [
+        "SI",
+        "MD",
+        "MK"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-EC",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Suriname",
+      "Ecuador",
+      "Uruguay",
+      "Guyana"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Ecuador: rund 276.841 km²; Guyana: rund 214.969 km²; Uruguay: rund 181.034 km²; Suriname: rund 163.820 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:EC",
+      "edition": "geo-v3-2026-11",
+      "iso": "EC",
+      "confusions": [
+        "GY",
+        "SR",
+        "UY"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-HU",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Kroatien",
+      "Bosnien und Herzegowina",
+      "Ungarn",
+      "Slowakei"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Ungarn: rund 93.028 km²; Kroatien: rund 56.594 km²; Bosnien und Herzegowina: rund 51.209 km²; Slowakei: rund 49.037 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:HU",
+      "edition": "geo-v3-2026-11",
+      "iso": "HU",
+      "confusions": [
+        "SK",
+        "BA",
+        "HR"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-NA",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Republik Kongo",
+      "Simbabwe",
+      "Botsuana",
+      "Namibia"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Namibia: rund 825.615 km²; Botsuana: rund 582.000 km²; Simbabwe: rund 390.757 km²; Republik Kongo: rund 342.000 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:NA",
+      "edition": "geo-v3-2026-11",
+      "iso": "NA",
+      "confusions": [
+        "BW",
+        "ZW",
+        "CG"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-TR",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Türkei",
+      "Turkmenistan",
+      "Usbekistan",
+      "Irak"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Türkei: rund 783.562 km²; Turkmenistan: rund 488.100 km²; Usbekistan: rund 447.400 km²; Irak: rund 438.317 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:TR",
+      "edition": "geo-v3-2026-11",
+      "iso": "TR",
+      "confusions": [
+        "IQ",
+        "TM",
+        "UZ"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-ZW",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Malawi",
+      "Gabun",
+      "Uganda",
+      "Simbabwe"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Simbabwe: rund 390.757 km²; Gabun: rund 267.668 km²; Uganda: rund 241.550 km²; Malawi: rund 118.484 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:ZW",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZW",
+      "confusions": [
+        "MW",
+        "UG",
+        "GA"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-BD",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Südkorea",
+      "Vereinigte Arabische Emirate",
+      "Sri Lanka",
+      "Bangladesch"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Bangladesch: rund 147.570 km²; Südkorea: rund 100.210 km²; Vereinigte Arabische Emirate: rund 83.600 km²; Sri Lanka: rund 65.610 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:BD",
+      "edition": "geo-v3-2026-11",
+      "iso": "BD",
+      "confusions": [
+        "LK",
+        "AE",
+        "KR"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-KP",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Bhutan",
+      "Sri Lanka",
+      "Südkorea",
+      "Nordkorea"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Nordkorea: rund 120.538 km²; Südkorea: rund 100.210 km²; Sri Lanka: rund 65.610 km²; Bhutan: rund 38.394 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:KP",
+      "edition": "geo-v3-2026-11",
+      "iso": "KP",
+      "confusions": [
+        "KR",
+        "BT",
+        "LK"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-PL",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Belarus",
+      "Rumänien",
+      "Polen",
+      "Ungarn"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Polen: rund 312.679 km²; Rumänien: rund 238.391 km²; Belarus: rund 207.600 km²; Ungarn: rund 93.028 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:PL",
+      "edition": "geo-v3-2026-11",
+      "iso": "PL",
+      "confusions": [
+        "BY",
+        "HU",
+        "RO"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-PE",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Venezuela",
+      "Chile",
+      "Peru",
+      "Paraguay"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Peru: rund 1.285.216 km²; Venezuela: rund 916.445 km²; Chile: rund 756.102 km²; Paraguay: rund 406.752 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:PE",
+      "edition": "geo-v3-2026-11",
+      "iso": "PE",
+      "confusions": [
+        "CL",
+        "VE",
+        "PY"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-BA",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Albanien",
+      "Bosnien und Herzegowina",
+      "Nordmazedonien",
+      "Slowenien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Bosnien und Herzegowina: rund 51.209 km²; Albanien: rund 28.748 km²; Nordmazedonien: rund 25.713 km²; Slowenien: rund 20.273 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:BA",
+      "edition": "geo-v3-2026-11",
+      "iso": "BA",
+      "confusions": [
+        "SI",
+        "AL",
+        "MK"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-EG",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Ägypten",
+      "Zentralafrikanische Republik",
+      "Somalia",
+      "Südsudan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Ägypten: rund 1.002.450 km²; Somalia: rund 637.657 km²; Zentralafrikanische Republik: rund 622.984 km²; Südsudan: rund 619.745 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:EG",
+      "edition": "geo-v3-2026-11",
+      "iso": "EG",
+      "confusions": [
+        "SS",
+        "CF",
+        "SO"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-VE",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Chile",
+      "Venezuela",
+      "Paraguay",
+      "Ecuador"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Venezuela: rund 916.445 km²; Chile: rund 756.102 km²; Paraguay: rund 406.752 km²; Ecuador: rund 276.841 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:VE",
+      "edition": "geo-v3-2026-11",
+      "iso": "VE",
+      "confusions": [
+        "EC",
+        "PY",
+        "CL"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-MY",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Kambodscha",
+      "Malaysia",
+      "Bangladesch",
+      "Laos"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Malaysia: rund 330.803 km²; Laos: rund 236.800 km²; Kambodscha: rund 181.035 km²; Bangladesch: rund 147.570 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:MY",
+      "edition": "geo-v3-2026-11",
+      "iso": "MY",
+      "confusions": [
+        "KH",
+        "LA",
+        "BD"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-MR",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Elfenbeinküste",
+      "Mauretanien",
+      "Republik Kongo",
+      "Kamerun"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Mauretanien: rund 1.030.700 km²; Kamerun: rund 475.442 km²; Republik Kongo: rund 342.000 km²; Elfenbeinküste: rund 322.463 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:MR",
+      "edition": "geo-v3-2026-11",
+      "iso": "MR",
+      "confusions": [
+        "CI",
+        "CM",
+        "CG"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-KW",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Libanon",
+      "Kuwait",
+      "Brunei Darussalam",
+      "Katar"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Kuwait: rund 17.818 km²; Katar: rund 11.586 km²; Libanon: rund 10.452 km²; Brunei Darussalam: rund 5.765 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:KW",
+      "edition": "geo-v3-2026-11",
+      "iso": "KW",
+      "confusions": [
+        "QA",
+        "LB",
+        "BN"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-SA",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Saudi-Arabien",
+      "Afghanistan",
+      "Türkei",
+      "Iran"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Saudi-Arabien: rund 2.149.690 km²; Iran: rund 1.648.195 km²; Türkei: rund 783.562 km²; Afghanistan: rund 652.230 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:SA",
+      "edition": "geo-v3-2026-11",
+      "iso": "SA",
+      "confusions": [
+        "IR",
+        "TR",
+        "AF"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-AZ",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Bhutan",
+      "Georgien",
+      "Aserbaidschan",
+      "Armenien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Aserbaidschan: rund 86.600 km²; Georgien: rund 69.700 km²; Bhutan: rund 38.394 km²; Armenien: rund 29.743 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:AZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "AZ",
+      "confusions": [
+        "AM",
+        "GE",
+        "BT"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-ID",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Mongolei",
+      "Afghanistan",
+      "Myanmar",
+      "Indonesien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Indonesien: rund 1.904.569 km²; Mongolei: rund 1.564.110 km²; Myanmar: rund 676.578 km²; Afghanistan: rund 652.230 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:ID",
+      "edition": "geo-v3-2026-11",
+      "iso": "ID",
+      "confusions": [
+        "MM",
+        "MN",
+        "AF"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-TL",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Timor-Leste",
+      "Katar",
+      "Libanon",
+      "Brunei Darussalam"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Timor-Leste: rund 14.874 km²; Katar: rund 11.586 km²; Libanon: rund 10.452 km²; Brunei Darussalam: rund 5.765 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:TL",
+      "edition": "geo-v3-2026-11",
+      "iso": "TL",
+      "confusions": [
+        "BN",
+        "QA",
+        "LB"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-TH",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Kambodscha",
+      "Laos",
+      "Vietnam",
+      "Thailand"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Thailand: rund 513.120 km²; Vietnam: rund 331.212 km²; Laos: rund 236.800 km²; Kambodscha: rund 181.035 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:TH",
+      "edition": "geo-v3-2026-11",
+      "iso": "TH",
+      "confusions": [
+        "KH",
+        "LA",
+        "VN"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-GW",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Gambia",
+      "Guinea-Bissau",
+      "Ruanda",
+      "Äquatorialguinea"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Guinea-Bissau: rund 36.125 km²; Äquatorialguinea: rund 28.051 km²; Ruanda: rund 26.338 km²; Gambia: rund 10.689 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:GW",
+      "edition": "geo-v3-2026-11",
+      "iso": "GW",
+      "confusions": [
+        "GM",
+        "GQ",
+        "RW"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-SD",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Südsudan",
+      "Sudan",
+      "Tschad",
+      "Äthiopien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Sudan: rund 1.886.068 km²; Tschad: rund 1.284.000 km²; Äthiopien: rund 1.104.300 km²; Südsudan: rund 619.745 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:SD",
+      "edition": "geo-v3-2026-11",
+      "iso": "SD",
+      "confusions": [
+        "SS",
+        "ET",
+        "TD"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-TJ",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Vereinigte Arabische Emirate",
+      "Georgien",
+      "Tadschikistan",
+      "Aserbaidschan"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Tadschikistan: rund 143.100 km²; Aserbaidschan: rund 86.600 km²; Vereinigte Arabische Emirate: rund 83.600 km²; Georgien: rund 69.700 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:TJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "TJ",
+      "confusions": [
+        "AZ",
+        "AE",
+        "GE"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-CG",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Gabun",
+      "Benin",
+      "Republik Kongo",
+      "Uganda"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Republik Kongo: rund 342.000 km²; Gabun: rund 267.668 km²; Uganda: rund 241.550 km²; Benin: rund 112.622 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:CG",
+      "edition": "geo-v3-2026-11",
+      "iso": "CG",
+      "confusions": [
+        "GA",
+        "BJ",
+        "UG"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-KZ",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Mongolei",
+      "Kasachstan",
+      "Türkei",
+      "Iran"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Kasachstan: rund 2.724.900 km²; Iran: rund 1.648.195 km²; Mongolei: rund 1.564.110 km²; Türkei: rund 783.562 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:KZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "KZ",
+      "confusions": [
+        "IR",
+        "MN",
+        "TR"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-BT",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Bhutan",
+      "Kuwait",
+      "Armenien",
+      "Katar"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Bhutan: rund 38.394 km²; Armenien: rund 29.743 km²; Kuwait: rund 17.818 km²; Katar: rund 11.586 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:BT",
+      "edition": "geo-v3-2026-11",
+      "iso": "BT",
+      "confusions": [
+        "QA",
+        "KW",
+        "AM"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-area-DZ",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat die größte Gesamtfläche?",
+    "options": [
+      "Libyen",
+      "Mali",
+      "Niger",
+      "Algerien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Gemeint ist die Gesamtfläche einschließlich Binnengewässern. Algerien: rund 2.381.741 km²; Libyen: rund 1.759.540 km²; Niger: rund 1.267.000 km²; Mali: rund 1.240.192 km². Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:area:DZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "DZ",
+      "confusions": [
+        "ML",
+        "NE",
+        "LY"
+      ],
+      "topic": "Länderflächen"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-LA",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Laos",
+      "Vietnam",
+      "Kambodscha",
+      "Thailand"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Laos ist ein Binnenstaat. Vietnam, Kambodscha, Thailand haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:LA",
+      "edition": "geo-v3-2026-11",
+      "iso": "LA",
+      "confusions": [
+        "VN",
+        "KH",
+        "TH"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-PY",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Paraguay",
+      "Uruguay",
+      "Argentinien",
+      "Brasilien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Paraguay ist ein Binnenstaat. Uruguay, Argentinien, Brasilien haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:PY",
+      "edition": "geo-v3-2026-11",
+      "iso": "PY",
+      "confusions": [
+        "UY",
+        "AR",
+        "BR"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-SS",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Kenia",
+      "Sudan",
+      "Südsudan",
+      "Demokratische Republik Kongo"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Südsudan ist ein Binnenstaat. Sudan, Demokratische Republik Kongo, Kenia haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:SS",
+      "edition": "geo-v3-2026-11",
+      "iso": "SS",
+      "confusions": [
+        "SD",
+        "CD",
+        "KE"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-SK",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Slowenien",
+      "Slowakei",
+      "Kroatien",
+      "Polen"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Slowakei ist ein Binnenstaat. Polen, Slowenien, Kroatien haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:SK",
+      "edition": "geo-v3-2026-11",
+      "iso": "SK",
+      "confusions": [
+        "PL",
+        "SI",
+        "HR"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-HU",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Rumänien",
+      "Kroatien",
+      "Ungarn",
+      "Bosnien und Herzegowina"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Ungarn ist ein Binnenstaat. Bosnien und Herzegowina, Rumänien, Kroatien haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:HU",
+      "edition": "geo-v3-2026-11",
+      "iso": "HU",
+      "confusions": [
+        "BA",
+        "RO",
+        "HR"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-ZW",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Mosambik",
+      "Simbabwe",
+      "Südafrika",
+      "Namibia"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Simbabwe ist ein Binnenstaat. Mosambik, Südafrika, Namibia haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:ZW",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZW",
+      "confusions": [
+        "MZ",
+        "ZA",
+        "NA"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-LI",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Slowenien",
+      "Deutschland",
+      "Liechtenstein",
+      "Monaco"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Liechtenstein ist ein Binnenstaat. Deutschland, Slowenien, Monaco haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:LI",
+      "edition": "geo-v3-2026-11",
+      "iso": "LI",
+      "confusions": [
+        "DE",
+        "SI",
+        "MC"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-TJ",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Iran",
+      "Georgien",
+      "Vereinigte Arabische Emirate",
+      "Tadschikistan"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Tadschikistan ist ein Binnenstaat. Iran, Vereinigte Arabische Emirate, Georgien haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:TJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "TJ",
+      "confusions": [
+        "IR",
+        "AE",
+        "GE"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-BI",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Demokratische Republik Kongo",
+      "Burundi",
+      "Kenia",
+      "Tansania"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Burundi ist ein Binnenstaat. Tansania, Demokratische Republik Kongo, Kenia haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:BI",
+      "edition": "geo-v3-2026-11",
+      "iso": "BI",
+      "confusions": [
+        "TZ",
+        "CD",
+        "KE"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-BT",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Thailand",
+      "Bangladesch",
+      "Bhutan",
+      "Myanmar"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Bhutan ist ein Binnenstaat. Bangladesch, Myanmar, Thailand haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:BT",
+      "edition": "geo-v3-2026-11",
+      "iso": "BT",
+      "confusions": [
+        "BD",
+        "MM",
+        "TH"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-LU",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Belgien",
+      "Monaco",
+      "Luxemburg",
+      "Deutschland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Luxemburg ist ein Binnenstaat. Belgien, Deutschland, Monaco haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:LU",
+      "edition": "geo-v3-2026-11",
+      "iso": "LU",
+      "confusions": [
+        "BE",
+        "DE",
+        "MC"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-BF",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Elfenbeinküste",
+      "Burkina Faso",
+      "Ghana",
+      "Benin"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Burkina Faso ist ein Binnenstaat. Ghana, Benin, Elfenbeinküste haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:BF",
+      "edition": "geo-v3-2026-11",
+      "iso": "BF",
+      "confusions": [
+        "GH",
+        "BJ",
+        "CI"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-CZ",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Polen",
+      "Tschechien",
+      "Deutschland",
+      "Slowenien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Tschechien ist ein Binnenstaat. Polen, Slowenien, Deutschland haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:CZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "CZ",
+      "confusions": [
+        "PL",
+        "SI",
+        "DE"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-CF",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Zentralafrikanische Republik",
+      "Republik Kongo",
+      "Demokratische Republik Kongo",
+      "Kamerun"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Zentralafrikanische Republik ist ein Binnenstaat. Demokratische Republik Kongo, Kamerun, Republik Kongo haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:CF",
+      "edition": "geo-v3-2026-11",
+      "iso": "CF",
+      "confusions": [
+        "CD",
+        "CM",
+        "CG"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-BY",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Polen",
+      "Belarus",
+      "Lettland",
+      "Litauen"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Belarus ist ein Binnenstaat. Litauen, Lettland, Polen haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:BY",
+      "edition": "geo-v3-2026-11",
+      "iso": "BY",
+      "confusions": [
+        "LT",
+        "LV",
+        "PL"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-CH",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Schweiz",
+      "Belgien",
+      "Deutschland",
+      "Monaco"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Schweiz ist ein Binnenstaat. Monaco, Deutschland, Belgien haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:CH",
+      "edition": "geo-v3-2026-11",
+      "iso": "CH",
+      "confusions": [
+        "MC",
+        "DE",
+        "BE"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-SM",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "San Marino",
+      "Italien",
+      "Slowenien",
+      "Kroatien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "San Marino ist ein Binnenstaat. Italien, Kroatien, Slowenien haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:SM",
+      "edition": "geo-v3-2026-11",
+      "iso": "SM",
+      "confusions": [
+        "IT",
+        "HR",
+        "SI"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-MD",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Republik Moldau",
+      "Bulgarien",
+      "Polen",
+      "Rumänien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Republik Moldau ist ein Binnenstaat. Rumänien, Bulgarien, Polen haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:MD",
+      "edition": "geo-v3-2026-11",
+      "iso": "MD",
+      "confusions": [
+        "RO",
+        "BG",
+        "PL"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-ZM",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Mosambik",
+      "Angola",
+      "Tansania",
+      "Sambia"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Sambia ist ein Binnenstaat. Mosambik, Tansania, Angola haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:ZM",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZM",
+      "confusions": [
+        "MZ",
+        "TZ",
+        "AO"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-landlocked-BO",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches dieser Länder hat keinen Zugang zum offenen Meer?",
+    "options": [
+      "Brasilien",
+      "Bolivien",
+      "Peru",
+      "Chile"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Bolivien ist ein Binnenstaat. Brasilien, Peru, Chile haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "world:landlocked:BO",
+      "edition": "geo-v3-2026-11",
+      "iso": "BO",
+      "confusions": [
+        "BR",
+        "PE",
+        "CL"
+      ],
+      "topic": "Binnenstaaten"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-BN",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Asien?",
+    "options": [
+      "Mikronesien",
+      "Brunei Darussalam",
+      "Palau",
+      "Papua-Neuguinea"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Brunei Darussalam liegt in Asien. Palau: Ozeanien; Papua-Neuguinea: Ozeanien; Mikronesien: Ozeanien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:BN",
+      "edition": "geo-v3-2026-11",
+      "iso": "BN",
+      "confusions": [
+        "PW",
+        "PG",
+        "FM"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-FJ",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Ozeanien?",
+    "options": [
+      "Philippinen",
+      "Timor-Leste",
+      "Fidschi",
+      "Brunei Darussalam"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Fidschi liegt in Ozeanien. Timor-Leste: Asien; Philippinen: Asien; Brunei Darussalam: Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:FJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "FJ",
+      "confusions": [
+        "TL",
+        "PH",
+        "BN"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-JM",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Nordamerika?",
+    "options": [
+      "Kolumbien",
+      "Venezuela",
+      "Guyana",
+      "Jamaika"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Jamaika liegt in Nordamerika. Venezuela: Südamerika; Kolumbien: Südamerika; Guyana: Südamerika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:JM",
+      "edition": "geo-v3-2026-11",
+      "iso": "JM",
+      "confusions": [
+        "VE",
+        "CO",
+        "GY"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-HT",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Nordamerika?",
+    "options": [
+      "Kolumbien",
+      "Haiti",
+      "Venezuela",
+      "Guyana"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Haiti liegt in Nordamerika. Venezuela: Südamerika; Kolumbien: Südamerika; Guyana: Südamerika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:HT",
+      "edition": "geo-v3-2026-11",
+      "iso": "HT",
+      "confusions": [
+        "VE",
+        "CO",
+        "GY"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-AO",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Afrika?",
+    "options": [
+      "Angola",
+      "Jemen",
+      "Jordanien",
+      "Saudi-Arabien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Angola liegt in Afrika. Jemen: Asien; Saudi-Arabien: Asien; Jordanien: Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:AO",
+      "edition": "geo-v3-2026-11",
+      "iso": "AO",
+      "confusions": [
+        "YE",
+        "SA",
+        "JO"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-KW",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Asien?",
+    "options": [
+      "Kuwait",
+      "Somalia",
+      "Dschibuti",
+      "Eritrea"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Kuwait liegt in Asien. Eritrea: Afrika; Dschibuti: Afrika; Somalia: Afrika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:KW",
+      "edition": "geo-v3-2026-11",
+      "iso": "KW",
+      "confusions": [
+        "ER",
+        "DJ",
+        "SO"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-SV",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Nordamerika?",
+    "options": [
+      "El Salvador",
+      "Venezuela",
+      "Kolumbien",
+      "Peru"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "El Salvador liegt in Nordamerika. Kolumbien: Südamerika; Venezuela: Südamerika; Peru: Südamerika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:SV",
+      "edition": "geo-v3-2026-11",
+      "iso": "SV",
+      "confusions": [
+        "CO",
+        "VE",
+        "PE"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-BB",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Nordamerika?",
+    "options": [
+      "Venezuela",
+      "Suriname",
+      "Guyana",
+      "Barbados"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Barbados liegt in Nordamerika. Guyana: Südamerika; Venezuela: Südamerika; Suriname: Südamerika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:BB",
+      "edition": "geo-v3-2026-11",
+      "iso": "BB",
+      "confusions": [
+        "GY",
+        "VE",
+        "SR"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-AE",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Asien?",
+    "options": [
+      "Dschibuti",
+      "Vereinigte Arabische Emirate",
+      "Eritrea",
+      "Somalia"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Vereinigte Arabische Emirate liegt in Asien. Somalia: Afrika; Dschibuti: Afrika; Eritrea: Afrika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:AE",
+      "edition": "geo-v3-2026-11",
+      "iso": "AE",
+      "confusions": [
+        "SO",
+        "DJ",
+        "ER"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-PL",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Europa?",
+    "options": [
+      "Tunesien",
+      "Polen",
+      "Syrien",
+      "Libanon"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Polen liegt in Europa. Tunesien: Afrika; Syrien: Asien; Libanon: Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:PL",
+      "edition": "geo-v3-2026-11",
+      "iso": "PL",
+      "confusions": [
+        "TN",
+        "SY",
+        "LB"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-UY",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Südamerika?",
+    "options": [
+      "Trinidad und Tobago",
+      "Barbados",
+      "Uruguay",
+      "Grenada"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Uruguay liegt in Südamerika. Trinidad und Tobago: Nordamerika; Grenada: Nordamerika; Barbados: Nordamerika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:UY",
+      "edition": "geo-v3-2026-11",
+      "iso": "UY",
+      "confusions": [
+        "TT",
+        "GD",
+        "BB"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-OM",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Asien?",
+    "options": [
+      "Eritrea",
+      "Oman",
+      "Somalia",
+      "Dschibuti"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Oman liegt in Asien. Somalia: Afrika; Dschibuti: Afrika; Eritrea: Afrika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:OM",
+      "edition": "geo-v3-2026-11",
+      "iso": "OM",
+      "confusions": [
+        "SO",
+        "DJ",
+        "ER"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-LU",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Europa?",
+    "options": [
+      "Algerien",
+      "Tunesien",
+      "Libyen",
+      "Luxemburg"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Luxemburg liegt in Europa. Tunesien: Afrika; Algerien: Afrika; Libyen: Afrika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:LU",
+      "edition": "geo-v3-2026-11",
+      "iso": "LU",
+      "confusions": [
+        "TN",
+        "DZ",
+        "LY"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-MU",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Afrika?",
+    "options": [
+      "Malediven",
+      "Mauritius",
+      "Sri Lanka",
+      "Jemen"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Mauritius liegt in Afrika. Malediven: Asien; Sri Lanka: Asien; Jemen: Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:MU",
+      "edition": "geo-v3-2026-11",
+      "iso": "MU",
+      "confusions": [
+        "MV",
+        "LK",
+        "YE"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-KM",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Afrika?",
+    "options": [
+      "Jemen",
+      "Komoren",
+      "Oman",
+      "Malediven"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Komoren liegt in Afrika. Jemen: Asien; Malediven: Asien; Oman: Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:KM",
+      "edition": "geo-v3-2026-11",
+      "iso": "KM",
+      "confusions": [
+        "YE",
+        "MV",
+        "OM"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-MD",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Europa?",
+    "options": [
+      "Syrien",
+      "Libanon",
+      "Republik Moldau",
+      "Jordanien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Republik Moldau liegt in Europa. Syrien: Asien; Libanon: Asien; Jordanien: Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:MD",
+      "edition": "geo-v3-2026-11",
+      "iso": "MD",
+      "confusions": [
+        "SY",
+        "LB",
+        "JO"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-GD",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Nordamerika?",
+    "options": [
+      "Venezuela",
+      "Grenada",
+      "Suriname",
+      "Guyana"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Grenada liegt in Nordamerika. Venezuela: Südamerika; Guyana: Südamerika; Suriname: Südamerika.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:GD",
+      "edition": "geo-v3-2026-11",
+      "iso": "GD",
+      "confusions": [
+        "VE",
+        "GY",
+        "SR"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-ZM",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Afrika?",
+    "options": [
+      "Jemen",
+      "Saudi-Arabien",
+      "Sambia",
+      "Oman"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Sambia liegt in Afrika. Jemen: Asien; Saudi-Arabien: Asien; Oman: Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:ZM",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZM",
+      "confusions": [
+        "YE",
+        "SA",
+        "OM"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-MN",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Asien?",
+    "options": [
+      "Mongolei",
+      "Palau",
+      "Finnland",
+      "Estland"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Mongolei liegt in Asien. Finnland: Europa; Palau: Ozeanien; Estland: Europa.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:MN",
+      "edition": "geo-v3-2026-11",
+      "iso": "MN",
+      "confusions": [
+        "FI",
+        "PW",
+        "EE"
+      ],
+      "topic": "Kontinente"
+    }
+  },
+  {
+    "id": "geo-v3-world-continent-PW",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches dieser Länder liegt in Ozeanien?",
+    "options": [
+      "Palau",
+      "Philippinen",
+      "Brunei Darussalam",
+      "Timor-Leste"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Palau liegt in Ozeanien. Philippinen: Asien; Timor-Leste: Asien; Brunei Darussalam: Asien.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "world:continent:PW",
+      "edition": "geo-v3-2026-11",
+      "iso": "PW",
+      "confusions": [
+        "PH",
+        "TL",
+        "BN"
+      ],
+      "topic": "Kontinente"
+    }
+  }
+]

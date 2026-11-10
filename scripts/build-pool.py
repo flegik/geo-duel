@@ -75,7 +75,7 @@ elif category=='landmarks':
   out.append(question(category,'legacy-'+q['id'],q['prompt'],correct,[flags[c]['name'] for c in alternatives],q['difficulty'],f'{title} liegt in {correct} ({geo[iso]["continent"]}). Die Illustration ist eine stilisierte Darstellung, kein Foto.',q['provenance']['sources']+(['https://colosseo.it/en/area/the-colosseum/'] if sid=='91' else []),q['media'],subject='landmark:'+sid,iso=iso,confusions=alternatives,siteId=sid))
  # Round robin across countries prevents the extension being dominated by a few large countries.
  cultural=[s for s in sites if s['kind']=='Cultural' and s['id'] not in used]
- countries=sorted({s['iso'] for s in cultural},key=lambda c:(sum(q['provenance']['iso']==c for q in out),c))
+ countries=sorted({s['iso'] for s in cultural},key=lambda c:(sum(q['provenance']['iso']==c for q in out),hashlib.sha256(c.encode()).hexdigest()))
  chosen=[]
  for iso in countries:
   s=next(s for s in cultural if s['iso']==iso)
@@ -85,6 +85,46 @@ elif category=='landmarks':
  for i,s in enumerate(chosen):
   iso=s['iso'];alternatives=nearby(iso)[:3]
   out.append(question(category,'unesco-'+s['id'],f'In welchem Land liegt die UNESCO-Kulturerbestätte „{s["name"]}“?',flags[iso]['name'],[flags[c]['name'] for c in alternatives],2+i%2,f'„{s["name"]}“ ist eine UNESCO-Kulturerbestätte in {flags[iso]["name"]} ({geo[iso]["continent"]}). Die UNESCO führt sie unter der Listennummer {s["id"]}.',[s['source']],subject='landmark:'+s['id'],iso=iso,confusions=alternatives,siteId=s['id']))
+elif category=='world':
+ reviews=json.loads(Path('data/learning/world-review.json').read_text())
+ originals=[q for q in json.loads(Path('data/questions.json').read_text()) if q['category']==category]
+ for i,q in enumerate(originals):
+  correct=q['options'][q['correct']];wrong=reviews[i][:3]
+  out.append(question(category,'legacy-'+q['id'],q['prompt'],correct,wrong,q['difficulty'],reviews[i][3],q['provenance']['sources'],subject='world:legacy:'+q['id']))
+ sites={s['id']:s for s in json.loads(Path('data/learning/unesco-sites.json').read_text())}
+ ids='1 9 24 28 39 63 98 100 120 145 147 150 154 156 167 179 185 186 196 219 225 227 256 258 260 261 280 284 302 308 333 337 355 369 390 402 405 410 421 447'.split()
+ assert len(ids)==40
+ for i,sid in enumerate(ids):
+  s=sites[sid];iso=s['iso'];wrong=nearby(iso)[:3]
+  out.append(question(category,'nature-'+sid,f'In welchem Land liegt das UNESCO-gelistete Gebiet „{s["name"]}“?',flags[iso]['name'],[flags[c]['name'] for c in wrong],2+i%2,f'„{s["name"]}“ liegt in {flags[iso]["name"]}. Der UNESCO-Eintrag {sid} bestätigt diese Länderzuordnung.',[s['source']],subject='world:nature:'+sid,iso=iso,confusions=wrong,topic='Naturregionen'))
+ # Relative area questions: exclude close numerical ties and ambiguous territorial cases.
+ excluded=set('RU UA PS IL CY CN IN PK FR GB DK NL NO RS MA'.split())
+ chosen=[]
+ for iso in flags:
+  if iso in excluded:continue
+  smaller=[c for c in nearby(iso) if c not in excluded and geo[c]['continent']==geo[iso]['continent'] and facts[iso]['areaKm2']/3.5<facts[c]['areaKm2']<facts[iso]['areaKm2']/1.2]
+  if len(smaller)<3:continue
+  chosen.append((iso,smaller[:3]))
+ # Deterministically spread selected subjects over the registry instead of taking an alphabetical prefix.
+ chosen=sorted(chosen,key=lambda pair:hashlib.sha256(pair[0].encode()).hexdigest())[:40]
+ assert len(chosen)==40
+ for i,(iso,wrong) in enumerate(chosen):
+  opts=[iso]+wrong;detail='; '.join(f'{flags[c]["name"]}: rund {round(facts[c]["areaKm2"]):,} km²'.replace(',','.') for c in sorted(opts,key=lambda c:-facts[c]['areaKm2']))
+  out.append(question(category,'area-'+iso,'Welches dieser Länder hat die größte Gesamtfläche?',flags[iso]['name'],[flags[c]['name'] for c in wrong],2+i%2,'Gemeint ist die Gesamtfläche einschließlich Binnengewässern. '+detail+'. Die Werte sind gerundet; die Abstände sind deutlich größer als Rundungsunterschiede.',[COUNTRIES],subject='world:area:'+iso,iso=iso,confusions=wrong,topic='Länderflächen'))
+ # Landlocked questions with coastal alternatives from the same geographic neighborhood.
+ landlocked=[c for c in flags if facts[c]['landlocked'] and c not in excluded and c not in ('AZ','KZ','TM')]
+ landlocked=sorted(landlocked,key=lambda c:hashlib.sha256(c.encode()).hexdigest())[:20]
+ assert len(landlocked)==20
+ for i,iso in enumerate(landlocked):
+  wrong=[c for c in nearby(iso) if not facts[c]['landlocked'] and c not in excluded][:3]
+  out.append(question(category,'landlocked-'+iso,'Welches dieser Länder hat keinen Zugang zum offenen Meer?',flags[iso]['name'],[flags[c]['name'] for c in wrong],2+i%2,f'{flags[iso]["name"]} ist ein Binnenstaat. '+', '.join(flags[c]['name'] for c in wrong)+' haben dagegen eine Meeresküste. Eine Seeküste an einem Binnengewässer ist kein Zugang zum offenen Meer.',[COUNTRIES],subject='world:landlocked:'+iso,iso=iso,confusions=wrong,topic='Binnenstaaten'))
+ # Continent assignments are used only for countries without transcontinental or overseas ambiguity.
+ excluded.update('TR GE AM AZ EG ID MY AU CL EC NZ PT ES US ZA'.split())
+ eligible=[c for c in flags if c not in excluded]
+ selected=sorted(eligible,key=lambda c:hashlib.sha256(('continent'+c).encode()).hexdigest())[:20]
+ for i,iso in enumerate(selected):
+  wrong=[c for c in nearby(iso,eligible) if geo[c]['continent']!=geo[iso]['continent']][:3]
+  out.append(question(category,'continent-'+iso,f'Welches dieser Länder liegt in {geo[iso]["continent"]}?',flags[iso]['name'],[flags[c]['name'] for c in wrong],1,f'{flags[iso]["name"]} liegt in {geo[iso]["continent"]}. '+ '; '.join(flags[c]['name']+': '+geo[c]['continent'] for c in wrong)+'.',[NE],subject='world:continent:'+iso,iso=iso,confusions=wrong,topic='Kontinente'))
 else:raise SystemExit('Category not implemented yet: '+category)
 assert out and len({q['id'] for q in out})==len(out)
 for q in out:assert 1<=q['difficulty']<=3 and len(q['provenance']['sources'])>0 and q['explanation']

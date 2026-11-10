@@ -1051,1533 +1051,93 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1160",
+    "id": "geo-v3-landmarks-unesco-596",
     "category": "landmarks",
     "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Madriu-Perafita-Claror Valley“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Villages with Fortified Churches in Transylvania“?",
     "options": [
-      "Spanien",
-      "Monaco",
-      "Andorra",
-      "Frankreich"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Madriu-Perafita-Claror Valley“ ist eine UNESCO-Kulturerbestätte in Andorra (Europa). Die UNESCO führt sie unter der Listennummer 1160.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1160/"
-      ],
-      "subjectKey": "landmark:1160",
-      "edition": "geo-v3-2026-11",
-      "iso": "AD",
-      "confusions": [
-        "FR",
-        "MC",
-        "ES"
-      ],
-      "siteId": "1160"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1343",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)“?",
-    "options": [
-      "Oman",
-      "Vereinigte Arabische Emirate",
-      "Katar",
-      "Bahrain"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)“ ist eine UNESCO-Kulturerbestätte in Vereinigte Arabische Emirate (Asien). Die UNESCO führt sie unter der Listennummer 1343.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1343/"
-      ],
-      "subjectKey": "landmark:1343",
-      "edition": "geo-v3-2026-11",
-      "iso": "AE",
-      "confusions": [
-        "QA",
-        "BH",
-        "OM"
-      ],
-      "siteId": "1343"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-208",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cultural Landscape and Archaeological Remains of the Bamiyan Valley“?",
-    "options": [
-      "Afghanistan",
-      "Tadschikistan",
-      "Usbekistan",
-      "Pakistan"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Cultural Landscape and Archaeological Remains of the Bamiyan Valley“ ist eine UNESCO-Kulturerbestätte in Afghanistan (Asien). Die UNESCO führt sie unter der Listennummer 208.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/208/"
-      ],
-      "subjectKey": "landmark:208",
-      "edition": "geo-v3-2026-11",
-      "iso": "AF",
-      "confusions": [
-        "PK",
-        "TJ",
-        "UZ"
-      ],
-      "siteId": "208"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1499",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Antigua Naval Dockyard and Related Archaeological Sites“?",
-    "options": [
-      "Dominica",
-      "St. Lucia",
-      "Antigua und Barbuda",
-      "St. Kitts und Nevis"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Antigua Naval Dockyard and Related Archaeological Sites“ ist eine UNESCO-Kulturerbestätte in Antigua und Barbuda (Nordamerika). Die UNESCO führt sie unter der Listennummer 1499.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1499/"
-      ],
-      "subjectKey": "landmark:1499",
-      "edition": "geo-v3-2026-11",
-      "iso": "AG",
-      "confusions": [
-        "KN",
-        "DM",
-        "LC"
-      ],
-      "siteId": "1499"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-569",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centres of Berat and Gjirokastra“?",
-    "options": [
-      "Montenegro",
-      "Albanien",
-      "Griechenland",
-      "Nordmazedonien"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Historic Centres of Berat and Gjirokastra“ ist eine UNESCO-Kulturerbestätte in Albanien (Europa). Die UNESCO führt sie unter der Listennummer 569.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/569/"
-      ],
-      "subjectKey": "landmark:569",
-      "edition": "geo-v3-2026-11",
-      "iso": "AL",
-      "confusions": [
-        "ME",
-        "MK",
-        "GR"
-      ],
-      "siteId": "569"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-777",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Monasteries of Haghpat and Sanahin“?",
-    "options": [
-      "Irak",
-      "Georgien",
-      "Aserbaidschan",
-      "Armenien"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Monasteries of Haghpat and Sanahin“ ist eine UNESCO-Kulturerbestätte in Armenien (Asien). Die UNESCO führt sie unter der Listennummer 777.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/777/"
-      ],
-      "subjectKey": "landmark:777",
-      "edition": "geo-v3-2026-11",
-      "iso": "AM",
-      "confusions": [
-        "AZ",
-        "GE",
-        "IQ"
-      ],
-      "siteId": "777"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1511",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo“?",
-    "options": [
-      "Botsuana",
-      "Namibia",
-      "Angola",
-      "Sambia"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo“ ist eine UNESCO-Kulturerbestätte in Angola (Afrika). Die UNESCO führt sie unter der Listennummer 1511.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1511/"
-      ],
-      "subjectKey": "landmark:1511",
-      "edition": "geo-v3-2026-11",
-      "iso": "AO",
-      "confusions": [
-        "NA",
-        "BW",
-        "ZM"
-      ],
-      "siteId": "1511"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-936",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cueva de las Manos, Río Pinturas“?",
-    "options": [
-      "Uruguay",
-      "Chile",
-      "Paraguay",
-      "Argentinien"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Cueva de las Manos, Río Pinturas“ ist eine UNESCO-Kulturerbestätte in Argentinien (Südamerika). Die UNESCO führt sie unter der Listennummer 936.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/936/"
-      ],
-      "subjectKey": "landmark:936",
-      "edition": "geo-v3-2026-11",
-      "iso": "AR",
-      "confusions": [
-        "UY",
-        "CL",
-        "PY"
-      ],
-      "siteId": "936"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-958",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Walled City of Baku with the Shirvanshah's Palace and Maiden Tower“?",
-    "options": [
-      "Irak",
-      "Aserbaidschan",
-      "Armenien",
-      "Georgien"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Walled City of Baku with the Shirvanshah's Palace and Maiden Tower“ ist eine UNESCO-Kulturerbestätte in Aserbaidschan (Asien). Die UNESCO führt sie unter der Listennummer 958.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/958/"
-      ],
-      "subjectKey": "landmark:958",
-      "edition": "geo-v3-2026-11",
-      "iso": "AZ",
-      "confusions": [
-        "AM",
-        "GE",
-        "IQ"
-      ],
-      "siteId": "958"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1376",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Bridgetown and its Garrison“?",
-    "options": [
-      "Barbados",
-      "St. Vincent und die Grenadinen",
-      "St. Lucia",
-      "Grenada"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Historic Bridgetown and its Garrison“ ist eine UNESCO-Kulturerbestätte in Barbados (Nordamerika). Die UNESCO führt sie unter der Listennummer 1376.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1376/"
-      ],
-      "subjectKey": "landmark:1376",
-      "edition": "geo-v3-2026-11",
-      "iso": "BB",
-      "confusions": [
-        "LC",
-        "VC",
-        "GD"
-      ],
-      "siteId": "1376"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-321",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Mosque City of Bagerhat“?",
-    "options": [
-      "Bangladesch",
-      "Myanmar",
-      "Nepal",
-      "Bhutan"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Historic Mosque City of Bagerhat“ ist eine UNESCO-Kulturerbestätte in Bangladesch (Asien). Die UNESCO führt sie unter der Listennummer 321.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/321/"
-      ],
-      "subjectKey": "landmark:321",
-      "edition": "geo-v3-2026-11",
-      "iso": "BD",
-      "confusions": [
-        "BT",
-        "NP",
-        "MM"
-      ],
-      "siteId": "321"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-855",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Flemish Béguinages“?",
-    "options": [
-      "Niederlande",
-      "Luxemburg",
-      "Deutschland",
-      "Belgien"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Flemish Béguinages“ ist eine UNESCO-Kulturerbestätte in Belgien (Europa). Die UNESCO führt sie unter der Listennummer 855.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/855/"
-      ],
-      "subjectKey": "landmark:855",
-      "edition": "geo-v3-2026-11",
-      "iso": "BE",
-      "confusions": [
-        "LU",
-        "NL",
-        "DE"
-      ],
-      "siteId": "855"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1225",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ruins of Loropéni“?",
-    "options": [
-      "Benin",
-      "Burkina Faso",
-      "Mali",
-      "Ghana"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Ruins of Loropéni“ ist eine UNESCO-Kulturerbestätte in Burkina Faso (Afrika). Die UNESCO führt sie unter der Listennummer 1225.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1225/"
-      ],
-      "subjectKey": "landmark:1225",
-      "edition": "geo-v3-2026-11",
-      "iso": "BF",
-      "confusions": [
-        "ML",
-        "GH",
-        "BJ"
-      ],
-      "siteId": "1225"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-42",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Boyana Church“?",
-    "options": [
-      "Serbien",
-      "Nordmazedonien",
       "Bulgarien",
-      "Rumänien"
+      "Serbien",
+      "Rumänien",
+      "Republik Moldau"
     ],
     "correct": 2,
     "enabled": true,
-    "explanation": "„Boyana Church“ ist eine UNESCO-Kulturerbestätte in Bulgarien (Europa). Die UNESCO führt sie unter der Listennummer 42.",
+    "explanation": "„Villages with Fortified Churches in Transylvania“ ist eine UNESCO-Kulturerbestätte in Rumänien (Europa). Die UNESCO führt sie unter der Listennummer 596.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/42/"
+        "https://whc.unesco.org/en/list/596/"
       ],
-      "subjectKey": "landmark:42",
+      "subjectKey": "landmark:596",
       "edition": "geo-v3-2026-11",
-      "iso": "BG",
+      "iso": "RO",
       "confusions": [
-        "MK",
-        "RO",
+        "MD",
+        "BG",
         "RS"
       ],
-      "siteId": "42"
+      "siteId": "596"
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1192",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun“?",
-    "options": [
-      "Vereinigte Arabische Emirate",
-      "Saudi-Arabien",
-      "Bahrain",
-      "Katar"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun“ ist eine UNESCO-Kulturerbestätte in Bahrain (Asien). Die UNESCO führt sie unter der Listennummer 1192.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1192/"
-      ],
-      "subjectKey": "landmark:1192",
-      "edition": "geo-v3-2026-11",
-      "iso": "BH",
-      "confusions": [
-        "QA",
-        "AE",
-        "SA"
-      ],
-      "siteId": "1192"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-323",
+    "id": "geo-v3-landmarks-unesco-479",
     "category": "landmarks",
     "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Royal Palaces of Abomey“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Town of Luang Prabang“?",
     "options": [
-      "Benin",
-      "Burkina Faso",
-      "Togo",
-      "Ghana"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Royal Palaces of Abomey“ ist eine UNESCO-Kulturerbestätte in Benin (Afrika). Die UNESCO führt sie unter der Listennummer 323.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/323/"
-      ],
-      "subjectKey": "landmark:323",
-      "edition": "geo-v3-2026-11",
-      "iso": "BJ",
-      "confusions": [
-        "TG",
-        "GH",
-        "BF"
-      ],
-      "siteId": "323"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-420",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Potosí“?",
-    "options": [
-      "Paraguay",
-      "Brasilien",
-      "Bolivien",
-      "Peru"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„City of Potosí“ ist eine UNESCO-Kulturerbestätte in Bolivien (Südamerika). Die UNESCO führt sie unter der Listennummer 420.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/420/"
-      ],
-      "subjectKey": "landmark:420",
-      "edition": "geo-v3-2026-11",
-      "iso": "BO",
-      "confusions": [
-        "PY",
-        "BR",
-        "PE"
-      ],
-      "siteId": "420"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-124",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Town of Ouro Preto“?",
-    "options": [
-      "Bolivien",
-      "Paraguay",
-      "Suriname",
-      "Brasilien"
+      "Thailand",
+      "Kambodscha",
+      "Vietnam",
+      "Laos"
     ],
     "correct": 3,
     "enabled": true,
-    "explanation": "„Historic Town of Ouro Preto“ ist eine UNESCO-Kulturerbestätte in Brasilien (Südamerika). Die UNESCO führt sie unter der Listennummer 124.",
+    "explanation": "„Town of Luang Prabang“ ist eine UNESCO-Kulturerbestätte in Laos (Asien). Die UNESCO führt sie unter der Listennummer 479.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/124/"
+        "https://whc.unesco.org/en/list/479/"
       ],
-      "subjectKey": "landmark:124",
+      "subjectKey": "landmark:479",
       "edition": "geo-v3-2026-11",
-      "iso": "BR",
+      "iso": "LA",
+      "confusions": [
+        "VN",
+        "KH",
+        "TH"
+      ],
+      "siteId": "479"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-648",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue“?",
+    "options": [
+      "Bolivien",
+      "Paraguay",
+      "Argentinien",
+      "Uruguay"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue“ ist eine UNESCO-Kulturerbestätte in Paraguay (Südamerika). Die UNESCO führt sie unter der Listennummer 648.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/648/"
+      ],
+      "subjectKey": "landmark:648",
+      "edition": "geo-v3-2026-11",
+      "iso": "PY",
       "confusions": [
         "BO",
-        "PY",
-        "SR"
+        "UY",
+        "AR"
       ],
-      "siteId": "124"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1021",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Tsodilo“?",
-    "options": [
-      "Simbabwe",
-      "Botsuana",
-      "Namibia",
-      "Südafrika"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Tsodilo“ ist eine UNESCO-Kulturerbestätte in Botsuana (Afrika). Die UNESCO führt sie unter der Listennummer 1021.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1021/"
-      ],
-      "subjectKey": "landmark:1021",
-      "edition": "geo-v3-2026-11",
-      "iso": "BW",
-      "confusions": [
-        "ZW",
-        "NA",
-        "ZA"
-      ],
-      "siteId": "1021"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-625",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Mir Castle Complex“?",
-    "options": [
-      "Litauen",
-      "Lettland",
-      "Ukraine",
-      "Belarus"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Mir Castle Complex“ ist eine UNESCO-Kulturerbestätte in Belarus (Europa). Die UNESCO führt sie unter der Listennummer 625.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/625/"
-      ],
-      "subjectKey": "landmark:625",
-      "edition": "geo-v3-2026-11",
-      "iso": "BY",
-      "confusions": [
-        "LT",
-        "LV",
-        "UA"
-      ],
-      "siteId": "625"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-4",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „L’Anse aux Meadows National Historic Site“?",
-    "options": [
-      "Kanada",
-      "Vereinigte Staaten",
-      "Bahamas",
-      "Mexiko"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„L’Anse aux Meadows National Historic Site“ ist eine UNESCO-Kulturerbestätte in Kanada (Nordamerika). Die UNESCO führt sie unter der Listennummer 4.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/4/"
-      ],
-      "subjectKey": "landmark:4",
-      "edition": "geo-v3-2026-11",
-      "iso": "CA",
-      "confusions": [
-        "US",
-        "MX",
-        "BS"
-      ],
-      "siteId": "4"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-267",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old City of Berne“?",
-    "options": [
-      "Schweiz",
-      "Liechtenstein",
-      "Monaco",
-      "Luxemburg"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Old City of Berne“ ist eine UNESCO-Kulturerbestätte in Schweiz (Europa). Die UNESCO führt sie unter der Listennummer 267.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/267/"
-      ],
-      "subjectKey": "landmark:267",
-      "edition": "geo-v3-2026-11",
-      "iso": "CH",
-      "confusions": [
-        "LI",
-        "LU",
-        "MC"
-      ],
-      "siteId": "267"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1322",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Town of Grand-Bassam“?",
-    "options": [
-      "Liberia",
-      "Ghana",
-      "Elfenbeinküste",
-      "Guinea"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Historic Town of Grand-Bassam“ ist eine UNESCO-Kulturerbestätte in Elfenbeinküste (Afrika). Die UNESCO führt sie unter der Listennummer 1322.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1322/"
-      ],
-      "subjectKey": "landmark:1322",
-      "edition": "geo-v3-2026-11",
-      "iso": "CI",
-      "confusions": [
-        "GH",
-        "LR",
-        "GN"
-      ],
-      "siteId": "1322"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-285",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Port, Fortresses and Group of Monuments, Cartagena“?",
-    "options": [
-      "Guyana",
-      "Venezuela",
-      "Ecuador",
-      "Kolumbien"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Port, Fortresses and Group of Monuments, Cartagena“ ist eine UNESCO-Kulturerbestätte in Kolumbien (Südamerika). Die UNESCO führt sie unter der Listennummer 285.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/285/"
-      ],
-      "subjectKey": "landmark:285",
-      "edition": "geo-v3-2026-11",
-      "iso": "CO",
-      "confusions": [
-        "VE",
-        "EC",
-        "GY"
-      ],
-      "siteId": "285"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1453",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís“?",
-    "options": [
-      "Costa Rica",
-      "Nicaragua",
-      "Honduras",
-      "Panama"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís“ ist eine UNESCO-Kulturerbestätte in Costa Rica (Nordamerika). Die UNESCO führt sie unter der Listennummer 1453.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1453/"
-      ],
-      "subjectKey": "landmark:1453",
-      "edition": "geo-v3-2026-11",
-      "iso": "CR",
-      "confusions": [
-        "NI",
-        "PA",
-        "HN"
-      ],
-      "siteId": "1453"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-204",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old Havana and its Fortification System“?",
-    "options": [
-      "Haiti",
-      "Bahamas",
-      "Kuba",
-      "Jamaika"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Old Havana and its Fortification System“ ist eine UNESCO-Kulturerbestätte in Kuba (Nordamerika). Die UNESCO führt sie unter der Listennummer 204.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/204/"
-      ],
-      "subjectKey": "landmark:204",
-      "edition": "geo-v3-2026-11",
-      "iso": "CU",
-      "confusions": [
-        "JM",
-        "BS",
-        "HT"
-      ],
-      "siteId": "204"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1310",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cidade Velha, Historic Centre of Ribeira Grande“?",
-    "options": [
-      "Gambia",
-      "Senegal",
-      "Cabo Verde",
-      "Guinea-Bissau"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Cidade Velha, Historic Centre of Ribeira Grande“ ist eine UNESCO-Kulturerbestätte in Cabo Verde (Afrika). Die UNESCO führt sie unter der Listennummer 1310.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1310/"
-      ],
-      "subjectKey": "landmark:1310",
-      "edition": "geo-v3-2026-11",
-      "iso": "CV",
-      "confusions": [
-        "GM",
-        "GW",
-        "SN"
-      ],
-      "siteId": "1310"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-79",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Paphos“?",
-    "options": [
-      "Zypern",
-      "Libanon",
-      "Israel",
-      "Palästina"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Paphos“ ist eine UNESCO-Kulturerbestätte in Zypern (Asien). Die UNESCO führt sie unter der Listennummer 79.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/79/"
-      ],
-      "subjectKey": "landmark:79",
-      "edition": "geo-v3-2026-11",
-      "iso": "CY",
-      "confusions": [
-        "LB",
-        "PS",
-        "IL"
-      ],
-      "siteId": "79"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-616",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centre of Prague“?",
-    "options": [
-      "Polen",
-      "Österreich",
-      "Tschechien",
-      "Slowakei"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Historic Centre of Prague“ ist eine UNESCO-Kulturerbestätte in Tschechien (Europa). Die UNESCO führt sie unter der Listennummer 616.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/616/"
-      ],
-      "subjectKey": "landmark:616",
-      "edition": "geo-v3-2026-11",
-      "iso": "CZ",
-      "confusions": [
-        "AT",
-        "SK",
-        "PL"
-      ],
-      "siteId": "616"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-3",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Aachen Cathedral“?",
-    "options": [
-      "Deutschland",
-      "Niederlande",
-      "Belgien",
-      "Luxemburg"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Aachen Cathedral“ ist eine UNESCO-Kulturerbestätte in Deutschland (Europa). Die UNESCO führt sie unter der Listennummer 3.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/3/"
-      ],
-      "subjectKey": "landmark:3",
-      "edition": "geo-v3-2026-11",
-      "iso": "DE",
-      "confusions": [
-        "LU",
-        "NL",
-        "BE"
-      ],
-      "siteId": "3"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-695",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Roskilde Cathedral“?",
-    "options": [
-      "Dänemark",
-      "Norwegen",
-      "Deutschland",
-      "Niederlande"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Roskilde Cathedral“ ist eine UNESCO-Kulturerbestätte in Dänemark (Europa). Die UNESCO führt sie unter der Listennummer 695.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/695/"
-      ],
-      "subjectKey": "landmark:695",
-      "edition": "geo-v3-2026-11",
-      "iso": "DK",
-      "confusions": [
-        "NL",
-        "DE",
-        "NO"
-      ],
-      "siteId": "695"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-526",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Colonial City of Santo Domingo“?",
-    "options": [
-      "Jamaika",
-      "Dominikanische Republik",
-      "Haiti",
-      "Bahamas"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Colonial City of Santo Domingo“ ist eine UNESCO-Kulturerbestätte in Dominikanische Republik (Nordamerika). Die UNESCO führt sie unter der Listennummer 526.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/526/"
-      ],
-      "subjectKey": "landmark:526",
-      "edition": "geo-v3-2026-11",
-      "iso": "DO",
-      "confusions": [
-        "HT",
-        "JM",
-        "BS"
-      ],
-      "siteId": "526"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-102",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Al Qal'a of Beni Hammad“?",
-    "options": [
-      "Algerien",
-      "Mali",
-      "Marokko",
-      "Tunesien"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Al Qal'a of Beni Hammad“ ist eine UNESCO-Kulturerbestätte in Algerien (Afrika). Die UNESCO führt sie unter der Listennummer 102.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/102/"
-      ],
-      "subjectKey": "landmark:102",
-      "edition": "geo-v3-2026-11",
-      "iso": "DZ",
-      "confusions": [
-        "TN",
-        "MA",
-        "ML"
-      ],
-      "siteId": "102"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-2",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Quito“?",
-    "options": [
-      "Ecuador",
-      "Peru",
-      "Venezuela",
-      "Kolumbien"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„City of Quito“ ist eine UNESCO-Kulturerbestätte in Ecuador (Südamerika). Die UNESCO führt sie unter der Listennummer 2.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/2/"
-      ],
-      "subjectKey": "landmark:2",
-      "edition": "geo-v3-2026-11",
-      "iso": "EC",
-      "confusions": [
-        "CO",
-        "PE",
-        "VE"
-      ],
-      "siteId": "2"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-822",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centre (Old Town) of Tallinn“?",
-    "options": [
-      "Estland",
-      "Finnland",
-      "Lettland",
-      "Litauen"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Historic Centre (Old Town) of Tallinn“ ist eine UNESCO-Kulturerbestätte in Estland (Europa). Die UNESCO führt sie unter der Listennummer 822.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/822/"
-      ],
-      "subjectKey": "landmark:822",
-      "edition": "geo-v3-2026-11",
-      "iso": "EE",
-      "confusions": [
-        "LV",
-        "LT",
-        "FI"
-      ],
-      "siteId": "822"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1550",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Asmara: A Modernist African City“?",
-    "options": [
-      "Dschibuti",
-      "Äthiopien",
-      "Eritrea",
-      "Sudan"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Asmara: A Modernist African City“ ist eine UNESCO-Kulturerbestätte in Eritrea (Afrika). Die UNESCO führt sie unter der Listennummer 1550.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1550/"
-      ],
-      "subjectKey": "landmark:1550",
-      "edition": "geo-v3-2026-11",
-      "iso": "ER",
-      "confusions": [
-        "DJ",
-        "ET",
-        "SD"
-      ],
-      "siteId": "1550"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-579",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Bronze Age Burial Site of Sammallahdenmäki“?",
-    "options": [
-      "Schweden",
-      "Lettland",
-      "Finnland",
-      "Estland"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Bronze Age Burial Site of Sammallahdenmäki“ ist eine UNESCO-Kulturerbestätte in Finnland (Europa). Die UNESCO führt sie unter der Listennummer 579.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/579/"
-      ],
-      "subjectKey": "landmark:579",
-      "edition": "geo-v3-2026-11",
-      "iso": "FI",
-      "confusions": [
-        "EE",
-        "SE",
-        "LV"
-      ],
-      "siteId": "579"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1399",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Levuka Historical Port Town“?",
-    "options": [
-      "Tonga",
-      "Tuvalu",
-      "Fidschi",
-      "Vanuatu"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Levuka Historical Port Town“ ist eine UNESCO-Kulturerbestätte in Fidschi (Ozeanien). Die UNESCO führt sie unter der Listennummer 1399.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1399/"
-      ],
-      "subjectKey": "landmark:1399",
-      "edition": "geo-v3-2026-11",
-      "iso": "FJ",
-      "confusions": [
-        "VU",
-        "TO",
-        "TV"
-      ],
-      "siteId": "1399"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1503",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Nan Madol: Ceremonial Centre of Eastern Micronesia“?",
-    "options": [
-      "Salomonen",
-      "Nauru",
-      "Mikronesien",
-      "Marshallinseln"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Nan Madol: Ceremonial Centre of Eastern Micronesia“ ist eine UNESCO-Kulturerbestätte in Mikronesien (Ozeanien). Die UNESCO führt sie unter der Listennummer 1503.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1503/"
-      ],
-      "subjectKey": "landmark:1503",
-      "edition": "geo-v3-2026-11",
-      "iso": "FM",
-      "confusions": [
-        "MH",
-        "NR",
-        "SB"
-      ],
-      "siteId": "1503"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-708",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historical Monuments of Mtskheta“?",
-    "options": [
-      "Armenien",
-      "Aserbaidschan",
-      "Türkei",
-      "Georgien"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Historical Monuments of Mtskheta“ ist eine UNESCO-Kulturerbestätte in Georgien (Asien). Die UNESCO führt sie unter der Listennummer 708.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/708/"
-      ],
-      "subjectKey": "landmark:708",
-      "edition": "geo-v3-2026-11",
-      "iso": "GE",
-      "confusions": [
-        "AM",
-        "AZ",
-        "TR"
-      ],
-      "siteId": "708"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-34",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Forts and Castles, Volta, Greater Accra, Central and Western Regions“?",
-    "options": [
-      "Benin",
-      "Ghana",
-      "Elfenbeinküste",
-      "Togo"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Forts and Castles, Volta, Greater Accra, Central and Western Regions“ ist eine UNESCO-Kulturerbestätte in Ghana (Afrika). Die UNESCO führt sie unter der Listennummer 34.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/34/"
-      ],
-      "subjectKey": "landmark:34",
-      "edition": "geo-v3-2026-11",
-      "iso": "GH",
-      "confusions": [
-        "CI",
-        "TG",
-        "BJ"
-      ],
-      "siteId": "34"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-761",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kunta Kinteh Island and Related Sites“?",
-    "options": [
-      "Guinea",
-      "Gambia",
-      "Senegal",
-      "Guinea-Bissau"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Kunta Kinteh Island and Related Sites“ ist eine UNESCO-Kulturerbestätte in Gambia (Afrika). Die UNESCO führt sie unter der Listennummer 761.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/761/"
-      ],
-      "subjectKey": "landmark:761",
-      "edition": "geo-v3-2026-11",
-      "iso": "GM",
-      "confusions": [
-        "GW",
-        "SN",
-        "GN"
-      ],
-      "siteId": "761"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-65",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Antigua Guatemala“?",
-    "options": [
-      "El Salvador",
-      "Belize",
-      "Guatemala",
-      "Honduras"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Antigua Guatemala“ ist eine UNESCO-Kulturerbestätte in Guatemala (Nordamerika). Die UNESCO führt sie unter der Listennummer 65.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/65/"
-      ],
-      "subjectKey": "landmark:65",
-      "edition": "geo-v3-2026-11",
-      "iso": "GT",
-      "confusions": [
-        "SV",
-        "BZ",
-        "HN"
-      ],
-      "siteId": "65"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-129",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Maya Site of Copan“?",
-    "options": [
-      "Belize",
-      "Nicaragua",
-      "El Salvador",
-      "Honduras"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Maya Site of Copan“ ist eine UNESCO-Kulturerbestätte in Honduras (Nordamerika). Die UNESCO führt sie unter der Listennummer 129.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/129/"
-      ],
-      "subjectKey": "landmark:129",
-      "edition": "geo-v3-2026-11",
-      "iso": "HN",
-      "confusions": [
-        "NI",
-        "SV",
-        "BZ"
-      ],
-      "siteId": "129"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-95",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old City of Dubrovnik“?",
-    "options": [
-      "San Marino",
-      "Bosnien und Herzegowina",
-      "Slowenien",
-      "Kroatien"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Old City of Dubrovnik“ ist eine UNESCO-Kulturerbestätte in Kroatien (Europa). Die UNESCO führt sie unter der Listennummer 95.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/95/"
-      ],
-      "subjectKey": "landmark:95",
-      "edition": "geo-v3-2026-11",
-      "iso": "HR",
-      "confusions": [
-        "SI",
-        "BA",
-        "SM"
-      ],
-      "siteId": "95"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-180",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „National History Park – Citadel, Sans Souci, Ramiers“?",
-    "options": [
-      "Dominikanische Republik",
-      "Haiti",
-      "Jamaika",
-      "Bahamas"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„National History Park – Citadel, Sans Souci, Ramiers“ ist eine UNESCO-Kulturerbestätte in Haiti (Nordamerika). Die UNESCO führt sie unter der Listennummer 180.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/180/"
-      ],
-      "subjectKey": "landmark:180",
-      "edition": "geo-v3-2026-11",
-      "iso": "HT",
-      "confusions": [
-        "DO",
-        "JM",
-        "BS"
-      ],
-      "siteId": "180"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-400",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue“?",
-    "options": [
-      "Slowakei",
-      "Bosnien und Herzegowina",
-      "Ungarn",
-      "Serbien"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue“ ist eine UNESCO-Kulturerbestätte in Ungarn (Europa). Die UNESCO führt sie unter der Listennummer 400.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/400/"
-      ],
-      "subjectKey": "landmark:400",
-      "edition": "geo-v3-2026-11",
-      "iso": "HU",
-      "confusions": [
-        "SK",
-        "RS",
-        "BA"
-      ],
-      "siteId": "400"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-659",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne“?",
-    "options": [
-      "Irland",
-      "Vereinigtes Königreich",
-      "Niederlande",
-      "Belgien"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne“ ist eine UNESCO-Kulturerbestätte in Irland (Europa). Die UNESCO führt sie unter der Listennummer 659.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/659/"
-      ],
-      "subjectKey": "landmark:659",
-      "edition": "geo-v3-2026-11",
-      "iso": "IE",
-      "confusions": [
-        "GB",
-        "BE",
-        "NL"
-      ],
-      "siteId": "659"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1040",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Masada“?",
-    "options": [
-      "Israel",
-      "Palästina",
-      "Jordanien",
-      "Libanon"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Masada“ ist eine UNESCO-Kulturerbestätte in Israel (Asien). Die UNESCO führt sie unter der Listennummer 1040.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1040/"
-      ],
-      "subjectKey": "landmark:1040",
-      "edition": "geo-v3-2026-11",
-      "iso": "IL",
-      "confusions": [
-        "PS",
-        "JO",
-        "LB"
-      ],
-      "siteId": "1040"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-276",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Samarra Archaeological City“?",
-    "options": [
-      "Irak",
-      "Libanon",
-      "Syrien",
-      "Kuwait"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Samarra Archaeological City“ ist eine UNESCO-Kulturerbestätte in Irak (Asien). Die UNESCO führt sie unter der Listennummer 276.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/276/"
-      ],
-      "subjectKey": "landmark:276",
-      "edition": "geo-v3-2026-11",
-      "iso": "IQ",
-      "confusions": [
-        "KW",
-        "SY",
-        "LB"
-      ],
-      "siteId": "276"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-113",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Tchogha Zanbil“?",
-    "options": [
-      "Kuwait",
-      "Katar",
-      "Bahrain",
-      "Iran"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Tchogha Zanbil“ ist eine UNESCO-Kulturerbestätte in Iran (Asien). Die UNESCO führt sie unter der Listennummer 113.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/113/"
-      ],
-      "subjectKey": "landmark:113",
-      "edition": "geo-v3-2026-11",
-      "iso": "IR",
-      "confusions": [
-        "BH",
-        "QA",
-        "KW"
-      ],
-      "siteId": "113"
+      "siteId": "648"
     }
   },
   {
@@ -2611,483 +1171,63 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1055",
+    "id": "geo-v3-landmarks-unesco-1310",
     "category": "landmarks",
     "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Lamu Old Town“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cidade Velha, Historic Centre of Ribeira Grande“?",
     "options": [
-      "Tansania",
-      "Kenia",
-      "Äthiopien",
-      "Uganda"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Lamu Old Town“ ist eine UNESCO-Kulturerbestätte in Kenia (Afrika). Die UNESCO führt sie unter der Listennummer 1055.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1055/"
-      ],
-      "subjectKey": "landmark:1055",
-      "edition": "geo-v3-2026-11",
-      "iso": "KE",
-      "confusions": [
-        "UG",
-        "ET",
-        "TZ"
-      ],
-      "siteId": "1055"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1230",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Sulaiman-Too Sacred Mountain“?",
-    "options": [
-      "Kasachstan",
-      "Tadschikistan",
-      "Kirgisistan",
-      "Usbekistan"
+      "Gambia",
+      "Senegal",
+      "Cabo Verde",
+      "Guinea-Bissau"
     ],
     "correct": 2,
     "enabled": true,
-    "explanation": "„Sulaiman-Too Sacred Mountain“ ist eine UNESCO-Kulturerbestätte in Kirgisistan (Asien). Die UNESCO führt sie unter der Listennummer 1230.",
+    "explanation": "„Cidade Velha, Historic Centre of Ribeira Grande“ ist eine UNESCO-Kulturerbestätte in Cabo Verde (Afrika). Die UNESCO führt sie unter der Listennummer 1310.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/1230/"
+        "https://whc.unesco.org/en/list/1310/"
       ],
-      "subjectKey": "landmark:1230",
+      "subjectKey": "landmark:1310",
       "edition": "geo-v3-2026-11",
-      "iso": "KG",
+      "iso": "CV",
       "confusions": [
-        "TJ",
-        "UZ",
-        "KZ"
+        "GM",
+        "GW",
+        "SN"
       ],
-      "siteId": "1230"
+      "siteId": "1310"
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-910",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Brimstone Hill Fortress National Park“?",
-    "options": [
-      "Dominica",
-      "Antigua und Barbuda",
-      "St. Kitts und Nevis",
-      "St. Lucia"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Brimstone Hill Fortress National Park“ ist eine UNESCO-Kulturerbestätte in St. Kitts und Nevis (Nordamerika). Die UNESCO führt sie unter der Listennummer 910.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/910/"
-      ],
-      "subjectKey": "landmark:910",
-      "edition": "geo-v3-2026-11",
-      "iso": "KN",
-      "confusions": [
-        "AG",
-        "DM",
-        "LC"
-      ],
-      "siteId": "910"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1091",
+    "id": "geo-v3-landmarks-unesco-95",
     "category": "landmarks",
     "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Complex of Koguryo Tombs“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old City of Dubrovnik“?",
     "options": [
-      "Nordkorea",
-      "Mongolei",
-      "Südkorea",
-      "Japan"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Complex of Koguryo Tombs“ ist eine UNESCO-Kulturerbestätte in Nordkorea (Asien). Die UNESCO führt sie unter der Listennummer 1091.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1091/"
-      ],
-      "subjectKey": "landmark:1091",
-      "edition": "geo-v3-2026-11",
-      "iso": "KP",
-      "confusions": [
-        "KR",
-        "JP",
-        "MN"
-      ],
-      "siteId": "1091"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-736",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Seokguram Grotto and Bulguksa Temple“?",
-    "options": [
-      "Nordkorea",
-      "Südkorea",
-      "Japan",
-      "China"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Seokguram Grotto and Bulguksa Temple“ ist eine UNESCO-Kulturerbestätte in Südkorea (Asien). Die UNESCO führt sie unter der Listennummer 736.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/736/"
-      ],
-      "subjectKey": "landmark:736",
-      "edition": "geo-v3-2026-11",
-      "iso": "KR",
-      "confusions": [
-        "KP",
-        "JP",
-        "CN"
-      ],
-      "siteId": "736"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1103",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Mausoleum of Khoja Ahmed Yasawi“?",
-    "options": [
-      "Usbekistan",
-      "Kasachstan",
-      "Tadschikistan",
-      "Kirgisistan"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Mausoleum of Khoja Ahmed Yasawi“ ist eine UNESCO-Kulturerbestätte in Kasachstan (Asien). Die UNESCO führt sie unter der Listennummer 1103.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1103/"
-      ],
-      "subjectKey": "landmark:1103",
-      "edition": "geo-v3-2026-11",
-      "iso": "KZ",
-      "confusions": [
-        "UZ",
-        "KG",
-        "TJ"
-      ],
-      "siteId": "1103"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-479",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Town of Luang Prabang“?",
-    "options": [
-      "Thailand",
-      "Kambodscha",
-      "Vietnam",
-      "Laos"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Town of Luang Prabang“ ist eine UNESCO-Kulturerbestätte in Laos (Asien). Die UNESCO führt sie unter der Listennummer 479.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/479/"
-      ],
-      "subjectKey": "landmark:479",
-      "edition": "geo-v3-2026-11",
-      "iso": "LA",
-      "confusions": [
-        "VN",
-        "KH",
-        "TH"
-      ],
-      "siteId": "479"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-293",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Anjar“?",
-    "options": [
-      "Libanon",
-      "Syrien",
-      "Israel",
-      "Palästina"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Anjar“ ist eine UNESCO-Kulturerbestätte in Libanon (Asien). Die UNESCO führt sie unter der Listennummer 293.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/293/"
-      ],
-      "subjectKey": "landmark:293",
-      "edition": "geo-v3-2026-11",
-      "iso": "LB",
-      "confusions": [
-        "PS",
-        "SY",
-        "IL"
-      ],
-      "siteId": "293"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-200",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Sacred City of Anuradhapura“?",
-    "options": [
-      "Malediven",
-      "Sri Lanka",
-      "Bangladesch",
-      "Indien"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Sacred City of Anuradhapura“ ist eine UNESCO-Kulturerbestätte in Sri Lanka (Asien). Die UNESCO führt sie unter der Listennummer 200.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/200/"
-      ],
-      "subjectKey": "landmark:200",
-      "edition": "geo-v3-2026-11",
-      "iso": "LK",
-      "confusions": [
-        "MV",
-        "IN",
-        "BD"
-      ],
-      "siteId": "200"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-541",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Vilnius Historic Centre“?",
-    "options": [
-      "Belarus",
-      "Litauen",
-      "Estland",
-      "Lettland"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Vilnius Historic Centre“ ist eine UNESCO-Kulturerbestätte in Litauen (Europa). Die UNESCO führt sie unter der Listennummer 541.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/541/"
-      ],
-      "subjectKey": "landmark:541",
-      "edition": "geo-v3-2026-11",
-      "iso": "LT",
-      "confusions": [
-        "LV",
-        "EE",
-        "BY"
-      ],
-      "siteId": "541"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-699",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Luxembourg: its Old Quarters and Fortifications“?",
-    "options": [
-      "Deutschland",
-      "Luxemburg",
-      "Niederlande",
-      "Belgien"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„City of Luxembourg: its Old Quarters and Fortifications“ ist eine UNESCO-Kulturerbestätte in Luxemburg (Europa). Die UNESCO führt sie unter der Listennummer 699.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/699/"
-      ],
-      "subjectKey": "landmark:699",
-      "edition": "geo-v3-2026-11",
-      "iso": "LU",
-      "confusions": [
-        "BE",
-        "DE",
-        "NL"
-      ],
-      "siteId": "699"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-852",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centre of Riga“?",
-    "options": [
-      "Litauen",
-      "Belarus",
-      "Estland",
-      "Lettland"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Historic Centre of Riga“ ist eine UNESCO-Kulturerbestätte in Lettland (Europa). Die UNESCO führt sie unter der Listennummer 852.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/852/"
-      ],
-      "subjectKey": "landmark:852",
-      "edition": "geo-v3-2026-11",
-      "iso": "LV",
-      "confusions": [
-        "LT",
-        "EE",
-        "BY"
-      ],
-      "siteId": "852"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-183",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Archaeological Site of Leptis Magna“?",
-    "options": [
-      "Tschad",
-      "Tunesien",
-      "Ägypten",
-      "Libyen"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Archaeological Site of Leptis Magna“ ist eine UNESCO-Kulturerbestätte in Libyen (Afrika). Die UNESCO führt sie unter der Listennummer 183.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/183/"
-      ],
-      "subjectKey": "landmark:183",
-      "edition": "geo-v3-2026-11",
-      "iso": "LY",
-      "confusions": [
-        "TD",
-        "TN",
-        "EG"
-      ],
-      "siteId": "183"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-170",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Medina of Fez“?",
-    "options": [
-      "Mauretanien",
-      "Tunesien",
-      "Marokko",
-      "Algerien"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Medina of Fez“ ist eine UNESCO-Kulturerbestätte in Marokko (Afrika). Die UNESCO führt sie unter der Listennummer 170.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/170/"
-      ],
-      "subjectKey": "landmark:170",
-      "edition": "geo-v3-2026-11",
-      "iso": "MA",
-      "confusions": [
-        "DZ",
-        "TN",
-        "MR"
-      ],
-      "siteId": "170"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-125",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Natural and Culturo-Historical Region of Kotor“?",
-    "options": [
-      "Serbien",
-      "Albanien",
+      "San Marino",
       "Bosnien und Herzegowina",
-      "Montenegro"
+      "Slowenien",
+      "Kroatien"
     ],
     "correct": 3,
     "enabled": true,
-    "explanation": "„Natural and Culturo-Historical Region of Kotor“ ist eine UNESCO-Kulturerbestätte in Montenegro (Europa). Die UNESCO führt sie unter der Listennummer 125.",
+    "explanation": "„Old City of Dubrovnik“ ist eine UNESCO-Kulturerbestätte in Kroatien (Europa). Die UNESCO führt sie unter der Listennummer 95.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/125/"
+        "https://whc.unesco.org/en/list/95/"
       ],
-      "subjectKey": "landmark:125",
+      "subjectKey": "landmark:95",
       "edition": "geo-v3-2026-11",
-      "iso": "ME",
+      "iso": "HR",
       "confusions": [
-        "AL",
+        "SI",
         "BA",
-        "RS"
+        "SM"
       ],
-      "siteId": "125"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-950",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Royal Hill of Ambohimanga“?",
-    "options": [
-      "Mosambik",
-      "Komoren",
-      "Mauritius",
-      "Madagaskar"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Royal Hill of Ambohimanga“ ist eine UNESCO-Kulturerbestätte in Madagaskar (Afrika). Die UNESCO führt sie unter der Listennummer 950.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/950/"
-      ],
-      "subjectKey": "landmark:950",
-      "edition": "geo-v3-2026-11",
-      "iso": "MG",
-      "confusions": [
-        "KM",
-        "MU",
-        "MZ"
-      ],
-      "siteId": "950"
+      "siteId": "95"
     }
   },
   {
@@ -3121,243 +1261,183 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1444",
+    "id": "geo-v3-landmarks-unesco-26",
     "category": "landmarks",
     "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Pyu Ancient Cities“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Island of Gorée“?",
     "options": [
-      "Myanmar",
-      "Bangladesch",
-      "Thailand",
-      "Laos"
+      "Senegal",
+      "Guinea-Bissau",
+      "Guinea",
+      "Gambia"
     ],
     "correct": 0,
     "enabled": true,
-    "explanation": "„Pyu Ancient Cities“ ist eine UNESCO-Kulturerbestätte in Myanmar (Asien). Die UNESCO führt sie unter der Listennummer 1444.",
+    "explanation": "„Island of Gorée“ ist eine UNESCO-Kulturerbestätte in Senegal (Afrika). Die UNESCO führt sie unter der Listennummer 26.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/1444/"
+        "https://whc.unesco.org/en/list/26/"
       ],
-      "subjectKey": "landmark:1444",
+      "subjectKey": "landmark:26",
       "edition": "geo-v3-2026-11",
-      "iso": "MM",
+      "iso": "SN",
       "confusions": [
-        "TH",
-        "BD",
-        "LA"
-      ],
-      "siteId": "1444"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1081",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Orkhon Valley Cultural Landscape“?",
-    "options": [
-      "Südkorea",
-      "China",
-      "Nordkorea",
-      "Mongolei"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Orkhon Valley Cultural Landscape“ ist eine UNESCO-Kulturerbestätte in Mongolei (Asien). Die UNESCO führt sie unter der Listennummer 1081.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1081/"
-      ],
-      "subjectKey": "landmark:1081",
-      "edition": "geo-v3-2026-11",
-      "iso": "MN",
-      "confusions": [
-        "CN",
-        "KP",
-        "KR"
-      ],
-      "siteId": "1081"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-750",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata“?",
-    "options": [
-      "Mauretanien",
-      "Gambia",
-      "Mali",
-      "Senegal"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata“ ist eine UNESCO-Kulturerbestätte in Mauretanien (Afrika). Die UNESCO führt sie unter der Listennummer 750.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/750/"
-      ],
-      "subjectKey": "landmark:750",
-      "edition": "geo-v3-2026-11",
-      "iso": "MR",
-      "confusions": [
-        "SN",
+        "GW",
         "GM",
-        "ML"
+        "GN"
       ],
-      "siteId": "750"
+      "siteId": "26"
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-130",
+    "id": "geo-v3-landmarks-unesco-618",
     "category": "landmarks",
     "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ħal Saflieni Hypogeum“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity“?",
     "options": [
-      "Albanien",
-      "Vatikanstadt",
-      "Malta",
-      "Griechenland"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Ħal Saflieni Hypogeum“ ist eine UNESCO-Kulturerbestätte in Malta (Europa). Die UNESCO führt sie unter der Listennummer 130.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/130/"
-      ],
-      "subjectKey": "landmark:130",
-      "edition": "geo-v3-2026-11",
-      "iso": "MT",
-      "confusions": [
-        "VA",
-        "AL",
-        "GR"
-      ],
-      "siteId": "130"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-1227",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Aapravasi Ghat“?",
-    "options": [
-      "Mauritius",
-      "Madagaskar",
-      "Komoren",
-      "Seychellen"
-    ],
-    "correct": 0,
-    "enabled": true,
-    "explanation": "„Aapravasi Ghat“ ist eine UNESCO-Kulturerbestätte in Mauritius (Afrika). Die UNESCO führt sie unter der Listennummer 1227.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/1227/"
-      ],
-      "subjectKey": "landmark:1227",
-      "edition": "geo-v3-2026-11",
-      "iso": "MU",
-      "confusions": [
-        "MG",
-        "KM",
-        "SC"
-      ],
-      "siteId": "1227"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-476",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Chongoni Rock-Art Area“?",
-    "options": [
-      "Simbabwe",
-      "Sambia",
-      "Mosambik",
-      "Malawi"
+      "Ungarn",
+      "Polen",
+      "Tschechien",
+      "Slowakei"
     ],
     "correct": 3,
     "enabled": true,
-    "explanation": "„Chongoni Rock-Art Area“ ist eine UNESCO-Kulturerbestätte in Malawi (Afrika). Die UNESCO führt sie unter der Listennummer 476.",
+    "explanation": "„Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity“ ist eine UNESCO-Kulturerbestätte in Slowakei (Europa). Die UNESCO führt sie unter der Listennummer 618.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/476/"
+        "https://whc.unesco.org/en/list/618/"
       ],
-      "subjectKey": "landmark:476",
+      "subjectKey": "landmark:618",
       "edition": "geo-v3-2026-11",
-      "iso": "MW",
+      "iso": "SK",
       "confusions": [
-        "ZM",
-        "MZ",
-        "ZW"
+        "HU",
+        "CZ",
+        "PL"
       ],
-      "siteId": "476"
+      "siteId": "618"
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1014",
+    "id": "geo-v3-landmarks-unesco-1643",
     "category": "landmarks",
     "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „The Archaeological Heritage of Niah National Park’s Caves Complex“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „The works of Jože Plečnik in Ljubljana – Human Centred Urban Design“?",
     "options": [
-      "Indonesien",
-      "Singapur",
-      "Malaysia",
-      "Brunei Darussalam"
+      "Österreich",
+      "Kroatien",
+      "Slowenien",
+      "San Marino"
     ],
     "correct": 2,
     "enabled": true,
-    "explanation": "„The Archaeological Heritage of Niah National Park’s Caves Complex“ ist eine UNESCO-Kulturerbestätte in Malaysia (Asien). Die UNESCO führt sie unter der Listennummer 1014.",
+    "explanation": "„The works of Jože Plečnik in Ljubljana – Human Centred Urban Design“ ist eine UNESCO-Kulturerbestätte in Slowenien (Europa). Die UNESCO führt sie unter der Listennummer 1643.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/1014/"
+        "https://whc.unesco.org/en/list/1643/"
       ],
-      "subjectKey": "landmark:1014",
+      "subjectKey": "landmark:1643",
       "edition": "geo-v3-2026-11",
-      "iso": "MY",
+      "iso": "SI",
       "confusions": [
-        "BN",
-        "SG",
-        "ID"
+        "HR",
+        "AT",
+        "SM"
       ],
-      "siteId": "1014"
+      "siteId": "1643"
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-599",
+    "id": "geo-v3-landmarks-unesco-2",
     "category": "landmarks",
     "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Island of Mozambique“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Quito“?",
     "options": [
-      "Sambia",
-      "Mosambik",
-      "Malawi",
-      "Simbabwe"
+      "Ecuador",
+      "Peru",
+      "Venezuela",
+      "Kolumbien"
     ],
-    "correct": 1,
+    "correct": 0,
     "enabled": true,
-    "explanation": "„Island of Mozambique“ ist eine UNESCO-Kulturerbestätte in Mosambik (Afrika). Die UNESCO führt sie unter der Listennummer 599.",
+    "explanation": "„City of Quito“ ist eine UNESCO-Kulturerbestätte in Ecuador (Südamerika). Die UNESCO führt sie unter der Listennummer 2.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/599/"
+        "https://whc.unesco.org/en/list/2/"
       ],
-      "subjectKey": "landmark:599",
+      "subjectKey": "landmark:2",
       "edition": "geo-v3-2026-11",
-      "iso": "MZ",
+      "iso": "EC",
       "confusions": [
-        "MW",
-        "ZW",
-        "ZM"
+        "CO",
+        "PE",
+        "VE"
       ],
-      "siteId": "599"
+      "siteId": "2"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-527",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra“?",
+    "options": [
+      "Ukraine",
+      "Rumänien",
+      "Belarus",
+      "Republik Moldau"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra“ ist eine UNESCO-Kulturerbestätte in Ukraine (Europa). Die UNESCO führt sie unter der Listennummer 527.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/527/"
+      ],
+      "subjectKey": "landmark:527",
+      "edition": "geo-v3-2026-11",
+      "iso": "UA",
+      "confusions": [
+        "MD",
+        "BY",
+        "RO"
+      ],
+      "siteId": "527"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-400",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue“?",
+    "options": [
+      "Slowakei",
+      "Bosnien und Herzegowina",
+      "Ungarn",
+      "Serbien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue“ ist eine UNESCO-Kulturerbestätte in Ungarn (Europa). Die UNESCO führt sie unter der Listennummer 400.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/400/"
+      ],
+      "subjectKey": "landmark:400",
+      "edition": "geo-v3-2026-11",
+      "iso": "HU",
+      "confusions": [
+        "SK",
+        "RS",
+        "BA"
+      ],
+      "siteId": "400"
     }
   },
   {
@@ -3391,129 +1471,39 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1268",
+    "id": "geo-v3-landmarks-unesco-306",
     "category": "landmarks",
     "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centre of Agadez“?",
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Matobo Hills“?",
     "options": [
-      "Burkina Faso",
-      "Niger",
-      "Benin",
-      "Nigeria"
+      "Botsuana",
+      "Simbabwe",
+      "Mosambik",
+      "Sambia"
     ],
     "correct": 1,
     "enabled": true,
-    "explanation": "„Historic Centre of Agadez“ ist eine UNESCO-Kulturerbestätte in Niger (Afrika). Die UNESCO führt sie unter der Listennummer 1268.",
+    "explanation": "„Matobo Hills“ ist eine UNESCO-Kulturerbestätte in Simbabwe (Afrika). Die UNESCO führt sie unter der Listennummer 306.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/1268/"
+        "https://whc.unesco.org/en/list/306/"
       ],
-      "subjectKey": "landmark:1268",
+      "subjectKey": "landmark:306",
       "edition": "geo-v3-2026-11",
-      "iso": "NE",
+      "iso": "ZW",
       "confusions": [
-        "NG",
-        "BJ",
-        "BF"
+        "ZM",
+        "MZ",
+        "BW"
       ],
-      "siteId": "1268"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-938",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Sukur Cultural Landscape“?",
-    "options": [
-      "Niger",
-      "Benin",
-      "Nigeria",
-      "Kamerun"
-    ],
-    "correct": 2,
-    "enabled": true,
-    "explanation": "„Sukur Cultural Landscape“ ist eine UNESCO-Kulturerbestätte in Nigeria (Afrika). Die UNESCO führt sie unter der Listennummer 938.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/938/"
-      ],
-      "subjectKey": "landmark:938",
-      "edition": "geo-v3-2026-11",
-      "iso": "NG",
-      "confusions": [
-        "CM",
-        "BJ",
-        "NE"
-      ],
-      "siteId": "938"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-613",
-    "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ruins of León Viejo“?",
-    "options": [
-      "Honduras",
-      "Nicaragua",
-      "El Salvador",
-      "Costa Rica"
-    ],
-    "correct": 1,
-    "enabled": true,
-    "explanation": "„Ruins of León Viejo“ ist eine UNESCO-Kulturerbestätte in Nicaragua (Nordamerika). Die UNESCO führt sie unter der Listennummer 613.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/613/"
-      ],
-      "subjectKey": "landmark:613",
-      "edition": "geo-v3-2026-11",
-      "iso": "NI",
-      "confusions": [
-        "HN",
-        "CR",
-        "SV"
-      ],
-      "siteId": "613"
-    }
-  },
-  {
-    "id": "geo-v3-landmarks-unesco-739",
-    "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Schokland and Surroundings“?",
-    "options": [
-      "Belgien",
-      "Deutschland",
-      "Luxemburg",
-      "Niederlande"
-    ],
-    "correct": 3,
-    "enabled": true,
-    "explanation": "„Schokland and Surroundings“ ist eine UNESCO-Kulturerbestätte in Niederlande (Europa). Die UNESCO führt sie unter der Listennummer 739.",
-    "media": null,
-    "provenance": {
-      "sources": [
-        "https://whc.unesco.org/en/list/739/"
-      ],
-      "subjectKey": "landmark:739",
-      "edition": "geo-v3-2026-11",
-      "iso": "NL",
-      "confusions": [
-        "BE",
-        "DE",
-        "LU"
-      ],
-      "siteId": "739"
+      "siteId": "306"
     }
   },
   {
     "id": "geo-v3-landmarks-unesco-55",
     "category": "landmarks",
-    "difficulty": 2,
+    "difficulty": 3,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Røros Mining Town and the Circumference“?",
     "options": [
       "Finnland",
@@ -3541,33 +1531,1083 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-121",
+    "id": "geo-v3-landmarks-unesco-695",
     "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kathmandu Valley“?",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Roskilde Cathedral“?",
     "options": [
-      "Indien",
-      "Bhutan",
-      "Nepal",
-      "Bangladesch"
+      "Dänemark",
+      "Norwegen",
+      "Deutschland",
+      "Niederlande"
     ],
-    "correct": 2,
+    "correct": 0,
     "enabled": true,
-    "explanation": "„Kathmandu Valley“ ist eine UNESCO-Kulturerbestätte in Nepal (Asien). Die UNESCO führt sie unter der Listennummer 121.",
+    "explanation": "„Roskilde Cathedral“ ist eine UNESCO-Kulturerbestätte in Dänemark (Europa). Die UNESCO führt sie unter der Listennummer 695.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/121/"
+        "https://whc.unesco.org/en/list/695/"
       ],
-      "subjectKey": "landmark:121",
+      "subjectKey": "landmark:695",
       "edition": "geo-v3-2026-11",
-      "iso": "NP",
+      "iso": "DK",
+      "confusions": [
+        "NL",
+        "DE",
+        "NO"
+      ],
+      "siteId": "695"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-321",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Mosque City of Bagerhat“?",
+    "options": [
+      "Bangladesch",
+      "Myanmar",
+      "Nepal",
+      "Bhutan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Historic Mosque City of Bagerhat“ ist eine UNESCO-Kulturerbestätte in Bangladesch (Asien). Die UNESCO führt sie unter der Listennummer 321.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/321/"
+      ],
+      "subjectKey": "landmark:321",
+      "edition": "geo-v3-2026-11",
+      "iso": "BD",
       "confusions": [
         "BT",
-        "BD",
-        "IN"
+        "NP",
+        "MM"
       ],
-      "siteId": "121"
+      "siteId": "321"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1091",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Complex of Koguryo Tombs“?",
+    "options": [
+      "Nordkorea",
+      "Mongolei",
+      "Südkorea",
+      "Japan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Complex of Koguryo Tombs“ ist eine UNESCO-Kulturerbestätte in Nordkorea (Asien). Die UNESCO führt sie unter der Listennummer 1091.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1091/"
+      ],
+      "subjectKey": "landmark:1091",
+      "edition": "geo-v3-2026-11",
+      "iso": "KP",
+      "confusions": [
+        "KR",
+        "JP",
+        "MN"
+      ],
+      "siteId": "1091"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-658",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Coro and its Port“?",
+    "options": [
+      "Kolumbien",
+      "Guyana",
+      "Suriname",
+      "Venezuela"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Coro and its Port“ ist eine UNESCO-Kulturerbestätte in Venezuela (Südamerika). Die UNESCO führt sie unter der Listennummer 658.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/658/"
+      ],
+      "subjectKey": "landmark:658",
+      "edition": "geo-v3-2026-11",
+      "iso": "VE",
+      "confusions": [
+        "CO",
+        "GY",
+        "SR"
+      ],
+      "siteId": "658"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1014",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „The Archaeological Heritage of Niah National Park’s Caves Complex“?",
+    "options": [
+      "Indonesien",
+      "Singapur",
+      "Malaysia",
+      "Brunei Darussalam"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„The Archaeological Heritage of Niah National Park’s Caves Complex“ ist eine UNESCO-Kulturerbestätte in Malaysia (Asien). Die UNESCO führt sie unter der Listennummer 1014.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1014/"
+      ],
+      "subjectKey": "landmark:1014",
+      "edition": "geo-v3-2026-11",
+      "iso": "MY",
+      "confusions": [
+        "BN",
+        "SG",
+        "ID"
+      ],
+      "siteId": "1014"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-750",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata“?",
+    "options": [
+      "Mauretanien",
+      "Gambia",
+      "Mali",
+      "Senegal"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata“ ist eine UNESCO-Kulturerbestätte in Mauretanien (Afrika). Die UNESCO führt sie unter der Listennummer 750.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/750/"
+      ],
+      "subjectKey": "landmark:750",
+      "edition": "geo-v3-2026-11",
+      "iso": "MR",
+      "confusions": [
+        "SN",
+        "GM",
+        "ML"
+      ],
+      "siteId": "750"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1293",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)“?",
+    "options": [
+      "Bahrain",
+      "Kuwait",
+      "Saudi-Arabien",
+      "Katar"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Hegra Archaeological Site (al-Hijr / Madā ͐ in Ṣāliḥ)“ ist eine UNESCO-Kulturerbestätte in Saudi-Arabien (Asien). Die UNESCO führt sie unter der Listennummer 1293.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1293/"
+      ],
+      "subjectKey": "landmark:1293",
+      "edition": "geo-v3-2026-11",
+      "iso": "SA",
+      "confusions": [
+        "KW",
+        "BH",
+        "QA"
+      ],
+      "siteId": "1293"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-958",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Walled City of Baku with the Shirvanshah's Palace and Maiden Tower“?",
+    "options": [
+      "Irak",
+      "Aserbaidschan",
+      "Armenien",
+      "Georgien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Walled City of Baku with the Shirvanshah's Palace and Maiden Tower“ ist eine UNESCO-Kulturerbestätte in Aserbaidschan (Asien). Die UNESCO führt sie unter der Listennummer 958.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/958/"
+      ],
+      "subjectKey": "landmark:958",
+      "edition": "geo-v3-2026-11",
+      "iso": "AZ",
+      "confusions": [
+        "AM",
+        "GE",
+        "IQ"
+      ],
+      "siteId": "958"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-574",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Town of Sukhothai and Associated Historic Towns“?",
+    "options": [
+      "Thailand",
+      "Kambodscha",
+      "Myanmar",
+      "Laos"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Historic Town of Sukhothai and Associated Historic Towns“ ist eine UNESCO-Kulturerbestätte in Thailand (Asien). Die UNESCO führt sie unter der Listennummer 574.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/574/"
+      ],
+      "subjectKey": "landmark:574",
+      "edition": "geo-v3-2026-11",
+      "iso": "TH",
+      "confusions": [
+        "KH",
+        "LA",
+        "MM"
+      ],
+      "siteId": "574"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-130",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ħal Saflieni Hypogeum“?",
+    "options": [
+      "Albanien",
+      "Vatikanstadt",
+      "Malta",
+      "Griechenland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Ħal Saflieni Hypogeum“ ist eine UNESCO-Kulturerbestätte in Malta (Europa). Die UNESCO führt sie unter der Listennummer 130.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/130/"
+      ],
+      "subjectKey": "landmark:130",
+      "edition": "geo-v3-2026-11",
+      "iso": "MT",
+      "confusions": [
+        "VA",
+        "AL",
+        "GR"
+      ],
+      "siteId": "130"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-739",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Schokland and Surroundings“?",
+    "options": [
+      "Belgien",
+      "Deutschland",
+      "Luxemburg",
+      "Niederlande"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Schokland and Surroundings“ ist eine UNESCO-Kulturerbestätte in Niederlande (Europa). Die UNESCO führt sie unter der Listennummer 739.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/739/"
+      ],
+      "subjectKey": "landmark:739",
+      "edition": "geo-v3-2026-11",
+      "iso": "NL",
+      "confusions": [
+        "BE",
+        "DE",
+        "LU"
+      ],
+      "siteId": "739"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-940",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Inner City of Paramaribo“?",
+    "options": [
+      "Brasilien",
+      "Suriname",
+      "Guyana",
+      "Venezuela"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Historic Inner City of Paramaribo“ ist eine UNESCO-Kulturerbestätte in Suriname (Südamerika). Die UNESCO führt sie unter der Listennummer 940.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/940/"
+      ],
+      "subjectKey": "landmark:940",
+      "edition": "geo-v3-2026-11",
+      "iso": "SR",
+      "confusions": [
+        "GY",
+        "VE",
+        "BR"
+      ],
+      "siteId": "940"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1402",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Al Zubarah Archaeological Site“?",
+    "options": [
+      "Saudi-Arabien",
+      "Bahrain",
+      "Katar",
+      "Vereinigte Arabische Emirate"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Al Zubarah Archaeological Site“ ist eine UNESCO-Kulturerbestätte in Katar (Asien). Die UNESCO führt sie unter der Listennummer 1402.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1402/"
+      ],
+      "subjectKey": "landmark:1402",
+      "edition": "geo-v3-2026-11",
+      "iso": "QA",
+      "confusions": [
+        "BH",
+        "AE",
+        "SA"
+      ],
+      "siteId": "1402"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1073",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Gebel Barkal and the Sites of the Napatan Region“?",
+    "options": [
+      "Äthiopien",
+      "Sudan",
+      "Eritrea",
+      "Südsudan"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Gebel Barkal and the Sites of the Napatan Region“ ist eine UNESCO-Kulturerbestätte in Sudan (Afrika). Die UNESCO führt sie unter der Listennummer 1073.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1073/"
+      ],
+      "subjectKey": "landmark:1073",
+      "edition": "geo-v3-2026-11",
+      "iso": "SD",
+      "confusions": [
+        "SS",
+        "ER",
+        "ET"
+      ],
+      "siteId": "1073"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1141",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Proto-urban Site of Sarazm“?",
+    "options": [
+      "Afghanistan",
+      "Kirgisistan",
+      "Usbekistan",
+      "Tadschikistan"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Proto-urban Site of Sarazm“ ist eine UNESCO-Kulturerbestätte in Tadschikistan (Asien). Die UNESCO führt sie unter der Listennummer 1141.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1141/"
+      ],
+      "subjectKey": "landmark:1141",
+      "edition": "geo-v3-2026-11",
+      "iso": "TJ",
+      "confusions": [
+        "KG",
+        "UZ",
+        "AF"
+      ],
+      "siteId": "1141"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-4",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „L’Anse aux Meadows National Historic Site“?",
+    "options": [
+      "Kanada",
+      "Vereinigte Staaten",
+      "Bahamas",
+      "Mexiko"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„L’Anse aux Meadows National Historic Site“ ist eine UNESCO-Kulturerbestätte in Kanada (Nordamerika). Die UNESCO führt sie unter der Listennummer 4.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/4/"
+      ],
+      "subjectKey": "landmark:4",
+      "edition": "geo-v3-2026-11",
+      "iso": "CA",
+      "confusions": [
+        "US",
+        "MX",
+        "BS"
+      ],
+      "siteId": "4"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1103",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Mausoleum of Khoja Ahmed Yasawi“?",
+    "options": [
+      "Usbekistan",
+      "Kasachstan",
+      "Tadschikistan",
+      "Kirgisistan"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Mausoleum of Khoja Ahmed Yasawi“ ist eine UNESCO-Kulturerbestätte in Kasachstan (Asien). Die UNESCO führt sie unter der Listennummer 1103.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1103/"
+      ],
+      "subjectKey": "landmark:1103",
+      "edition": "geo-v3-2026-11",
+      "iso": "KZ",
+      "confusions": [
+        "UZ",
+        "KG",
+        "TJ"
+      ],
+      "siteId": "1103"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-102",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Al Qal'a of Beni Hammad“?",
+    "options": [
+      "Algerien",
+      "Mali",
+      "Marokko",
+      "Tunesien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Al Qal'a of Beni Hammad“ ist eine UNESCO-Kulturerbestätte in Algerien (Afrika). Die UNESCO führt sie unter der Listennummer 102.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/102/"
+      ],
+      "subjectKey": "landmark:102",
+      "edition": "geo-v3-2026-11",
+      "iso": "DZ",
+      "confusions": [
+        "TN",
+        "MA",
+        "ML"
+      ],
+      "siteId": "102"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-699",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Luxembourg: its Old Quarters and Fortifications“?",
+    "options": [
+      "Deutschland",
+      "Luxemburg",
+      "Niederlande",
+      "Belgien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„City of Luxembourg: its Old Quarters and Fortifications“ ist eine UNESCO-Kulturerbestätte in Luxemburg (Europa). Die UNESCO führt sie unter der Listennummer 699.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/699/"
+      ],
+      "subjectKey": "landmark:699",
+      "edition": "geo-v3-2026-11",
+      "iso": "LU",
+      "confusions": [
+        "BE",
+        "DE",
+        "NL"
+      ],
+      "siteId": "699"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1225",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ruins of Loropéni“?",
+    "options": [
+      "Benin",
+      "Burkina Faso",
+      "Mali",
+      "Ghana"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Ruins of Loropéni“ ist eine UNESCO-Kulturerbestätte in Burkina Faso (Afrika). Die UNESCO führt sie unter der Listennummer 1225.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1225/"
+      ],
+      "subjectKey": "landmark:1225",
+      "edition": "geo-v3-2026-11",
+      "iso": "BF",
+      "confusions": [
+        "ML",
+        "GH",
+        "BJ"
+      ],
+      "siteId": "1225"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-678",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Complex of Hué Monuments“?",
+    "options": [
+      "Vietnam",
+      "Kambodscha",
+      "Thailand",
+      "Laos"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Complex of Hué Monuments“ ist eine UNESCO-Kulturerbestätte in Vietnam (Asien). Die UNESCO führt sie unter der Listennummer 678.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/678/"
+      ],
+      "subjectKey": "landmark:678",
+      "edition": "geo-v3-2026-11",
+      "iso": "VN",
+      "confusions": [
+        "LA",
+        "KH",
+        "TH"
+      ],
+      "siteId": "678"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-36",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Medina of Tunis“?",
+    "options": [
+      "Algerien",
+      "Libyen",
+      "Tunesien",
+      "Marokko"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Medina of Tunis“ ist eine UNESCO-Kulturerbestätte in Tunesien (Afrika). Die UNESCO führt sie unter der Listennummer 36.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/36/"
+      ],
+      "subjectKey": "landmark:36",
+      "edition": "geo-v3-2026-11",
+      "iso": "TN",
+      "confusions": [
+        "DZ",
+        "LY",
+        "MA"
+      ],
+      "siteId": "36"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1483",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Singapore Botanic Gardens“?",
+    "options": [
+      "Kambodscha",
+      "Brunei Darussalam",
+      "Malaysia",
+      "Singapur"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Singapore Botanic Gardens“ ist eine UNESCO-Kulturerbestätte in Singapur (Asien). Die UNESCO führt sie unter der Listennummer 1483.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1483/"
+      ],
+      "subjectKey": "landmark:1483",
+      "edition": "geo-v3-2026-11",
+      "iso": "SG",
+      "confusions": [
+        "MY",
+        "BN",
+        "KH"
+      ],
+      "siteId": "1483"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-616",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centre of Prague“?",
+    "options": [
+      "Polen",
+      "Österreich",
+      "Tschechien",
+      "Slowakei"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Historic Centre of Prague“ ist eine UNESCO-Kulturerbestätte in Tschechien (Europa). Die UNESCO führt sie unter der Listennummer 616.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/616/"
+      ],
+      "subjectKey": "landmark:616",
+      "edition": "geo-v3-2026-11",
+      "iso": "CZ",
+      "confusions": [
+        "AT",
+        "SK",
+        "PL"
+      ],
+      "siteId": "616"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-625",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Mir Castle Complex“?",
+    "options": [
+      "Litauen",
+      "Lettland",
+      "Ukraine",
+      "Belarus"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Mir Castle Complex“ ist eine UNESCO-Kulturerbestätte in Belarus (Europa). Die UNESCO führt sie unter der Listennummer 625.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/625/"
+      ],
+      "subjectKey": "landmark:625",
+      "edition": "geo-v3-2026-11",
+      "iso": "BY",
+      "confusions": [
+        "LT",
+        "LV",
+        "UA"
+      ],
+      "siteId": "625"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-541",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Vilnius Historic Centre“?",
+    "options": [
+      "Belarus",
+      "Litauen",
+      "Estland",
+      "Lettland"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Vilnius Historic Centre“ ist eine UNESCO-Kulturerbestätte in Litauen (Europa). Die UNESCO führt sie unter der Listennummer 541.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/541/"
+      ],
+      "subjectKey": "landmark:541",
+      "edition": "geo-v3-2026-11",
+      "iso": "LT",
+      "confusions": [
+        "LV",
+        "EE",
+        "BY"
+      ],
+      "siteId": "541"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-96",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Stari Ras and Sopoćani“?",
+    "options": [
+      "Montenegro",
+      "Serbien",
+      "Bosnien und Herzegowina",
+      "Nordmazedonien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Stari Ras and Sopoćani“ ist eine UNESCO-Kulturerbestätte in Serbien (Europa). Die UNESCO führt sie unter der Listennummer 96.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/96/"
+      ],
+      "subjectKey": "landmark:96",
+      "edition": "geo-v3-2026-11",
+      "iso": "RS",
+      "confusions": [
+        "ME",
+        "BA",
+        "MK"
+      ],
+      "siteId": "96"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Aachen Cathedral“?",
+    "options": [
+      "Deutschland",
+      "Niederlande",
+      "Belgien",
+      "Luxemburg"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Aachen Cathedral“ ist eine UNESCO-Kulturerbestätte in Deutschland (Europa). Die UNESCO führt sie unter der Listennummer 3.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/3/"
+      ],
+      "subjectKey": "landmark:3",
+      "edition": "geo-v3-2026-11",
+      "iso": "DE",
+      "confusions": [
+        "LU",
+        "NL",
+        "BE"
+      ],
+      "siteId": "3"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-267",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old City of Berne“?",
+    "options": [
+      "Schweiz",
+      "Liechtenstein",
+      "Monaco",
+      "Luxemburg"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Old City of Berne“ ist eine UNESCO-Kulturerbestätte in Schweiz (Europa). Die UNESCO führt sie unter der Listennummer 267.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/267/"
+      ],
+      "subjectKey": "landmark:267",
+      "edition": "geo-v3-2026-11",
+      "iso": "CH",
+      "confusions": [
+        "LI",
+        "LU",
+        "MC"
+      ],
+      "siteId": "267"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-579",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Bronze Age Burial Site of Sammallahdenmäki“?",
+    "options": [
+      "Schweden",
+      "Lettland",
+      "Finnland",
+      "Estland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Bronze Age Burial Site of Sammallahdenmäki“ ist eine UNESCO-Kulturerbestätte in Finnland (Europa). Die UNESCO führt sie unter der Listennummer 579.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/579/"
+      ],
+      "subjectKey": "landmark:579",
+      "edition": "geo-v3-2026-11",
+      "iso": "FI",
+      "confusions": [
+        "EE",
+        "SE",
+        "LV"
+      ],
+      "siteId": "579"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-950",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Royal Hill of Ambohimanga“?",
+    "options": [
+      "Mosambik",
+      "Komoren",
+      "Mauritius",
+      "Madagaskar"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Royal Hill of Ambohimanga“ ist eine UNESCO-Kulturerbestätte in Madagaskar (Afrika). Die UNESCO führt sie unter der Listennummer 950.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/950/"
+      ],
+      "subjectKey": "landmark:950",
+      "edition": "geo-v3-2026-11",
+      "iso": "MG",
+      "confusions": [
+        "KM",
+        "MU",
+        "MZ"
+      ],
+      "siteId": "950"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1245",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „San Marino Historic Centre and Mount Titano“?",
+    "options": [
+      "Italien",
+      "Vatikanstadt",
+      "Kroatien",
+      "San Marino"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„San Marino Historic Centre and Mount Titano“ ist eine UNESCO-Kulturerbestätte in San Marino (Europa). Die UNESCO führt sie unter der Listennummer 1245.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1245/"
+      ],
+      "subjectKey": "landmark:1245",
+      "edition": "geo-v3-2026-11",
+      "iso": "SM",
+      "confusions": [
+        "IT",
+        "VA",
+        "HR"
+      ],
+      "siteId": "1245"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-125",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Natural and Culturo-Historical Region of Kotor“?",
+    "options": [
+      "Serbien",
+      "Albanien",
+      "Bosnien und Herzegowina",
+      "Montenegro"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Natural and Culturo-Historical Region of Kotor“ ist eine UNESCO-Kulturerbestätte in Montenegro (Europa). Die UNESCO führt sie unter der Listennummer 125.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/125/"
+      ],
+      "subjectKey": "landmark:125",
+      "edition": "geo-v3-2026-11",
+      "iso": "ME",
+      "confusions": [
+        "AL",
+        "BA",
+        "RS"
+      ],
+      "siteId": "125"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-747",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Quarter of the City of Colonia del Sacramento“?",
+    "options": [
+      "Uruguay",
+      "Chile",
+      "Paraguay",
+      "Argentinien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Historic Quarter of the City of Colonia del Sacramento“ ist eine UNESCO-Kulturerbestätte in Uruguay (Südamerika). Die UNESCO führt sie unter der Listennummer 747.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/747/"
+      ],
+      "subjectKey": "landmark:747",
+      "edition": "geo-v3-2026-11",
+      "iso": "UY",
+      "confusions": [
+        "AR",
+        "PY",
+        "CL"
+      ],
+      "siteId": "747"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-910",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Brimstone Hill Fortress National Park“?",
+    "options": [
+      "Dominica",
+      "Antigua und Barbuda",
+      "St. Kitts und Nevis",
+      "St. Lucia"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Brimstone Hill Fortress National Park“ ist eine UNESCO-Kulturerbestätte in St. Kitts und Nevis (Nordamerika). Die UNESCO führt sie unter der Listennummer 910.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/910/"
+      ],
+      "subjectKey": "landmark:910",
+      "edition": "geo-v3-2026-11",
+      "iso": "KN",
+      "confusions": [
+        "AG",
+        "DM",
+        "LC"
+      ],
+      "siteId": "910"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-42",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Boyana Church“?",
+    "options": [
+      "Serbien",
+      "Nordmazedonien",
+      "Bulgarien",
+      "Rumänien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Boyana Church“ ist eine UNESCO-Kulturerbestätte in Bulgarien (Europa). Die UNESCO führt sie unter der Listennummer 42.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/42/"
+      ],
+      "subjectKey": "landmark:42",
+      "edition": "geo-v3-2026-11",
+      "iso": "BG",
+      "confusions": [
+        "MK",
+        "RO",
+        "RS"
+      ],
+      "siteId": "42"
     }
   },
   {
@@ -3601,6 +2641,186 @@
     }
   },
   {
+    "id": "geo-v3-landmarks-unesco-613",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ruins of León Viejo“?",
+    "options": [
+      "Honduras",
+      "Nicaragua",
+      "El Salvador",
+      "Costa Rica"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Ruins of León Viejo“ ist eine UNESCO-Kulturerbestätte in Nicaragua (Nordamerika). Die UNESCO führt sie unter der Listennummer 613.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/613/"
+      ],
+      "subjectKey": "landmark:613",
+      "edition": "geo-v3-2026-11",
+      "iso": "NI",
+      "confusions": [
+        "HN",
+        "CR",
+        "SV"
+      ],
+      "siteId": "613"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1550",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Asmara: A Modernist African City“?",
+    "options": [
+      "Dschibuti",
+      "Äthiopien",
+      "Eritrea",
+      "Sudan"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Asmara: A Modernist African City“ ist eine UNESCO-Kulturerbestätte in Eritrea (Afrika). Die UNESCO führt sie unter der Listennummer 1550.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1550/"
+      ],
+      "subjectKey": "landmark:1550",
+      "edition": "geo-v3-2026-11",
+      "iso": "ER",
+      "confusions": [
+        "DJ",
+        "ET",
+        "SD"
+      ],
+      "siteId": "1550"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1399",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Levuka Historical Port Town“?",
+    "options": [
+      "Tonga",
+      "Tuvalu",
+      "Fidschi",
+      "Vanuatu"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Levuka Historical Port Town“ ist eine UNESCO-Kulturerbestätte in Fidschi (Ozeanien). Die UNESCO führt sie unter der Listennummer 1399.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1399/"
+      ],
+      "subjectKey": "landmark:1399",
+      "edition": "geo-v3-2026-11",
+      "iso": "FJ",
+      "confusions": [
+        "VU",
+        "TO",
+        "TV"
+      ],
+      "siteId": "1399"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1444",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Pyu Ancient Cities“?",
+    "options": [
+      "Myanmar",
+      "Bangladesch",
+      "Thailand",
+      "Laos"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Pyu Ancient Cities“ ist eine UNESCO-Kulturerbestätte in Myanmar (Asien). Die UNESCO führt sie unter der Listennummer 1444.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1444/"
+      ],
+      "subjectKey": "landmark:1444",
+      "edition": "geo-v3-2026-11",
+      "iso": "MM",
+      "confusions": [
+        "TH",
+        "BD",
+        "LA"
+      ],
+      "siteId": "1444"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-420",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „City of Potosí“?",
+    "options": [
+      "Paraguay",
+      "Brasilien",
+      "Bolivien",
+      "Peru"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„City of Potosí“ ist eine UNESCO-Kulturerbestätte in Bolivien (Südamerika). Die UNESCO führt sie unter der Listennummer 420.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/420/"
+      ],
+      "subjectKey": "landmark:420",
+      "edition": "geo-v3-2026-11",
+      "iso": "BO",
+      "confusions": [
+        "PY",
+        "BR",
+        "PE"
+      ],
+      "siteId": "420"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-286",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Vatican City“?",
+    "options": [
+      "Vatikanstadt",
+      "San Marino",
+      "Italien",
+      "Kroatien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Vatican City“ ist eine UNESCO-Kulturerbestätte in Vatikanstadt (Europa). Die UNESCO führt sie unter der Listennummer 286.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/286/"
+      ],
+      "subjectKey": "landmark:286",
+      "edition": "geo-v3-2026-11",
+      "iso": "VA",
+      "confusions": [
+        "IT",
+        "SM",
+        "HR"
+      ],
+      "siteId": "286"
+    }
+  },
+  {
     "id": "geo-v3-landmarks-unesco-135",
     "category": "landmarks",
     "difficulty": 3,
@@ -3628,6 +2848,66 @@
         "HN"
       ],
       "siteId": "135"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-204",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Old Havana and its Fortification System“?",
+    "options": [
+      "Haiti",
+      "Bahamas",
+      "Kuba",
+      "Jamaika"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Old Havana and its Fortification System“ ist eine UNESCO-Kulturerbestätte in Kuba (Nordamerika). Die UNESCO führt sie unter der Listennummer 204.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/204/"
+      ],
+      "subjectKey": "landmark:204",
+      "edition": "geo-v3-2026-11",
+      "iso": "CU",
+      "confusions": [
+        "JM",
+        "BS",
+        "HT"
+      ],
+      "siteId": "204"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1230",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Sulaiman-Too Sacred Mountain“?",
+    "options": [
+      "Kasachstan",
+      "Tadschikistan",
+      "Kirgisistan",
+      "Usbekistan"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Sulaiman-Too Sacred Mountain“ ist eine UNESCO-Kulturerbestätte in Kirgisistan (Asien). Die UNESCO führt sie unter der Listennummer 1230.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1230/"
+      ],
+      "subjectKey": "landmark:1230",
+      "edition": "geo-v3-2026-11",
+      "iso": "KG",
+      "confusions": [
+        "TJ",
+        "UZ",
+        "KZ"
+      ],
+      "siteId": "1230"
     }
   },
   {
@@ -3661,9 +2941,399 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-502",
+    "id": "geo-v3-landmarks-unesco-915",
     "category": "landmarks",
     "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Fossil Hominid Sites of South Africa“?",
+    "options": [
+      "Eswatini",
+      "Südafrika",
+      "Lesotho",
+      "Botsuana"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Fossil Hominid Sites of South Africa“ ist eine UNESCO-Kulturerbestätte in Südafrika (Afrika). Die UNESCO führt sie unter der Listennummer 915.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/915/"
+      ],
+      "subjectKey": "landmark:915",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZA",
+      "confusions": [
+        "LS",
+        "BW",
+        "SZ"
+      ],
+      "siteId": "915"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1499",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Antigua Naval Dockyard and Related Archaeological Sites“?",
+    "options": [
+      "Dominica",
+      "St. Lucia",
+      "Antigua und Barbuda",
+      "St. Kitts und Nevis"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Antigua Naval Dockyard and Related Archaeological Sites“ ist eine UNESCO-Kulturerbestätte in Antigua und Barbuda (Nordamerika). Die UNESCO führt sie unter der Listennummer 1499.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1499/"
+      ],
+      "subjectKey": "landmark:1499",
+      "edition": "geo-v3-2026-11",
+      "iso": "AG",
+      "confusions": [
+        "KN",
+        "DM",
+        "LC"
+      ],
+      "siteId": "1499"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-208",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cultural Landscape and Archaeological Remains of the Bamiyan Valley“?",
+    "options": [
+      "Afghanistan",
+      "Tadschikistan",
+      "Usbekistan",
+      "Pakistan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Cultural Landscape and Archaeological Remains of the Bamiyan Valley“ ist eine UNESCO-Kulturerbestätte in Afghanistan (Asien). Die UNESCO führt sie unter der Listennummer 208.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/208/"
+      ],
+      "subjectKey": "landmark:208",
+      "edition": "geo-v3-2026-11",
+      "iso": "AF",
+      "confusions": [
+        "PK",
+        "TJ",
+        "UZ"
+      ],
+      "siteId": "208"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-599",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Island of Mozambique“?",
+    "options": [
+      "Sambia",
+      "Mosambik",
+      "Malawi",
+      "Simbabwe"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Island of Mozambique“ ist eine UNESCO-Kulturerbestätte in Mosambik (Afrika). Die UNESCO führt sie unter der Listennummer 599.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/599/"
+      ],
+      "subjectKey": "landmark:599",
+      "edition": "geo-v3-2026-11",
+      "iso": "MZ",
+      "confusions": [
+        "MW",
+        "ZW",
+        "ZM"
+      ],
+      "siteId": "599"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1040",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Masada“?",
+    "options": [
+      "Israel",
+      "Palästina",
+      "Jordanien",
+      "Libanon"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Masada“ ist eine UNESCO-Kulturerbestätte in Israel (Asien). Die UNESCO führt sie unter der Listennummer 1040.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1040/"
+      ],
+      "subjectKey": "landmark:1040",
+      "edition": "geo-v3-2026-11",
+      "iso": "IL",
+      "confusions": [
+        "PS",
+        "JO",
+        "LB"
+      ],
+      "siteId": "1040"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-476",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Chongoni Rock-Art Area“?",
+    "options": [
+      "Simbabwe",
+      "Sambia",
+      "Mosambik",
+      "Malawi"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Chongoni Rock-Art Area“ ist eine UNESCO-Kulturerbestätte in Malawi (Afrika). Die UNESCO führt sie unter der Listennummer 476.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/476/"
+      ],
+      "subjectKey": "landmark:476",
+      "edition": "geo-v3-2026-11",
+      "iso": "MW",
+      "confusions": [
+        "ZM",
+        "MZ",
+        "ZW"
+      ],
+      "siteId": "476"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1227",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Aapravasi Ghat“?",
+    "options": [
+      "Mauritius",
+      "Madagaskar",
+      "Komoren",
+      "Seychellen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Aapravasi Ghat“ ist eine UNESCO-Kulturerbestätte in Mauritius (Afrika). Die UNESCO führt sie unter der Listennummer 1227.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1227/"
+      ],
+      "subjectKey": "landmark:1227",
+      "edition": "geo-v3-2026-11",
+      "iso": "MU",
+      "confusions": [
+        "MG",
+        "KM",
+        "SC"
+      ],
+      "siteId": "1227"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-675",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Joya de Cerén Archaeological Site“?",
+    "options": [
+      "Belize",
+      "Honduras",
+      "El Salvador",
+      "Guatemala"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Joya de Cerén Archaeological Site“ ist eine UNESCO-Kulturerbestätte in El Salvador (Nordamerika). Die UNESCO führt sie unter der Listennummer 675.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/675/"
+      ],
+      "subjectKey": "landmark:675",
+      "edition": "geo-v3-2026-11",
+      "iso": "SV",
+      "confusions": [
+        "GT",
+        "HN",
+        "BZ"
+      ],
+      "siteId": "675"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1586",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero“?",
+    "options": [
+      "Ruanda",
+      "Demokratische Republik Kongo",
+      "Burundi",
+      "Uganda"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Memorial sites of the Genocide: Nyamata, Murambi, Gisozi and Bisesero“ ist eine UNESCO-Kulturerbestätte in Ruanda (Afrika). Die UNESCO führt sie unter der Listennummer 1586.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1586/"
+      ],
+      "subjectKey": "landmark:1586",
+      "edition": "geo-v3-2026-11",
+      "iso": "RW",
+      "confusions": [
+        "BI",
+        "UG",
+        "CD"
+      ],
+      "siteId": "1586"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-34",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Forts and Castles, Volta, Greater Accra, Central and Western Regions“?",
+    "options": [
+      "Benin",
+      "Ghana",
+      "Elfenbeinküste",
+      "Togo"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Forts and Castles, Volta, Greater Accra, Central and Western Regions“ ist eine UNESCO-Kulturerbestätte in Ghana (Afrika). Die UNESCO führt sie unter der Listennummer 34.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/34/"
+      ],
+      "subjectKey": "landmark:34",
+      "edition": "geo-v3-2026-11",
+      "iso": "GH",
+      "confusions": [
+        "CI",
+        "TG",
+        "BJ"
+      ],
+      "siteId": "34"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-129",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Maya Site of Copan“?",
+    "options": [
+      "Belize",
+      "Nicaragua",
+      "El Salvador",
+      "Honduras"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Maya Site of Copan“ ist eine UNESCO-Kulturerbestätte in Honduras (Nordamerika). Die UNESCO führt sie unter der Listennummer 129.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/129/"
+      ],
+      "subjectKey": "landmark:129",
+      "edition": "geo-v3-2026-11",
+      "iso": "HN",
+      "confusions": [
+        "NI",
+        "SV",
+        "BZ"
+      ],
+      "siteId": "129"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-113",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Tchogha Zanbil“?",
+    "options": [
+      "Kuwait",
+      "Katar",
+      "Bahrain",
+      "Iran"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Tchogha Zanbil“ ist eine UNESCO-Kulturerbestätte in Iran (Asien). Die UNESCO führt sie unter der Listennummer 113.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/113/"
+      ],
+      "subjectKey": "landmark:113",
+      "edition": "geo-v3-2026-11",
+      "iso": "IR",
+      "confusions": [
+        "BH",
+        "QA",
+        "KW"
+      ],
+      "siteId": "113"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-144",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Ruins of Kilwa Kisiwani and Ruins of Songo Mnara“?",
+    "options": [
+      "Burundi",
+      "Malawi",
+      "Ruanda",
+      "Tansania"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Ruins of Kilwa Kisiwani and Ruins of Songo Mnara“ ist eine UNESCO-Kulturerbestätte in Tansania (Afrika). Die UNESCO führt sie unter der Listennummer 144.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/144/"
+      ],
+      "subjectKey": "landmark:144",
+      "edition": "geo-v3-2026-11",
+      "iso": "TZ",
+      "confusions": [
+        "BI",
+        "RW",
+        "MW"
+      ],
+      "siteId": "144"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-502",
+    "category": "landmarks",
+    "difficulty": 2,
     "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic City of Vigan“?",
     "options": [
       "Philippinen",
@@ -3691,63 +3361,393 @@
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-138",
+    "id": "geo-v3-landmarks-unesco-936",
     "category": "landmarks",
-    "difficulty": 2,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Archaeological Ruins at Moenjodaro“?",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cueva de las Manos, Río Pinturas“?",
     "options": [
-      "Pakistan",
-      "Kirgisistan",
-      "Tadschikistan",
-      "Afghanistan"
+      "Uruguay",
+      "Chile",
+      "Paraguay",
+      "Argentinien"
     ],
-    "correct": 0,
+    "correct": 3,
     "enabled": true,
-    "explanation": "„Archaeological Ruins at Moenjodaro“ ist eine UNESCO-Kulturerbestätte in Pakistan (Asien). Die UNESCO führt sie unter der Listennummer 138.",
+    "explanation": "„Cueva de las Manos, Río Pinturas“ ist eine UNESCO-Kulturerbestätte in Argentinien (Südamerika). Die UNESCO führt sie unter der Listennummer 936.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/138/"
+        "https://whc.unesco.org/en/list/936/"
       ],
-      "subjectKey": "landmark:138",
+      "subjectKey": "landmark:936",
       "edition": "geo-v3-2026-11",
-      "iso": "PK",
+      "iso": "AR",
       "confusions": [
-        "AF",
-        "TJ",
-        "KG"
+        "UY",
+        "CL",
+        "PY"
       ],
-      "siteId": "138"
+      "siteId": "936"
     }
   },
   {
-    "id": "geo-v3-landmarks-unesco-1433",
+    "id": "geo-v3-landmarks-unesco-121",
     "category": "landmarks",
-    "difficulty": 3,
-    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem“?",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kathmandu Valley“?",
     "options": [
-      "Libanon",
-      "Palästina",
-      "Jordanien",
-      "Israel"
+      "Indien",
+      "Bhutan",
+      "Nepal",
+      "Bangladesch"
     ],
-    "correct": 1,
+    "correct": 2,
     "enabled": true,
-    "explanation": "„Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem“ ist eine UNESCO-Kulturerbestätte in Palästina (Asien). Die UNESCO führt sie unter der Listennummer 1433.",
+    "explanation": "„Kathmandu Valley“ ist eine UNESCO-Kulturerbestätte in Nepal (Asien). Die UNESCO führt sie unter der Listennummer 121.",
     "media": null,
     "provenance": {
       "sources": [
-        "https://whc.unesco.org/en/list/1433/"
+        "https://whc.unesco.org/en/list/121/"
       ],
-      "subjectKey": "landmark:1433",
+      "subjectKey": "landmark:121",
       "edition": "geo-v3-2026-11",
-      "iso": "PS",
+      "iso": "NP",
       "confusions": [
-        "IL",
-        "JO",
-        "LB"
+        "BT",
+        "BD",
+        "IN"
       ],
-      "siteId": "1433"
+      "siteId": "121"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-183",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Archaeological Site of Leptis Magna“?",
+    "options": [
+      "Tschad",
+      "Tunesien",
+      "Ägypten",
+      "Libyen"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Archaeological Site of Leptis Magna“ ist eine UNESCO-Kulturerbestätte in Libyen (Afrika). Die UNESCO führt sie unter der Listennummer 183.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/183/"
+      ],
+      "subjectKey": "landmark:183",
+      "edition": "geo-v3-2026-11",
+      "iso": "LY",
+      "confusions": [
+        "TD",
+        "TN",
+        "EG"
+      ],
+      "siteId": "183"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-761",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Kunta Kinteh Island and Related Sites“?",
+    "options": [
+      "Guinea",
+      "Gambia",
+      "Senegal",
+      "Guinea-Bissau"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Kunta Kinteh Island and Related Sites“ ist eine UNESCO-Kulturerbestätte in Gambia (Afrika). Die UNESCO führt sie unter der Listennummer 761.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/761/"
+      ],
+      "subjectKey": "landmark:761",
+      "edition": "geo-v3-2026-11",
+      "iso": "GM",
+      "confusions": [
+        "GW",
+        "SN",
+        "GN"
+      ],
+      "siteId": "761"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1055",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Lamu Old Town“?",
+    "options": [
+      "Tansania",
+      "Kenia",
+      "Äthiopien",
+      "Uganda"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Lamu Old Town“ ist eine UNESCO-Kulturerbestätte in Kenia (Afrika). Die UNESCO führt sie unter der Listennummer 1055.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1055/"
+      ],
+      "subjectKey": "landmark:1055",
+      "edition": "geo-v3-2026-11",
+      "iso": "KE",
+      "confusions": [
+        "UG",
+        "ET",
+        "TZ"
+      ],
+      "siteId": "1055"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-569",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centres of Berat and Gjirokastra“?",
+    "options": [
+      "Montenegro",
+      "Albanien",
+      "Griechenland",
+      "Nordmazedonien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Historic Centres of Berat and Gjirokastra“ ist eine UNESCO-Kulturerbestätte in Albanien (Europa). Die UNESCO führt sie unter der Listennummer 569.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/569/"
+      ],
+      "subjectKey": "landmark:569",
+      "edition": "geo-v3-2026-11",
+      "iso": "AL",
+      "confusions": [
+        "ME",
+        "MK",
+        "GR"
+      ],
+      "siteId": "569"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-65",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Antigua Guatemala“?",
+    "options": [
+      "El Salvador",
+      "Belize",
+      "Guatemala",
+      "Honduras"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Antigua Guatemala“ ist eine UNESCO-Kulturerbestätte in Guatemala (Nordamerika). Die UNESCO führt sie unter der Listennummer 65.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/65/"
+      ],
+      "subjectKey": "landmark:65",
+      "edition": "geo-v3-2026-11",
+      "iso": "GT",
+      "confusions": [
+        "SV",
+        "BZ",
+        "HN"
+      ],
+      "siteId": "65"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1343",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)“?",
+    "options": [
+      "Oman",
+      "Vereinigte Arabische Emirate",
+      "Katar",
+      "Bahrain"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)“ ist eine UNESCO-Kulturerbestätte in Vereinigte Arabische Emirate (Asien). Die UNESCO führt sie unter der Listennummer 1343.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1343/"
+      ],
+      "subjectKey": "landmark:1343",
+      "edition": "geo-v3-2026-11",
+      "iso": "AE",
+      "confusions": [
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "siteId": "1343"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-124",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Town of Ouro Preto“?",
+    "options": [
+      "Bolivien",
+      "Paraguay",
+      "Suriname",
+      "Brasilien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "„Historic Town of Ouro Preto“ ist eine UNESCO-Kulturerbestätte in Brasilien (Südamerika). Die UNESCO führt sie unter der Listennummer 124.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/124/"
+      ],
+      "subjectKey": "landmark:124",
+      "edition": "geo-v3-2026-11",
+      "iso": "BR",
+      "confusions": [
+        "BO",
+        "PY",
+        "SR"
+      ],
+      "siteId": "124"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-822",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Historic Centre (Old Town) of Tallinn“?",
+    "options": [
+      "Estland",
+      "Finnland",
+      "Lettland",
+      "Litauen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Historic Centre (Old Town) of Tallinn“ ist eine UNESCO-Kulturerbestätte in Estland (Europa). Die UNESCO führt sie unter der Listennummer 822.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/822/"
+      ],
+      "subjectKey": "landmark:822",
+      "edition": "geo-v3-2026-11",
+      "iso": "EE",
+      "confusions": [
+        "LV",
+        "LT",
+        "FI"
+      ],
+      "siteId": "822"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1022",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Tombs of Buganda Kings at Kasubi“?",
+    "options": [
+      "Ruanda",
+      "Kenia",
+      "Uganda",
+      "Burundi"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "„Tombs of Buganda Kings at Kasubi“ ist eine UNESCO-Kulturerbestätte in Uganda (Afrika). Die UNESCO führt sie unter der Listennummer 1022.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1022/"
+      ],
+      "subjectKey": "landmark:1022",
+      "edition": "geo-v3-2026-11",
+      "iso": "UG",
+      "confusions": [
+        "RW",
+        "BI",
+        "KE"
+      ],
+      "siteId": "1022"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1453",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís“?",
+    "options": [
+      "Costa Rica",
+      "Nicaragua",
+      "Honduras",
+      "Panama"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "„Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís“ ist eine UNESCO-Kulturerbestätte in Costa Rica (Nordamerika). Die UNESCO führt sie unter der Listennummer 1453.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1453/"
+      ],
+      "subjectKey": "landmark:1453",
+      "edition": "geo-v3-2026-11",
+      "iso": "CR",
+      "confusions": [
+        "NI",
+        "PA",
+        "HN"
+      ],
+      "siteId": "1453"
+    }
+  },
+  {
+    "id": "geo-v3-landmarks-unesco-1021",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welchem Land liegt die UNESCO-Kulturerbestätte „Tsodilo“?",
+    "options": [
+      "Simbabwe",
+      "Botsuana",
+      "Namibia",
+      "Südafrika"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "„Tsodilo“ ist eine UNESCO-Kulturerbestätte in Botsuana (Afrika). Die UNESCO führt sie unter der Listennummer 1021.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/1021/"
+      ],
+      "subjectKey": "landmark:1021",
+      "edition": "geo-v3-2026-11",
+      "iso": "BW",
+      "confusions": [
+        "ZW",
+        "NA",
+        "ZA"
+      ],
+      "siteId": "1021"
     }
   }
 ]
