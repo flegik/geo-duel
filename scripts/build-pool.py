@@ -62,6 +62,29 @@ elif category=='borders':
   if len(neighbors)>=3:
    correct=candidates[0];wrong=sorted(neighbors,key=lambda c:distance(iso,c))[:3]
    out.append(question(category,iso+'-no-'+correct,f'Welches dieser Länder hat KEINE direkte Landgrenze mit {flags[iso]["name"]}?',flags[correct]['name'],[flags[c]['name'] for c in wrong],3,f'{flags[correct]["name"]} hat keine direkte Landgrenze mit {flags[iso]["name"]}. '+', '.join(flags[c]['name'] for c in wrong)+' grenzen dagegen direkt an dieses Land. Seegrenzen zählen nicht.',[COUNTRIES,NE],subject='borders:'+iso,iso=iso,confusions=wrong,borderAnswer=correct,relation='not-adjacent'))
+elif category=='landmarks':
+ import re
+ sites=json.loads(Path('data/learning/unesco-sites.json').read_text());by_id={s['id']:s for s in sites};used=set()
+ originals=[q for q in json.loads(Path('data/questions.json').read_text()) if q['category']==category]
+ for i,q in enumerate(originals):
+  correct=q['options'][q['correct']];iso=next(c for c in flags if flags[c]['name']==correct)
+  sid=re.search(r'/list/(\d+)',q['provenance']['sources'][0]).group(1)
+  assert sid=='91' or by_id[sid]['iso']==iso,(q['id'],sid)
+  used.add(sid);alternatives=nearby(iso)[:3]
+  title=q['prompt'].split('„')[1].split('“')[0]
+  out.append(question(category,'legacy-'+q['id'],q['prompt'],correct,[flags[c]['name'] for c in alternatives],q['difficulty'],f'{title} liegt in {correct} ({geo[iso]["continent"]}). Die Illustration ist eine stilisierte Darstellung, kein Foto.',q['provenance']['sources']+(['https://colosseo.it/en/area/the-colosseum/'] if sid=='91' else []),q['media'],subject='landmark:'+sid,iso=iso,confusions=alternatives,siteId=sid))
+ # Round robin across countries prevents the extension being dominated by a few large countries.
+ cultural=[s for s in sites if s['kind']=='Cultural' and s['id'] not in used]
+ countries=sorted({s['iso'] for s in cultural},key=lambda c:(sum(q['provenance']['iso']==c for q in out),c))
+ chosen=[]
+ for iso in countries:
+  s=next(s for s in cultural if s['iso']==iso)
+  if len(s['name'])<=125:chosen.append(s)
+  if len(chosen)==90:break
+ assert len(chosen)==90
+ for i,s in enumerate(chosen):
+  iso=s['iso'];alternatives=nearby(iso)[:3]
+  out.append(question(category,'unesco-'+s['id'],f'In welchem Land liegt die UNESCO-Kulturerbestätte „{s["name"]}“?',flags[iso]['name'],[flags[c]['name'] for c in alternatives],2+i%2,f'„{s["name"]}“ ist eine UNESCO-Kulturerbestätte in {flags[iso]["name"]} ({geo[iso]["continent"]}). Die UNESCO führt sie unter der Listennummer {s["id"]}.',[s['source']],subject='landmark:'+s['id'],iso=iso,confusions=alternatives,siteId=s['id']))
 else:raise SystemExit('Category not implemented yet: '+category)
 assert out and len({q['id'] for q in out})==len(out)
 for q in out:assert 1<=q['difficulty']<=3 and len(q['provenance']['sources'])>0 and q['explanation']
