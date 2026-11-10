@@ -1,0 +1,6827 @@
+[
+  {
+    "id": "geo-v3-maps-AD",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Schweiz",
+      "Andorra",
+      "Frankreich",
+      "Spanien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Andorra (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AD",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AD",
+      "edition": "geo-v3-2026-11",
+      "iso": "AD",
+      "confusions": [
+        "FR",
+        "ES",
+        "CH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AE",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Oman",
+      "Katar",
+      "Bahrain",
+      "Vereinigte Arabische Emirate"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Vereinigte Arabische Emirate (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AE",
+      "edition": "geo-v3-2026-11",
+      "iso": "AE",
+      "confusions": [
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AF",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Usbekistan",
+      "Afghanistan",
+      "Turkmenistan",
+      "Pakistan"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Afghanistan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AF",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AF",
+      "edition": "geo-v3-2026-11",
+      "iso": "AF",
+      "confusions": [
+        "PK",
+        "UZ",
+        "TM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "St. Kitts und Nevis",
+      "St. Lucia",
+      "Dominica",
+      "Antigua und Barbuda"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Antigua und Barbuda (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AG",
+      "edition": "geo-v3-2026-11",
+      "iso": "AG",
+      "confusions": [
+        "KN",
+        "DM",
+        "LC"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AL",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Griechenland",
+      "Serbien",
+      "Albanien",
+      "Montenegro"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Albanien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AL",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AL",
+      "edition": "geo-v3-2026-11",
+      "iso": "AL",
+      "confusions": [
+        "ME",
+        "GR",
+        "RS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AM",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Irak",
+      "Aserbaidschan",
+      "Georgien",
+      "Armenien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Armenien (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AM",
+      "edition": "geo-v3-2026-11",
+      "iso": "AM",
+      "confusions": [
+        "AZ",
+        "GE",
+        "IQ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AO",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Sambia",
+      "Namibia",
+      "Republik Kongo",
+      "Angola"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Angola (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AO",
+      "edition": "geo-v3-2026-11",
+      "iso": "AO",
+      "confusions": [
+        "NA",
+        "ZM",
+        "CG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AR",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Argentinien",
+      "Chile",
+      "Uruguay",
+      "Paraguay"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Argentinien (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AR",
+      "edition": "geo-v3-2026-11",
+      "iso": "AR",
+      "confusions": [
+        "UY",
+        "CL",
+        "PY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AT",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Liechtenstein",
+      "Tschechien",
+      "Schweiz",
+      "Österreich"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Österreich (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AT",
+      "edition": "geo-v3-2026-11",
+      "iso": "AT",
+      "confusions": [
+        "LI",
+        "CZ",
+        "CH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AU",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Salomonen",
+      "Fidschi",
+      "Australien",
+      "Palau"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Australien (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AU",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AU",
+      "edition": "geo-v3-2026-11",
+      "iso": "AU",
+      "confusions": [
+        "SB",
+        "PW",
+        "FJ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-AZ",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Aserbaidschan",
+      "Irak",
+      "Armenien",
+      "Syrien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Aserbaidschan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:AZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:AZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "AZ",
+      "confusions": [
+        "AM",
+        "IQ",
+        "SY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BA",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Montenegro",
+      "Kroatien",
+      "Bosnien und Herzegowina",
+      "Serbien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Bosnien und Herzegowina (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BA",
+      "edition": "geo-v3-2026-11",
+      "iso": "BA",
+      "confusions": [
+        "ME",
+        "HR",
+        "RS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BB",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Trinidad und Tobago",
+      "Barbados",
+      "St. Lucia",
+      "Grenada"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Barbados (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BB",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BB",
+      "edition": "geo-v3-2026-11",
+      "iso": "BB",
+      "confusions": [
+        "LC",
+        "GD",
+        "TT"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BD",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Myanmar",
+      "Bhutan",
+      "Nepal",
+      "Bangladesch"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Bangladesch (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BD",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BD",
+      "edition": "geo-v3-2026-11",
+      "iso": "BD",
+      "confusions": [
+        "BT",
+        "NP",
+        "MM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BE",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Luxemburg",
+      "Deutschland",
+      "Schweiz",
+      "Belgien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Belgien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BE",
+      "edition": "geo-v3-2026-11",
+      "iso": "BE",
+      "confusions": [
+        "LU",
+        "DE",
+        "CH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BF",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Ghana",
+      "Mali",
+      "Burkina Faso",
+      "Benin"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Burkina Faso (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BF",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BF",
+      "edition": "geo-v3-2026-11",
+      "iso": "BF",
+      "confusions": [
+        "ML",
+        "GH",
+        "BJ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BG",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Montenegro",
+      "Bulgarien",
+      "Nordmazedonien",
+      "Serbien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Bulgarien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BG",
+      "edition": "geo-v3-2026-11",
+      "iso": "BG",
+      "confusions": [
+        "MK",
+        "RS",
+        "ME"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BH",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Katar",
+      "Vereinigte Arabische Emirate",
+      "Saudi-Arabien",
+      "Bahrain"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Bahrain (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BH",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BH",
+      "edition": "geo-v3-2026-11",
+      "iso": "BH",
+      "confusions": [
+        "QA",
+        "AE",
+        "SA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BI",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tansania",
+      "Ruanda",
+      "Burundi",
+      "Demokratische Republik Kongo"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Burundi (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BI",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BI",
+      "edition": "geo-v3-2026-11",
+      "iso": "BI",
+      "confusions": [
+        "RW",
+        "TZ",
+        "CD"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BJ",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Ghana",
+      "Benin",
+      "Burkina Faso",
+      "Togo"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Benin (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BJ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "BJ",
+      "confusions": [
+        "TG",
+        "GH",
+        "BF"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BN",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Philippinen",
+      "Malaysia",
+      "Brunei Darussalam",
+      "Singapur"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Brunei Darussalam (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BN",
+      "edition": "geo-v3-2026-11",
+      "iso": "BN",
+      "confusions": [
+        "MY",
+        "PH",
+        "SG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BO",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Bolivien",
+      "Brasilien",
+      "Paraguay",
+      "Peru"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Bolivien (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BO",
+      "edition": "geo-v3-2026-11",
+      "iso": "BO",
+      "confusions": [
+        "PY",
+        "BR",
+        "PE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BR",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Brasilien",
+      "Venezuela",
+      "Guyana",
+      "Paraguay"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Brasilien (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BR",
+      "edition": "geo-v3-2026-11",
+      "iso": "BR",
+      "confusions": [
+        "PY",
+        "GY",
+        "VE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BS",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Haiti",
+      "Bahamas",
+      "Kuba",
+      "Jamaika"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Bahamas (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BS",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BS",
+      "edition": "geo-v3-2026-11",
+      "iso": "BS",
+      "confusions": [
+        "CU",
+        "JM",
+        "HT"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BT",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Bangladesch",
+      "Indien",
+      "Myanmar",
+      "Bhutan"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Bhutan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BT",
+      "edition": "geo-v3-2026-11",
+      "iso": "BT",
+      "confusions": [
+        "BD",
+        "MM",
+        "IN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BW",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Botsuana",
+      "Südafrika",
+      "Namibia",
+      "Simbabwe"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Botsuana (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BW",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BW",
+      "edition": "geo-v3-2026-11",
+      "iso": "BW",
+      "confusions": [
+        "ZW",
+        "NA",
+        "ZA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BY",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Polen",
+      "Ukraine",
+      "Litauen",
+      "Belarus"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Belarus (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BY",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BY",
+      "edition": "geo-v3-2026-11",
+      "iso": "BY",
+      "confusions": [
+        "LT",
+        "UA",
+        "PL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-BZ",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Belize",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Belize (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:BZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:BZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "BZ",
+      "confusions": [
+        "GT",
+        "HN",
+        "SV"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CA",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kanada",
+      "Jamaika",
+      "Mexiko",
+      "Kuba"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Kanada (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CA",
+      "edition": "geo-v3-2026-11",
+      "iso": "CA",
+      "confusions": [
+        "MX",
+        "CU",
+        "JM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CD",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Demokratische Republik Kongo",
+      "Burundi",
+      "Uganda",
+      "Ruanda"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Demokratische Republik Kongo (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CD",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CD",
+      "edition": "geo-v3-2026-11",
+      "iso": "CD",
+      "confusions": [
+        "RW",
+        "BI",
+        "UG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CF",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Zentralafrikanische Republik",
+      "Demokratische Republik Kongo",
+      "Kamerun",
+      "Südsudan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Zentralafrikanische Republik (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CF",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CF",
+      "edition": "geo-v3-2026-11",
+      "iso": "CF",
+      "confusions": [
+        "CD",
+        "SS",
+        "CM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kamerun",
+      "Gabun",
+      "Äquatorialguinea",
+      "Republik Kongo"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Republik Kongo (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CG",
+      "edition": "geo-v3-2026-11",
+      "iso": "CG",
+      "confusions": [
+        "GA",
+        "GQ",
+        "CM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CH",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Luxemburg",
+      "Schweiz",
+      "Frankreich",
+      "Österreich"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Schweiz (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CH",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CH",
+      "edition": "geo-v3-2026-11",
+      "iso": "CH",
+      "confusions": [
+        "LU",
+        "AT",
+        "FR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CI",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Liberia",
+      "Elfenbeinküste",
+      "Guinea",
+      "Ghana"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Elfenbeinküste (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CI",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CI",
+      "edition": "geo-v3-2026-11",
+      "iso": "CI",
+      "confusions": [
+        "GH",
+        "LR",
+        "GN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CL",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Bolivien",
+      "Chile",
+      "Paraguay",
+      "Argentinien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Chile (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CL",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CL",
+      "edition": "geo-v3-2026-11",
+      "iso": "CL",
+      "confusions": [
+        "AR",
+        "PY",
+        "BO"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CM",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Äquatorialguinea",
+      "Nigeria",
+      "Kamerun",
+      "Gabun"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Kamerun (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CM",
+      "edition": "geo-v3-2026-11",
+      "iso": "CM",
+      "confusions": [
+        "GQ",
+        "NG",
+        "GA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CN",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "China",
+      "Nordkorea",
+      "Myanmar",
+      "Laos"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist China (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CN",
+      "edition": "geo-v3-2026-11",
+      "iso": "CN",
+      "confusions": [
+        "MM",
+        "LA",
+        "KP"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CO",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Venezuela",
+      "Ecuador",
+      "Kolumbien",
+      "Guyana"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Kolumbien (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CO",
+      "edition": "geo-v3-2026-11",
+      "iso": "CO",
+      "confusions": [
+        "VE",
+        "EC",
+        "GY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CR",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Nicaragua",
+      "El Salvador",
+      "Honduras",
+      "Costa Rica"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Costa Rica (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CR",
+      "edition": "geo-v3-2026-11",
+      "iso": "CR",
+      "confusions": [
+        "NI",
+        "HN",
+        "SV"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CU",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Bahamas",
+      "Kuba",
+      "Haiti",
+      "Jamaika"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Kuba (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CU",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CU",
+      "edition": "geo-v3-2026-11",
+      "iso": "CU",
+      "confusions": [
+        "JM",
+        "BS",
+        "HT"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CV",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Senegal",
+      "Mauretanien",
+      "Gambia",
+      "Cabo Verde"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Cabo Verde (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CV",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CV",
+      "edition": "geo-v3-2026-11",
+      "iso": "CV",
+      "confusions": [
+        "GM",
+        "SN",
+        "MR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CY",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Palästina",
+      "Zypern",
+      "Libanon",
+      "Israel"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Zypern (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CY",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CY",
+      "edition": "geo-v3-2026-11",
+      "iso": "CY",
+      "confusions": [
+        "LB",
+        "PS",
+        "IL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-CZ",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Slowenien",
+      "Tschechien",
+      "Polen",
+      "Österreich"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Tschechien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:CZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:CZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "CZ",
+      "confusions": [
+        "AT",
+        "PL",
+        "SI"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-DE",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tschechien",
+      "Liechtenstein",
+      "Niederlande",
+      "Deutschland"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Deutschland (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:DE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:DE",
+      "edition": "geo-v3-2026-11",
+      "iso": "DE",
+      "confusions": [
+        "NL",
+        "LI",
+        "CZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-DJ",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Somalia",
+      "Kenia",
+      "Dschibuti",
+      "Eritrea"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Dschibuti (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:DJ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:DJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "DJ",
+      "confusions": [
+        "ER",
+        "SO",
+        "KE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-DK",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Norwegen",
+      "Dänemark",
+      "Niederlande",
+      "Deutschland"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Dänemark (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:DK",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:DK",
+      "edition": "geo-v3-2026-11",
+      "iso": "DK",
+      "confusions": [
+        "NL",
+        "DE",
+        "NO"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-DM",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "St. Vincent und die Grenadinen",
+      "St. Kitts und Nevis",
+      "Dominica",
+      "St. Lucia"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Dominica (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:DM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:DM",
+      "edition": "geo-v3-2026-11",
+      "iso": "DM",
+      "confusions": [
+        "LC",
+        "VC",
+        "KN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-DO",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Jamaika",
+      "Bahamas",
+      "Dominikanische Republik",
+      "Haiti"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Dominikanische Republik (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:DO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:DO",
+      "edition": "geo-v3-2026-11",
+      "iso": "DO",
+      "confusions": [
+        "HT",
+        "JM",
+        "BS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-DZ",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Niger",
+      "Algerien",
+      "Tunesien",
+      "Mali"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Algerien (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:DZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:DZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "DZ",
+      "confusions": [
+        "TN",
+        "ML",
+        "NE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-EC",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Venezuela",
+      "Peru",
+      "Kolumbien",
+      "Ecuador"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Ecuador (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:EC",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:EC",
+      "edition": "geo-v3-2026-11",
+      "iso": "EC",
+      "confusions": [
+        "CO",
+        "PE",
+        "VE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-EE",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Lettland",
+      "Belarus",
+      "Estland",
+      "Finnland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Estland (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:EE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:EE",
+      "edition": "geo-v3-2026-11",
+      "iso": "EE",
+      "confusions": [
+        "LV",
+        "FI",
+        "BY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-EG",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tschad",
+      "Dschibuti",
+      "Sudan",
+      "Ägypten"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Ägypten (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:EG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:EG",
+      "edition": "geo-v3-2026-11",
+      "iso": "EG",
+      "confusions": [
+        "SD",
+        "TD",
+        "DJ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ER",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Somalia",
+      "Dschibuti",
+      "Sudan",
+      "Eritrea"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Eritrea (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ER",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ER",
+      "edition": "geo-v3-2026-11",
+      "iso": "ER",
+      "confusions": [
+        "DJ",
+        "SD",
+        "SO"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ES",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Spanien",
+      "Luxemburg",
+      "Andorra",
+      "Monaco"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Spanien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ES",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ES",
+      "edition": "geo-v3-2026-11",
+      "iso": "ES",
+      "confusions": [
+        "AD",
+        "MC",
+        "LU"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ET",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Südsudan",
+      "Dschibuti",
+      "Äthiopien",
+      "Eritrea"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Äthiopien (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ET",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ET",
+      "edition": "geo-v3-2026-11",
+      "iso": "ET",
+      "confusions": [
+        "DJ",
+        "ER",
+        "SS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-FI",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Estland",
+      "Schweden",
+      "Lettland",
+      "Finnland"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Finnland (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:FI",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:FI",
+      "edition": "geo-v3-2026-11",
+      "iso": "FI",
+      "confusions": [
+        "EE",
+        "SE",
+        "LV"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-FJ",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vanuatu",
+      "Fidschi",
+      "Samoa",
+      "Tuvalu"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Fidschi (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:FJ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:FJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "FJ",
+      "confusions": [
+        "VU",
+        "TV",
+        "WS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-FM",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Nauru",
+      "Salomonen",
+      "Marshallinseln",
+      "Mikronesien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Mikronesien (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:FM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:FM",
+      "edition": "geo-v3-2026-11",
+      "iso": "FM",
+      "confusions": [
+        "MH",
+        "NR",
+        "SB"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-FR",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Frankreich",
+      "Liechtenstein",
+      "Luxemburg",
+      "Schweiz"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Frankreich (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:FR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:FR",
+      "edition": "geo-v3-2026-11",
+      "iso": "FR",
+      "confusions": [
+        "CH",
+        "LU",
+        "LI"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GA",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Äquatorialguinea",
+      "São Tomé und Príncipe",
+      "Republik Kongo",
+      "Gabun"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Gabun (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GA",
+      "edition": "geo-v3-2026-11",
+      "iso": "GA",
+      "confusions": [
+        "CG",
+        "GQ",
+        "ST"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GB",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Luxemburg",
+      "Belgien",
+      "Vereinigtes Königreich",
+      "Deutschland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Vereinigtes Königreich (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GB",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GB",
+      "edition": "geo-v3-2026-11",
+      "iso": "GB",
+      "confusions": [
+        "BE",
+        "LU",
+        "DE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GD",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "St. Vincent und die Grenadinen",
+      "St. Lucia",
+      "Grenada",
+      "Trinidad und Tobago"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Grenada (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GD",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GD",
+      "edition": "geo-v3-2026-11",
+      "iso": "GD",
+      "confusions": [
+        "VC",
+        "TT",
+        "LC"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GE",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Georgien",
+      "Armenien",
+      "Syrien",
+      "Türkei"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Georgien (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GE",
+      "edition": "geo-v3-2026-11",
+      "iso": "GE",
+      "confusions": [
+        "AM",
+        "TR",
+        "SY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GH",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Togo",
+      "Elfenbeinküste",
+      "Ghana",
+      "Benin"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Ghana (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GH",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GH",
+      "edition": "geo-v3-2026-11",
+      "iso": "GH",
+      "confusions": [
+        "CI",
+        "TG",
+        "BJ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GM",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Guinea",
+      "Guinea-Bissau",
+      "Gambia",
+      "Sierra Leone"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Gambia (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GM",
+      "edition": "geo-v3-2026-11",
+      "iso": "GM",
+      "confusions": [
+        "GW",
+        "GN",
+        "SL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GN",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Liberia"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Guinea (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GN",
+      "edition": "geo-v3-2026-11",
+      "iso": "GN",
+      "confusions": [
+        "SL",
+        "LR",
+        "SN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GQ",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Republik Kongo",
+      "Kamerun",
+      "Äquatorialguinea",
+      "São Tomé und Príncipe"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Äquatorialguinea (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GQ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GQ",
+      "edition": "geo-v3-2026-11",
+      "iso": "GQ",
+      "confusions": [
+        "ST",
+        "CM",
+        "CG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GR",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Nordmazedonien",
+      "Bosnien und Herzegowina",
+      "Bulgarien",
+      "Griechenland"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Griechenland (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GR",
+      "edition": "geo-v3-2026-11",
+      "iso": "GR",
+      "confusions": [
+        "MK",
+        "BG",
+        "BA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GT",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Guatemala",
+      "Nicaragua",
+      "El Salvador",
+      "Honduras"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Guatemala (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GT",
+      "edition": "geo-v3-2026-11",
+      "iso": "GT",
+      "confusions": [
+        "SV",
+        "HN",
+        "NI"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GW",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Senegal",
+      "Gambia",
+      "Guinea-Bissau",
+      "Sierra Leone"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Guinea-Bissau (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GW",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GW",
+      "edition": "geo-v3-2026-11",
+      "iso": "GW",
+      "confusions": [
+        "GM",
+        "SN",
+        "SL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-GY",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Suriname",
+      "Brasilien",
+      "Kolumbien",
+      "Guyana"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Guyana (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:GY",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:GY",
+      "edition": "geo-v3-2026-11",
+      "iso": "GY",
+      "confusions": [
+        "SR",
+        "CO",
+        "BR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-HN",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Honduras",
+      "Nicaragua",
+      "Belize",
+      "El Salvador"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Honduras (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:HN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:HN",
+      "edition": "geo-v3-2026-11",
+      "iso": "HN",
+      "confusions": [
+        "NI",
+        "SV",
+        "BZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-HR",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Österreich",
+      "Slowenien",
+      "Kroatien",
+      "San Marino"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Kroatien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:HR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:HR",
+      "edition": "geo-v3-2026-11",
+      "iso": "HR",
+      "confusions": [
+        "SI",
+        "SM",
+        "AT"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-HT",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Haiti",
+      "Bahamas",
+      "Dominikanische Republik",
+      "Jamaika"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Haiti (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:HT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:HT",
+      "edition": "geo-v3-2026-11",
+      "iso": "HT",
+      "confusions": [
+        "DO",
+        "JM",
+        "BS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-HU",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Slowakei",
+      "Ungarn",
+      "Bosnien und Herzegowina",
+      "Rumänien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Ungarn (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:HU",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:HU",
+      "edition": "geo-v3-2026-11",
+      "iso": "HU",
+      "confusions": [
+        "SK",
+        "BA",
+        "RO"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ID",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Brunei Darussalam",
+      "Malaysia",
+      "Indonesien",
+      "Timor-Leste"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Indonesien (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ID",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ID",
+      "edition": "geo-v3-2026-11",
+      "iso": "ID",
+      "confusions": [
+        "TL",
+        "MY",
+        "BN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-IE",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Luxemburg",
+      "Niederlande",
+      "Irland",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Irland (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:IE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:IE",
+      "edition": "geo-v3-2026-11",
+      "iso": "IE",
+      "confusions": [
+        "GB",
+        "NL",
+        "LU"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-IL",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Jordanien",
+      "Israel",
+      "Palästina",
+      "Libanon"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Israel (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:IL",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:IL",
+      "edition": "geo-v3-2026-11",
+      "iso": "IL",
+      "confusions": [
+        "PS",
+        "JO",
+        "LB"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-IN",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Indien",
+      "Afghanistan",
+      "Sri Lanka",
+      "Pakistan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Indien (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:IN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:IN",
+      "edition": "geo-v3-2026-11",
+      "iso": "IN",
+      "confusions": [
+        "PK",
+        "LK",
+        "AF"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-IQ",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kuwait",
+      "Libanon",
+      "Syrien",
+      "Irak"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Irak (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:IQ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:IQ",
+      "edition": "geo-v3-2026-11",
+      "iso": "IQ",
+      "confusions": [
+        "KW",
+        "SY",
+        "LB"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-IR",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kuwait",
+      "Iran",
+      "Irak",
+      "Bahrain"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Iran (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:IR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:IR",
+      "edition": "geo-v3-2026-11",
+      "iso": "IR",
+      "confusions": [
+        "BH",
+        "KW",
+        "IQ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-IS",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vereinigtes Königreich",
+      "Island",
+      "Irland",
+      "Norwegen"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Island (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:IS",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:IS",
+      "edition": "geo-v3-2026-11",
+      "iso": "IS",
+      "confusions": [
+        "NO",
+        "IE",
+        "GB"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-IT",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "San Marino",
+      "Slowenien",
+      "Italien",
+      "Monaco"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Italien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:IT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:IT",
+      "edition": "geo-v3-2026-11",
+      "iso": "IT",
+      "confusions": [
+        "SM",
+        "SI",
+        "MC"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-JM",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kuba",
+      "Jamaika",
+      "Haiti",
+      "Bahamas"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Jamaika (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:JM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:JM",
+      "edition": "geo-v3-2026-11",
+      "iso": "JM",
+      "confusions": [
+        "CU",
+        "HT",
+        "BS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-JO",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Syrien",
+      "Jordanien",
+      "Israel",
+      "Libanon"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Jordanien (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:JO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:JO",
+      "edition": "geo-v3-2026-11",
+      "iso": "JO",
+      "confusions": [
+        "IL",
+        "LB",
+        "SY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-JP",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vietnam",
+      "Nordkorea",
+      "Japan",
+      "China"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Japan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:JP",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:JP",
+      "edition": "geo-v3-2026-11",
+      "iso": "JP",
+      "confusions": [
+        "KP",
+        "CN",
+        "VN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KE",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kenia",
+      "Ruanda",
+      "Uganda",
+      "Tansania"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Kenia (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KE",
+      "edition": "geo-v3-2026-11",
+      "iso": "KE",
+      "confusions": [
+        "UG",
+        "TZ",
+        "RW"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tadschikistan",
+      "Kirgisistan",
+      "Kasachstan",
+      "Usbekistan"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Kirgisistan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KG",
+      "edition": "geo-v3-2026-11",
+      "iso": "KG",
+      "confusions": [
+        "TJ",
+        "UZ",
+        "KZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KH",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Thailand",
+      "Myanmar",
+      "Vietnam",
+      "Kambodscha"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Kambodscha (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KH",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KH",
+      "edition": "geo-v3-2026-11",
+      "iso": "KH",
+      "confusions": [
+        "VN",
+        "TH",
+        "MM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KI",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tuvalu",
+      "Marshallinseln",
+      "Nauru",
+      "Kiribati"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Kiribati (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KI",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KI",
+      "edition": "geo-v3-2026-11",
+      "iso": "KI",
+      "confusions": [
+        "NR",
+        "MH",
+        "TV"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KM",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Mosambik",
+      "Tansania",
+      "Komoren",
+      "Madagaskar"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Komoren (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KM",
+      "edition": "geo-v3-2026-11",
+      "iso": "KM",
+      "confusions": [
+        "MG",
+        "MZ",
+        "TZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KN",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "St. Lucia",
+      "Dominica",
+      "Antigua und Barbuda",
+      "St. Kitts und Nevis"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist St. Kitts und Nevis (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KN",
+      "edition": "geo-v3-2026-11",
+      "iso": "KN",
+      "confusions": [
+        "AG",
+        "DM",
+        "LC"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KP",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Nordkorea",
+      "Südkorea",
+      "Mongolei",
+      "China"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Nordkorea (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KP",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KP",
+      "edition": "geo-v3-2026-11",
+      "iso": "KP",
+      "confusions": [
+        "KR",
+        "MN",
+        "CN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KR",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Südkorea",
+      "Japan",
+      "China",
+      "Nordkorea"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Südkorea (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KR",
+      "edition": "geo-v3-2026-11",
+      "iso": "KR",
+      "confusions": [
+        "KP",
+        "JP",
+        "CN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KW",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Bahrain",
+      "Kuwait",
+      "Katar",
+      "Irak"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Kuwait (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KW",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KW",
+      "edition": "geo-v3-2026-11",
+      "iso": "KW",
+      "confusions": [
+        "IQ",
+        "BH",
+        "QA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-KZ",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kasachstan",
+      "Tadschikistan",
+      "Kirgisistan",
+      "Usbekistan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Kasachstan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:KZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:KZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "KZ",
+      "confusions": [
+        "UZ",
+        "KG",
+        "TJ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LA",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Myanmar",
+      "Laos",
+      "Thailand",
+      "Vietnam"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Laos (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LA",
+      "edition": "geo-v3-2026-11",
+      "iso": "LA",
+      "confusions": [
+        "VN",
+        "TH",
+        "MM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LB",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Syrien",
+      "Libanon",
+      "Israel",
+      "Palästina"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Libanon (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LB",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LB",
+      "edition": "geo-v3-2026-11",
+      "iso": "LB",
+      "confusions": [
+        "PS",
+        "SY",
+        "IL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LC",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Grenada",
+      "Dominica",
+      "St. Vincent und die Grenadinen",
+      "St. Lucia"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist St. Lucia (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LC",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LC",
+      "edition": "geo-v3-2026-11",
+      "iso": "LC",
+      "confusions": [
+        "VC",
+        "DM",
+        "GD"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LI",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Luxemburg",
+      "Schweiz",
+      "Österreich",
+      "Liechtenstein"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Liechtenstein (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LI",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LI",
+      "edition": "geo-v3-2026-11",
+      "iso": "LI",
+      "confusions": [
+        "CH",
+        "AT",
+        "LU"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LK",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Malediven",
+      "Thailand",
+      "Sri Lanka",
+      "Bangladesch"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Sri Lanka (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LK",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LK",
+      "edition": "geo-v3-2026-11",
+      "iso": "LK",
+      "confusions": [
+        "MV",
+        "BD",
+        "TH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LR",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Liberia",
+      "Sierra Leone",
+      "Guinea",
+      "Elfenbeinküste"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Liberia (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LR",
+      "edition": "geo-v3-2026-11",
+      "iso": "LR",
+      "confusions": [
+        "SL",
+        "GN",
+        "CI"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LS",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Botsuana",
+      "Lesotho",
+      "Simbabwe",
+      "Südafrika"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Lesotho (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LS",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LS",
+      "edition": "geo-v3-2026-11",
+      "iso": "LS",
+      "confusions": [
+        "ZA",
+        "BW",
+        "ZW"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LT",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Litauen",
+      "Lettland",
+      "Estland",
+      "Belarus"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Litauen (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LT",
+      "edition": "geo-v3-2026-11",
+      "iso": "LT",
+      "confusions": [
+        "LV",
+        "EE",
+        "BY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LU",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Schweiz",
+      "Luxemburg",
+      "Niederlande",
+      "Belgien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Luxemburg (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LU",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LU",
+      "edition": "geo-v3-2026-11",
+      "iso": "LU",
+      "confusions": [
+        "BE",
+        "NL",
+        "CH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LV",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Litauen",
+      "Lettland",
+      "Estland",
+      "Belarus"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Lettland (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LV",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LV",
+      "edition": "geo-v3-2026-11",
+      "iso": "LV",
+      "confusions": [
+        "LT",
+        "EE",
+        "BY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-LY",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tschad",
+      "Niger",
+      "Ägypten",
+      "Libyen"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Libyen (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:LY",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:LY",
+      "edition": "geo-v3-2026-11",
+      "iso": "LY",
+      "confusions": [
+        "TD",
+        "EG",
+        "NE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MA",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Algerien",
+      "Marokko",
+      "Tunesien",
+      "Mauretanien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Marokko (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MA",
+      "edition": "geo-v3-2026-11",
+      "iso": "MA",
+      "confusions": [
+        "DZ",
+        "TN",
+        "MR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MC",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Monaco",
+      "Italien",
+      "Liechtenstein",
+      "Schweiz"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Monaco (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MC",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MC",
+      "edition": "geo-v3-2026-11",
+      "iso": "MC",
+      "confusions": [
+        "CH",
+        "LI",
+        "IT"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MD",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Republik Moldau",
+      "Bulgarien",
+      "Rumänien",
+      "Ukraine"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Republik Moldau (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MD",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MD",
+      "edition": "geo-v3-2026-11",
+      "iso": "MD",
+      "confusions": [
+        "UA",
+        "RO",
+        "BG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ME",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Albanien",
+      "Serbien",
+      "Montenegro",
+      "Nordmazedonien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Montenegro (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ME",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ME",
+      "edition": "geo-v3-2026-11",
+      "iso": "ME",
+      "confusions": [
+        "AL",
+        "RS",
+        "MK"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Komoren",
+      "Madagaskar",
+      "Mauritius",
+      "Mosambik"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Madagaskar (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MG",
+      "edition": "geo-v3-2026-11",
+      "iso": "MG",
+      "confusions": [
+        "KM",
+        "MU",
+        "MZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MH",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Mikronesien",
+      "Salomonen",
+      "Kiribati",
+      "Marshallinseln"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Marshallinseln (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MH",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MH",
+      "edition": "geo-v3-2026-11",
+      "iso": "MH",
+      "confusions": [
+        "KI",
+        "FM",
+        "SB"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MK",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Albanien",
+      "Montenegro",
+      "Serbien",
+      "Nordmazedonien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Nordmazedonien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MK",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MK",
+      "edition": "geo-v3-2026-11",
+      "iso": "MK",
+      "confusions": [
+        "AL",
+        "ME",
+        "RS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ML",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Burkina Faso",
+      "Mali",
+      "Elfenbeinküste",
+      "Guinea"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Mali (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ML",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ML",
+      "edition": "geo-v3-2026-11",
+      "iso": "ML",
+      "confusions": [
+        "BF",
+        "GN",
+        "CI"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MM",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Myanmar",
+      "Thailand",
+      "Laos",
+      "Bangladesch"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Myanmar (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MM",
+      "edition": "geo-v3-2026-11",
+      "iso": "MM",
+      "confusions": [
+        "TH",
+        "BD",
+        "LA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MN",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Südkorea",
+      "Mongolei",
+      "Bhutan",
+      "China"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Mongolei (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MN",
+      "edition": "geo-v3-2026-11",
+      "iso": "MN",
+      "confusions": [
+        "CN",
+        "KR",
+        "BT"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MR",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Gambia",
+      "Senegal",
+      "Mauretanien",
+      "Mali"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Mauretanien (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MR",
+      "edition": "geo-v3-2026-11",
+      "iso": "MR",
+      "confusions": [
+        "SN",
+        "GM",
+        "ML"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MT",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vatikanstadt",
+      "Malta",
+      "Italien",
+      "Griechenland"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Malta (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MT",
+      "edition": "geo-v3-2026-11",
+      "iso": "MT",
+      "confusions": [
+        "VA",
+        "GR",
+        "IT"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MU",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Madagaskar",
+      "Komoren",
+      "Seychellen",
+      "Mauritius"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Mauritius (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MU",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MU",
+      "edition": "geo-v3-2026-11",
+      "iso": "MU",
+      "confusions": [
+        "MG",
+        "KM",
+        "SC"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MV",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Malediven",
+      "Sri Lanka",
+      "Bangladesch",
+      "Oman"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Malediven (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MV",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MV",
+      "edition": "geo-v3-2026-11",
+      "iso": "MV",
+      "confusions": [
+        "LK",
+        "OM",
+        "BD"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MW",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Mosambik",
+      "Malawi",
+      "Sambia",
+      "Simbabwe"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Malawi (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MW",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MW",
+      "edition": "geo-v3-2026-11",
+      "iso": "MW",
+      "confusions": [
+        "ZM",
+        "MZ",
+        "ZW"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MX",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vereinigte Staaten",
+      "Belize",
+      "Mexiko",
+      "Nicaragua"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Mexiko (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MX",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MX",
+      "edition": "geo-v3-2026-11",
+      "iso": "MX",
+      "confusions": [
+        "BZ",
+        "US",
+        "NI"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MY",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Indonesien",
+      "Malaysia",
+      "Singapur",
+      "Brunei Darussalam"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Malaysia (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MY",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MY",
+      "edition": "geo-v3-2026-11",
+      "iso": "MY",
+      "confusions": [
+        "BN",
+        "SG",
+        "ID"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-MZ",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Mosambik",
+      "Malawi",
+      "Eswatini",
+      "Sambia"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Mosambik (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:MZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:MZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "MZ",
+      "confusions": [
+        "MW",
+        "ZM",
+        "SZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NA",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Botsuana",
+      "Südafrika",
+      "Namibia",
+      "Angola"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Namibia (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NA",
+      "edition": "geo-v3-2026-11",
+      "iso": "NA",
+      "confusions": [
+        "BW",
+        "ZA",
+        "AO"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NE",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Togo",
+      "Burkina Faso",
+      "Nigeria",
+      "Niger"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Niger (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NE",
+      "edition": "geo-v3-2026-11",
+      "iso": "NE",
+      "confusions": [
+        "NG",
+        "BF",
+        "TG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Benin",
+      "Kamerun",
+      "Niger",
+      "Nigeria"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Nigeria (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NG",
+      "edition": "geo-v3-2026-11",
+      "iso": "NG",
+      "confusions": [
+        "CM",
+        "BJ",
+        "NE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NI",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Nicaragua",
+      "Belize",
+      "El Salvador",
+      "Honduras"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Nicaragua (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NI",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NI",
+      "edition": "geo-v3-2026-11",
+      "iso": "NI",
+      "confusions": [
+        "HN",
+        "SV",
+        "BZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NL",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Dänemark",
+      "Niederlande",
+      "Schweiz",
+      "Deutschland"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Niederlande (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NL",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NL",
+      "edition": "geo-v3-2026-11",
+      "iso": "NL",
+      "confusions": [
+        "DE",
+        "DK",
+        "CH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NO",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Schweden",
+      "Finnland",
+      "Estland",
+      "Norwegen"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Norwegen (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NO",
+      "edition": "geo-v3-2026-11",
+      "iso": "NO",
+      "confusions": [
+        "SE",
+        "FI",
+        "EE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NP",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Bangladesch",
+      "Nepal",
+      "Bhutan",
+      "Indien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Nepal (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NP",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NP",
+      "edition": "geo-v3-2026-11",
+      "iso": "NP",
+      "confusions": [
+        "BT",
+        "BD",
+        "IN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NR",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Nauru",
+      "Mikronesien",
+      "Kiribati",
+      "Salomonen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Nauru (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NR",
+      "edition": "geo-v3-2026-11",
+      "iso": "NR",
+      "confusions": [
+        "KI",
+        "SB",
+        "FM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-NZ",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tonga",
+      "Neuseeland",
+      "Fidschi",
+      "Vanuatu"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Neuseeland (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:NZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:NZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "NZ",
+      "confusions": [
+        "TO",
+        "FJ",
+        "VU"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-OM",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Oman",
+      "Vereinigte Arabische Emirate",
+      "Jemen",
+      "Bahrain"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Oman (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:OM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:OM",
+      "edition": "geo-v3-2026-11",
+      "iso": "OM",
+      "confusions": [
+        "AE",
+        "BH",
+        "YE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PA",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Nicaragua",
+      "Costa Rica",
+      "Panama",
+      "Honduras"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Panama (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PA",
+      "edition": "geo-v3-2026-11",
+      "iso": "PA",
+      "confusions": [
+        "CR",
+        "NI",
+        "HN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PE",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kolumbien",
+      "Ecuador",
+      "Chile",
+      "Peru"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Peru (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PE",
+      "edition": "geo-v3-2026-11",
+      "iso": "PE",
+      "confusions": [
+        "EC",
+        "CO",
+        "CL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Papua-Neuguinea",
+      "Mikronesien",
+      "Palau",
+      "Salomonen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Papua-Neuguinea (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PG",
+      "edition": "geo-v3-2026-11",
+      "iso": "PG",
+      "confusions": [
+        "SB",
+        "FM",
+        "PW"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PH",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Malaysia",
+      "Brunei Darussalam",
+      "Kambodscha",
+      "Philippinen"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Philippinen (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PH",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PH",
+      "edition": "geo-v3-2026-11",
+      "iso": "PH",
+      "confusions": [
+        "BN",
+        "MY",
+        "KH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PK",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Afghanistan",
+      "Tadschikistan",
+      "Kirgisistan",
+      "Pakistan"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Pakistan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PK",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PK",
+      "edition": "geo-v3-2026-11",
+      "iso": "PK",
+      "confusions": [
+        "AF",
+        "TJ",
+        "KG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PL",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Polen",
+      "Slowakei",
+      "Belarus",
+      "Litauen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Polen (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PL",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PL",
+      "edition": "geo-v3-2026-11",
+      "iso": "PL",
+      "confusions": [
+        "SK",
+        "LT",
+        "BY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PS",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Jordanien",
+      "Libanon",
+      "Palästina",
+      "Israel"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Palästina (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PS",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PS",
+      "edition": "geo-v3-2026-11",
+      "iso": "PS",
+      "confusions": [
+        "IL",
+        "JO",
+        "LB"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PT",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Schweiz",
+      "Portugal",
+      "Andorra",
+      "Monaco"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Portugal (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PT",
+      "edition": "geo-v3-2026-11",
+      "iso": "PT",
+      "confusions": [
+        "AD",
+        "MC",
+        "CH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PW",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Salomonen",
+      "Papua-Neuguinea",
+      "Mikronesien",
+      "Palau"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Palau (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PW",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PW",
+      "edition": "geo-v3-2026-11",
+      "iso": "PW",
+      "confusions": [
+        "PG",
+        "FM",
+        "SB"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-PY",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Paraguay",
+      "Brasilien",
+      "Bolivien",
+      "Argentinien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Paraguay (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:PY",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:PY",
+      "edition": "geo-v3-2026-11",
+      "iso": "PY",
+      "confusions": [
+        "BO",
+        "AR",
+        "BR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-QA",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Bahrain",
+      "Vereinigte Arabische Emirate",
+      "Saudi-Arabien",
+      "Katar"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Katar (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:QA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:QA",
+      "edition": "geo-v3-2026-11",
+      "iso": "QA",
+      "confusions": [
+        "BH",
+        "AE",
+        "SA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-RO",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Serbien",
+      "Rumänien",
+      "Ungarn",
+      "Republik Moldau"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Rumänien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:RO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:RO",
+      "edition": "geo-v3-2026-11",
+      "iso": "RO",
+      "confusions": [
+        "MD",
+        "RS",
+        "HU"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-RS",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Montenegro",
+      "Bosnien und Herzegowina",
+      "Nordmazedonien",
+      "Serbien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Serbien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:RS",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:RS",
+      "edition": "geo-v3-2026-11",
+      "iso": "RS",
+      "confusions": [
+        "ME",
+        "BA",
+        "MK"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-RU",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Russland",
+      "Estland",
+      "Litauen",
+      "Belarus"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Russland (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:RU",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:RU",
+      "edition": "geo-v3-2026-11",
+      "iso": "RU",
+      "confusions": [
+        "EE",
+        "LT",
+        "BY"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-RW",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Uganda",
+      "Demokratische Republik Kongo",
+      "Burundi",
+      "Ruanda"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Ruanda (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:RW",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:RW",
+      "edition": "geo-v3-2026-11",
+      "iso": "RW",
+      "confusions": [
+        "BI",
+        "UG",
+        "CD"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SA",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Katar",
+      "Kuwait",
+      "Irak",
+      "Saudi-Arabien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Saudi-Arabien (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SA",
+      "edition": "geo-v3-2026-11",
+      "iso": "SA",
+      "confusions": [
+        "KW",
+        "QA",
+        "IQ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SB",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vanuatu",
+      "Salomonen",
+      "Nauru",
+      "Papua-Neuguinea"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Salomonen (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SB",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SB",
+      "edition": "geo-v3-2026-11",
+      "iso": "SB",
+      "confusions": [
+        "NR",
+        "VU",
+        "PG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SC",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Komoren",
+      "Madagaskar",
+      "Somalia",
+      "Seychellen"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Seychellen (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SC",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SC",
+      "edition": "geo-v3-2026-11",
+      "iso": "SC",
+      "confusions": [
+        "KM",
+        "SO",
+        "MG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SD",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Sudan",
+      "Eritrea",
+      "Südsudan",
+      "Äthiopien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Sudan (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SD",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SD",
+      "edition": "geo-v3-2026-11",
+      "iso": "SD",
+      "confusions": [
+        "SS",
+        "ER",
+        "ET"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SE",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Estland",
+      "Schweden",
+      "Dänemark",
+      "Norwegen"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Schweden (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SE",
+      "edition": "geo-v3-2026-11",
+      "iso": "SE",
+      "confusions": [
+        "NO",
+        "EE",
+        "DK"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kambodscha",
+      "Singapur",
+      "Malaysia",
+      "Brunei Darussalam"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Singapur (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SG",
+      "edition": "geo-v3-2026-11",
+      "iso": "SG",
+      "confusions": [
+        "MY",
+        "BN",
+        "KH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SI",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Bosnien und Herzegowina",
+      "San Marino",
+      "Kroatien",
+      "Slowenien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Slowenien (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SI",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SI",
+      "edition": "geo-v3-2026-11",
+      "iso": "SI",
+      "confusions": [
+        "HR",
+        "SM",
+        "BA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SK",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tschechien",
+      "Ungarn",
+      "Polen",
+      "Slowakei"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Slowakei (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SK",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SK",
+      "edition": "geo-v3-2026-11",
+      "iso": "SK",
+      "confusions": [
+        "HU",
+        "CZ",
+        "PL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SL",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Sierra Leone",
+      "Senegal",
+      "Guinea-Bissau",
+      "Liberia"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Sierra Leone (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SL",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SL",
+      "edition": "geo-v3-2026-11",
+      "iso": "SL",
+      "confusions": [
+        "LR",
+        "GW",
+        "SN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SM",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kroatien",
+      "Italien",
+      "Vatikanstadt",
+      "San Marino"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist San Marino (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SM",
+      "edition": "geo-v3-2026-11",
+      "iso": "SM",
+      "confusions": [
+        "IT",
+        "VA",
+        "HR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SN",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Sierra Leone",
+      "Guinea-Bissau",
+      "Senegal",
+      "Guinea"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Senegal (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SN",
+      "edition": "geo-v3-2026-11",
+      "iso": "SN",
+      "confusions": [
+        "GW",
+        "GN",
+        "SL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SO",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Äthiopien",
+      "Dschibuti",
+      "Somalia",
+      "Eritrea"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Somalia (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SO",
+      "edition": "geo-v3-2026-11",
+      "iso": "SO",
+      "confusions": [
+        "DJ",
+        "ER",
+        "ET"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SR",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Guyana",
+      "Brasilien",
+      "Suriname",
+      "Kolumbien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Suriname (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SR",
+      "edition": "geo-v3-2026-11",
+      "iso": "SR",
+      "confusions": [
+        "GY",
+        "BR",
+        "CO"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SS",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Äthiopien",
+      "Uganda",
+      "Sudan",
+      "Südsudan"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Südsudan (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SS",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SS",
+      "edition": "geo-v3-2026-11",
+      "iso": "SS",
+      "confusions": [
+        "UG",
+        "ET",
+        "SD"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ST",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "São Tomé und Príncipe",
+      "Republik Kongo",
+      "Äquatorialguinea",
+      "Kamerun"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist São Tomé und Príncipe (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ST",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ST",
+      "edition": "geo-v3-2026-11",
+      "iso": "ST",
+      "confusions": [
+        "GQ",
+        "CM",
+        "CG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SV",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "El Salvador",
+      "Belize",
+      "Guatemala",
+      "Honduras"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist El Salvador (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SV",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SV",
+      "edition": "geo-v3-2026-11",
+      "iso": "SV",
+      "confusions": [
+        "GT",
+        "HN",
+        "BZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SY",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Israel",
+      "Libanon",
+      "Zypern",
+      "Syrien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Syrien (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SY",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SY",
+      "edition": "geo-v3-2026-11",
+      "iso": "SY",
+      "confusions": [
+        "LB",
+        "CY",
+        "IL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-SZ",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Simbabwe",
+      "Lesotho",
+      "Südafrika",
+      "Eswatini"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Eswatini (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:SZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:SZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "SZ",
+      "confusions": [
+        "LS",
+        "ZW",
+        "ZA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TD",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tschad",
+      "Zentralafrikanische Republik",
+      "Sudan",
+      "Niger"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Tschad (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TD",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TD",
+      "edition": "geo-v3-2026-11",
+      "iso": "TD",
+      "confusions": [
+        "CF",
+        "SD",
+        "NE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Ghana",
+      "Togo",
+      "Benin",
+      "Burkina Faso"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Togo (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TG",
+      "edition": "geo-v3-2026-11",
+      "iso": "TG",
+      "confusions": [
+        "BJ",
+        "GH",
+        "BF"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TH",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Myanmar",
+      "Kambodscha",
+      "Vietnam",
+      "Thailand"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Thailand (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TH",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TH",
+      "edition": "geo-v3-2026-11",
+      "iso": "TH",
+      "confusions": [
+        "KH",
+        "MM",
+        "VN"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TJ",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kirgisistan",
+      "Tadschikistan",
+      "Afghanistan",
+      "Usbekistan"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Tadschikistan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TJ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "TJ",
+      "confusions": [
+        "KG",
+        "UZ",
+        "AF"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TL",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Timor-Leste",
+      "Malaysia",
+      "Philippinen",
+      "Indonesien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Timor-Leste (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TL",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TL",
+      "edition": "geo-v3-2026-11",
+      "iso": "TL",
+      "confusions": [
+        "ID",
+        "MY",
+        "PH"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TM",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Turkmenistan",
+      "Usbekistan",
+      "Afghanistan",
+      "Tadschikistan"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Turkmenistan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TM",
+      "edition": "geo-v3-2026-11",
+      "iso": "TM",
+      "confusions": [
+        "UZ",
+        "AF",
+        "TJ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TN",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Niger",
+      "Algerien",
+      "Marokko",
+      "Tunesien"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Tunesien (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TN",
+      "edition": "geo-v3-2026-11",
+      "iso": "TN",
+      "confusions": [
+        "DZ",
+        "MA",
+        "NE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TO",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Samoa",
+      "Fidschi",
+      "Tonga",
+      "Tuvalu"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Tonga (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TO",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TO",
+      "edition": "geo-v3-2026-11",
+      "iso": "TO",
+      "confusions": [
+        "WS",
+        "FJ",
+        "TV"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TR",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Palästina",
+      "Zypern",
+      "Türkei",
+      "Libanon"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Türkei (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TR",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TR",
+      "edition": "geo-v3-2026-11",
+      "iso": "TR",
+      "confusions": [
+        "CY",
+        "LB",
+        "PS"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TT",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Trinidad und Tobago",
+      "Grenada",
+      "Barbados",
+      "St. Vincent und die Grenadinen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Trinidad und Tobago (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TT",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TT",
+      "edition": "geo-v3-2026-11",
+      "iso": "TT",
+      "confusions": [
+        "GD",
+        "VC",
+        "BB"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TV",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tuvalu",
+      "Nauru",
+      "Fidschi",
+      "Samoa"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Tuvalu (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TV",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TV",
+      "edition": "geo-v3-2026-11",
+      "iso": "TV",
+      "confusions": [
+        "FJ",
+        "WS",
+        "NR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-TZ",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Burundi",
+      "Ruanda",
+      "Tansania",
+      "Malawi"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Tansania (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:TZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:TZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "TZ",
+      "confusions": [
+        "BI",
+        "RW",
+        "MW"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-UA",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Rumänien",
+      "Ukraine",
+      "Bulgarien",
+      "Republik Moldau"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Ukraine (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:UA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:UA",
+      "edition": "geo-v3-2026-11",
+      "iso": "UA",
+      "confusions": [
+        "MD",
+        "RO",
+        "BG"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-UG",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Ruanda",
+      "Kenia",
+      "Uganda",
+      "Burundi"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Uganda (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:UG",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:UG",
+      "edition": "geo-v3-2026-11",
+      "iso": "UG",
+      "confusions": [
+        "RW",
+        "BI",
+        "KE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-US",
+    "category": "maps",
+    "difficulty": 1,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Vereinigte Staaten",
+      "Guatemala",
+      "Kuba",
+      "Belize"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist Vereinigte Staaten (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:US",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:US",
+      "edition": "geo-v3-2026-11",
+      "iso": "US",
+      "confusions": [
+        "BZ",
+        "CU",
+        "GT"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-UY",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Argentinien",
+      "Paraguay",
+      "Chile",
+      "Uruguay"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Uruguay (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:UY",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:UY",
+      "edition": "geo-v3-2026-11",
+      "iso": "UY",
+      "confusions": [
+        "AR",
+        "PY",
+        "CL"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-UZ",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kasachstan",
+      "Afghanistan",
+      "Usbekistan",
+      "Turkmenistan"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Usbekistan (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:UZ",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:UZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "UZ",
+      "confusions": [
+        "TM",
+        "KZ",
+        "AF"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-VA",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Kroatien",
+      "Vatikanstadt",
+      "San Marino",
+      "Italien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Vatikanstadt (Europa). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:VA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:VA",
+      "edition": "geo-v3-2026-11",
+      "iso": "VA",
+      "confusions": [
+        "IT",
+        "SM",
+        "HR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-VC",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "St. Vincent und die Grenadinen",
+      "St. Lucia",
+      "Barbados",
+      "Dominica"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Markiert ist St. Vincent und die Grenadinen (Nordamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:VC",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:VC",
+      "edition": "geo-v3-2026-11",
+      "iso": "VC",
+      "confusions": [
+        "LC",
+        "BB",
+        "DM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-VE",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Guyana",
+      "Suriname",
+      "Kolumbien",
+      "Venezuela"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Venezuela (Südamerika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:VE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:VE",
+      "edition": "geo-v3-2026-11",
+      "iso": "VE",
+      "confusions": [
+        "CO",
+        "GY",
+        "SR"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-VN",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Laos",
+      "Thailand",
+      "Myanmar",
+      "Vietnam"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Vietnam (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:VN",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:VN",
+      "edition": "geo-v3-2026-11",
+      "iso": "VN",
+      "confusions": [
+        "LA",
+        "TH",
+        "MM"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-VU",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Tuvalu",
+      "Fidschi",
+      "Salomonen",
+      "Vanuatu"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Vanuatu (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:VU",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:VU",
+      "edition": "geo-v3-2026-11",
+      "iso": "VU",
+      "confusions": [
+        "FJ",
+        "SB",
+        "TV"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-WS",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Fidschi",
+      "Samoa",
+      "Vanuatu",
+      "Tonga"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Samoa (Ozeanien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:WS",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:WS",
+      "edition": "geo-v3-2026-11",
+      "iso": "WS",
+      "confusions": [
+        "TO",
+        "FJ",
+        "VU"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-YE",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Oman",
+      "Saudi-Arabien",
+      "Jemen",
+      "Vereinigte Arabische Emirate"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markiert ist Jemen (Asien). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:YE",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:YE",
+      "edition": "geo-v3-2026-11",
+      "iso": "YE",
+      "confusions": [
+        "SA",
+        "OM",
+        "AE"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ZA",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Eswatini",
+      "Namibia",
+      "Lesotho",
+      "Südafrika"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Südafrika (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ZA",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ZA",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZA",
+      "confusions": [
+        "LS",
+        "SZ",
+        "NA"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ZM",
+    "category": "maps",
+    "difficulty": 3,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Mosambik",
+      "Sambia",
+      "Malawi",
+      "Simbabwe"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Markiert ist Sambia (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ZM",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ZM",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZM",
+      "confusions": [
+        "MW",
+        "ZW",
+        "MZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  },
+  {
+    "id": "geo-v3-maps-ZW",
+    "category": "maps",
+    "difficulty": 2,
+    "prompt": "Welches Land ist auf der Karte mintfarben markiert?",
+    "options": [
+      "Sambia",
+      "Eswatini",
+      "Botsuana",
+      "Simbabwe"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Markiert ist Simbabwe (Afrika). Die anderen Optionen liegen in derselben geografischen Großregion.",
+    "media": {
+      "type": "atlas-map",
+      "src": "atlas:ZW",
+      "alt": "Karte mit hervorgehobenem Land",
+      "license": "Natural Earth – Public Domain"
+    },
+    "provenance": {
+      "sources": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      ],
+      "subjectKey": "maps:ZW",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZW",
+      "confusions": [
+        "ZM",
+        "BW",
+        "SZ"
+      ],
+      "confusionGroup": "regional-nearest"
+    }
+  }
+]
