@@ -115,7 +115,7 @@ begin
     select qb.id into chosen from game.questions qb where qb.enabled and qb.category=c and qb.difficulty=d and not exists(select 1 from game.match_questions mq0 join game.questions prior on prior.id=mq0.question_id where mq0.room_id=r and prior.subject_key=qb.subject_key)
     order by (select count(*) from game.match_questions mq join game.questions recent_question on recent_question.id=mq.question_id where recent_question.subject_key=qb.subject_key and mq.room_id in(select recent.id from (select distinct rr.id,rr.created_at from game.rooms rr join game.participants pp on pp.room_id=rr.id where rr.status in('playing','completed') and rr.id<>r and pp.profile_id in(select profile_id from game.participants where room_id=r) order by rr.created_at desc limit 5)recent)),random() limit 1;
     if chosen is null then raise exception 'Für diese Kategorie fehlen Fragen.';end if;
-    insert into game.match_questions(room_id,position,question_id,option_order) values(r,pos,chosen,(select array_agg(v order by random()) from generate_series(0,3) v));pos:=pos+1;
+    insert into game.match_questions(room_id,position,question_id,option_order) values(r,pos,chosen,(select array_agg(choice.option_index order by random()) from generate_series(0,3) as choice(option_index)));pos:=pos+1;
    end loop;
   end loop;
   update game.rooms set status='playing',categories=cats where id=r;
