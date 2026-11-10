@@ -1,0 +1,2927 @@
+{
+  "AD": {
+    "latlng": [
+      42.5,
+      1.5
+    ],
+    "areaKm2": 468,
+    "subregion": "Southern Europe",
+    "landlocked": true,
+    "capital": "Andorra la Vella",
+    "borders": [
+      "FR",
+      "ES"
+    ]
+  },
+  "AE": {
+    "latlng": [
+      24,
+      54
+    ],
+    "areaKm2": 83600,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "OM",
+      "SA"
+    ]
+  },
+  "AF": {
+    "latlng": [
+      33,
+      65
+    ],
+    "areaKm2": 652230,
+    "subregion": "Southern Asia",
+    "landlocked": true,
+    "capital": "Kabul",
+    "borders": [
+      "IR",
+      "PK",
+      "TM",
+      "UZ",
+      "TJ",
+      "CN"
+    ]
+  },
+  "AG": {
+    "latlng": [
+      17.05,
+      -61.8
+    ],
+    "areaKm2": 442,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "AL": {
+    "latlng": [
+      41,
+      20
+    ],
+    "areaKm2": 28748,
+    "subregion": "Southeast Europe",
+    "landlocked": false,
+    "capital": "Tirana",
+    "borders": [
+      "ME",
+      "GR",
+      "MK"
+    ]
+  },
+  "AM": {
+    "latlng": [
+      40,
+      45
+    ],
+    "areaKm2": 29743,
+    "subregion": "Western Asia",
+    "landlocked": true,
+    "capital": "Yerevan",
+    "borders": [
+      "AZ",
+      "GE",
+      "IR",
+      "TR"
+    ]
+  },
+  "AO": {
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "areaKm2": 1246700,
+    "subregion": "Middle Africa",
+    "landlocked": false,
+    "capital": "Luanda",
+    "borders": [
+      "CG",
+      "CD",
+      "ZM",
+      "NA"
+    ]
+  },
+  "AR": {
+    "latlng": [
+      -34,
+      -64
+    ],
+    "areaKm2": 2780400,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Buenos Aires",
+    "borders": [
+      "BO",
+      "BR",
+      "CL",
+      "PY",
+      "UY"
+    ]
+  },
+  "AT": {
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "areaKm2": 83871,
+    "subregion": "Central Europe",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "CZ",
+      "DE",
+      "HU",
+      "IT",
+      "LI",
+      "SK",
+      "SI",
+      "CH"
+    ]
+  },
+  "AU": {
+    "latlng": [
+      -27,
+      133
+    ],
+    "areaKm2": 7692024,
+    "subregion": "Australia and New Zealand",
+    "landlocked": false,
+    "capital": "Canberra",
+    "borders": []
+  },
+  "AZ": {
+    "latlng": [
+      40.5,
+      47.5
+    ],
+    "areaKm2": 86600,
+    "subregion": "Western Asia",
+    "landlocked": true,
+    "capital": "Baku",
+    "borders": [
+      "AM",
+      "GE",
+      "IR",
+      "RU",
+      "TR"
+    ]
+  },
+  "BA": {
+    "latlng": [
+      44,
+      18
+    ],
+    "areaKm2": 51209,
+    "subregion": "Southeast Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "HR",
+      "ME",
+      "RS"
+    ]
+  },
+  "BB": {
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "areaKm2": 430,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "BD": {
+    "latlng": [
+      24,
+      90
+    ],
+    "areaKm2": 147570,
+    "subregion": "Southern Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "MM",
+      "IN"
+    ]
+  },
+  "BE": {
+    "latlng": [
+      50.83333333,
+      4
+    ],
+    "areaKm2": 30528,
+    "subregion": "Western Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "FR",
+      "DE",
+      "LU",
+      "NL"
+    ]
+  },
+  "BF": {
+    "latlng": [
+      13,
+      -2
+    ],
+    "areaKm2": 272967,
+    "subregion": "Western Africa",
+    "landlocked": true,
+    "capital": "Ouagadougou",
+    "borders": [
+      "BJ",
+      "CI",
+      "GH",
+      "ML",
+      "NE",
+      "TG"
+    ]
+  },
+  "BG": {
+    "latlng": [
+      43,
+      25
+    ],
+    "areaKm2": 110879,
+    "subregion": "Southeast Europe",
+    "landlocked": false,
+    "capital": "Sofia",
+    "borders": [
+      "GR",
+      "MK",
+      "RO",
+      "RS",
+      "TR"
+    ]
+  },
+  "BH": {
+    "latlng": [
+      26,
+      50.55
+    ],
+    "areaKm2": 765,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Manama",
+    "borders": []
+  },
+  "BI": {
+    "latlng": [
+      -3.5,
+      30
+    ],
+    "areaKm2": 27834,
+    "subregion": "Eastern Africa",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "CD",
+      "RW",
+      "TZ"
+    ]
+  },
+  "BJ": {
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "areaKm2": 112622,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BF",
+      "NE",
+      "NG",
+      "TG"
+    ]
+  },
+  "BN": {
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "areaKm2": 5765,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": "Bandar Seri Begawan",
+    "borders": [
+      "MY"
+    ]
+  },
+  "BO": {
+    "latlng": [
+      -17,
+      -65
+    ],
+    "areaKm2": 1098581,
+    "subregion": "South America",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "AR",
+      "BR",
+      "CL",
+      "PY",
+      "PE"
+    ]
+  },
+  "BR": {
+    "latlng": [
+      -10,
+      -55
+    ],
+    "areaKm2": 8515767,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Brasília",
+    "borders": [
+      "AR",
+      "BO",
+      "CO",
+      "GY",
+      "PY",
+      "PE",
+      "SR",
+      "UY",
+      "VE"
+    ]
+  },
+  "BS": {
+    "latlng": [
+      24.25,
+      -76
+    ],
+    "areaKm2": 13943,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": "Nassau",
+    "borders": []
+  },
+  "BT": {
+    "latlng": [
+      27.5,
+      90.5
+    ],
+    "areaKm2": 38394,
+    "subregion": "Southern Asia",
+    "landlocked": true,
+    "capital": "Thimphu",
+    "borders": [
+      "CN",
+      "IN"
+    ]
+  },
+  "BW": {
+    "latlng": [
+      -22,
+      24
+    ],
+    "areaKm2": 582000,
+    "subregion": "Southern Africa",
+    "landlocked": true,
+    "capital": "Gaborone",
+    "borders": [
+      "NA",
+      "ZA",
+      "ZM",
+      "ZW"
+    ]
+  },
+  "BY": {
+    "latlng": [
+      53,
+      28
+    ],
+    "areaKm2": 207600,
+    "subregion": "Eastern Europe",
+    "landlocked": true,
+    "capital": "Minsk",
+    "borders": [
+      "LV",
+      "LT",
+      "PL",
+      "RU",
+      "UA"
+    ]
+  },
+  "BZ": {
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "areaKm2": 22966,
+    "subregion": "Central America",
+    "landlocked": false,
+    "capital": "Belmopan",
+    "borders": [
+      "GT",
+      "MX"
+    ]
+  },
+  "CA": {
+    "latlng": [
+      60,
+      -95
+    ],
+    "areaKm2": 9984670,
+    "subregion": "North America",
+    "landlocked": false,
+    "capital": "Ottawa",
+    "borders": [
+      "US"
+    ]
+  },
+  "CD": {
+    "latlng": [
+      0,
+      25
+    ],
+    "areaKm2": 2344858,
+    "subregion": "Middle Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "AO",
+      "BI",
+      "CF",
+      "CG",
+      "RW",
+      "SS",
+      "TZ",
+      "UG",
+      "ZM"
+    ]
+  },
+  "CF": {
+    "latlng": [
+      7,
+      21
+    ],
+    "areaKm2": 622984,
+    "subregion": "Middle Africa",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "CM",
+      "TD",
+      "CD",
+      "CG",
+      "SS",
+      "SD"
+    ]
+  },
+  "CG": {
+    "latlng": [
+      -1,
+      15
+    ],
+    "areaKm2": 342000,
+    "subregion": "Middle Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "AO",
+      "CM",
+      "CF",
+      "CD",
+      "GA"
+    ]
+  },
+  "CH": {
+    "latlng": [
+      47,
+      8
+    ],
+    "areaKm2": 41284,
+    "subregion": "Western Europe",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "AT",
+      "FR",
+      "IT",
+      "LI",
+      "DE"
+    ]
+  },
+  "CI": {
+    "latlng": [
+      8,
+      -5
+    ],
+    "areaKm2": 322463,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BF",
+      "GH",
+      "GN",
+      "LR",
+      "ML"
+    ]
+  },
+  "CL": {
+    "latlng": [
+      -30,
+      -71
+    ],
+    "areaKm2": 756102,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Santiago",
+    "borders": [
+      "AR",
+      "BO",
+      "PE"
+    ]
+  },
+  "CM": {
+    "latlng": [
+      6,
+      12
+    ],
+    "areaKm2": 475442,
+    "subregion": "Middle Africa",
+    "landlocked": false,
+    "capital": "Yaoundé",
+    "borders": [
+      "CF",
+      "TD",
+      "CG",
+      "GQ",
+      "GA",
+      "NG"
+    ]
+  },
+  "CN": {
+    "latlng": [
+      35,
+      105
+    ],
+    "areaKm2": 9706961,
+    "subregion": "Eastern Asia",
+    "landlocked": false,
+    "capital": "Peking",
+    "borders": [
+      "AF",
+      "BT",
+      "MM",
+      "IN",
+      "KZ",
+      "NP",
+      "KP",
+      "KG",
+      "LA",
+      "MN",
+      "PK",
+      "RU",
+      "TJ",
+      "VN"
+    ]
+  },
+  "CO": {
+    "latlng": [
+      4,
+      -72
+    ],
+    "areaKm2": 1141748,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Bogotá",
+    "borders": [
+      "BR",
+      "EC",
+      "PA",
+      "PE",
+      "VE"
+    ]
+  },
+  "CR": {
+    "latlng": [
+      10,
+      -84
+    ],
+    "areaKm2": 51100,
+    "subregion": "Central America",
+    "landlocked": false,
+    "capital": "San José",
+    "borders": [
+      "NI",
+      "PA"
+    ]
+  },
+  "CU": {
+    "latlng": [
+      21.5,
+      -80
+    ],
+    "areaKm2": 109884,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "CV": {
+    "latlng": [
+      16,
+      -24
+    ],
+    "areaKm2": 4033,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "CY": {
+    "latlng": [
+      35,
+      33
+    ],
+    "areaKm2": 9251,
+    "subregion": "Southern Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "CZ": {
+    "latlng": [
+      49.75,
+      15.5
+    ],
+    "areaKm2": 78865,
+    "subregion": "Central Europe",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "AT",
+      "DE",
+      "PL",
+      "SK"
+    ]
+  },
+  "DE": {
+    "latlng": [
+      51,
+      9
+    ],
+    "areaKm2": 357114,
+    "subregion": "Western Europe",
+    "landlocked": false,
+    "capital": "Berlin",
+    "borders": [
+      "AT",
+      "BE",
+      "CZ",
+      "DK",
+      "FR",
+      "LU",
+      "NL",
+      "PL",
+      "CH"
+    ]
+  },
+  "DJ": {
+    "latlng": [
+      11.5,
+      43
+    ],
+    "areaKm2": 23200,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": "Djibouti",
+    "borders": [
+      "ER",
+      "ET",
+      "SO"
+    ]
+  },
+  "DK": {
+    "latlng": [
+      56,
+      10
+    ],
+    "areaKm2": 43094,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "DE"
+    ]
+  },
+  "DM": {
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "areaKm2": 751,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "DO": {
+    "latlng": [
+      19,
+      -70.66666666
+    ],
+    "areaKm2": 48671,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": "Santo Domingo",
+    "borders": [
+      "HT"
+    ]
+  },
+  "DZ": {
+    "latlng": [
+      28,
+      3
+    ],
+    "areaKm2": 2381741,
+    "subregion": "Northern Africa",
+    "landlocked": false,
+    "capital": "Algier",
+    "borders": [
+      "TN",
+      "LY",
+      "NE",
+      "MR",
+      "ML",
+      "MA"
+    ]
+  },
+  "EC": {
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "areaKm2": 276841,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Quito",
+    "borders": [
+      "CO",
+      "PE"
+    ]
+  },
+  "EE": {
+    "latlng": [
+      59,
+      26
+    ],
+    "areaKm2": 45227,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "Tallinn",
+    "borders": [
+      "LV",
+      "RU"
+    ]
+  },
+  "EG": {
+    "latlng": [
+      27,
+      30
+    ],
+    "areaKm2": 1002450,
+    "subregion": "Northern Africa",
+    "landlocked": false,
+    "capital": "Kairo",
+    "borders": [
+      "IL",
+      "LY",
+      "PS",
+      "SD"
+    ]
+  },
+  "ER": {
+    "latlng": [
+      15,
+      39
+    ],
+    "areaKm2": 117600,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": "Asmara",
+    "borders": [
+      "DJ",
+      "ET",
+      "SD"
+    ]
+  },
+  "ES": {
+    "latlng": [
+      40,
+      -4
+    ],
+    "areaKm2": 505992,
+    "subregion": "Southern Europe",
+    "landlocked": false,
+    "capital": "Madrid",
+    "borders": [
+      "AD",
+      "FR",
+      "PT",
+      "MA"
+    ]
+  },
+  "ET": {
+    "latlng": [
+      8,
+      38
+    ],
+    "areaKm2": 1104300,
+    "subregion": "Eastern Africa",
+    "landlocked": true,
+    "capital": "Addis Ababa",
+    "borders": [
+      "DJ",
+      "ER",
+      "KE",
+      "SO",
+      "SS",
+      "SD"
+    ]
+  },
+  "FI": {
+    "latlng": [
+      64,
+      26
+    ],
+    "areaKm2": 338424,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "Helsinki",
+    "borders": [
+      "NO",
+      "SE",
+      "RU"
+    ]
+  },
+  "FJ": {
+    "latlng": [
+      -18,
+      175
+    ],
+    "areaKm2": 18272,
+    "subregion": "Melanesia",
+    "landlocked": false,
+    "capital": "Suva",
+    "borders": []
+  },
+  "FM": {
+    "latlng": [
+      6.91666666,
+      158.25
+    ],
+    "areaKm2": 702,
+    "subregion": "Micronesia",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "FR": {
+    "latlng": [
+      46,
+      2
+    ],
+    "areaKm2": 551695,
+    "subregion": "Western Europe",
+    "landlocked": false,
+    "capital": "Paris",
+    "borders": [
+      "AD",
+      "BE",
+      "DE",
+      "IT",
+      "LU",
+      "MC",
+      "ES",
+      "CH"
+    ]
+  },
+  "GA": {
+    "latlng": [
+      -1,
+      11.75
+    ],
+    "areaKm2": 267668,
+    "subregion": "Middle Africa",
+    "landlocked": false,
+    "capital": "Libreville",
+    "borders": [
+      "CM",
+      "CG",
+      "GQ"
+    ]
+  },
+  "GB": {
+    "latlng": [
+      54,
+      -2
+    ],
+    "areaKm2": 242900,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "London",
+    "borders": [
+      "IE"
+    ]
+  },
+  "GD": {
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "areaKm2": 344,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": "St. George's",
+    "borders": []
+  },
+  "GE": {
+    "latlng": [
+      42,
+      43.5
+    ],
+    "areaKm2": 69700,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Tbilisi",
+    "borders": [
+      "AM",
+      "AZ",
+      "RU",
+      "TR"
+    ]
+  },
+  "GH": {
+    "latlng": [
+      8,
+      -2
+    ],
+    "areaKm2": 238533,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": "Accra",
+    "borders": [
+      "BF",
+      "CI",
+      "TG"
+    ]
+  },
+  "GM": {
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "areaKm2": 10689,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "SN"
+    ]
+  },
+  "GN": {
+    "latlng": [
+      11,
+      -10
+    ],
+    "areaKm2": 245857,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": "Conakry",
+    "borders": [
+      "CI",
+      "GW",
+      "LR",
+      "ML",
+      "SN",
+      "SL"
+    ]
+  },
+  "GQ": {
+    "latlng": [
+      2,
+      10
+    ],
+    "areaKm2": 28051,
+    "subregion": "Middle Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "CM",
+      "GA"
+    ]
+  },
+  "GR": {
+    "latlng": [
+      39,
+      22
+    ],
+    "areaKm2": 131990,
+    "subregion": "Southern Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "AL",
+      "BG",
+      "TR",
+      "MK"
+    ]
+  },
+  "GT": {
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "areaKm2": 108889,
+    "subregion": "Central America",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BZ",
+      "SV",
+      "HN",
+      "MX"
+    ]
+  },
+  "GW": {
+    "latlng": [
+      12,
+      -15
+    ],
+    "areaKm2": 36125,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": "Bissau",
+    "borders": [
+      "GN",
+      "SN"
+    ]
+  },
+  "GY": {
+    "latlng": [
+      5,
+      -59
+    ],
+    "areaKm2": 214969,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Georgetown",
+    "borders": [
+      "BR",
+      "SR",
+      "VE"
+    ]
+  },
+  "HN": {
+    "latlng": [
+      15,
+      -86.5
+    ],
+    "areaKm2": 112492,
+    "subregion": "Central America",
+    "landlocked": false,
+    "capital": "Tegucigalpa",
+    "borders": [
+      "GT",
+      "SV",
+      "NI"
+    ]
+  },
+  "HR": {
+    "latlng": [
+      45.16666666,
+      15.5
+    ],
+    "areaKm2": 56594,
+    "subregion": "Southeast Europe",
+    "landlocked": false,
+    "capital": "Zagreb",
+    "borders": [
+      "BA",
+      "HU",
+      "ME",
+      "RS",
+      "SI"
+    ]
+  },
+  "HT": {
+    "latlng": [
+      19,
+      -72.41666666
+    ],
+    "areaKm2": 27750,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "DO"
+    ]
+  },
+  "HU": {
+    "latlng": [
+      47,
+      20
+    ],
+    "areaKm2": 93028,
+    "subregion": "Central Europe",
+    "landlocked": true,
+    "capital": "Budapest",
+    "borders": [
+      "AT",
+      "HR",
+      "RO",
+      "RS",
+      "SK",
+      "SI",
+      "UA"
+    ]
+  },
+  "ID": {
+    "latlng": [
+      -5,
+      120
+    ],
+    "areaKm2": 1904569,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "TL",
+      "MY",
+      "PG"
+    ]
+  },
+  "IE": {
+    "latlng": [
+      53,
+      -8
+    ],
+    "areaKm2": 70273,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "Dublin",
+    "borders": [
+      "GB"
+    ]
+  },
+  "IL": {
+    "latlng": [
+      31.47,
+      35.13
+    ],
+    "areaKm2": 20770,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "EG",
+      "JO",
+      "LB",
+      "PS",
+      "SY"
+    ]
+  },
+  "IN": {
+    "latlng": [
+      20,
+      77
+    ],
+    "areaKm2": 3287590,
+    "subregion": "Southern Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BD",
+      "BT",
+      "MM",
+      "CN",
+      "NP",
+      "PK"
+    ]
+  },
+  "IQ": {
+    "latlng": [
+      33,
+      44
+    ],
+    "areaKm2": 438317,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Baghdad",
+    "borders": [
+      "IR",
+      "JO",
+      "KW",
+      "SA",
+      "SY",
+      "TR"
+    ]
+  },
+  "IR": {
+    "latlng": [
+      32,
+      53
+    ],
+    "areaKm2": 1648195,
+    "subregion": "Southern Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "AF",
+      "AM",
+      "AZ",
+      "IQ",
+      "PK",
+      "TR",
+      "TM"
+    ]
+  },
+  "IS": {
+    "latlng": [
+      65,
+      -18
+    ],
+    "areaKm2": 103000,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "Reykjavik",
+    "borders": []
+  },
+  "IT": {
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "areaKm2": 301336,
+    "subregion": "Southern Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "AT",
+      "FR",
+      "SM",
+      "SI",
+      "CH",
+      "VA"
+    ]
+  },
+  "JM": {
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "areaKm2": 10991,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": "Kingston",
+    "borders": []
+  },
+  "JO": {
+    "latlng": [
+      31,
+      36
+    ],
+    "areaKm2": 89342,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Amman",
+    "borders": [
+      "IQ",
+      "IL",
+      "PS",
+      "SA",
+      "SY"
+    ]
+  },
+  "JP": {
+    "latlng": [
+      36,
+      138
+    ],
+    "areaKm2": 377930,
+    "subregion": "Eastern Asia",
+    "landlocked": false,
+    "capital": "Tokio",
+    "borders": []
+  },
+  "KE": {
+    "latlng": [
+      1,
+      38
+    ],
+    "areaKm2": 580367,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": "Nairobi",
+    "borders": [
+      "ET",
+      "SO",
+      "SS",
+      "TZ",
+      "UG"
+    ]
+  },
+  "KG": {
+    "latlng": [
+      41,
+      75
+    ],
+    "areaKm2": 199951,
+    "subregion": "Central Asia",
+    "landlocked": true,
+    "capital": "Bishkek",
+    "borders": [
+      "CN",
+      "KZ",
+      "TJ",
+      "UZ"
+    ]
+  },
+  "KH": {
+    "latlng": [
+      13,
+      105
+    ],
+    "areaKm2": 181035,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": "Phnom Penh",
+    "borders": [
+      "LA",
+      "TH",
+      "VN"
+    ]
+  },
+  "KI": {
+    "latlng": [
+      1.41666666,
+      173
+    ],
+    "areaKm2": 811,
+    "subregion": "Micronesia",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "KM": {
+    "latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "areaKm2": 1862,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "KN": {
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "areaKm2": 261,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "KP": {
+    "latlng": [
+      40,
+      127
+    ],
+    "areaKm2": 120538,
+    "subregion": "Eastern Asia",
+    "landlocked": false,
+    "capital": "Pyongyang",
+    "borders": [
+      "CN",
+      "KR",
+      "RU"
+    ]
+  },
+  "KR": {
+    "latlng": [
+      37,
+      127.5
+    ],
+    "areaKm2": 100210,
+    "subregion": "Eastern Asia",
+    "landlocked": false,
+    "capital": "Seoul",
+    "borders": [
+      "KP"
+    ]
+  },
+  "KW": {
+    "latlng": [
+      29.5,
+      45.75
+    ],
+    "areaKm2": 17818,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "IQ",
+      "SA"
+    ]
+  },
+  "KZ": {
+    "latlng": [
+      48,
+      68
+    ],
+    "areaKm2": 2724900,
+    "subregion": "Central Asia",
+    "landlocked": true,
+    "capital": "Astana",
+    "borders": [
+      "CN",
+      "KG",
+      "RU",
+      "TM",
+      "UZ"
+    ]
+  },
+  "LA": {
+    "latlng": [
+      18,
+      105
+    ],
+    "areaKm2": 236800,
+    "subregion": "South-Eastern Asia",
+    "landlocked": true,
+    "capital": "Vientiane",
+    "borders": [
+      "MM",
+      "KH",
+      "CN",
+      "TH",
+      "VN"
+    ]
+  },
+  "LB": {
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "areaKm2": 10452,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Beirut",
+    "borders": [
+      "IL",
+      "SY"
+    ]
+  },
+  "LC": {
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "areaKm2": 616,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": "Castries",
+    "borders": []
+  },
+  "LI": {
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "areaKm2": 160,
+    "subregion": "Western Europe",
+    "landlocked": true,
+    "capital": "Vaduz",
+    "borders": [
+      "AT",
+      "CH"
+    ]
+  },
+  "LK": {
+    "latlng": [
+      7,
+      81
+    ],
+    "areaKm2": 65610,
+    "subregion": "Southern Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "IN"
+    ]
+  },
+  "LR": {
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "areaKm2": 111369,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": "Monrovia",
+    "borders": [
+      "GN",
+      "CI",
+      "SL"
+    ]
+  },
+  "LS": {
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "areaKm2": 30355,
+    "subregion": "Southern Africa",
+    "landlocked": true,
+    "capital": "Maseru",
+    "borders": [
+      "ZA"
+    ]
+  },
+  "LT": {
+    "latlng": [
+      56,
+      24
+    ],
+    "areaKm2": 65300,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "Vilnius",
+    "borders": [
+      "BY",
+      "LV",
+      "PL",
+      "RU"
+    ]
+  },
+  "LU": {
+    "latlng": [
+      49.75,
+      6.16666666
+    ],
+    "areaKm2": 2586,
+    "subregion": "Western Europe",
+    "landlocked": true,
+    "capital": "Luxembourg",
+    "borders": [
+      "BE",
+      "FR",
+      "DE"
+    ]
+  },
+  "LV": {
+    "latlng": [
+      57,
+      25
+    ],
+    "areaKm2": 64559,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "Riga",
+    "borders": [
+      "BY",
+      "EE",
+      "LT",
+      "RU"
+    ]
+  },
+  "LY": {
+    "latlng": [
+      25,
+      17
+    ],
+    "areaKm2": 1759540,
+    "subregion": "Northern Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "DZ",
+      "TD",
+      "EG",
+      "NE",
+      "SD",
+      "TN"
+    ]
+  },
+  "MA": {
+    "latlng": [
+      32,
+      -5
+    ],
+    "areaKm2": 446550,
+    "subregion": "Northern Africa",
+    "landlocked": false,
+    "capital": "Rabat",
+    "borders": [
+      "DZ",
+      "ES"
+    ]
+  },
+  "MC": {
+    "latlng": [
+      43.73333333,
+      7.4
+    ],
+    "areaKm2": 2.02,
+    "subregion": "Western Europe",
+    "landlocked": false,
+    "capital": "Monaco",
+    "borders": [
+      "FR"
+    ]
+  },
+  "MD": {
+    "latlng": [
+      47,
+      29
+    ],
+    "areaKm2": 33846,
+    "subregion": "Eastern Europe",
+    "landlocked": true,
+    "capital": "Chișinău",
+    "borders": [
+      "RO",
+      "UA"
+    ]
+  },
+  "ME": {
+    "latlng": [
+      42.5,
+      19.3
+    ],
+    "areaKm2": 13812,
+    "subregion": "Southeast Europe",
+    "landlocked": false,
+    "capital": "Podgorica",
+    "borders": [
+      "AL",
+      "BA",
+      "HR",
+      "RS"
+    ]
+  },
+  "MG": {
+    "latlng": [
+      -20,
+      47
+    ],
+    "areaKm2": 587041,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": "Antananarivo",
+    "borders": []
+  },
+  "MH": {
+    "latlng": [
+      9,
+      168
+    ],
+    "areaKm2": 181,
+    "subregion": "Micronesia",
+    "landlocked": false,
+    "capital": "Majuro",
+    "borders": []
+  },
+  "MK": {
+    "latlng": [
+      41.83333333,
+      22
+    ],
+    "areaKm2": 25713,
+    "subregion": "Southeast Europe",
+    "landlocked": true,
+    "capital": "Skopje",
+    "borders": [
+      "AL",
+      "BG",
+      "GR",
+      "RS"
+    ]
+  },
+  "ML": {
+    "latlng": [
+      17,
+      -4
+    ],
+    "areaKm2": 1240192,
+    "subregion": "Western Africa",
+    "landlocked": true,
+    "capital": "Bamako",
+    "borders": [
+      "DZ",
+      "BF",
+      "GN",
+      "CI",
+      "MR",
+      "NE",
+      "SN"
+    ]
+  },
+  "MM": {
+    "latlng": [
+      22,
+      98
+    ],
+    "areaKm2": 676578,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BD",
+      "CN",
+      "IN",
+      "LA",
+      "TH"
+    ]
+  },
+  "MN": {
+    "latlng": [
+      46,
+      105
+    ],
+    "areaKm2": 1564110,
+    "subregion": "Eastern Asia",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "CN",
+      "RU"
+    ]
+  },
+  "MR": {
+    "latlng": [
+      20,
+      -12
+    ],
+    "areaKm2": 1030700,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": "Nouakchott",
+    "borders": [
+      "DZ",
+      "ML",
+      "SN"
+    ]
+  },
+  "MT": {
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ],
+    "areaKm2": 316,
+    "subregion": "Southern Europe",
+    "landlocked": false,
+    "capital": "Valletta",
+    "borders": []
+  },
+  "MU": {
+    "latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "areaKm2": 2040,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": "Port Louis",
+    "borders": []
+  },
+  "MV": {
+    "latlng": [
+      3.25,
+      73
+    ],
+    "areaKm2": 300,
+    "subregion": "Southern Asia",
+    "landlocked": false,
+    "capital": "Malé",
+    "borders": []
+  },
+  "MW": {
+    "latlng": [
+      -13.5,
+      34
+    ],
+    "areaKm2": 118484,
+    "subregion": "Eastern Africa",
+    "landlocked": true,
+    "capital": "Lilongwe",
+    "borders": [
+      "MZ",
+      "TZ",
+      "ZM"
+    ]
+  },
+  "MX": {
+    "latlng": [
+      23,
+      -102
+    ],
+    "areaKm2": 1964375,
+    "subregion": "North America",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BZ",
+      "GT",
+      "US"
+    ]
+  },
+  "MY": {
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "areaKm2": 330803,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BN",
+      "ID",
+      "TH"
+    ]
+  },
+  "MZ": {
+    "latlng": [
+      -18.25,
+      35
+    ],
+    "areaKm2": 801590,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": "Maputo",
+    "borders": [
+      "MW",
+      "ZA",
+      "SZ",
+      "TZ",
+      "ZM",
+      "ZW"
+    ]
+  },
+  "NA": {
+    "latlng": [
+      -22,
+      17
+    ],
+    "areaKm2": 825615,
+    "subregion": "Southern Africa",
+    "landlocked": false,
+    "capital": "Windhoek",
+    "borders": [
+      "AO",
+      "BW",
+      "ZA",
+      "ZM"
+    ]
+  },
+  "NE": {
+    "latlng": [
+      16,
+      8
+    ],
+    "areaKm2": 1267000,
+    "subregion": "Western Africa",
+    "landlocked": true,
+    "capital": "Niamey",
+    "borders": [
+      "DZ",
+      "BJ",
+      "BF",
+      "TD",
+      "LY",
+      "ML",
+      "NG"
+    ]
+  },
+  "NG": {
+    "latlng": [
+      10,
+      8
+    ],
+    "areaKm2": 923768,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BJ",
+      "CM",
+      "TD",
+      "NE"
+    ]
+  },
+  "NI": {
+    "latlng": [
+      13,
+      -85
+    ],
+    "areaKm2": 130373,
+    "subregion": "Central America",
+    "landlocked": false,
+    "capital": "Managua",
+    "borders": [
+      "CR",
+      "HN"
+    ]
+  },
+  "NL": {
+    "latlng": [
+      52.5,
+      5.75
+    ],
+    "areaKm2": 41850,
+    "subregion": "Western Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BE",
+      "DE"
+    ]
+  },
+  "NO": {
+    "latlng": [
+      62,
+      10
+    ],
+    "areaKm2": 323802,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "Oslo",
+    "borders": [
+      "FI",
+      "SE",
+      "RU"
+    ]
+  },
+  "NP": {
+    "latlng": [
+      28,
+      84
+    ],
+    "areaKm2": 147181,
+    "subregion": "Southern Asia",
+    "landlocked": true,
+    "capital": "Kathmandu",
+    "borders": [
+      "CN",
+      "IN"
+    ]
+  },
+  "NR": {
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "areaKm2": 21,
+    "subregion": "Micronesia",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "NZ": {
+    "latlng": [
+      -41,
+      174
+    ],
+    "areaKm2": 270467,
+    "subregion": "Australia and New Zealand",
+    "landlocked": false,
+    "capital": "Wellington",
+    "borders": []
+  },
+  "OM": {
+    "latlng": [
+      21,
+      57
+    ],
+    "areaKm2": 309500,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Muscat",
+    "borders": [
+      "SA",
+      "AE",
+      "YE"
+    ]
+  },
+  "PA": {
+    "latlng": [
+      9,
+      -80
+    ],
+    "areaKm2": 75417,
+    "subregion": "Central America",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "CO",
+      "CR"
+    ]
+  },
+  "PE": {
+    "latlng": [
+      -10,
+      -76
+    ],
+    "areaKm2": 1285216,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Lima",
+    "borders": [
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC"
+    ]
+  },
+  "PG": {
+    "latlng": [
+      -6,
+      147
+    ],
+    "areaKm2": 462840,
+    "subregion": "Melanesia",
+    "landlocked": false,
+    "capital": "Port Moresby",
+    "borders": [
+      "ID"
+    ]
+  },
+  "PH": {
+    "latlng": [
+      13,
+      122
+    ],
+    "areaKm2": 342353,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": "Manila",
+    "borders": []
+  },
+  "PK": {
+    "latlng": [
+      30,
+      70
+    ],
+    "areaKm2": 881912,
+    "subregion": "Southern Asia",
+    "landlocked": false,
+    "capital": "Islamabad",
+    "borders": [
+      "AF",
+      "CN",
+      "IN",
+      "IR"
+    ]
+  },
+  "PL": {
+    "latlng": [
+      52,
+      20
+    ],
+    "areaKm2": 312679,
+    "subregion": "Central Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BY",
+      "CZ",
+      "DE",
+      "LT",
+      "RU",
+      "SK",
+      "UA"
+    ]
+  },
+  "PS": {
+    "latlng": [
+      31.9,
+      35.2
+    ],
+    "areaKm2": 6220,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "IL",
+      "EG",
+      "JO"
+    ]
+  },
+  "PT": {
+    "latlng": [
+      39.5,
+      -8
+    ],
+    "areaKm2": 92090,
+    "subregion": "Southern Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "ES"
+    ]
+  },
+  "PW": {
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "areaKm2": 459,
+    "subregion": "Micronesia",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "PY": {
+    "latlng": [
+      -23,
+      -58
+    ],
+    "areaKm2": 406752,
+    "subregion": "South America",
+    "landlocked": true,
+    "capital": "Asunción",
+    "borders": [
+      "AR",
+      "BO",
+      "BR"
+    ]
+  },
+  "QA": {
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "areaKm2": 11586,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Doha",
+    "borders": [
+      "SA"
+    ]
+  },
+  "RO": {
+    "latlng": [
+      46,
+      25
+    ],
+    "areaKm2": 238391,
+    "subregion": "Southeast Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BG",
+      "HU",
+      "MD",
+      "RS",
+      "UA"
+    ]
+  },
+  "RS": {
+    "latlng": [
+      44,
+      21
+    ],
+    "areaKm2": 88361,
+    "subregion": "Southeast Europe",
+    "landlocked": true,
+    "capital": "Belgrad",
+    "borders": [
+      "BA",
+      "BG",
+      "HR",
+      "HU",
+      "MK",
+      "ME",
+      "RO"
+    ]
+  },
+  "RU": {
+    "latlng": [
+      60,
+      100
+    ],
+    "areaKm2": 17098242,
+    "subregion": "Eastern Europe",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "AZ",
+      "BY",
+      "CN",
+      "EE",
+      "FI",
+      "GE",
+      "KZ",
+      "KP",
+      "LV",
+      "LT",
+      "MN",
+      "NO",
+      "PL",
+      "UA"
+    ]
+  },
+  "RW": {
+    "latlng": [
+      -2,
+      30
+    ],
+    "areaKm2": 26338,
+    "subregion": "Eastern Africa",
+    "landlocked": true,
+    "capital": "Kigali",
+    "borders": [
+      "BI",
+      "CD",
+      "TZ",
+      "UG"
+    ]
+  },
+  "SA": {
+    "latlng": [
+      25,
+      45
+    ],
+    "areaKm2": 2149690,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Riyadh",
+    "borders": [
+      "IQ",
+      "JO",
+      "KW",
+      "OM",
+      "QA",
+      "AE",
+      "YE"
+    ]
+  },
+  "SB": {
+    "latlng": [
+      -8,
+      159
+    ],
+    "areaKm2": 28896,
+    "subregion": "Melanesia",
+    "landlocked": false,
+    "capital": "Honiara",
+    "borders": []
+  },
+  "SC": {
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "areaKm2": 452,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": "Victoria",
+    "borders": []
+  },
+  "SD": {
+    "latlng": [
+      15,
+      30
+    ],
+    "areaKm2": 1886068,
+    "subregion": "Northern Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "CF",
+      "TD",
+      "EG",
+      "ER",
+      "ET",
+      "LY",
+      "SS"
+    ]
+  },
+  "SE": {
+    "latlng": [
+      62,
+      15
+    ],
+    "areaKm2": 450295,
+    "subregion": "Northern Europe",
+    "landlocked": false,
+    "capital": "Stockholm",
+    "borders": [
+      "FI",
+      "NO"
+    ]
+  },
+  "SG": {
+    "latlng": [
+      1.36666666,
+      103.8
+    ],
+    "areaKm2": 710,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": "Singapore",
+    "borders": []
+  },
+  "SI": {
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ],
+    "areaKm2": 20273,
+    "subregion": "Central Europe",
+    "landlocked": false,
+    "capital": "Ljubljana",
+    "borders": [
+      "AT",
+      "HR",
+      "IT",
+      "HU"
+    ]
+  },
+  "SK": {
+    "latlng": [
+      48.66666666,
+      19.5
+    ],
+    "areaKm2": 49037,
+    "subregion": "Central Europe",
+    "landlocked": true,
+    "capital": "Bratislava",
+    "borders": [
+      "AT",
+      "CZ",
+      "HU",
+      "PL",
+      "UA"
+    ]
+  },
+  "SL": {
+    "latlng": [
+      8.5,
+      -11.5
+    ],
+    "areaKm2": 71740,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": "Freetown",
+    "borders": [
+      "GN",
+      "LR"
+    ]
+  },
+  "SM": {
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "areaKm2": 61,
+    "subregion": "Southern Europe",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "IT"
+    ]
+  },
+  "SN": {
+    "latlng": [
+      14,
+      -14
+    ],
+    "areaKm2": 196722,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": "Dakar",
+    "borders": [
+      "GM",
+      "GN",
+      "GW",
+      "ML",
+      "MR"
+    ]
+  },
+  "SO": {
+    "latlng": [
+      10,
+      49
+    ],
+    "areaKm2": 637657,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "DJ",
+      "ET",
+      "KE"
+    ]
+  },
+  "SR": {
+    "latlng": [
+      4,
+      -56
+    ],
+    "areaKm2": 163820,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Paramaribo",
+    "borders": [
+      "BR",
+      "GY"
+    ]
+  },
+  "SS": {
+    "latlng": [
+      7,
+      30
+    ],
+    "areaKm2": 619745,
+    "subregion": "Middle Africa",
+    "landlocked": true,
+    "capital": "Juba",
+    "borders": [
+      "CF",
+      "CD",
+      "ET",
+      "KE",
+      "SD",
+      "UG"
+    ]
+  },
+  "ST": {
+    "latlng": [
+      1,
+      7
+    ],
+    "areaKm2": 964,
+    "subregion": "Middle Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "SV": {
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "areaKm2": 21041,
+    "subregion": "Central America",
+    "landlocked": false,
+    "capital": "San Salvador",
+    "borders": [
+      "GT",
+      "HN"
+    ]
+  },
+  "SY": {
+    "latlng": [
+      35,
+      38
+    ],
+    "areaKm2": 185180,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Damaskus",
+    "borders": [
+      "IQ",
+      "IL",
+      "JO",
+      "LB",
+      "TR"
+    ]
+  },
+  "SZ": {
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "areaKm2": 17364,
+    "subregion": "Southern Africa",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "MZ",
+      "ZA"
+    ]
+  },
+  "TD": {
+    "latlng": [
+      15,
+      19
+    ],
+    "areaKm2": 1284000,
+    "subregion": "Middle Africa",
+    "landlocked": true,
+    "capital": "N'Djamena",
+    "borders": [
+      "CM",
+      "CF",
+      "LY",
+      "NE",
+      "NG",
+      "SD"
+    ]
+  },
+  "TG": {
+    "latlng": [
+      8,
+      1.16666666
+    ],
+    "areaKm2": 56785,
+    "subregion": "Western Africa",
+    "landlocked": false,
+    "capital": "Lomé",
+    "borders": [
+      "BJ",
+      "BF",
+      "GH"
+    ]
+  },
+  "TH": {
+    "latlng": [
+      15,
+      100
+    ],
+    "areaKm2": 513120,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": "Bangkok",
+    "borders": [
+      "MM",
+      "KH",
+      "LA",
+      "MY"
+    ]
+  },
+  "TJ": {
+    "latlng": [
+      39,
+      71
+    ],
+    "areaKm2": 143100,
+    "subregion": "Central Asia",
+    "landlocked": true,
+    "capital": "Dushanbe",
+    "borders": [
+      "AF",
+      "CN",
+      "KG",
+      "UZ"
+    ]
+  },
+  "TL": {
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "areaKm2": 14874,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": "Dili",
+    "borders": [
+      "ID"
+    ]
+  },
+  "TM": {
+    "latlng": [
+      40,
+      60
+    ],
+    "areaKm2": 488100,
+    "subregion": "Central Asia",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "AF",
+      "IR",
+      "KZ",
+      "UZ"
+    ]
+  },
+  "TN": {
+    "latlng": [
+      34,
+      9
+    ],
+    "areaKm2": 163610,
+    "subregion": "Northern Africa",
+    "landlocked": false,
+    "capital": "Tunis",
+    "borders": [
+      "DZ",
+      "LY"
+    ]
+  },
+  "TO": {
+    "latlng": [
+      -20,
+      -175
+    ],
+    "areaKm2": 747,
+    "subregion": "Polynesia",
+    "landlocked": false,
+    "capital": "Nuku'alofa",
+    "borders": []
+  },
+  "TR": {
+    "latlng": [
+      39,
+      35
+    ],
+    "areaKm2": 783562,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": "Ankara",
+    "borders": [
+      "AM",
+      "AZ",
+      "BG",
+      "GE",
+      "GR",
+      "IR",
+      "IQ",
+      "SY"
+    ]
+  },
+  "TT": {
+    "latlng": [
+      11,
+      -61
+    ],
+    "areaKm2": 5130,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": "Port of Spain",
+    "borders": []
+  },
+  "TV": {
+    "latlng": [
+      -8,
+      178
+    ],
+    "areaKm2": 26,
+    "subregion": "Polynesia",
+    "landlocked": false,
+    "capital": "Funafuti",
+    "borders": []
+  },
+  "TZ": {
+    "latlng": [
+      -6,
+      35
+    ],
+    "areaKm2": 945087,
+    "subregion": "Eastern Africa",
+    "landlocked": false,
+    "capital": "Dodoma",
+    "borders": [
+      "BI",
+      "CD",
+      "KE",
+      "MW",
+      "MZ",
+      "RW",
+      "UG",
+      "ZM"
+    ]
+  },
+  "UA": {
+    "latlng": [
+      49,
+      32
+    ],
+    "areaKm2": 603500,
+    "subregion": "Eastern Europe",
+    "landlocked": false,
+    "capital": "Kyjiw",
+    "borders": [
+      "BY",
+      "HU",
+      "MD",
+      "PL",
+      "RO",
+      "RU",
+      "SK"
+    ]
+  },
+  "UG": {
+    "latlng": [
+      1,
+      32
+    ],
+    "areaKm2": 241550,
+    "subregion": "Eastern Africa",
+    "landlocked": true,
+    "capital": "Kampala",
+    "borders": [
+      "CD",
+      "KE",
+      "RW",
+      "SS",
+      "TZ"
+    ]
+  },
+  "US": {
+    "latlng": [
+      38,
+      -97
+    ],
+    "areaKm2": 9372610,
+    "subregion": "North America",
+    "landlocked": false,
+    "capital": "Washington D.C.",
+    "borders": [
+      "CA",
+      "MX"
+    ]
+  },
+  "UY": {
+    "latlng": [
+      -33,
+      -56
+    ],
+    "areaKm2": 181034,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": "Montevideo",
+    "borders": [
+      "AR",
+      "BR"
+    ]
+  },
+  "UZ": {
+    "latlng": [
+      41,
+      64
+    ],
+    "areaKm2": 447400,
+    "subregion": "Central Asia",
+    "landlocked": true,
+    "capital": "Tashkent",
+    "borders": [
+      "AF",
+      "KZ",
+      "KG",
+      "TJ",
+      "TM"
+    ]
+  },
+  "VA": {
+    "latlng": [
+      41.9,
+      12.45
+    ],
+    "areaKm2": 0.44,
+    "subregion": "Southern Europe",
+    "landlocked": true,
+    "capital": null,
+    "borders": [
+      "IT"
+    ]
+  },
+  "VC": {
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "areaKm2": 389,
+    "subregion": "Caribbean",
+    "landlocked": false,
+    "capital": null,
+    "borders": []
+  },
+  "VE": {
+    "latlng": [
+      8,
+      -66
+    ],
+    "areaKm2": 916445,
+    "subregion": "South America",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BR",
+      "CO",
+      "GY"
+    ]
+  },
+  "VN": {
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "areaKm2": 331212,
+    "subregion": "South-Eastern Asia",
+    "landlocked": false,
+    "capital": "Hanoi",
+    "borders": [
+      "KH",
+      "CN",
+      "LA"
+    ]
+  },
+  "VU": {
+    "latlng": [
+      -16,
+      167
+    ],
+    "areaKm2": 12189,
+    "subregion": "Melanesia",
+    "landlocked": false,
+    "capital": "Port Vila",
+    "borders": []
+  },
+  "WS": {
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "areaKm2": 2842,
+    "subregion": "Polynesia",
+    "landlocked": false,
+    "capital": "Apia",
+    "borders": []
+  },
+  "YE": {
+    "latlng": [
+      15,
+      48
+    ],
+    "areaKm2": 527968,
+    "subregion": "Western Asia",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "OM",
+      "SA"
+    ]
+  },
+  "ZA": {
+    "latlng": [
+      -29,
+      24
+    ],
+    "areaKm2": 1221037,
+    "subregion": "Southern Africa",
+    "landlocked": false,
+    "capital": null,
+    "borders": [
+      "BW",
+      "LS",
+      "MZ",
+      "NA",
+      "SZ",
+      "ZW"
+    ]
+  },
+  "ZM": {
+    "latlng": [
+      -15,
+      30
+    ],
+    "areaKm2": 752612,
+    "subregion": "Eastern Africa",
+    "landlocked": true,
+    "capital": "Lusaka",
+    "borders": [
+      "AO",
+      "BW",
+      "CD",
+      "MW",
+      "MZ",
+      "NA",
+      "TZ",
+      "ZW"
+    ]
+  },
+  "ZW": {
+    "latlng": [
+      -20,
+      30
+    ],
+    "areaKm2": 390757,
+    "subregion": "Eastern Africa",
+    "landlocked": true,
+    "capital": "Harare",
+    "borders": [
+      "BW",
+      "MZ",
+      "ZA",
+      "ZM"
+    ]
+  }
+}

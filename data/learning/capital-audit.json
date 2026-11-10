@@ -1,0 +1,2022 @@
+[
+  {
+    "iso": "AD",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Andorra - Andorre23"
+    ],
+    "unCapitalRows": [
+      "ANDORRA LA VELLA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AE",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AF",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Afghanistan"
+    ],
+    "unCapitalRows": [
+      "KABUL CENTER"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AG",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AL",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Albania - Albanie"
+    ],
+    "unCapitalRows": [
+      "TIRANA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AM",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Armenia - Arménie"
+    ],
+    "unCapitalRows": [
+      "YEREVAN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AO",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Angola1"
+    ],
+    "unCapitalRows": [
+      "LUANDA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Argentina - Argentine25"
+    ],
+    "unCapitalRows": [
+      "BUENOS AIRES"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AT",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Austria - Autriche"
+    ],
+    "unCapitalRows": [
+      "WIEN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AU",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Australia - Australie86"
+    ],
+    "unCapitalRows": [
+      "CANBERRA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "AZ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Azerbaijan - Azerbaïdjan"
+    ],
+    "unCapitalRows": [
+      "BAKU"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BA",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BB",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BD",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Bangladesh33"
+    ],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BE",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Belgium - Belgique"
+    ],
+    "unCapitalRows": [
+      "BRUXELLES (BRUSSEL)"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BF",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Burkina Faso"
+    ],
+    "unCapitalRows": [
+      "OUAGADOUGOU"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BG",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Bulgaria - Bulgarie"
+    ],
+    "unCapitalRows": [
+      "SOFIA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BH",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Bahrain - Bahreïn"
+    ],
+    "unCapitalRows": [
+      "MANAMA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BI",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Burundi"
+    ],
+    "unCapitalRows": [
+      "BUJUMBURA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BJ",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Benin - Bénin"
+    ],
+    "unCapitalRows": [
+      "PORTO-NOVO"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "BN",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Brunei Darussalam - Brunéi Darussalam"
+    ],
+    "unCapitalRows": [
+      "BANDAR SERI BEGAWAN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BO",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "BR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Brazil - Brésil"
+    ],
+    "unCapitalRows": [
+      "BRASÍLIA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BS",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Bahamas"
+    ],
+    "unCapitalRows": [
+      "NASSAU"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BT",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Bhutan - Bhoutan"
+    ],
+    "unCapitalRows": [
+      "THIMPHU"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BW",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Botswana"
+    ],
+    "unCapitalRows": [
+      "GABORONE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BY",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Belarus - Bélarus"
+    ],
+    "unCapitalRows": [
+      "MINSK"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "BZ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Belize"
+    ],
+    "unCapitalRows": [
+      "BELMOPAN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CA",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Canada20"
+    ],
+    "unCapitalRows": [
+      "OTTAWA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CD",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CF",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CG",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CH",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Switzerland - Suisse78"
+    ],
+    "unCapitalRows": [
+      "BERNE"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "CI",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CL",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Chile - Chili"
+    ],
+    "unCapitalRows": [
+      "SANTIAGO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CM",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Cameroon - Cameroun4"
+    ],
+    "unCapitalRows": [
+      "YAOUNDE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CN",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "China - Chine35"
+    ],
+    "unCapitalRows": [
+      "BEIJING (PEKING)"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CO",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Colombia - Colombie"
+    ],
+    "unCapitalRows": [
+      "BOGOTÁ, D.C."
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Costa Rica"
+    ],
+    "unCapitalRows": [
+      "SAN JOSÉ"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CU",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Cuba"
+    ],
+    "unCapitalRows": [
+      "LA HABANA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CV",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CY",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Cyprus - Chypre36"
+    ],
+    "unCapitalRows": [
+      "LEFKOSIA37"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "CZ",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Czechia - Tchéquie"
+    ],
+    "unCapitalRows": [
+      "PRAHA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "DE",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Germany - Allemagne41"
+    ],
+    "unCapitalRows": [
+      "BERLIN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "DJ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Djibouti"
+    ],
+    "unCapitalRows": [
+      "DJIBOUTI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "DK",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Denmark - Danemark63"
+    ],
+    "unCapitalRows": [
+      "KOBENHAVN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "DM",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "DO",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Dominican Republic - République dominicaine"
+    ],
+    "unCapitalRows": [
+      "SANTO DOMINGO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "DZ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Algeria - Algérie"
+    ],
+    "unCapitalRows": [
+      "ALGIERS (EL DJAZAIR)"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "EC",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Ecuador - Équateur"
+    ],
+    "unCapitalRows": [
+      "QUITO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "EE",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Estonia - Estonie"
+    ],
+    "unCapitalRows": [
+      "TALLINN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "EG",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Egypt - Égypte6"
+    ],
+    "unCapitalRows": [
+      "CAIRO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "ER",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Eritrea - Érythrée"
+    ],
+    "unCapitalRows": [
+      "ASMARA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "ES",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Spain - Espagne"
+    ],
+    "unCapitalRows": [
+      "MADRID"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "ET",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Ethiopia - Éthiopie"
+    ],
+    "unCapitalRows": [
+      "ADDIS ABABA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "FI",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Finland - Finlande67"
+    ],
+    "unCapitalRows": [
+      "HELSINKI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "FJ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Fiji - Fidji"
+    ],
+    "unCapitalRows": [
+      "SUVA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "FM",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "FR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "France"
+    ],
+    "unCapitalRows": [
+      "PARIS"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GA",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Gabon"
+    ],
+    "unCapitalRows": [
+      "LIBREVILLE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GB",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "United Kingdom of Great Britain and Northern Ireland - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord83"
+    ],
+    "unCapitalRows": [
+      "LONDON85"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GD",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Grenada - Grenade"
+    ],
+    "unCapitalRows": [
+      "ST. GEORGE'S"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GE",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Georgia - Géorgie"
+    ],
+    "unCapitalRows": [
+      "TBILISI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GH",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Ghana"
+    ],
+    "unCapitalRows": [
+      "ACCRA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GM",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GN",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Guinea - Guinée8"
+    ],
+    "unCapitalRows": [
+      "CONAKRY"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GQ",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Equatorial Guinea - Guinée équatoriale7"
+    ],
+    "unCapitalRows": [
+      "MALABO"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "GR",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Greece - Grèce"
+    ],
+    "unCapitalRows": [
+      "ATHINAI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GT",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Guatemala"
+    ],
+    "unCapitalRows": [
+      "CUIDAD DE GUATEMALA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GW",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Guinea-Bissau - Guinée-Bissau"
+    ],
+    "unCapitalRows": [
+      "BISSAU"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "GY",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Guyana"
+    ],
+    "unCapitalRows": [
+      "GEORGETOWN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "HN",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Honduras"
+    ],
+    "unCapitalRows": [
+      "TEGUCIGALPA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "HR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Croatia - Croatie"
+    ],
+    "unCapitalRows": [
+      "ZAGREB"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "HT",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "HU",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Hungary - Hongrie73"
+    ],
+    "unCapitalRows": [
+      "BUDAPEST"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "ID",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Indonesia - Indonésie"
+    ],
+    "unCapitalRows": [
+      "JAKARTA39"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "IE",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Ireland - Irlande"
+    ],
+    "unCapitalRows": [
+      "DUBLIN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "IL",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Israel - Israël41"
+    ],
+    "unCapitalRows": [
+      "JERUSALEM42"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "IN",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "India - Inde"
+    ],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "IQ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Iraq"
+    ],
+    "unCapitalRows": [
+      "BAGHDAD40"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "IR",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "IS",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Iceland - Islande"
+    ],
+    "unCapitalRows": [
+      "REYKJAVIK"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "IT",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Italy - Italie"
+    ],
+    "unCapitalRows": [
+      "ROMA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "JM",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Jamaica - Jamaïque"
+    ],
+    "unCapitalRows": [
+      "KINGSTON24"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "JO",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Jordan - Jordanie"
+    ],
+    "unCapitalRows": [
+      "AMMAN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "JP",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Japan - Japon"
+    ],
+    "unCapitalRows": [
+      "TOKYO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KE",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Kenya"
+    ],
+    "unCapitalRows": [
+      "NAIROBI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KG",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Kyrgyzstan - Kirghizstan47"
+    ],
+    "unCapitalRows": [
+      "BISHKEK"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KH",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Cambodia - Cambodge34"
+    ],
+    "unCapitalRows": [
+      "PHNOM PENH"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KI",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Kiribati"
+    ],
+    "unCapitalRows": [
+      "TARAWA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KM",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KN",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KP",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Democratic People's Republic of Korea - République populaire démocratique de Corée"
+    ],
+    "unCapitalRows": [
+      "PYONGYANG"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Republic of Korea - République de Corée"
+    ],
+    "unCapitalRows": [
+      "SEOUL"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KW",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Kuwait - Koweït"
+    ],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "KZ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Kazakhstan46"
+    ],
+    "unCapitalRows": [
+      "ASTANA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LA",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Lao People's Democratic Republic - République démocratique populaire lao"
+    ],
+    "unCapitalRows": [
+      "VIENTIANE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LB",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Lebanon - Liban48"
+    ],
+    "unCapitalRows": [
+      "BEIRUT"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LC",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Saint Lucia - Sainte-Lucie"
+    ],
+    "unCapitalRows": [
+      "CASTRIES"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LI",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Liechtenstein"
+    ],
+    "unCapitalRows": [
+      "VADUZ"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LK",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "LR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Liberia - Libéria11"
+    ],
+    "unCapitalRows": [
+      "MONROVIA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LS",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Lesotho10"
+    ],
+    "unCapitalRows": [
+      "MASERU"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LT",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Lithuania - Lituanie73"
+    ],
+    "unCapitalRows": [
+      "VILNIUS"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LU",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Luxembourg"
+    ],
+    "unCapitalRows": [
+      "LUXEMBOURG-VILLE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LV",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Latvia - Lettonie73"
+    ],
+    "unCapitalRows": [
+      "RIGA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "LY",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MA",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Morocco - Maroc"
+    ],
+    "unCapitalRows": [
+      "RABAT"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MC",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Monaco"
+    ],
+    "unCapitalRows": [
+      "MONACO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MD",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Republic of Moldova - République de Moldova76"
+    ],
+    "unCapitalRows": [
+      "CHIŞINĂU (KISHINEV)"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "ME",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Montenegro - Monténégro"
+    ],
+    "unCapitalRows": [
+      "PODGORICA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MG",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Madagascar"
+    ],
+    "unCapitalRows": [
+      "ANTANANARIVO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MH",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Marshall Islands - Îles Marshall"
+    ],
+    "unCapitalRows": [
+      "MAJURO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MK",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "North Macedonia - Macédoine du Nord"
+    ],
+    "unCapitalRows": [
+      "SKOPJE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "ML",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Mali"
+    ],
+    "unCapitalRows": [
+      "BAMAKO12"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MM",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Myanmar"
+    ],
+    "unCapitalRows": [
+      "NAY PYI TAW51"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MN",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Mongolia - Mongolie"
+    ],
+    "unCapitalRows": [
+      "ULAANBAATAR"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Mauritania - Mauritanie3"
+    ],
+    "unCapitalRows": [
+      "NOUAKCHOTT"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MT",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Malta - Malte"
+    ],
+    "unCapitalRows": [
+      "VALLETTA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MU",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Mauritius - Maurice13"
+    ],
+    "unCapitalRows": [
+      "PORT LOUIS"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MV",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Maldives50"
+    ],
+    "unCapitalRows": [
+      "MALÉ"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MW",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Malawi"
+    ],
+    "unCapitalRows": [
+      "LILONGWE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MX",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Mexico - Mexique3"
+    ],
+    "unCapitalRows": [
+      "MEXICO, CIUDAD DE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "MY",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Malaysia - Malaisie49"
+    ],
+    "unCapitalRows": [
+      "D.B. KUALA LUMPUR"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "MZ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Mozambique14"
+    ],
+    "unCapitalRows": [
+      "MAPUTO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "NA",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Namibia - Namibie"
+    ],
+    "unCapitalRows": [
+      "WINDHOEK"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "NE",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Niger15"
+    ],
+    "unCapitalRows": [
+      "NIAMEY"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "NG",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "NI",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Nicaragua"
+    ],
+    "unCapitalRows": [
+      "MANAGUA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "NL",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "NO",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Norway - Norvège"
+    ],
+    "unCapitalRows": [
+      "OSLO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "NP",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Nepal - Népal"
+    ],
+    "unCapitalRows": [
+      "KATHMANDU52"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "NR",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "NZ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "New Zealand - Nouvelle-Zélande88"
+    ],
+    "unCapitalRows": [
+      "WELLINGTON"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "OM",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Oman55"
+    ],
+    "unCapitalRows": [
+      "MUSCAT"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PA",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Panama"
+    ],
+    "unCapitalRows": [
+      "CIUDAD DE PANAMÁ"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PE",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Peru - Pérou"
+    ],
+    "unCapitalRows": [
+      "LIMA31"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PG",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Papua New Guinea - Papouasie-Nouvelle-Guinée"
+    ],
+    "unCapitalRows": [
+      "PORT MORESBY"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PH",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Philippines"
+    ],
+    "unCapitalRows": [
+      "MANILA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PK",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Pakistan"
+    ],
+    "unCapitalRows": [
+      "ISLAMABAD"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PL",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Poland - Pologne"
+    ],
+    "unCapitalRows": [
+      "WARSZAWA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PS",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "State of Palestine - État de Palestine"
+    ],
+    "unCapitalRows": [
+      "EAST JERUSALEM - JÉRUSALEM-EST59"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "PT",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Portugal"
+    ],
+    "unCapitalRows": [
+      "LISBOA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PW",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "PY",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Paraguay"
+    ],
+    "unCapitalRows": [
+      "ASUNCIÓN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "QA",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Qatar"
+    ],
+    "unCapitalRows": [
+      "DOHA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "RO",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Romania - Roumanie"
+    ],
+    "unCapitalRows": [
+      "BUCURESTI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "RS",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Serbia - Serbie"
+    ],
+    "unCapitalRows": [
+      "BEOGRAD (BELGRADE)"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "RU",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Russian Federation - Fédération de Russie"
+    ],
+    "unCapitalRows": [
+      "MOSKVA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "RW",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Rwanda"
+    ],
+    "unCapitalRows": [
+      "KIGALI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SA",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Saudi Arabia - Arabie saoudite"
+    ],
+    "unCapitalRows": [
+      "RIYADH"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SB",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Solomon Islands - Îles Salomon"
+    ],
+    "unCapitalRows": [
+      "HONIARA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SC",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Seychelles16"
+    ],
+    "unCapitalRows": [
+      "VICTORIA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SD",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "SE",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Sweden - Suède"
+    ],
+    "unCapitalRows": [
+      "STOCKHOLM"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SG",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Singapore - Singapour"
+    ],
+    "unCapitalRows": [
+      "SINGAPORE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SI",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Slovenia - Slovénie77"
+    ],
+    "unCapitalRows": [
+      "LJUBLJANA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SK",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Slovakia - Slovaquie"
+    ],
+    "unCapitalRows": [
+      "BRATISLAVA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SL",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Sierra Leone7"
+    ],
+    "unCapitalRows": [
+      "FREETOWN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SM",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "San Marino - Saint-Marin"
+    ],
+    "unCapitalRows": [
+      "SAN MARINO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SN",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Senegal - Sénégal"
+    ],
+    "unCapitalRows": [
+      "DAKAR"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SO",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Suriname"
+    ],
+    "unCapitalRows": [
+      "PARAMARIBO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SS",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Republic of South Sudan - République de Soudan du Sud"
+    ],
+    "unCapitalRows": [
+      "JUBA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "ST",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SV",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "El Salvador22"
+    ],
+    "unCapitalRows": [
+      "SAN SALVADOR"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SY",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Syrian Arab Republic - République arabe syrienne"
+    ],
+    "unCapitalRows": [
+      "DAMASCUS"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "SZ",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Eswatini"
+    ],
+    "unCapitalRows": [
+      "MBABANE"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "TD",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Chad - Tchad5"
+    ],
+    "unCapitalRows": [
+      "N'DJAMENA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TG",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Togo"
+    ],
+    "unCapitalRows": [
+      "LOME"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TH",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Thailand - Thaïlande"
+    ],
+    "unCapitalRows": [
+      "BANGKOK"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TJ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Tajikistan - Tadjikistan"
+    ],
+    "unCapitalRows": [
+      "DUSHANBE"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TL",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Timor-Leste60"
+    ],
+    "unCapitalRows": [
+      "DILI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TM",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TN",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Tunisia - Tunisie18"
+    ],
+    "unCapitalRows": [
+      "TUNIS"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TO",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Tonga"
+    ],
+    "unCapitalRows": [
+      "NUKU'ALOFA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TR",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Türkiye61"
+    ],
+    "unCapitalRows": [
+      "ANKARA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TT",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Trinidad and Tobago - Trinité-et-Tobago"
+    ],
+    "unCapitalRows": [
+      "PORT-OF-SPAIN"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TV",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Tuvalu89"
+    ],
+    "unCapitalRows": [
+      "FUNAFUTI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "TZ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "United Republic of Tanzania - République Unie de Tanzanie"
+    ],
+    "unCapitalRows": [
+      "DODOMA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "UA",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Ukraine"
+    ],
+    "unCapitalRows": [
+      "KYIV"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "UG",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Uganda - Ouganda"
+    ],
+    "unCapitalRows": [
+      "KAMPALA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "US",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "United States of America - États-Unis d'Amérique27"
+    ],
+    "unCapitalRows": [
+      "WASHINGTON (DC)"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "UY",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Uruguay32"
+    ],
+    "unCapitalRows": [
+      "MONTEVIDEO"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "UZ",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Uzbekistan - Ouzbékistan46"
+    ],
+    "unCapitalRows": [
+      "TASHKENT"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "VA",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "VC",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "VE",
+    "capitalIncluded": false,
+    "unCountryRows": [],
+    "unCapitalRows": [],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "VN",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Viet Nam"
+    ],
+    "unCapitalRows": [
+      "HA NOI"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "VU",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Vanuatu"
+    ],
+    "unCapitalRows": [
+      "PORT VILA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "WS",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Samoa"
+    ],
+    "unCapitalRows": [
+      "APIA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "YE",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "Yemen - Yémen3"
+    ],
+    "unCapitalRows": [
+      "SANA'A"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "ZA",
+    "capitalIncluded": false,
+    "unCountryRows": [
+      "South Africa - Afrique du Sud"
+    ],
+    "unCapitalRows": [
+      "CAPE TOWN17",
+      "PRETORIA17"
+    ],
+    "excludedComplexCase": true
+  },
+  {
+    "iso": "ZM",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Zambia - Zambie"
+    ],
+    "unCapitalRows": [
+      "LUSAKA"
+    ],
+    "excludedComplexCase": false
+  },
+  {
+    "iso": "ZW",
+    "capitalIncluded": true,
+    "unCountryRows": [
+      "Zimbabwe"
+    ],
+    "unCapitalRows": [
+      "HARARE19"
+    ],
+    "excludedComplexCase": false
+  }
+]
