@@ -1,5 +1,5 @@
 import raw from '../data/questions.json';
-import {expandedQuestions} from './questionPool';
+import {expandedQuestions,retiredQuestions} from './questionPool';
 import {flagQuestions,questionSubject,seenSubject} from './flags';
 export const categories = {
  flags:{name:'Flaggen',description:'195 Staaten. Originalgetreue Flaggen.',icon:'Flag'},
@@ -12,7 +12,7 @@ export const categories = {
 } as const;
 export type Category=keyof typeof categories;
 export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:{sources:string[];subjectKey?:string;iso?:string;challenge?:number;confusions?:string[]};enabled:boolean};
-export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...expandedQuestions];
+export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...expandedQuestions,...retiredQuestions];
 export type Answer={selected:number;points:number};
 export type Round={id:string;mode:'quick'|'training';category?:Category;questions:Question[];answers:Answer[];cursor:number;status:'playing'|'completed';createdAt:string};
 export type SoloRecord={id:string;mode:Round['mode'];category?:Category;date:string;points:number;maxPoints:number;correct:number;total:number;categories:Partial<Record<Category,{correct:number;total:number;points:number}>>};

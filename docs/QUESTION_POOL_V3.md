@@ -1,4 +1,4 @@
-# Question pool v3 / PWA 0.5.0
+# Question pool v3 / PWA 0.5.1
 
 ## Intended active pool
 
@@ -31,3 +31,7 @@ The original 210 JSON question records remain unchanged. The original 180 nonfla
 See final execution record below (to be completed after production checks). `npm test` covers 41 tests including source/coverage/legacy invariants, scoring/idempotence, repeated subjects, preview selection and map viewport regression checks. Browser QA checks actual question rendering and feedback persistence; physical iOS/Android devices are not available in this environment.
 
 Migrations stage data disabled, verify completeness, and activate only after the compatible frontend has been published. No profile/history deletion, answer updates or flag edits are included.
+
+## Landmark content review
+
+Nine UNESCO prompts containing an obvious country name were replaced with different sourced sites. Their original IDs/content remain stored disabled for any duels already using them. The 111 retained landmark questions were compared byte-for-byte at field level; they were not rewritten. The active landmark count stays 120.

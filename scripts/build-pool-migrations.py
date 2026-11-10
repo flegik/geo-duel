@@ -14,8 +14,6 @@ from jsonb_to_recordset($question_data$'''+blob+'''$question_data$::jsonb) as x(
 on conflict(id) do nothing;
 '''
  (root/f'question_pool_v3_seed_{category}.sql').write_text(sql)
- existing=list(Path('supabase/migrations').glob(f'*_question_pool_v3_seed_{category}.sql'))
- if existing:existing[0].write_text(sql)
 # Exact lists protect any unrelated questions and flag activation state.
 new=[q for cat in ['capitals','silhouettes','maps','borders','landmarks','world'] for q in json.loads(Path(f'data/question-pool/{cat}.json').read_text())]
 old=[q['id'] for q in json.loads(Path('data/questions.json').read_text()) if q['category']!='flags']

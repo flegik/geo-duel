@@ -74,7 +74,9 @@ elif category=='landmarks':
   title=q['prompt'].split('„')[1].split('“')[0]
   out.append(question(category,'legacy-'+q['id'],q['prompt'],correct,[flags[c]['name'] for c in alternatives],q['difficulty'],f'{title} liegt in {correct} ({geo[iso]["continent"]}). Die Illustration ist eine stilisierte Darstellung, kein Foto.',q['provenance']['sources']+(['https://colosseo.it/en/area/the-colosseum/'] if sid=='91' else []),q['media'],subject='landmark:'+sid,iso=iso,confusions=alternatives,siteId=sid))
  # Round robin across countries prevents the extension being dominated by a few large countries.
- cultural=[s for s in sites if s['kind']=='Cultural' and s['id'] not in used]
+ revealing={'915','135','65','599','1499','699','1483','1245','286'}
+ cultural=[s for s in sites if s['kind']=='Cultural' and s['id'] not in used|revealing]
+ reviewed=json.loads(Path('data/learning/landmark-difficulty.json').read_text())
  countries=sorted({s['iso'] for s in cultural},key=lambda c:(sum(q['provenance']['iso']==c for q in out),hashlib.sha256(c.encode()).hexdigest()))
  chosen=[]
  for iso in countries:
@@ -84,7 +86,7 @@ elif category=='landmarks':
  assert len(chosen)==90
  for i,s in enumerate(chosen):
   iso=s['iso'];alternatives=nearby(iso)[:3]
-  out.append(question(category,'unesco-'+s['id'],f'In welchem Land liegt die UNESCO-Kulturerbestätte „{s["name"]}“?',flags[iso]['name'],[flags[c]['name'] for c in alternatives],2+i%2,f'„{s["name"]}“ ist eine UNESCO-Kulturerbestätte in {flags[iso]["name"]} ({geo[iso]["continent"]}). Die UNESCO führt sie unter der Listennummer {s["id"]}.',[s['source']],subject='landmark:'+s['id'],iso=iso,confusions=alternatives,siteId=s['id']))
+  out.append(question(category,'unesco-'+s['id'],f'In welchem Land liegt die UNESCO-Kulturerbestätte „{s["name"]}“?',flags[iso]['name'],[flags[c]['name'] for c in alternatives],reviewed.get(s['id'],2+int(hashlib.sha256(s['id'].encode()).hexdigest()[:8],16)%2),f'„{s["name"]}“ ist eine UNESCO-Kulturerbestätte in {flags[iso]["name"]} ({geo[iso]["continent"]}). Die UNESCO führt sie unter der Listennummer {s["id"]}.',[s['source']],subject='landmark:'+s['id'],iso=iso,confusions=alternatives,siteId=s['id']))
 elif category=='world':
  reviews=json.loads(Path('data/learning/world-review.json').read_text())
  originals=[q for q in json.loads(Path('data/questions.json').read_text()) if q['category']==category]
