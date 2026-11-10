@@ -1,0 +1,18 @@
+[
+{"id":"baltic","description":"Kompakte Küstenstaaten und Nachbarn im östlichen Ostseeraum","members":["EE","LV","LT","BY","PL"]},
+{"id":"central-europe","description":"Kompakte und gegliederte Umrisse Mitteleuropas","members":["DE","PL","CZ","SK","AT","HU","CH"]},
+{"id":"balkans","description":"Benachbarte, kompakte Balkanländer","members":["BA","RS","BG","RO","MK","AL","ME","SI","HR"]},
+{"id":"nordic","description":"Langgestreckte nordische Länder","members":["NO","SE","FI","DK"]},
+{"id":"caucasus","description":"Kaukasus und südliche Nachbarn","members":["GE","AM","AZ","TR"]},
+{"id":"central-asia","description":"Breite, gegliederte Binnenländer Zentralasiens","members":["KZ","UZ","TM","KG","TJ"]},
+{"id":"mainland-se-asia","description":"Südostasiatische Festlandsumrisse","members":["VN","LA","KH","TH","MM"]},
+{"id":"gulf","description":"Kleine Küstenstaaten am Persischen Golf","members":["QA","BH","KW","AE"]},
+{"id":"west-africa","description":"Schmale und kompakte westafrikanische Küstenländer","members":["TG","BJ","GH","CI","GN","SL","LR"]},
+{"id":"east-africa","description":"Seenregion und ostafrikanische Nachbarn","members":["UG","KE","TZ","RW","BI"]},
+{"id":"south-africa","description":"Binnenländer und kompakte Nachbarn im südlichen Afrika","members":["BW","ZW","ZM","MW","SZ","LS"]},
+{"id":"central-america","description":"Schmale und gegliederte mittelamerikanische Staaten","members":["GT","HN","SV","NI","CR","PA"]},
+{"id":"caribbean-islands","description":"Karibische Inselumrisse","members":["CU","JM","HT","DO"]},
+{"id":"south-america","description":"Kompakte und gegliederte südamerikanische Umrisse","members":["UY","PY","BO","EC","GY","SR"]},
+{"id":"pacific-islands","description":"Pazifische Inselgruppen mit mehreren Teilflächen","members":["FM","MH","KI","TV","PW","TO","WS","VU","SB","FJ"]},
+{"id":"microstates","description":"Kleine europäische Binnenstaaten in unverzerrter Vergrößerung","members":["VA","SM","LI","AD","LU"]}
+]

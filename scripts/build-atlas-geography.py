@@ -19,7 +19,16 @@ for i,f in enumerate(features):
  if max(p[0] for p in points)-min(p[0] for p in points)<1 and max(p[1] for p in points)-min(p[1] for p in points)<1:
   features[i]=original
 registry=json.loads(Path('data/flags/registry.json').read_text())
-lookup={f['properties']['ISO_A2_EH']:f for f in features if f['properties']['TYPE'] not in ['Dependency','Lease']}
+# A shared ISO code can also label disputed tiny territories (e.g. Brazilian I.).
+# Choose the largest sovereign/country feature, never the last matching feature.
+def area(f):
+ g=f['geometry'];polys=g['coordinates'] if g['type']=='MultiPolygon' else [g['coordinates']]
+ return sum(abs(sum(a[0]*b[1]-b[0]*a[1] for a,b in zip(poly[0],poly[0][1:])))/2 for poly in polys)
+lookup={}
+for f in features:
+ iso=f['properties']['ISO_A2_EH']
+ if f['properties']['TYPE'] in ['Dependency','Lease']:continue
+ if iso not in lookup or area(f)>area(lookup[iso]):lookup[iso]=f
 def rings(f):
  g=f['geometry'];return [r for p in (g['coordinates'] if g['type']=='MultiPolygon' else [g['coordinates']]) for r in p]
 def path(rs,project):
@@ -49,7 +58,7 @@ https://www.naturalearthdata.com/about/terms-of-use/
 Quelle: https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson
 Abgerufen: 2026-11-10. Original SHA-256: '''+hashlib.sha256(source.read_bytes()).hexdigest()+'''
 
-Zuordnung über ISO_A2_EH; Dependencies und Lease-Geometrien werden für Hauptumrisse ausgeschlossen (z. B. Frankreich statt Clipperton). Weltkarte enthält alle Geometrien als Kontext. Kontinent aus CONTINENT, bei der Datensatz-Kategorie Seven seas aus REGION_UN (Seychellen/Mauritius: Afrika, Malediven: Asien). Deutsche Übersetzung dieser Attribute. Keine zusätzlichen Staaten außerhalb des Flaggenregisters im Katalog.
+Zuordnung über ISO_A2_EH mit größter zulässiger Hauptgeometrie; kleine konkurrierende Teilgebiete überschreiben nicht den Staatsumriss; Dependencies und Lease-Geometrien werden für Hauptumrisse ausgeschlossen (z. B. Frankreich statt Clipperton). Weltkarte enthält alle Geometrien als Kontext. Kontinent aus CONTINENT, bei der Datensatz-Kategorie Seven seas aus REGION_UN (Seychellen/Mauritius: Afrika, Malediven: Asien). Deutsche Übersetzung dieser Attribute. Keine zusätzlichen Staaten außerhalb des Flaggenregisters im Katalog.
 
 GDAL-Vereinfachung 0,05 Grad; Staaten mit weniger als einem Grad Ausdehnung in beiden Achsen behalten die unveränderten Originalringe. Weltkarte equirektangular; Umrisse mit minimaler Längengradspanne am Datumswechsel und Kosinuskorrektur der mittleren Breite. Binnenringe bleiben erhalten (evenodd). Grenzen sind kartografische Darstellungen, keine rechtliche Festlegung. Kleine Staaten werden zusätzlich im vergrößerten Umriss gezeigt; Landesflächen werden nicht künstlich vergrößert.
 ''')

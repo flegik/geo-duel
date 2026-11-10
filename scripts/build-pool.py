@@ -30,6 +30,26 @@ if category=='capitals':
   assert len(set(alternatives))==3
   out.append(question(category,iso+'-city',f'Was ist die Hauptstadt von {name}?',city,[facts[c]['capital'] for c in alternatives],d,f'{city} ist die Hauptstadt von {name}. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.',[UN,COUNTRIES],subject=f'capital:{iso}',iso=iso,confusions=alternatives))
   out.append(question(category,iso+'-country',f'Zu welchem Land gehört die Hauptstadt {city}?',name,[flags[c]['name'] for c in alternatives],d,f'{city} ist die Hauptstadt von {name}.',[UN,COUNTRIES],subject=f'capital:{iso}',iso=iso,confusions=alternatives))
+elif category in ('silhouettes','maps'):
+ groups=json.loads(Path('data/learning/shape-groups.json').read_text())
+ def form(code):
+  g=geo[code];return math.log(max(.00001,g['width']/g['height']))
+ for i,iso in enumerate(flags):
+  d=level(iso,i);ranked=nearby(iso)
+  group=next((g for g in groups if iso in g['members']),None)
+  if category=='silhouettes':
+   candidate=group['members'] if group else ranked[:20]
+   candidate=[c for c in candidate if c!=iso]
+   candidate.sort(key=lambda c:(abs(form(iso)-form(c))+.15*math.log1p(distance(iso,c)/500),c))
+   alternative=candidate[:3]
+   assert len(alternative)==3
+  else:
+   same=[c for c in ranked if geo[c]['continent']==geo[iso]['continent']]
+   alternative=same[:3] if d==3 else [same[j] for j in ([0,2,3] if d==2 else [1,3,5])]
+  prompt='Welches Land zeigt dieser Umriss?' if category=='silhouettes' else 'Welches Land ist auf der Karte mintfarben markiert?'
+  media=dict(type='atlas-outline' if category=='silhouettes' else 'atlas-map',src='atlas:'+iso,alt='Länderumriss ohne Beschriftung' if category=='silhouettes' else 'Karte mit hervorgehobenem Land',license='Natural Earth – Public Domain')
+  desc=f"Der Umriss gehört zu {flags[iso]['name']}. Vergleiche Küstenverlauf, Seitenverhältnis und Teilflächen." if category=='silhouettes' else f"Markiert ist {flags[iso]['name']} ({geo[iso]['continent']}). Die anderen Optionen liegen in derselben geografischen Großregion."
+  out.append(question(category,iso,prompt,flags[iso]['name'],[flags[c]['name'] for c in alternative],d,desc,[NE],media,subject=f'{category}:{iso}',iso=iso,confusions=alternative,confusionGroup=group['id'] if group and category=='silhouettes' else 'regional-nearest'))
 else:raise SystemExit('Category not implemented yet: '+category)
 assert out and len({q['id'] for q in out})==len(out)
 for q in out:assert 1<=q['difficulty']<=3 and len(q['provenance']['sources'])>0 and q['explanation']
