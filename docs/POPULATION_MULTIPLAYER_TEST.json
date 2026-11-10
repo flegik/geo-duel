@@ -1,0 +1,240 @@
+{
+  "status": "PASS",
+  "independentAnonymousProfiles": 2,
+  "duels": [
+    {
+      "roomId": "cac23b21-9535-439b-adf3-fd1071106811",
+      "categories": [
+        "flags",
+        "borders",
+        "capitals",
+        "silhouettes"
+      ],
+      "total": 12,
+      "points": [
+        24,
+        0
+      ],
+      "preservation": true,
+      "questions": [
+        {
+          "id": "flag-v2-8b7b27963c9f31d83194",
+          "category": "flags",
+          "difficulty": 1
+        },
+        {
+          "id": "flag-v2-41368a8d9d3cd279de89",
+          "category": "flags",
+          "difficulty": 2
+        },
+        {
+          "id": "flag-v2-8aa015b33b21c0c3b8af",
+          "category": "flags",
+          "difficulty": 3
+        },
+        {
+          "id": "geo-v3-borders-50a7d5db2e46f80c",
+          "category": "borders",
+          "difficulty": 1
+        },
+        {
+          "id": "geo-v3-borders-865d5ae36a4d7493",
+          "category": "borders",
+          "difficulty": 2
+        },
+        {
+          "id": "geo-v3-borders-e25f332160640ed4",
+          "category": "borders",
+          "difficulty": 3
+        },
+        {
+          "id": "geo-v3-capitals-628a4dcd92e04c0e",
+          "category": "capitals",
+          "difficulty": 1
+        },
+        {
+          "id": "geo-v3-capitals-eb7e3450d355d248",
+          "category": "capitals",
+          "difficulty": 2
+        },
+        {
+          "id": "geo-v3-capitals-31f327e77fbe6f42",
+          "category": "capitals",
+          "difficulty": 3
+        },
+        {
+          "id": "geo-v3-silhouettes-380607d9608ef30e",
+          "category": "silhouettes",
+          "difficulty": 1
+        },
+        {
+          "id": "geo-v3-silhouettes-b620ad6e5ceb4bff",
+          "category": "silhouettes",
+          "difficulty": 2
+        },
+        {
+          "id": "geo-v3-silhouettes-8632a4b970e35e9d",
+          "category": "silhouettes",
+          "difficulty": 3
+        }
+      ]
+    },
+    {
+      "roomId": "2a82a08d-d779-461a-b1e7-e1438fbb1e60",
+      "categories": [
+        "borders"
+      ],
+      "total": 4,
+      "points": [
+        8,
+        0
+      ],
+      "preservation": false,
+      "questions": [
+        {
+          "id": "geo-v3-borders-6c1f0a47ee6ffd78",
+          "category": "borders",
+          "difficulty": 1
+        },
+        {
+          "id": "geo-v3-borders-4ac04e8cf5a29d2c",
+          "category": "borders",
+          "difficulty": 2
+        },
+        {
+          "id": "geo-v3-borders-57b33f0f885b8b23",
+          "category": "borders",
+          "difficulty": 3
+        },
+        {
+          "id": "geo-v3-borders-223a6dbeb058fb00",
+          "category": "borders",
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "roomId": "f6eb9c60-4f37-4af5-95e0-e4f51b5c24a0",
+      "categories": [
+        "world"
+      ],
+      "total": 4,
+      "points": [
+        9,
+        0
+      ],
+      "preservation": false,
+      "questions": [
+        {
+          "id": "population-v1-c7e8359878d0ce0e3ee5",
+          "category": "world",
+          "difficulty": 2,
+          "populationKind": "city"
+        },
+        {
+          "id": "population-v1-38b88fdb4ea03dc346cd",
+          "category": "world",
+          "difficulty": 2,
+          "populationKind": "city"
+        },
+        {
+          "id": "geo-v3-world-5c718211c9059330",
+          "category": "world",
+          "difficulty": 3
+        },
+        {
+          "id": "geo-v3-world-c8a3aaf4a11a9a07",
+          "category": "world",
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "roomId": "d4da341f-c638-4f11-b7cd-dacf6dcc7cef",
+      "categories": [
+        "world"
+      ],
+      "total": 4,
+      "points": [
+        9,
+        0
+      ],
+      "preservation": false,
+      "questions": [
+        {
+          "id": "geo-v3-world-9dc95053d2f31a84",
+          "category": "world",
+          "difficulty": 2
+        },
+        {
+          "id": "population-v1-134147224d8a529b984e",
+          "category": "world",
+          "difficulty": 2,
+          "populationKind": "city"
+        },
+        {
+          "id": "population-v1-46331e035191b8d84a2e",
+          "category": "world",
+          "difficulty": 3,
+          "populationKind": "city"
+        },
+        {
+          "id": "geo-v3-world-f6e2355db79ca33f",
+          "category": "world",
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "roomId": "1764b1ae-00f0-4d9e-9297-02a2f2bb9d5c",
+      "categories": [
+        "world"
+      ],
+      "total": 4,
+      "points": [
+        8,
+        0
+      ],
+      "preservation": false,
+      "questions": [
+        {
+          "id": "population-v1-f47b7ca8e9a98212ea56",
+          "category": "world",
+          "difficulty": 1,
+          "populationKind": "country"
+        },
+        {
+          "id": "population-v1-a9c42be49c752961b15b",
+          "category": "world",
+          "difficulty": 2,
+          "populationKind": "country"
+        },
+        {
+          "id": "population-v1-88c0a33ae83c5b709de5",
+          "category": "world",
+          "difficulty": 3,
+          "populationKind": "country"
+        },
+        {
+          "id": "geo-v3-world-131f756ad69cd7ba",
+          "category": "world",
+          "difficulty": 2
+        }
+      ]
+    }
+  ],
+  "populationKinds": [
+    "city",
+    "country"
+  ],
+  "checks": [
+    "pre-rollout playing room and answered feedback retained",
+    "same questions and option order for both guests",
+    "authoritative correct/wrong scores",
+    "duplicate answer idempotency",
+    "feedback reconnect",
+    "single-category borders and world duels",
+    "country and city population questions actually answered",
+    "reviews and persisted stats"
+  ]
+}

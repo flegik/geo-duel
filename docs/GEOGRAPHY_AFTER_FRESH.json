@@ -1,0 +1,111 @@
+{
+  "seed": 20261110,
+  "rounds": 1000,
+  "continuous": false,
+  "questions": 12000,
+  "eligibleCountryCityQuestions": 10014,
+  "flagsExcluded": 1761,
+  "globalQuestionsExcluded": 225,
+  "counts": {
+    "Asien": 2798,
+    "Afrika": 1550,
+    "Europa": 3366,
+    "Ozeanien": 351,
+    "Nordamerika": 999,
+    "Südamerika": 950
+  },
+  "percentages": {
+    "Asien": 27.941,
+    "Afrika": 15.478,
+    "Europa": 33.613,
+    "Ozeanien": 3.505,
+    "Nordamerika": 9.976,
+    "Südamerika": 9.487
+  },
+  "byCategory": {
+    "landmarks": {
+      "Asien": 486,
+      "Europa": 572,
+      "Nordamerika": 178,
+      "Südamerika": 147,
+      "Afrika": 238,
+      "Ozeanien": 68
+    },
+    "world": {
+      "Afrika": 267,
+      "Asien": 398,
+      "Europa": 496,
+      "Südamerika": 166,
+      "Nordamerika": 135,
+      "Ozeanien": 41
+    },
+    "borders": {
+      "Europa": 570,
+      "Asien": 455,
+      "Ozeanien": 66,
+      "Afrika": 255,
+      "Nordamerika": 173,
+      "Südamerika": 176
+    },
+    "maps": {
+      "Nordamerika": 157,
+      "Europa": 547,
+      "Asien": 466,
+      "Afrika": 259,
+      "Südamerika": 150,
+      "Ozeanien": 65
+    },
+    "capitals": {
+      "Asien": 507,
+      "Afrika": 259,
+      "Nordamerika": 168,
+      "Europa": 592,
+      "Ozeanien": 56,
+      "Südamerika": 158
+    },
+    "silhouettes": {
+      "Asien": 486,
+      "Europa": 589,
+      "Afrika": 272,
+      "Nordamerika": 188,
+      "Südamerika": 153,
+      "Ozeanien": 55
+    }
+  },
+  "africanFocusQuestions": 1372,
+  "africanFocusPercent": 88.51612903225806,
+  "worldTopics": {
+    "general": 225,
+    "area": 193,
+    "population": 700,
+    "nature": 308,
+    "landlocked": 139,
+    "continents": 163
+  },
+  "populationKinds": {
+    "city": 363,
+    "country": 337
+  },
+  "core": {
+    "questions": 6822,
+    "africa": 1045,
+    "africaPercent": 15.318088537085899
+  },
+  "difficulty": {
+    "1": 3423,
+    "2": 4251,
+    "3": 4326
+  },
+  "distinctSubjects": 1153,
+  "repeatedSubjectsWithinRound": 0,
+  "subjectsRepeatedFromImmediatelyPreviousRound": 251,
+  "poolCounts": {
+    "capitals": 264,
+    "silhouettes": 195,
+    "maps": 195,
+    "borders": 294,
+    "landmarks": 120,
+    "world": 270,
+    "flags": 585
+  }
+}

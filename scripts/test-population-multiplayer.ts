@@ -22,7 +22,7 @@ async function finish(preservation=false){
 try{
  const ids=[];for(let p=0;p<2;p++){const {data,error}=await clients[p].auth.signInAnonymously();assert.ifError(error);assert.ok(data.user?.is_anonymous);ids.push(data.user!.id);await rpc(clients[p],'profile',{nickname:`QA-Population-${p+1}`});}assert.notEqual(ids[0],ids[1]);
  const before=await start();const q=before.question,source=pool.get(q.id)!;const correct=q.options.indexOf(source.options[source.correct]);await Promise.all(clients.map((c,p)=>rpc(c,'answer',{roomId:room.id,position:0,option:p===0?correct:(correct+1)%4})));
- console.log(JSON.stringify({status:'PAUSED_FOR_ROLLOUT',roomId:room.id,firstQuestion:q.id,points:source.difficulty}));await new Promise<void>(resolve=>{process.stdin.resume();process.stdin.once('data',()=>{process.stdin.pause();resolve();});});
+ console.log(JSON.stringify({status:'PAUSED_FOR_ROLLOUT',roomId:room.id,firstQuestion:q.id,points:source.difficulty}));await new Promise<void>((resolve,reject)=>{const timer=setTimeout(()=>reject(new Error('Rollout control timed out')),20*60*1000);process.stdin.resume();process.stdin.once('end',()=>{clearTimeout(timer);reject(new Error('Rollout control stdin closed; run this harness with a PTY'));});process.stdin.once('data',()=>{clearTimeout(timer);process.stdin.pause();resolve();});});
  await finish(true);
  await start(['borders']);await finish();
  for(let n=0;n<6&&populationKinds.size<2;n++){if(report.length%4===0)await new Promise(resolve=>setTimeout(resolve,60000));await start(['world']);await finish();}
