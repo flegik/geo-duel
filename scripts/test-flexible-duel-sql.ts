@@ -21,8 +21,8 @@ async function rpc(user:string,action:string,payload:Record<string,unknown>={}){
  assert.ok(!data?.error,`${action}: ${data?.error}`);
  return data;
 }
-async function room(counts?:Record<string,number>){
- const created=await rpc(host,'create',counts?{questionCounts:counts}:{});
+async function room(counts?:Record<string,number>,perCategory=3){
+ const created=await rpc(host,'create',counts?{questionCounts:counts}:{perCategory});
  assert.equal((await rpc(guest,'join',{code:created.code})).id,created.id);
  return created;
 }
@@ -105,7 +105,7 @@ await rpc(host,'leave',{roomId:draftId});
 const cases=[
  {flags:12},{flags:24},{flags:8,maps:8},{flags:10,capitals:6},
  {silhouettes:8,capitals:8},{flags:7,maps:5},{flags:10,maps:6,world:4},
- undefined,{capitals:24},{borders:24},{flags:4},
+ undefined,{capitals:24},{borders:24},{maps:24},{silhouettes:24},{landmarks:24},{world:24},{flags:4},
  {flags:1,maps:1,capitals:1,silhouettes:1,borders:1,landmarks:1,world:1},
 ];
 for(const [index,counts] of cases.entries()){
@@ -132,9 +132,25 @@ for(const [index,counts] of cases.entries()){
   assert.equal((await rpc(guest,'rematch',{roomId:lobby.id})).id,rematch.id);
   assert.deepEqual(rematch.questionCounts,counts??null);
   assert.equal(rematch.total,started.total);
-  await rpc(host,'configure',{roomId:rematch.id,questionCounts:{flags:4}});
+  if(index===2){
+   await ready(rematch.id);
+   const replay=await rpc(host,'start',{roomId:rematch.id});
+   assert.deepEqual(replay.playedCounts,counts);
+   const prior=new Set(picks.map(q=>q.subject_key));
+   assert.ok((await assigned(rematch.id)).every(q=>!prior.has(q.subject_key)));
+  }else await rpc(host,'configure',{roomId:rematch.id,questionCounts:{flags:4}});
   await rpc(host,'leave',{roomId:rematch.id});
  }else await rpc(host,'leave',{roomId:lobby.id});
+}
+
+for(const perCategory of [2,4]){
+ const lobby=await room(undefined,perCategory);
+ await ready(lobby.id);
+ const started=await rpc(host,'start',{roomId:lobby.id});
+ assert.equal(started.total,perCategory*4);
+ assert.equal(new Set(started.categories).size,4);
+ assert.deepEqual(Object.values(started.playedCounts),Array(4).fill(perCategory));
+ await rpc(host,'leave',{roomId:lobby.id});
 }
 
 const insufficient=await room({landmarks:4});
@@ -144,4 +160,4 @@ assert.match((await request(host,'start',{roomId:insufficient.id})).error,/nicht
 assert.equal((await rpc(host,'snapshot',{roomId:insufficient.id})).status,'waiting');
 assert.deepEqual(await assigned(insufficient.id),[]);
 await db.close();
-console.log(`${cases.length} exact plans, invalid inputs, lobby revisions, historical rooms, scoring, review, rematch and rollback passed.`);
+console.log(`${cases.length+2} exact plans, invalid inputs, lobby revisions, historical rooms, scoring, review, rematch and rollback passed.`);
