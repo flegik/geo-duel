@@ -6,241 +6,238 @@
       "rounds": 5000,
       "longHistory": false,
       "repeatsWithin": 0,
-      "repeatsFromPrevious": 1249,
-      "sameAfricanFocusFromPrevious": 897,
-      "preferredAfricanFocus": 4880,
-      "africanFocus": 7576,
+      "repeatsFromPrevious": 235,
+      "sameAfricanFocusFromPrevious": 760,
+      "preferredAfricanFocus": 4833,
+      "africanFocus": 7638,
       "africaPerRound": {
-        "0": 1382,
-        "1": 1764,
-        "2": 1159,
-        "3": 485,
-        "4": 145,
-        "5": 51,
-        "6": 13,
+        "0": 1367,
+        "1": 1743,
+        "2": 1177,
+        "3": 516,
+        "4": 138,
+        "5": 49,
+        "6": 9,
         "7": 1
       },
       "consecutiveAfricaCounts": {
-        "1 → 0": 487,
-        "0 → 5": 19,
-        "5 → 1": 20,
-        "1 → 2": 421,
-        "2 → 2": 261,
-        "2 → 1": 401,
-        "5 → 2": 10,
-        "1 → 3": 185,
-        "3 → 1": 189,
-        "1 → 1": 593,
-        "0 → 3": 147,
-        "3 → 3": 46,
-        "3 → 2": 102,
-        "1 → 4": 50,
-        "4 → 1": 56,
-        "0 → 1": 499,
-        "0 → 0": 347,
-        "0 → 2": 331,
-        "3 → 4": 14,
-        "1 → 6": 7,
-        "6 → 3": 1,
-        "2 → 3": 97,
-        "4 → 0": 41,
-        "3 → 0": 129,
-        "2 → 0": 352,
-        "2 → 4": 37,
-        "4 → 2": 33,
-        "0 → 4": 39,
+        "1 → 0": 399,
+        "0 → 5": 20,
+        "5 → 1": 13,
+        "1 → 2": 358,
+        "2 → 1": 377,
+        "1 → 1": 564,
+        "1 → 3": 186,
+        "3 → 1": 162,
+        "0 → 0": 294,
+        "0 → 1": 417,
+        "2 → 0": 318,
+        "2 → 2": 240,
+        "0 → 3": 133,
+        "0 → 2": 313,
+        "2 → 3": 90,
+        "3 → 2": 105,
+        "3 → 3": 38,
+        "3 → 0": 146,
+        "0 → 4": 38,
+        "4 → 1": 48,
+        "1 → 4": 51,
+        "1 → 6": 5,
+        "6 → 2": 3,
+        "1 → 5": 9,
+        "5 → 2": 8,
+        "4 → 2": 23,
+        "2 → 5": 14,
+        "4 → 0": 38,
         "5 → 0": 20,
-        "4 → 5": 1,
-        "1 → 5": 20,
+        "3 → 5": 4,
+        "2 → 4": 27,
+        "0 → 6": 2,
+        "3 → 4": 9,
+        "4 → 3": 13,
+        "4 → 4": 2,
+        "5 → 3": 5,
+        "6 → 0": 2,
+        "0 → 7": 1,
+        "7 → 2": 1,
         "2 → 6": 1,
-        "6 → 0": 6,
-        "2 → 5": 9,
-        "4 → 3": 8,
-        "3 → 5": 2,
-        "4 → 4": 4,
-        "4 → 6": 2,
-        "6 → 1": 4,
-        "5 → 3": 1,
-        "1 → 7": 1,
-        "7 → 1": 1,
-        "3 → 6": 3,
-        "6 → 2": 1,
-        "6 → 4": 1
+        "6 → 1": 2,
+        "3 → 6": 1
       },
       "byCategory": {
         "borders": {
           "focus": {
-            "Asien": 2404,
-            "Europa": 2891,
-            "Ozeanien": 311,
-            "Südamerika": 769,
-            "Nordamerika": 815,
-            "Afrika": 1298
+            "Asien": 2453,
+            "Südamerika": 760,
+            "Europa": 2883,
+            "Afrika": 1293,
+            "Nordamerika": 825,
+            "Ozeanien": 315
           },
           "distractors": {
-            "Asien": 7183,
-            "Ozeanien": 962,
-            "Europa": 8673,
-            "Südamerika": 2285,
-            "Nordamerika": 2467,
-            "Afrika": 3894
+            "Asien": 7328,
+            "Ozeanien": 976,
+            "Südamerika": 2260,
+            "Europa": 8649,
+            "Afrika": 3879,
+            "Nordamerika": 2495
           },
           "africanDistractorsPerQuestion": {
-            "0": 7190,
-            "3": 1298
+            "0": 7236,
+            "3": 1293
           },
           "africaPerCategoryRound": {
-            "0": 1734,
-            "1": 900,
-            "2": 167,
-            "3": 20,
+            "0": 1757,
+            "1": 919,
+            "2": 161,
+            "3": 16,
             "4": 1
           }
         },
         "capitals": {
           "focus": {
-            "Nordamerika": 805,
-            "Asien": 2345,
-            "Europa": 2829,
-            "Afrika": 1282,
-            "Südamerika": 787,
-            "Ozeanien": 307
+            "Nordamerika": 827,
+            "Asien": 2266,
+            "Europa": 2917,
+            "Afrika": 1289,
+            "Südamerika": 815,
+            "Ozeanien": 336
           },
           "distractors": {
-            "Nordamerika": 2415,
-            "Asien": 7035,
-            "Europa": 8487,
-            "Afrika": 3846,
-            "Südamerika": 2361,
-            "Ozeanien": 921
+            "Nordamerika": 2481,
+            "Asien": 6798,
+            "Europa": 8751,
+            "Afrika": 3867,
+            "Südamerika": 2445,
+            "Ozeanien": 1008
           },
           "africanDistractorsPerQuestion": {
-            "0": 7073,
-            "3": 1282
+            "0": 7161,
+            "3": 1289
           },
           "africaPerCategoryRound": {
-            "0": 1691,
-            "1": 899,
-            "2": 169,
-            "3": 15
+            "0": 1746,
+            "1": 855,
+            "2": 185,
+            "3": 20,
+            "4": 1
           }
         },
         "landmarks": {
           "focus": {
-            "Europa": 3042,
-            "Afrika": 1297,
-            "Ozeanien": 367,
-            "Asien": 2419,
-            "Nordamerika": 846,
-            "Südamerika": 755
+            "Europa": 2937,
+            "Afrika": 1332,
+            "Ozeanien": 324,
+            "Asien": 2424,
+            "Südamerika": 790,
+            "Nordamerika": 851
           },
           "distractors": {
-            "Europa": 9126,
-            "Afrika": 3891,
-            "Ozeanien": 1101,
-            "Asien": 7257,
-            "Nordamerika": 2538,
-            "Südamerika": 2265
+            "Europa": 8811,
+            "Afrika": 3996,
+            "Ozeanien": 972,
+            "Asien": 7272,
+            "Südamerika": 2370,
+            "Nordamerika": 2553
           },
           "africanDistractorsPerQuestion": {
-            "0": 7429,
-            "3": 1297
+            "0": 7326,
+            "3": 1332
           },
           "africaPerCategoryRound": {
-            "0": 1819,
-            "1": 882,
-            "2": 180,
-            "3": 17,
-            "4": 1
+            "0": 1777,
+            "1": 909,
+            "2": 189,
+            "3": 15
           }
         },
         "world": {
           "focus": {
-            "Europa": 2664,
-            "Asien": 2211,
-            "Afrika": 1119,
-            "global": 1006,
-            "Südamerika": 734,
-            "Nordamerika": 642,
-            "Ozeanien": 209
+            "Europa": 2657,
+            "Asien": 2170,
+            "Afrika": 1135,
+            "global": 1090,
+            "Südamerika": 717,
+            "Nordamerika": 671,
+            "Ozeanien": 254
           },
           "distractors": {
-            "Europa": 5737,
-            "Asien": 5197,
-            "Afrika": 3079,
-            "unclassified": 8259,
-            "Ozeanien": 386,
-            "Nordamerika": 1465,
-            "Südamerika": 1632
+            "Europa": 5774,
+            "Asien": 5004,
+            "Afrika": 3116,
+            "unclassified": 8587,
+            "Ozeanien": 444,
+            "Nordamerika": 1585,
+            "Südamerika": 1572
           },
           "africanDistractorsPerQuestion": {
-            "0": 7302,
-            "1": 366,
-            "2": 38,
-            "3": 879
+            "0": 7360,
+            "1": 421,
+            "2": 44,
+            "3": 869
           },
           "africaPerCategoryRound": {
-            "0": 1888,
-            "1": 834,
-            "2": 133,
-            "3": 5,
-            "4": 1
+            "0": 1918,
+            "1": 837,
+            "2": 134,
+            "3": 10
           }
         },
         "maps": {
           "focus": {
-            "Europa": 3044,
-            "Asien": 2507,
-            "Afrika": 1237,
-            "Südamerika": 811,
-            "Nordamerika": 825,
-            "Ozeanien": 321
+            "Europa": 2848,
+            "Asien": 2466,
+            "Afrika": 1270,
+            "Südamerika": 757,
+            "Nordamerika": 836,
+            "Ozeanien": 350
           },
           "distractors": {
-            "Europa": 9132,
-            "Asien": 7521,
-            "Afrika": 3711,
-            "Südamerika": 2433,
-            "Nordamerika": 2475,
-            "Ozeanien": 963
+            "Europa": 8544,
+            "Asien": 7398,
+            "Afrika": 3810,
+            "Südamerika": 2271,
+            "Nordamerika": 2508,
+            "Ozeanien": 1050
           },
           "africanDistractorsPerQuestion": {
-            "0": 7508,
-            "3": 1237
+            "0": 7257,
+            "3": 1270
           },
           "africaPerCategoryRound": {
-            "0": 1864,
-            "1": 868,
-            "2": 162,
-            "3": 15
+            "0": 1786,
+            "1": 869,
+            "2": 173,
+            "3": 17,
+            "4": 1
           }
         },
         "silhouettes": {
           "focus": {
-            "Europa": 2878,
-            "Asien": 2347,
-            "Afrika": 1343,
-            "Nordamerika": 824,
-            "Ozeanien": 386,
-            "Südamerika": 863
+            "Europa": 2971,
+            "Asien": 2414,
+            "Nordamerika": 869,
+            "Afrika": 1319,
+            "Südamerika": 708,
+            "Ozeanien": 341
           },
           "distractors": {
-            "Europa": 8634,
-            "Asien": 7126,
-            "Afrika": 4029,
-            "Nordamerika": 3181,
-            "Ozeanien": 1073,
-            "Südamerika": 1880
+            "Europa": 8913,
+            "Asien": 7285,
+            "Nordamerika": 3175,
+            "Afrika": 3957,
+            "Südamerika": 1556,
+            "Ozeanien": 980
           },
           "africanDistractorsPerQuestion": {
-            "0": 7298,
-            "3": 1343
+            "0": 7303,
+            "3": 1319
           },
           "africaPerCategoryRound": {
-            "0": 1764,
-            "1": 934,
-            "2": 174,
-            "3": 19,
+            "0": 1731,
+            "1": 977,
+            "2": 145,
+            "3": 16,
             "4": 1
           }
         },
@@ -249,7 +246,7 @@
           "distractors": {},
           "africanDistractorsPerQuestion": {},
           "africaPerCategoryRound": {
-            "0": 2843
+            "0": 2834
           }
         }
       }
@@ -259,96 +256,89 @@
       "rounds": 1000,
       "longHistory": false,
       "repeatsWithin": 0,
-      "repeatsFromPrevious": 2064,
-      "sameAfricanFocusFromPrevious": 183,
-      "preferredAfricanFocus": 941,
-      "africanFocus": 1755,
+      "repeatsFromPrevious": 249,
+      "sameAfricanFocusFromPrevious": 0,
+      "preferredAfricanFocus": 987,
+      "africanFocus": 1811,
       "africaPerRound": {
-        "0": 142,
-        "1": 313,
-        "2": 300,
-        "3": 167,
-        "4": 58,
-        "5": 12,
-        "6": 7,
-        "7": 1
+        "0": 139,
+        "1": 300,
+        "2": 287,
+        "3": 181,
+        "4": 73,
+        "5": 18,
+        "6": 2
       },
       "consecutiveAfricaCounts": {
-        "0 → 0": 16,
+        "0 → 0": 21,
         "0 → 3": 21,
-        "3 → 2": 49,
-        "2 → 1": 90,
-        "1 → 1": 88,
-        "1 → 2": 98,
-        "2 → 3": 48,
-        "3 → 1": 57,
-        "1 → 3": 54,
+        "3 → 1": 58,
+        "1 → 3": 48,
+        "3 → 0": 18,
+        "0 → 2": 33,
+        "2 → 1": 80,
+        "1 → 2": 75,
+        "2 → 2": 76,
+        "3 → 3": 23,
+        "3 → 2": 51,
+        "1 → 0": 32,
+        "2 → 4": 17,
+        "4 → 2": 23,
+        "1 → 1": 79,
         "2 → 0": 41,
-        "0 → 5": 3,
-        "5 → 2": 4,
-        "2 → 2": 92,
-        "0 → 1": 55,
+        "0 → 5": 1,
+        "5 → 4": 1,
+        "4 → 0": 6,
+        "0 → 1": 36,
+        "2 → 3": 51,
         "1 → 4": 21,
-        "4 → 4": 2,
-        "4 → 2": 17,
-        "1 → 0": 48,
-        "3 → 3": 26,
-        "0 → 2": 38,
-        "1 → 5": 3,
-        "5 → 1": 4,
-        "4 → 0": 9,
-        "0 → 4": 7,
-        "4 → 1": 17,
-        "3 → 0": 26,
-        "2 → 4": 20,
         "4 → 3": 13,
-        "2 → 5": 5,
-        "1 → 6": 1,
-        "6 → 3": 2,
-        "3 → 5": 1,
-        "5 → 3": 3,
-        "3 → 4": 6,
-        "2 → 6": 2,
-        "6 → 2": 2,
-        "3 → 6": 2,
-        "2 → 7": 1,
-        "7 → 1": 1,
-        "0 → 6": 2,
-        "6 → 1": 1,
-        "6 → 4": 2,
-        "5 → 0": 1
+        "4 → 1": 21,
+        "1 → 5": 8,
+        "5 → 2": 4,
+        "3 → 4": 9,
+        "0 → 4": 11,
+        "2 → 5": 2,
+        "4 → 4": 3,
+        "5 → 3": 2,
+        "2 → 6": 1,
+        "6 → 4": 1,
+        "3 → 5": 4,
+        "5 → 0": 6,
+        "4 → 5": 1,
+        "5 → 1": 1,
+        "6 → 2": 1
       },
       "byCategory": {
         "borders": {
           "focus": {
-            "Europa": 4221,
-            "Nordamerika": 1254,
-            "Asien": 3290,
-            "Ozeanien": 403,
-            "Südamerika": 1077,
-            "Afrika": 1755
+            "Europa": 4134,
+            "Nordamerika": 1241,
+            "Asien": 3337,
+            "Ozeanien": 402,
+            "Südamerika": 1075,
+            "Afrika": 1811
           },
           "distractors": {
-            "Europa": 12663,
-            "Nordamerika": 3795,
-            "Asien": 9811,
-            "Ozeanien": 1268,
-            "Südamerika": 3198,
-            "Afrika": 5265
+            "Europa": 12402,
+            "Nordamerika": 3751,
+            "Asien": 9959,
+            "Ozeanien": 1258,
+            "Südamerika": 3197,
+            "Afrika": 5433
           },
           "africanDistractorsPerQuestion": {
-            "0": 10245,
-            "3": 1755
+            "0": 10189,
+            "3": 1811
           },
           "africaPerCategoryRound": {
-            "0": 142,
-            "1": 313,
-            "2": 300,
-            "3": 167,
-            "4": 58,
-            "5": 12,
-            "6": 7,
-            "7": 1
+            "0": 139,
+            "1": 300,
+            "2": 287,
+            "3": 181,
+            "4": 73,
+            "5": 18,
+            "6": 2
           }
         }
       }
@@ -358,61 +348,58 @@
       "rounds": 1000,
       "longHistory": false,
       "repeatsWithin": 0,
-      "repeatsFromPrevious": 136,
-      "sameAfricanFocusFromPrevious": 11,
-      "preferredAfricanFocus": 252,
-      "africanFocus": 462,
+      "repeatsFromPrevious": 17,
+      "sameAfricanFocusFromPrevious": 0,
+      "preferredAfricanFocus": 266,
+      "africanFocus": 459,
       "africaPerRound": {
-        "0": 606,
-        "1": 332,
-        "2": 57,
-        "3": 4,
-        "4": 1
+        "0": 627,
+        "1": 295,
+        "2": 70,
+        "3": 8
       },
       "consecutiveAfricaCounts": {
-        "0 → 0": 361,
-        "0 → 1": 209,
-        "1 → 0": 198,
-        "1 → 2": 21,
-        "2 → 1": 13,
-        "1 → 1": 110,
-        "0 → 2": 33,
-        "2 → 0": 41,
-        "1 → 3": 3,
-        "3 → 0": 4,
-        "0 → 4": 1,
-        "4 → 0": 1,
-        "0 → 3": 1,
-        "2 → 2": 3
+        "0 → 0": 355,
+        "0 → 1": 162,
+        "1 → 0": 171,
+        "1 → 1": 78,
+        "0 → 2": 42,
+        "2 → 0": 38,
+        "2 → 1": 23,
+        "0 → 3": 5,
+        "3 → 0": 5,
+        "1 → 3": 2,
+        "1 → 2": 14,
+        "3 → 1": 1,
+        "2 → 2": 4
       },
       "byCategory": {
         "borders": {
           "focus": {
-            "Europa": 1040,
-            "Asien": 824,
-            "Afrika": 462,
-            "Nordamerika": 305,
-            "Ozeanien": 120,
-            "Südamerika": 248
+            "Europa": 1016,
+            "Asien": 842,
+            "Afrika": 459,
+            "Nordamerika": 322,
+            "Südamerika": 259,
+            "Ozeanien": 101
           },
           "distractors": {
-            "Europa": 3120,
-            "Asien": 2457,
-            "Afrika": 1386,
-            "Nordamerika": 923,
-            "Ozeanien": 375,
-            "Südamerika": 736
+            "Europa": 3048,
+            "Asien": 2507,
+            "Afrika": 1377,
+            "Nordamerika": 971,
+            "Südamerika": 772,
+            "Ozeanien": 322
           },
           "africanDistractorsPerQuestion": {
-            "0": 2537,
-            "3": 462
+            "0": 2540,
+            "3": 459
           },
           "africaPerCategoryRound": {
-            "0": 606,
-            "1": 332,
-            "2": 57,
-            "3": 4,
-            "4": 1
+            "0": 627,
+            "1": 295,
+            "2": 70,
+            "3": 8
           }
         }
       }
