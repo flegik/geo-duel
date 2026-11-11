@@ -1,0 +1,170 @@
+.duel-review {
+  margin-block: 24px;
+}
+
+.duel-review-card {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--panel);
+  margin-bottom: 10px;
+}
+
+.duel-review-card > summary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 8px 12px;
+  padding: 14px;
+  border-radius: inherit;
+  cursor: pointer;
+  list-style: none;
+}
+
+.duel-review-card > summary::-webkit-details-marker {
+  display: none;
+}
+
+.duel-review-meta,
+.duel-review-chevron {
+  color: var(--mint);
+}
+
+.duel-review-meta {
+  font-size: .78rem;
+  font-weight: 700;
+}
+
+.duel-review-chevron {
+  transition: transform .18s ease;
+}
+
+.duel-review-card[open] > summary .duel-review-chevron {
+  transform: rotate(180deg);
+}
+
+.duel-review-prompt,
+.duel-review-players {
+  grid-column: 1 / -1;
+}
+
+.duel-review-prompt {
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+
+.duel-review-card:not([open]) .duel-review-prompt {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.duel-review-players {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.duel-review-player {
+  display: grid;
+  align-content: start;
+  gap: 4px;
+  padding: 7px 8px;
+  border-radius: 9px;
+  background: #101827;
+  font-size: .82rem;
+  overflow-wrap: anywhere;
+}
+
+.duel-review-status {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2px 4px;
+  font-size: .76rem;
+}
+
+.duel-review-status svg,
+.duel-review-tags svg {
+  flex: none;
+}
+
+.duel-review-card .right,
+.duel-review-card .solution {
+  color: var(--mint);
+}
+
+.duel-review-card .wrong {
+  color: #ff9fa9;
+}
+
+.duel-review-card .missing,
+.duel-review-points {
+  color: var(--muted);
+}
+
+.duel-review-points {
+  white-space: nowrap;
+}
+
+.duel-review-detail {
+  padding: 14px;
+  border-top: 1px solid var(--line);
+  animation: duel-review-reveal .18s ease-out both;
+}
+
+.duel-review-detail .duel-review-option {
+  overflow-wrap: anywhere;
+}
+
+.duel-review-option > .letter {
+  flex: none;
+}
+
+.duel-review-option[aria-pressed="true"] {
+  outline: 2px solid var(--mint);
+  outline-offset: 1px;
+}
+
+.duel-review-option-text {
+  display: grid;
+  min-width: 0;
+  gap: 5px;
+}
+
+.duel-review-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+  font-size: .75rem;
+}
+
+.duel-review-tags > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border-radius: 6px;
+  padding: 2px 5px;
+  background: #101827;
+}
+
+.duel-review-explanation {
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+  overflow-wrap: anywhere;
+}
+
+.duel-review-explanation p {
+  margin-block: 5px;
+  color: var(--muted);
+}
+
+@keyframes duel-review-reveal {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .duel-review-detail { animation: none; }
+  .duel-review-chevron { transition: none; }
+}
