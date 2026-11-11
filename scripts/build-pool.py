@@ -30,6 +30,8 @@ if category=='capitals':
   assert len(set(alternatives))==3
   out.append(question(category,iso+'-city',f'Was ist die Hauptstadt von {name}?',city,[facts[c]['capital'] for c in alternatives],d,f'{city} ist die Hauptstadt von {name}. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.',[UN,COUNTRIES],subject=f'capital:{iso}',iso=iso,confusions=alternatives))
   out.append(question(category,iso+'-country',f'Zu welchem Land gehört die Hauptstadt {city}?',name,[flags[c]['name'] for c in alternatives],d,f'{city} ist die Hauptstadt von {name}.',[UN,COUNTRIES],subject=f'capital:{iso}',iso=iso,confusions=alternatives))
+ from capital_questions import replace_capital_questions
+ out=replace_capital_questions(out,facts,flags,nearby)
 elif category in ('silhouettes','maps'):
  groups=json.loads(Path('data/learning/shape-groups.json').read_text())
  def form(code):

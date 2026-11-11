@@ -1,5 +1,6 @@
 import {createClient} from '@supabase/supabase-js';import assert from 'node:assert/strict';import {writeFileSync} from 'node:fs';
 import {questions,type Category} from '../src/engine';
+import {countryContinent} from '../src/selection';
 const url=process.env.VITE_SUPABASE_URL!,key=process.env.VITE_SUPABASE_PUBLISHABLE_KEY!;assert.ok(url&&key);
 const clients=[0,1].map(()=>createClient(url,key,{auth:{persistSession:false,autoRefreshToken:false}}));const pool=new Map(questions.map(q=>[q.id,q]));
 async function rpc(c:typeof clients[number],action:string,payload:Record<string,unknown>={}){const {data,error}=['create','join'].includes(action)?await c.functions.invoke('game',{body:{action,payload}}):await c.rpc('geoduel',{action,payload});assert.ifError(error);assert.ok(!data?.error,data?.error);return data;}
@@ -17,16 +18,19 @@ try{
   const started=await rpc(clients[0],'start',{roomId:room.id});const total=started.total;const seen:any[]=[];const subjects=new Set<string>();const expected=[0,0];
   if(selection)assert.deepEqual(started.categories,selection);else assert.equal(started.categories.length,4);
   for(let pos=0;pos<total;pos++){
-   const snaps=await Promise.all(clients.map(c=>rpc(c,'snapshot',{roomId:room.id})));assert.deepEqual(snaps[0].question,snaps[1].question);const source=pool.get(snaps[0].question.id)!;assert.ok(source?.enabled);if(source.category!=='flags')assert.match(source.id,/^geo-v3-/);
+   const snaps=await Promise.all(clients.map(c=>rpc(c,'snapshot',{roomId:room.id})));assert.deepEqual(snaps[0].question,snaps[1].question);const source=pool.get(snaps[0].question.id)!;assert.ok(source?.enabled);if(source.category!=='flags')assert.match(source.id,/^(geo-v3-|population-v1-|capital-cities-v1-)/);
    const subject=source.provenance.subjectKey??source.id;assert.ok(!subjects.has(subject));subjects.add(subject);seen.push({id:source.id,category:source.category,difficulty:source.difficulty,mediaType:source.media?.type});
    for(let p=0;p<2;p++){
-    const s=snaps[p],q=s.question;assert.equal(s.cursor,pos);assert.equal(q.correct,undefined);assert.equal(q.provenance,undefined);assert.ok(s.players.every((x:any)=>!('points'in x)));assert.equal(new Set(q.options).size,4);
+    const s=snaps[p],q=s.question;assert.equal(s.cursor,pos);assert.equal(q.correct,undefined);assert.equal(s.feedback,undefined);assert.equal(q.provenance,undefined);assert.ok(s.players.every((x:any)=>!('points'in x)));assert.equal(new Set(q.options).size,4);
     const correct=q.options.indexOf(source.options[source.correct]);assert.ok(correct>=0);const option=p===0?correct:(correct+1)%4;
     const a=await rpc(clients[p],'answer',{roomId:room.id,position:pos,option});expected[p]+=p===0?source.difficulty:0;assert.equal(a.feedback.correct,correct);assert.equal(a.feedback.points,p===0?source.difficulty:0);assert.equal(a.points,expected[p]);
     const repeat=await rpc(clients[p],'answer',{roomId:room.id,position:pos,option:(option+1)%4});assert.deepEqual(repeat.feedback,a.feedback);assert.equal(repeat.points,a.points);
     if(pos===0){const {data:{session}}=await clients[p].auth.getSession();const reconnect=createClient(url,key,{auth:{persistSession:false,autoRefreshToken:false}});assert.ifError((await reconnect.auth.setSession(session!)).error);const restored=await rpc(reconnect,'snapshot',{roomId:room.id});assert.deepEqual(restored.feedback,a.feedback);assert.deepEqual(restored.question,a.question);await reconnect.removeAllChannels();}
     const advanced=await rpc(clients[p],'next',{roomId:room.id,position:pos});if(p===0&&pos===total-1){assert.equal(advanced.finished,true);assert.equal(advanced.status,'playing');assert.equal(advanced.result,undefined);}
    }
+  }
+  if(selection?.length===1&&selection[0]==='borders'){
+   assert.ok(seen.filter(({id})=>countryContinent(pool.get(id)!.provenance.iso!)==='Afrika').length<=1);
   }
   const done=await rpc(clients[0],'snapshot',{roomId:room.id});assert.equal(done.status,'completed');assert.equal(done.total,total);assert.equal(done.result.total,total);
   for(let p=0;p<2;p++){const player=done.result.players.find((x:any)=>x.id===guestIds[p]);assert.equal(player.points,expected[p]);const review=await rpc(clients[p],'review',{roomId:room.id});assert.equal(review.length,total);totals[p]+=expected[p];const stats=await rpc(clients[p],'stats');assert.equal(stats.played,report.length+1);assert.equal(stats.points,totals[p]);}

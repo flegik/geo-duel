@@ -1,0 +1,3323 @@
+{
+  "source": "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx",
+  "sha256": "3a96030d87aec6c1c50f658d5321067d6345e1ab936c5d2854524f972caa75c0",
+  "year": 2025,
+  "license": "CC BY 3.0 IGO",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/igo/",
+  "countries": {
+    "AF": [
+      {
+        "id": 742,
+        "name": "Herat",
+        "sourceName": "Herat",
+        "sourceRow": 59,
+        "population2025": 1259425,
+        "nationalCapital": false
+      },
+      {
+        "id": 3775,
+        "name": "Kandahar",
+        "sourceName": "Kandahar",
+        "sourceRow": 71,
+        "population2025": 799015,
+        "nationalCapital": false
+      },
+      {
+        "id": 3083,
+        "name": "Mazar i sharif",
+        "sourceName": "Mazar i sharif",
+        "sourceRow": 102,
+        "population2025": 651287,
+        "nationalCapital": false
+      },
+      {
+        "id": 5176,
+        "name": "Jalalabad",
+        "sourceName": "Jalalabad",
+        "sourceRow": 67,
+        "population2025": 587508,
+        "nationalCapital": false
+      }
+    ],
+    "AL": [
+      {
+        "id": 258,
+        "name": "Durrës",
+        "sourceName": "Durrës",
+        "sourceRow": 201,
+        "population2025": 129455,
+        "nationalCapital": false
+      },
+      {
+        "id": 93,
+        "name": "Shkoder",
+        "sourceName": "Shkoder",
+        "sourceRow": 205,
+        "population2025": 81278,
+        "nationalCapital": false
+      },
+      {
+        "id": 414,
+        "name": "Vlora",
+        "sourceName": "Vlora",
+        "sourceRow": 207,
+        "population2025": 77215,
+        "nationalCapital": false
+      },
+      {
+        "id": 827,
+        "name": "Elbasan",
+        "sourceName": "Elbasan",
+        "sourceRow": 202,
+        "population2025": 74628,
+        "nationalCapital": false
+      }
+    ],
+    "AM": [
+      {
+        "id": 129,
+        "name": "Gyumri",
+        "sourceName": "Gyumri",
+        "sourceRow": 550,
+        "population2025": 93975,
+        "nationalCapital": false
+      },
+      {
+        "id": 296,
+        "name": "Vanadzor",
+        "sourceName": "Vanadzor",
+        "sourceRow": 551,
+        "population2025": 54726,
+        "nationalCapital": false
+      }
+    ],
+    "AO": [
+      {
+        "id": 1169,
+        "name": "Lubango",
+        "sourceName": "Lubango",
+        "sourceRow": 417,
+        "population2025": 1280986,
+        "nationalCapital": false
+      },
+      {
+        "id": 546,
+        "name": "Cabinda",
+        "sourceName": "Cabinda",
+        "sourceRow": 363,
+        "population2025": 1157345,
+        "nationalCapital": false
+      },
+      {
+        "id": 3610,
+        "name": "Malanje",
+        "sourceName": "Malanje",
+        "sourceRow": 425,
+        "population2025": 973086,
+        "nationalCapital": false
+      },
+      {
+        "id": 3898,
+        "name": "Luena",
+        "sourceName": "Luena",
+        "sourceRow": 420,
+        "population2025": 714289,
+        "nationalCapital": false
+      }
+    ],
+    "AR": [
+      {
+        "id": 2381,
+        "name": "Cordoba",
+        "sourceName": "Cordoba",
+        "sourceRow": 482,
+        "population2025": 1460491,
+        "nationalCapital": false
+      },
+      {
+        "id": 3595,
+        "name": "Rosario",
+        "sourceName": "Rosario",
+        "sourceRow": 517,
+        "population2025": 1151717,
+        "nationalCapital": false
+      },
+      {
+        "id": 198,
+        "name": "Mendoza",
+        "sourceName": "Mendoza",
+        "sourceRow": 500,
+        "population2025": 1027849,
+        "nationalCapital": false
+      },
+      {
+        "id": 1458,
+        "name": "San Miguel de Tucumán",
+        "sourceName": "San Miguel de Tucumán",
+        "sourceRow": 528,
+        "population2025": 959565,
+        "nationalCapital": false
+      }
+    ],
+    "AU": [
+      {
+        "id": 2139,
+        "name": "Sydney",
+        "sourceName": "Sydney",
+        "sourceRow": 589,
+        "population2025": 4150917,
+        "nationalCapital": false
+      },
+      {
+        "id": 1634,
+        "name": "Melbourne",
+        "sourceName": "Melbourne",
+        "sourceRow": 578,
+        "population2025": 3639893,
+        "nationalCapital": false,
+        "historicalRole": "Das australische Bundesparlament tagte bis 1927 in Melbourne.",
+        "historicalSource": "https://www.aph.gov.au/Visit_Parliament/About_the_Building/History_of_Parliament_House"
+      },
+      {
+        "id": 2591,
+        "name": "Brisbane",
+        "sourceName": "Brisbane",
+        "sourceRow": 556,
+        "population2025": 1071628,
+        "nationalCapital": false
+      },
+      {
+        "id": 330,
+        "name": "Perth",
+        "sourceName": "Perth",
+        "sourceRow": 583,
+        "population2025": 1079374,
+        "nationalCapital": false
+      }
+    ],
+    "AZ": [
+      {
+        "id": 2116,
+        "name": "Sumgayit",
+        "sourceName": "Sumgayit",
+        "sourceRow": 628,
+        "population2025": 422836,
+        "nationalCapital": false
+      },
+      {
+        "id": 453,
+        "name": "Ganja",
+        "sourceName": "Ganja",
+        "sourceRow": 612,
+        "population2025": 386822,
+        "nationalCapital": false
+      },
+      {
+        "id": 132,
+        "name": "Nakhchivan",
+        "sourceName": "Nakhchivan",
+        "sourceRow": 620,
+        "population2025": 161919,
+        "nationalCapital": false
+      },
+      {
+        "id": 732,
+        "name": "Mingachevir",
+        "sourceName": "Mingachevir",
+        "sourceRow": 619,
+        "population2025": 136103,
+        "nationalCapital": false
+      }
+    ],
+    "BF": [
+      {
+        "id": 378,
+        "name": "Bobo-Dioulasso",
+        "sourceName": "Bobo-Dioulasso",
+        "sourceRow": 1538,
+        "population2025": 1125023,
+        "nationalCapital": false
+      },
+      {
+        "id": 1259,
+        "name": "Koudougou",
+        "sourceName": "Koudougou",
+        "sourceRow": 1558,
+        "population2025": 183409,
+        "nationalCapital": false
+      },
+      {
+        "id": 219,
+        "name": "Banfora",
+        "sourceName": "Banfora",
+        "sourceRow": 1535,
+        "population2025": 172796,
+        "nationalCapital": false
+      },
+      {
+        "id": 2160,
+        "name": "Kaya",
+        "sourceName": "Kaya",
+        "sourceRow": 1555,
+        "population2025": 143195,
+        "nationalCapital": false
+      }
+    ],
+    "BG": [
+      {
+        "id": 424,
+        "name": "Plovdiv",
+        "sourceName": "Plovdiv",
+        "sourceRow": 1525,
+        "population2025": 329838,
+        "nationalCapital": false
+      },
+      {
+        "id": 1180,
+        "name": "Varna",
+        "sourceName": "Varna",
+        "sourceRow": 1531,
+        "population2025": 290572,
+        "nationalCapital": false
+      },
+      {
+        "id": 1067,
+        "name": "Burgas",
+        "sourceName": "Burgas",
+        "sourceRow": 1518,
+        "population2025": 103946,
+        "nationalCapital": false
+      },
+      {
+        "id": 569,
+        "name": "Ruse",
+        "sourceName": "Ruse",
+        "sourceRow": 1526,
+        "population2025": 89462,
+        "nationalCapital": false
+      }
+    ],
+    "BR": [
+      {
+        "id": 7935,
+        "name": "Rio de Janeiro",
+        "sourceName": "Rio de Janeiro",
+        "sourceRow": 1427,
+        "population2025": 9500336,
+        "nationalCapital": false,
+        "historicalRole": "Rio de Janeiro war bis 1960 Brasiliens Hauptstadt.",
+        "historicalSource": "https://www.britannica.com/place/Rio-de-Janeiro-Brazil"
+      },
+      {
+        "id": 7303,
+        "name": "São Paulo",
+        "sourceName": "São Paulo",
+        "sourceRow": 1472,
+        "population2025": 18949790,
+        "nationalCapital": false
+      },
+      {
+        "id": 8374,
+        "name": "Salvador",
+        "sourceName": "Salvador",
+        "sourceRow": 1430,
+        "population2025": 3135157,
+        "nationalCapital": false,
+        "historicalRole": "Salvador war Hauptstadt des portugiesischen Kolonialgebiets Brasilien.",
+        "historicalSource": "https://bndigital.bn.gov.br/artigos/bicentenario-da-independencia-1763-transferencia-da-capital-do-vice-reino-do-brasil-para-o-rio-de-janeiro/"
+      },
+      {
+        "id": 7802,
+        "name": "Belo Horizonte",
+        "sourceName": "Belo Horizonte",
+        "sourceRow": 1176,
+        "population2025": 4162814,
+        "nationalCapital": false
+      }
+    ],
+    "BT": [
+      {
+        "id": 321,
+        "name": "Phuntsholing",
+        "sourceName": "Phuntsholing",
+        "sourceRow": 1090,
+        "population2025": 77299,
+        "nationalCapital": false
+      }
+    ],
+    "BW": [
+      {
+        "id": 574,
+        "name": "Francistown",
+        "sourceName": "Francistown",
+        "sourceRow": 1122,
+        "population2025": 101014,
+        "nationalCapital": false
+      },
+      {
+        "id": 105,
+        "name": "Molepolole",
+        "sourceName": "Molepolole",
+        "sourceRow": 1128,
+        "population2025": 93871,
+        "nationalCapital": false
+      },
+      {
+        "id": 274,
+        "name": "Lobatse",
+        "sourceName": "Lobatse",
+        "sourceRow": 1125,
+        "population2025": 88511,
+        "nationalCapital": false
+      }
+    ],
+    "BY": [
+      {
+        "id": 1681,
+        "name": "Homel",
+        "sourceName": "Homel",
+        "sourceRow": 1011,
+        "population2025": 529882,
+        "nationalCapital": false
+      },
+      {
+        "id": 1590,
+        "name": "Mahilioŭ",
+        "sourceName": "Mahilioŭ",
+        "sourceRow": 1014,
+        "population2025": 380951,
+        "nationalCapital": false
+      },
+      {
+        "id": 96,
+        "name": "Hrodna",
+        "sourceName": "Hrodna",
+        "sourceRow": 1012,
+        "population2025": 374464,
+        "nationalCapital": false
+      },
+      {
+        "id": 264,
+        "name": "Brest",
+        "sourceName": "Brest",
+        "sourceRow": 1009,
+        "population2025": 369414,
+        "nationalCapital": false
+      }
+    ],
+    "BZ": [
+      {
+        "id": 9,
+        "name": "Belize City",
+        "sourceName": "Belize City",
+        "sourceRow": 1038,
+        "population2025": 75592,
+        "nationalCapital": false
+      }
+    ],
+    "CA": [
+      {
+        "id": 2925,
+        "name": "Toronto",
+        "sourceName": "Toronto",
+        "sourceRow": 1792,
+        "population2025": 5494431,
+        "nationalCapital": false,
+        "historicalRole": "Toronto war zeitweise Regierungssitz der damaligen Provinz Kanada.",
+        "historicalSource": "https://parks.canada.ca/culture/designation/lieu-site/capitale-capital"
+      },
+      {
+        "id": 3645,
+        "name": "Montréal",
+        "sourceName": "Montreal",
+        "sourceRow": 1764,
+        "population2025": 2668723,
+        "nationalCapital": false,
+        "historicalRole": "Montréal war zeitweise Regierungssitz der damaligen Provinz Kanada.",
+        "historicalSource": "https://parks.canada.ca/culture/designation/lieu-site/capitale-capital"
+      },
+      {
+        "id": 341,
+        "name": "Vancouver",
+        "sourceName": "Vancouver",
+        "sourceRow": 1794,
+        "population2025": 1707865,
+        "nationalCapital": false
+      },
+      {
+        "id": 1126,
+        "name": "Calgary",
+        "sourceName": "Calgary",
+        "sourceRow": 1742,
+        "population2025": 1197110,
+        "nationalCapital": false
+      }
+    ],
+    "CL": [
+      {
+        "id": 1554,
+        "name": "Concepción",
+        "sourceName": "Concepción",
+        "sourceRow": 1891,
+        "population2025": 516741,
+        "nationalCapital": false
+      },
+      {
+        "id": 780,
+        "name": "La Serena",
+        "sourceName": "La Serena",
+        "sourceRow": 1899,
+        "population2025": 473325,
+        "nationalCapital": false
+      },
+      {
+        "id": 356,
+        "name": "Antofagasta",
+        "sourceName": "Antofagasta",
+        "sourceRow": 1884,
+        "population2025": 385812,
+        "nationalCapital": false
+      },
+      {
+        "id": 2926,
+        "name": "Temuco",
+        "sourceName": "Temuco",
+        "sourceRow": 1920,
+        "population2025": 352200,
+        "nationalCapital": false
+      }
+    ],
+    "CM": [
+      {
+        "id": 813,
+        "name": "Douala",
+        "sourceName": "Douala",
+        "sourceRow": 1665,
+        "population2025": 4104516,
+        "nationalCapital": false
+      },
+      {
+        "id": 2753,
+        "name": "Garoua",
+        "sourceName": "Garoua",
+        "sourceRow": 1675,
+        "population2025": 678769,
+        "nationalCapital": false
+      },
+      {
+        "id": 3233,
+        "name": "Maroua",
+        "sourceName": "Maroua",
+        "sourceRow": 1697,
+        "population2025": 526702,
+        "nationalCapital": false
+      },
+      {
+        "id": 1481,
+        "name": "Bamenda",
+        "sourceName": "Bamenda",
+        "sourceRow": 1655,
+        "population2025": 394155,
+        "nationalCapital": false
+      }
+    ],
+    "CN": [
+      {
+        "id": 11738,
+        "name": "Shanghai",
+        "sourceName": "Shanghai",
+        "sourceRow": 3438,
+        "population2025": 29558908,
+        "nationalCapital": false
+      },
+      {
+        "id": 11306,
+        "name": "Guangzhou",
+        "sourceName": "Guangzhou",
+        "sourceRow": 2437,
+        "population2025": 27563372,
+        "nationalCapital": false
+      },
+      {
+        "id": 11478,
+        "name": "Shenzhen",
+        "sourceName": "Shenzhen",
+        "sourceRow": 3487,
+        "population2025": 13878396,
+        "nationalCapital": false
+      },
+      {
+        "id": 11632,
+        "name": "Suzhou",
+        "sourceName": "Suzhou",
+        "sourceRow": 3593,
+        "population2025": 7731101,
+        "nationalCapital": false
+      }
+    ],
+    "CO": [
+      {
+        "id": 2525,
+        "name": "Medellín",
+        "sourceName": "Medellín",
+        "sourceRow": 4469,
+        "population2025": 3350384,
+        "nationalCapital": false
+      },
+      {
+        "id": 899,
+        "name": "Cali",
+        "sourceName": "Cali",
+        "sourceRow": 4432,
+        "population2025": 2700232,
+        "nationalCapital": false
+      },
+      {
+        "id": 3928,
+        "name": "Barranquilla",
+        "sourceName": "Barranquilla",
+        "sourceRow": 4426,
+        "population2025": 2208021,
+        "nationalCapital": false
+      },
+      {
+        "id": 3215,
+        "name": "Cartagena",
+        "sourceName": "Cartagena",
+        "sourceRow": 4433,
+        "population2025": 1008584,
+        "nationalCapital": false
+      }
+    ],
+    "CR": [
+      {
+        "id": 494,
+        "name": "Cartago",
+        "sourceName": "Cartago",
+        "sourceRow": 4531,
+        "population2025": 189608,
+        "nationalCapital": false
+      },
+      {
+        "id": 185,
+        "name": "Barranca",
+        "sourceName": "Barranca",
+        "sourceRow": 4530,
+        "population2025": 64109,
+        "nationalCapital": false
+      },
+      {
+        "id": 637,
+        "name": "San Isidro de El General",
+        "sourceName": "San Isidro de El General",
+        "sourceRow": 4534,
+        "population2025": 52722,
+        "nationalCapital": false
+      },
+      {
+        "id": 771,
+        "name": "Limón",
+        "sourceName": "Limón",
+        "sourceRow": 4533,
+        "population2025": 52337,
+        "nationalCapital": false
+      }
+    ],
+    "DE": [
+      {
+        "id": 4278,
+        "name": "Hamburg",
+        "sourceName": "Hamburg",
+        "sourceRow": 6367,
+        "population2025": 1759377,
+        "nationalCapital": false
+      },
+      {
+        "id": 5337,
+        "name": "München",
+        "sourceName": "Munich",
+        "sourceRow": 6398,
+        "population2025": 1815022,
+        "nationalCapital": false
+      },
+      {
+        "id": 1477,
+        "name": "Bonn",
+        "sourceName": "Bonn",
+        "sourceRow": 6332,
+        "population2025": 756044,
+        "nationalCapital": false,
+        "historicalRole": "Bonn war Regierungssitz der Bundesrepublik Deutschland vor dem Umzug nach Berlin.",
+        "historicalSource": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/548225/10-mai-1949-parlamentarischer-rat-stimmt-fuer-bonn-als-provisorische-hauptstadt/"
+      },
+      {
+        "id": 1160,
+        "name": "Köln",
+        "sourceName": "Cologne",
+        "sourceRow": 6337,
+        "population2025": 1125292,
+        "nationalCapital": false
+      }
+    ],
+    "DJ": [
+      {
+        "id": 303,
+        "name": "Ali Sabieh",
+        "sourceName": "Ali Sabieh",
+        "sourceRow": 5251,
+        "population2025": 89316,
+        "nationalCapital": false
+      },
+      {
+        "id": 458,
+        "name": "Tadjoura",
+        "sourceName": "Tadjoura",
+        "sourceRow": 5255,
+        "population2025": 63941,
+        "nationalCapital": false
+      },
+      {
+        "id": 135,
+        "name": "Dikhil",
+        "sourceName": "Dikhil",
+        "sourceRow": 5252,
+        "population2025": 55420,
+        "nationalCapital": false
+      }
+    ],
+    "DO": [
+      {
+        "id": 779,
+        "name": "Santiago de los Caballeros",
+        "sourceName": "Santiago de los Caballeros",
+        "sourceRow": 5273,
+        "population2025": 681087,
+        "nationalCapital": false
+      },
+      {
+        "id": 1825,
+        "name": "La Romana",
+        "sourceName": "La Romana",
+        "sourceRow": 5261,
+        "population2025": 250479,
+        "nationalCapital": false
+      },
+      {
+        "id": 1736,
+        "name": "San Pedro de Macorís",
+        "sourceName": "San Pedro de Macorís",
+        "sourceRow": 5271,
+        "population2025": 244148,
+        "nationalCapital": false
+      },
+      {
+        "id": 1909,
+        "name": "Salvaleón de Higüey",
+        "sourceName": "Salvaleón de Higüey",
+        "sourceRow": 5268,
+        "population2025": 158122,
+        "nationalCapital": false
+      }
+    ],
+    "DZ": [
+      {
+        "id": 922,
+        "name": "Oran",
+        "sourceName": "Oran",
+        "sourceRow": 308,
+        "population2025": 1192410,
+        "nationalCapital": false
+      },
+      {
+        "id": 3338,
+        "name": "Blida",
+        "sourceName": "Blida",
+        "sourceRow": 236,
+        "population2025": 663070,
+        "nationalCapital": false
+      },
+      {
+        "id": 3892,
+        "name": "Boumerdes",
+        "sourceName": "Boumerdes",
+        "sourceRow": 243,
+        "population2025": 550700,
+        "nationalCapital": false
+      },
+      {
+        "id": 3937,
+        "name": "Djelfa",
+        "sourceName": "Djelfa",
+        "sourceRow": 255,
+        "population2025": 542414,
+        "nationalCapital": false
+      }
+    ],
+    "EC": [
+      {
+        "id": 772,
+        "name": "Guayaquil",
+        "sourceName": "Guayaquil",
+        "sourceRow": 5289,
+        "population2025": 3157825,
+        "nationalCapital": false
+      },
+      {
+        "id": 2221,
+        "name": "Cuenca",
+        "sourceName": "Cuenca",
+        "sourceRow": 5282,
+        "population2025": 482272,
+        "nationalCapital": false
+      },
+      {
+        "id": 2064,
+        "name": "Santo Domingo de los Tsachilas",
+        "sourceName": "Santo Domingo de los Tsachilas",
+        "sourceRow": 5312,
+        "population2025": 356829,
+        "nationalCapital": false
+      },
+      {
+        "id": 187,
+        "name": "Manta",
+        "sourceName": "Manta",
+        "sourceRow": 5295,
+        "population2025": 287756,
+        "nationalCapital": false
+      }
+    ],
+    "EE": [
+      {
+        "id": 267,
+        "name": "Tartu",
+        "sourceName": "Tartu",
+        "sourceRow": 5689,
+        "population2025": 82123,
+        "nationalCapital": false
+      }
+    ],
+    "EG": [
+      {
+        "id": 275,
+        "name": "Alexandria",
+        "sourceName": "Alexandria",
+        "sourceRow": 5387,
+        "population2025": 7266957,
+        "nationalCapital": false
+      },
+      {
+        "id": 7397,
+        "name": "Luxor",
+        "sourceName": "Luxor",
+        "sourceRow": 5524,
+        "population2025": 4188023,
+        "nationalCapital": false
+      },
+      {
+        "id": 7111,
+        "name": "Port Said",
+        "sourceName": "Port Said",
+        "sourceRow": 5566,
+        "population2025": 849767,
+        "nationalCapital": false
+      },
+      {
+        "id": 6909,
+        "name": "Asyut",
+        "sourceName": "Asyut",
+        "sourceRow": 5397,
+        "population2025": 1406963,
+        "nationalCapital": false
+      }
+    ],
+    "ER": [
+      {
+        "id": 1200,
+        "name": "Massawa",
+        "sourceName": "Massawa",
+        "sourceRow": 5681,
+        "population2025": 354657,
+        "nationalCapital": false
+      },
+      {
+        "id": 595,
+        "name": "Keren",
+        "sourceName": "Keren",
+        "sourceRow": 5680,
+        "population2025": 256896,
+        "nationalCapital": false
+      },
+      {
+        "id": 856,
+        "name": "Ghinda",
+        "sourceName": "Ghinda",
+        "sourceRow": 5678,
+        "population2025": 157050,
+        "nationalCapital": false
+      },
+      {
+        "id": 295,
+        "name": "Barentu",
+        "sourceName": "Barentu",
+        "sourceRow": 5676,
+        "population2025": 97952,
+        "nationalCapital": false
+      }
+    ],
+    "ES": [
+      {
+        "id": 5068,
+        "name": "Barcelona",
+        "sourceName": "Barcelona",
+        "sourceRow": 14409,
+        "population2025": 3982704,
+        "nationalCapital": false
+      },
+      {
+        "id": 4574,
+        "name": "Valencia",
+        "sourceName": "Valencia",
+        "sourceRow": 14482,
+        "population2025": 1390045,
+        "nationalCapital": false
+      },
+      {
+        "id": 4021,
+        "name": "Bilbao",
+        "sourceName": "Bilbao",
+        "sourceRow": 14411,
+        "population2025": 741795,
+        "nationalCapital": false
+      },
+      {
+        "id": 2157,
+        "name": "Seville",
+        "sourceName": "Seville",
+        "sourceRow": 14473,
+        "population2025": 699504,
+        "nationalCapital": false
+      }
+    ],
+    "ET": [
+      {
+        "id": 7000,
+        "name": "Adama",
+        "sourceName": "Adama",
+        "sourceRow": 5699,
+        "population2025": 584854,
+        "nationalCapital": false
+      },
+      {
+        "id": 3814,
+        "name": "Bahir Dar",
+        "sourceName": "Bahir Dar",
+        "sourceRow": 5759,
+        "population2025": 498735,
+        "nationalCapital": false
+      },
+      {
+        "id": 7647,
+        "name": "Dire Dawa",
+        "sourceName": "Dire Dawa",
+        "sourceRow": 5861,
+        "population2025": 483674,
+        "nationalCapital": false
+      },
+      {
+        "id": 6437,
+        "name": "Shashamane",
+        "sourceName": "Shashamane",
+        "sourceRow": 6118,
+        "population2025": 452945,
+        "nationalCapital": false
+      }
+    ],
+    "FI": [
+      {
+        "id": 408,
+        "name": "Tampere",
+        "sourceName": "Tampere",
+        "sourceRow": 6200,
+        "population2025": 152752,
+        "nationalCapital": false
+      },
+      {
+        "id": 84,
+        "name": "Turku",
+        "sourceName": "Turku",
+        "sourceRow": 6201,
+        "population2025": 107319,
+        "nationalCapital": false
+      },
+      {
+        "id": 253,
+        "name": "Oulu",
+        "sourceName": "Oulu",
+        "sourceRow": 6199,
+        "population2025": 81012,
+        "nationalCapital": false
+      },
+      {
+        "id": 823,
+        "name": "Lahti",
+        "sourceName": "Lahti",
+        "sourceRow": 6198,
+        "population2025": 59280,
+        "nationalCapital": false
+      }
+    ],
+    "FJ": [
+      {
+        "id": 177,
+        "name": "Lautoka",
+        "sourceName": "Lautoka",
+        "sourceRow": 6194,
+        "population2025": 53310,
+        "nationalCapital": false
+      }
+    ],
+    "FR": [
+      {
+        "id": 4068,
+        "name": "Lyon",
+        "sourceName": "Lyon",
+        "sourceRow": 6248,
+        "population2025": 1202985,
+        "nationalCapital": false
+      },
+      {
+        "id": 3549,
+        "name": "Lille",
+        "sourceName": "Lille",
+        "sourceRow": 6245,
+        "population2025": 893282,
+        "nationalCapital": false
+      },
+      {
+        "id": 4276,
+        "name": "Marseille",
+        "sourceName": "Marseille",
+        "sourceRow": 6251,
+        "population2025": 891463,
+        "nationalCapital": false
+      },
+      {
+        "id": 2391,
+        "name": "Toulouse",
+        "sourceName": "Toulouse",
+        "sourceRow": 6287,
+        "population2025": 642224,
+        "nationalCapital": false
+      }
+    ],
+    "GA": [
+      {
+        "id": 820,
+        "name": "Franceville",
+        "sourceName": "Franceville",
+        "sourceRow": 6297,
+        "population2025": 294863,
+        "nationalCapital": false
+      },
+      {
+        "id": 689,
+        "name": "Moanda",
+        "sourceName": "Moanda",
+        "sourceRow": 6301,
+        "population2025": 115714,
+        "nationalCapital": false
+      },
+      {
+        "id": 68,
+        "name": "Port-Gentil",
+        "sourceName": "Port-Gentil",
+        "sourceRow": 6304,
+        "population2025": 101485,
+        "nationalCapital": false
+      },
+      {
+        "id": 545,
+        "name": "Oyem",
+        "sourceName": "Oyem",
+        "sourceRow": 6302,
+        "population2025": 90307,
+        "nationalCapital": false
+      }
+    ],
+    "GB": [
+      {
+        "id": 3979,
+        "name": "Birmingham",
+        "sourceName": "Birmingham",
+        "sourceRow": 15435,
+        "population2025": 2631757,
+        "nationalCapital": false
+      },
+      {
+        "id": 3388,
+        "name": "Manchester",
+        "sourceName": "Manchester",
+        "sourceRow": 15525,
+        "population2025": 2535427,
+        "nationalCapital": false
+      },
+      {
+        "id": 2236,
+        "name": "Liverpool",
+        "sourceName": "Liverpool",
+        "sourceRow": 15516,
+        "population2025": 1227470,
+        "nationalCapital": false
+      },
+      {
+        "id": 4425,
+        "name": "Leeds",
+        "sourceName": "Leeds",
+        "sourceRow": 15511,
+        "population2025": 1065607,
+        "nationalCapital": false
+      }
+    ],
+    "GE": [
+      {
+        "id": 126,
+        "name": "Batumi",
+        "sourceName": "Batumi",
+        "sourceRow": 6314,
+        "population2025": 162427,
+        "nationalCapital": false
+      },
+      {
+        "id": 293,
+        "name": "Kutaisi",
+        "sourceName": "Kutaisi",
+        "sourceRow": 6317,
+        "population2025": 137357,
+        "nationalCapital": false
+      },
+      {
+        "id": 729,
+        "name": "Rustavi",
+        "sourceName": "Rustavi",
+        "sourceRow": 6318,
+        "population2025": 51946,
+        "nationalCapital": false
+      }
+    ],
+    "GH": [
+      {
+        "id": 1468,
+        "name": "Kumasi",
+        "sourceName": "Kumasi",
+        "sourceRow": 6501,
+        "population2025": 4297984,
+        "nationalCapital": false
+      },
+      {
+        "id": 1260,
+        "name": "Sekondi-Takoradi",
+        "sourceName": "Sekondi-Takoradi",
+        "sourceRow": 6523,
+        "population2025": 1127436,
+        "nationalCapital": false
+      },
+      {
+        "id": 2743,
+        "name": "Tamale",
+        "sourceName": "Tamale",
+        "sourceRow": 6528,
+        "population2025": 654868,
+        "nationalCapital": false
+      },
+      {
+        "id": 2237,
+        "name": "Cape Coast",
+        "sourceName": "Cape Coast",
+        "sourceRow": 6472,
+        "population2025": 281579,
+        "nationalCapital": false
+      }
+    ],
+    "GN": [
+      {
+        "id": 2154,
+        "name": "Siguiri",
+        "sourceName": "Siguiri",
+        "sourceRow": 6637,
+        "population2025": 297453,
+        "nationalCapital": false
+      },
+      {
+        "id": 2075,
+        "name": "Kankan",
+        "sourceName": "Kankan",
+        "sourceRow": 6620,
+        "population2025": 296159,
+        "nationalCapital": false
+      },
+      {
+        "id": 2308,
+        "name": "Nzérékoré",
+        "sourceName": "Nzérékoré",
+        "sourceRow": 6634,
+        "population2025": 272866,
+        "nationalCapital": false
+      },
+      {
+        "id": 1026,
+        "name": "Labé",
+        "sourceName": "Labé",
+        "sourceRow": 6626,
+        "population2025": 208325,
+        "nationalCapital": false
+      }
+    ],
+    "GW": [
+      {
+        "id": 367,
+        "name": "Gabu",
+        "sourceName": "Gabu",
+        "sourceRow": 6646,
+        "population2025": 84452,
+        "nationalCapital": false
+      },
+      {
+        "id": 209,
+        "name": "Bafatá",
+        "sourceName": "Bafatá",
+        "sourceRow": 6643,
+        "population2025": 74378,
+        "nationalCapital": false
+      }
+    ],
+    "HN": [
+      {
+        "id": 492,
+        "name": "San Pedro Sula",
+        "sourceName": "San Pedro Sula",
+        "sourceRow": 6689,
+        "population2025": 1299457,
+        "nationalCapital": false
+      },
+      {
+        "id": 1545,
+        "name": "La Ceiba",
+        "sourceName": "La Ceiba",
+        "sourceRow": 6685,
+        "population2025": 285756,
+        "nationalCapital": false
+      },
+      {
+        "id": 1125,
+        "name": "El Progreso",
+        "sourceName": "El Progreso",
+        "sourceRow": 6683,
+        "population2025": 141706,
+        "nationalCapital": false
+      },
+      {
+        "id": 1237,
+        "name": "Choluteca",
+        "sourceName": "Choluteca",
+        "sourceRow": 6679,
+        "population2025": 136142,
+        "nationalCapital": false
+      }
+    ],
+    "HR": [
+      {
+        "id": 549,
+        "name": "Split",
+        "sourceName": "Split",
+        "sourceRow": 4539,
+        "population2025": 190315,
+        "nationalCapital": false
+      },
+      {
+        "id": 74,
+        "name": "Rijeka",
+        "sourceName": "Rijeka",
+        "sourceRow": 4537,
+        "population2025": 115993,
+        "nationalCapital": false
+      },
+      {
+        "id": 692,
+        "name": "Osijek",
+        "sourceName": "Osijek",
+        "sourceRow": 4536,
+        "population2025": 69790,
+        "nationalCapital": false
+      },
+      {
+        "id": 245,
+        "name": "Zadar",
+        "sourceName": "Zadar",
+        "sourceRow": 4540,
+        "population2025": 65529,
+        "nationalCapital": false
+      }
+    ],
+    "HU": [
+      {
+        "id": 1584,
+        "name": "Debrecen",
+        "sourceName": "Debrecen",
+        "sourceRow": 6698,
+        "population2025": 140350,
+        "nationalCapital": false
+      },
+      {
+        "id": 690,
+        "name": "Pécs",
+        "sourceName": "Pécs",
+        "sourceRow": 6704,
+        "population2025": 118475,
+        "nationalCapital": false
+      },
+      {
+        "id": 1280,
+        "name": "Szeged",
+        "sourceName": "Szeged",
+        "sourceRow": 6706,
+        "population2025": 117571,
+        "nationalCapital": false
+      },
+      {
+        "id": 1386,
+        "name": "Miskolc",
+        "sourceName": "Miskolc",
+        "sourceRow": 6702,
+        "population2025": 114342,
+        "nationalCapital": false
+      }
+    ],
+    "IE": [
+      {
+        "id": 218,
+        "name": "Cork",
+        "sourceName": "Cork",
+        "sourceRow": 10331,
+        "population2025": 154085,
+        "nationalCapital": false
+      },
+      {
+        "id": 47,
+        "name": "Galway",
+        "sourceName": "Galway",
+        "sourceRow": 10333,
+        "population2025": 76385,
+        "nationalCapital": false
+      }
+    ],
+    "IQ": [
+      {
+        "id": 5262,
+        "name": "Basra",
+        "sourceName": "Basra",
+        "sourceRow": 10252,
+        "population2025": 2033553,
+        "nationalCapital": false
+      },
+      {
+        "id": 1410,
+        "name": "Mosul",
+        "sourceName": "Mosul",
+        "sourceRow": 10277,
+        "population2025": 1665214,
+        "nationalCapital": false
+      },
+      {
+        "id": 2345,
+        "name": "Erbil",
+        "sourceName": "Erbil",
+        "sourceRow": 10257,
+        "population2025": 1582829,
+        "nationalCapital": false
+      },
+      {
+        "id": 4039,
+        "name": "Al-Najaf",
+        "sourceName": "Al-Najaf",
+        "sourceRow": 10228,
+        "population2025": 1273450,
+        "nationalCapital": false
+      }
+    ],
+    "JM": [
+      {
+        "id": 643,
+        "name": "Portmore",
+        "sourceName": "Portmore",
+        "sourceRow": 10484,
+        "population2025": 347722,
+        "nationalCapital": false
+      },
+      {
+        "id": 16,
+        "name": "Montego Bay",
+        "sourceName": "Montego Bay",
+        "sourceRow": 10482,
+        "population2025": 118854,
+        "nationalCapital": false
+      },
+      {
+        "id": 191,
+        "name": "Mandeville",
+        "sourceName": "Mandeville",
+        "sourceRow": 10480,
+        "population2025": 101679,
+        "nationalCapital": false
+      },
+      {
+        "id": 352,
+        "name": "May Pen",
+        "sourceName": "May Pen",
+        "sourceRow": 10481,
+        "population2025": 80487,
+        "nationalCapital": false
+      }
+    ],
+    "JO": [
+      {
+        "id": 443,
+        "name": "Irbid",
+        "sourceName": "Irbid",
+        "sourceRow": 10680,
+        "population2025": 792470,
+        "nationalCapital": false
+      },
+      {
+        "id": 723,
+        "name": "Al Salt",
+        "sourceName": "Al Salt",
+        "sourceRow": 10672,
+        "population2025": 155041,
+        "nationalCapital": false
+      },
+      {
+        "id": 1081,
+        "name": "Madaba",
+        "sourceName": "Madaba",
+        "sourceRow": 10686,
+        "population2025": 152897,
+        "nationalCapital": false
+      },
+      {
+        "id": 1194,
+        "name": "Ar Ramtha",
+        "sourceName": "Ar Ramtha",
+        "sourceRow": 10675,
+        "population2025": 127594,
+        "nationalCapital": false
+      }
+    ],
+    "JP": [
+      {
+        "id": 4490,
+        "name": "Osaka",
+        "sourceName": "Osaka",
+        "sourceRow": 10596,
+        "population2025": 12964145,
+        "nationalCapital": false
+      },
+      {
+        "id": 5245,
+        "name": "Nagoya",
+        "sourceName": "Nagoya",
+        "sourceRow": 10579,
+        "population2025": 7146160,
+        "nationalCapital": false
+      },
+      {
+        "id": 884,
+        "name": "Fukuoka",
+        "sourceName": "Fukuoka",
+        "sourceRow": 10502,
+        "population2025": 2225078,
+        "nationalCapital": false
+      },
+      {
+        "id": 334,
+        "name": "Sapporo",
+        "sourceName": "Sapporo",
+        "sourceRow": 10610,
+        "population2025": 1964519,
+        "nationalCapital": false
+      }
+    ],
+    "KE": [
+      {
+        "id": 3077,
+        "name": "Mombasa",
+        "sourceName": "Mombasa",
+        "sourceRow": 10812,
+        "population2025": 1456207,
+        "nationalCapital": false
+      },
+      {
+        "id": 1785,
+        "name": "Nakuru",
+        "sourceName": "Nakuru",
+        "sourceRow": 10819,
+        "population2025": 574091,
+        "nationalCapital": false
+      },
+      {
+        "id": 1084,
+        "name": "Kisumu",
+        "sourceName": "Kisumu",
+        "sourceRow": 10789,
+        "population2025": 430532,
+        "nationalCapital": false
+      },
+      {
+        "id": 1302,
+        "name": "Eldoret",
+        "sourceName": "Eldoret",
+        "sourceRow": 10761,
+        "population2025": 418175,
+        "nationalCapital": false
+      }
+    ],
+    "KG": [
+      {
+        "id": 870,
+        "name": "Osh",
+        "sourceName": "Osh",
+        "sourceRow": 10875,
+        "population2025": 495400,
+        "nationalCapital": false
+      },
+      {
+        "id": 745,
+        "name": "Jalal-Abad",
+        "sourceName": "Jalal-Abad",
+        "sourceRow": 10864,
+        "population2025": 128144,
+        "nationalCapital": false
+      },
+      {
+        "id": 1214,
+        "name": "Özgön",
+        "sourceName": "Özgön",
+        "sourceRow": 10881,
+        "population2025": 91001,
+        "nationalCapital": false
+      },
+      {
+        "id": 611,
+        "name": "Suzak",
+        "sourceName": "Suzak",
+        "sourceRow": 10878,
+        "population2025": 88391,
+        "nationalCapital": false
+      }
+    ],
+    "KH": [
+      {
+        "id": 756,
+        "name": "Siem Reap",
+        "sourceName": "Siem Reap",
+        "sourceRow": 1642,
+        "population2025": 352948,
+        "nationalCapital": false
+      },
+      {
+        "id": 478,
+        "name": "Battambang",
+        "sourceName": "Battambang",
+        "sourceRow": 1628,
+        "population2025": 179778,
+        "nationalCapital": false
+      },
+      {
+        "id": 622,
+        "name": "Anlong Veng",
+        "sourceName": "Anlong Veng",
+        "sourceRow": 1627,
+        "population2025": 172053,
+        "nationalCapital": false
+      },
+      {
+        "id": 164,
+        "name": "Poipet",
+        "sourceName": "Poipet",
+        "sourceRow": 1639,
+        "population2025": 127995,
+        "nationalCapital": false
+      }
+    ],
+    "KP": [
+      {
+        "id": 4711,
+        "name": "Chŏngjin",
+        "sourceName": "Chŏngjin",
+        "sourceRow": 4693,
+        "population2025": 690409,
+        "nationalCapital": false
+      },
+      {
+        "id": 4783,
+        "name": "Hamhung",
+        "sourceName": "Hamhung",
+        "sourceRow": 4696,
+        "population2025": 412277,
+        "nationalCapital": false
+      },
+      {
+        "id": 4489,
+        "name": "Sariwon",
+        "sourceName": "Sariwon",
+        "sourceRow": 4748,
+        "population2025": 404672,
+        "nationalCapital": false
+      },
+      {
+        "id": 5617,
+        "name": "Wonsan",
+        "sourceName": "Wonsan",
+        "sourceRow": 4779,
+        "population2025": 373596,
+        "nationalCapital": false
+      }
+    ],
+    "KR": [
+      {
+        "id": 3878,
+        "name": "Busan",
+        "sourceName": "Busan",
+        "sourceRow": 13532,
+        "population2025": 3263221,
+        "nationalCapital": false
+      },
+      {
+        "id": 2915,
+        "name": "Daegu",
+        "sourceName": "Daegu",
+        "sourceRow": 13539,
+        "population2025": 2334446,
+        "nationalCapital": false
+      },
+      {
+        "id": 2214,
+        "name": "Daejeon",
+        "sourceName": "Daejeon",
+        "sourceRow": 13540,
+        "population2025": 1517299,
+        "nationalCapital": false
+      },
+      {
+        "id": 2656,
+        "name": "Gwangju",
+        "sourceName": "Gwangju",
+        "sourceRow": 13554,
+        "population2025": 1441495,
+        "nationalCapital": false
+      }
+    ],
+    "KZ": [
+      {
+        "id": 2965,
+        "name": "Almaty",
+        "sourceName": "Almaty",
+        "sourceRow": 10695,
+        "population2025": 2367611,
+        "nationalCapital": false,
+        "historicalRole": "Almaty war bis 1997 Hauptstadt Kasachstans.",
+        "historicalSource": "https://www.britannica.com/place/Almaty"
+      },
+      {
+        "id": 2354,
+        "name": "Shymkent",
+        "sourceName": "Shymkent",
+        "sourceRow": 10731,
+        "population2025": 1184337,
+        "nationalCapital": false
+      },
+      {
+        "id": 1880,
+        "name": "Karaganda",
+        "sourceName": "Karaganda",
+        "sourceRow": 10711,
+        "population2025": 313529,
+        "nationalCapital": false
+      },
+      {
+        "id": 735,
+        "name": "Aktobe",
+        "sourceName": "Aktobe",
+        "sourceRow": 10694,
+        "population2025": 416455,
+        "nationalCapital": false
+      }
+    ],
+    "LA": [
+      {
+        "id": 479,
+        "name": "Pakse",
+        "sourceName": "Pakse",
+        "sourceRow": 10884,
+        "population2025": 103630,
+        "nationalCapital": false
+      },
+      {
+        "id": 161,
+        "name": "Luang Prabang",
+        "sourceName": "Luang Prabang",
+        "sourceRow": 10883,
+        "population2025": 66982,
+        "nationalCapital": false
+      }
+    ],
+    "LB": [
+      {
+        "id": 847,
+        "name": "Tripoli",
+        "sourceName": "Tripoli",
+        "sourceRow": 10897,
+        "population2025": 377937,
+        "nationalCapital": false
+      },
+      {
+        "id": 286,
+        "name": "Sidon",
+        "sourceName": "Sidon",
+        "sourceRow": 10896,
+        "population2025": 232143,
+        "nationalCapital": false
+      },
+      {
+        "id": 586,
+        "name": "Nabatieh",
+        "sourceName": "Nabatieh",
+        "sourceRow": 10895,
+        "population2025": 124142,
+        "nationalCapital": false
+      },
+      {
+        "id": 1079,
+        "name": "Zahle",
+        "sourceName": "Zahle",
+        "sourceRow": 10899,
+        "population2025": 115935,
+        "nationalCapital": false
+      }
+    ],
+    "LR": [
+      {
+        "id": 912,
+        "name": "Gbarnga",
+        "sourceName": "Gbarnga",
+        "sourceRow": 10905,
+        "population2025": 85923,
+        "nationalCapital": false
+      },
+      {
+        "id": 213,
+        "name": "Kakata",
+        "sourceName": "Kakata",
+        "sourceRow": 10908,
+        "population2025": 83189,
+        "nationalCapital": false
+      },
+      {
+        "id": 658,
+        "name": "Buchanan",
+        "sourceName": "Buchanan",
+        "sourceRow": 10902,
+        "population2025": 82383,
+        "nationalCapital": false
+      },
+      {
+        "id": 1028,
+        "name": "Ganta",
+        "sourceName": "Ganta",
+        "sourceRow": 10904,
+        "population2025": 76093,
+        "nationalCapital": false
+      }
+    ],
+    "LT": [
+      {
+        "id": 415,
+        "name": "Kaunas",
+        "sourceName": "Kaunas",
+        "sourceRow": 10930,
+        "population2025": 264162,
+        "nationalCapital": false
+      },
+      {
+        "id": 87,
+        "name": "Klaipėda",
+        "sourceName": "Klaipėda",
+        "sourceRow": 10931,
+        "population2025": 115725,
+        "nationalCapital": false
+      },
+      {
+        "id": 559,
+        "name": "Panevėžys",
+        "sourceName": "Panevėžys",
+        "sourceRow": 10932,
+        "population2025": 81901,
+        "nationalCapital": false
+      },
+      {
+        "id": 257,
+        "name": "Šiauliai",
+        "sourceName": "Šiauliai",
+        "sourceRow": 10934,
+        "population2025": 59134,
+        "nationalCapital": false
+      }
+    ],
+    "LV": [
+      {
+        "id": 420,
+        "name": "Daugavpils",
+        "sourceName": "Daugavpils",
+        "sourceRow": 10888,
+        "population2025": 57847,
+        "nationalCapital": false
+      },
+      {
+        "id": 85,
+        "name": "Liepaja",
+        "sourceName": "Liepaja",
+        "sourceRow": 10889,
+        "population2025": 54907,
+        "nationalCapital": false
+      }
+    ],
+    "MA": [
+      {
+        "id": 2076,
+        "name": "Casablanca",
+        "sourceName": "Casablanca",
+        "sourceRow": 11364,
+        "population2025": 4457471,
+        "nationalCapital": false
+      },
+      {
+        "id": 4424,
+        "name": "Fez",
+        "sourceName": "Fez",
+        "sourceRow": 11372,
+        "population2025": 1359989,
+        "nationalCapital": false
+      },
+      {
+        "id": 1742,
+        "name": "Marrakesh",
+        "sourceName": "Marrakesh",
+        "sourceRow": 11386,
+        "population2025": 1021530,
+        "nationalCapital": false
+      },
+      {
+        "id": 3888,
+        "name": "Tangier",
+        "sourceName": "Tangier",
+        "sourceRow": 11412,
+        "population2025": 1217976,
+        "nationalCapital": false
+      }
+    ],
+    "MD": [
+      {
+        "id": 101,
+        "name": "Bălți",
+        "sourceName": "Bălți",
+        "sourceRow": 13594,
+        "population2025": 52977,
+        "nationalCapital": false
+      }
+    ],
+    "ME": [
+      {
+        "id": 90,
+        "name": "Nikšić",
+        "sourceName": "Nikšić",
+        "sourceRow": 11341,
+        "population2025": 54508,
+        "nationalCapital": false
+      }
+    ],
+    "MG": [
+      {
+        "id": 1205,
+        "name": "Mahajanga",
+        "sourceName": "Mahajanga",
+        "sourceRow": 10959,
+        "population2025": 203925,
+        "nationalCapital": false
+      },
+      {
+        "id": 134,
+        "name": "Toliara",
+        "sourceName": "Toliara",
+        "sourceRow": 10970,
+        "population2025": 98510,
+        "nationalCapital": false
+      },
+      {
+        "id": 2275,
+        "name": "Toamasina",
+        "sourceName": "Toamasina",
+        "sourceRow": 10968,
+        "population2025": 65913,
+        "nationalCapital": false
+      },
+      {
+        "id": 1311,
+        "name": "Antsirabe",
+        "sourceName": "Antsirabe",
+        "sourceRow": 10952,
+        "population2025": 55528,
+        "nationalCapital": false
+      }
+    ],
+    "MK": [
+      {
+        "id": 562,
+        "name": "Kumanovo",
+        "sourceName": "Kumanovo",
+        "sourceRow": 12645,
+        "population2025": 62033,
+        "nationalCapital": false
+      },
+      {
+        "id": 98,
+        "name": "Tetovo",
+        "sourceName": "Tetovo",
+        "sourceRow": 12648,
+        "population2025": 57160,
+        "nationalCapital": false
+      },
+      {
+        "id": 418,
+        "name": "Bitola",
+        "sourceName": "Bitola",
+        "sourceRow": 12644,
+        "population2025": 52023,
+        "nationalCapital": false
+      }
+    ],
+    "ML": [
+      {
+        "id": 1363,
+        "name": "Sikasso",
+        "sourceName": "Sikasso",
+        "sourceRow": 11097,
+        "population2025": 389804,
+        "nationalCapital": false
+      },
+      {
+        "id": 1033,
+        "name": "Ségou",
+        "sourceName": "Ségou",
+        "sourceRow": 11099,
+        "population2025": 295589,
+        "nationalCapital": false
+      },
+      {
+        "id": 1562,
+        "name": "Koutiala",
+        "sourceName": "Koutiala",
+        "sourceRow": 11083,
+        "population2025": 283496,
+        "nationalCapital": false
+      },
+      {
+        "id": 43,
+        "name": "Kayes",
+        "sourceName": "Kayes",
+        "sourceRow": 11073,
+        "population2025": 278727,
+        "nationalCapital": false
+      }
+    ],
+    "MR": [
+      {
+        "id": 35,
+        "name": "Nouadhibou",
+        "sourceName": "Nouadhibou",
+        "sourceRow": 11114,
+        "population2025": 179362,
+        "nationalCapital": false
+      },
+      {
+        "id": 795,
+        "name": "Fassala",
+        "sourceName": "Fassala",
+        "sourceRow": 11110,
+        "population2025": 105382,
+        "nationalCapital": false
+      },
+      {
+        "id": 657,
+        "name": "Kiffa",
+        "sourceName": "Kiffa",
+        "sourceRow": 11112,
+        "population2025": 80914,
+        "nationalCapital": false
+      },
+      {
+        "id": 369,
+        "name": "Kaédi",
+        "sourceName": "Kaédi",
+        "sourceRow": 11111,
+        "population2025": 59221,
+        "nationalCapital": false
+      }
+    ],
+    "MW": [
+      {
+        "id": 851,
+        "name": "Blantyre",
+        "sourceName": "Blantyre",
+        "sourceRow": 10978,
+        "population2025": 909289,
+        "nationalCapital": false
+      },
+      {
+        "id": 589,
+        "name": "Mzuzu",
+        "sourceName": "Mzuzu",
+        "sourceRow": 10992,
+        "population2025": 221840,
+        "nationalCapital": false
+      },
+      {
+        "id": 289,
+        "name": "Likuni",
+        "sourceName": "Likuni",
+        "sourceRow": 10983,
+        "population2025": 151695,
+        "nationalCapital": false
+      },
+      {
+        "id": 968,
+        "name": "Zomba",
+        "sourceName": "Zomba",
+        "sourceRow": 10997,
+        "population2025": 78271,
+        "nationalCapital": false
+      }
+    ],
+    "MZ": [
+      {
+        "id": 3460,
+        "name": "Nampula",
+        "sourceName": "Nampula",
+        "sourceRow": 11494,
+        "population2025": 885780,
+        "nationalCapital": false
+      },
+      {
+        "id": 1869,
+        "name": "Beira",
+        "sourceName": "Beira",
+        "sourceRow": 11424,
+        "population2025": 608097,
+        "nationalCapital": false
+      },
+      {
+        "id": 966,
+        "name": "Chimoio",
+        "sourceName": "Chimoio",
+        "sourceRow": 11430,
+        "population2025": 453521,
+        "nationalCapital": false
+      },
+      {
+        "id": 2832,
+        "name": "Quelimane",
+        "sourceName": "Quelimane",
+        "sourceRow": 11501,
+        "population2025": 438554,
+        "nationalCapital": false
+      }
+    ],
+    "NA": [
+      {
+        "id": 250,
+        "name": "Swakopmund",
+        "sourceName": "Swakopmund",
+        "sourceRow": 11660,
+        "population2025": 89839,
+        "nationalCapital": false
+      },
+      {
+        "id": 81,
+        "name": "Kuisebmond",
+        "sourceName": "Kuisebmond",
+        "sourceRow": 11657,
+        "population2025": 86747,
+        "nationalCapital": false
+      },
+      {
+        "id": 565,
+        "name": "Rundu",
+        "sourceName": "Rundu",
+        "sourceRow": 11659,
+        "population2025": 68305,
+        "nationalCapital": false
+      }
+    ],
+    "NE": [
+      {
+        "id": 2940,
+        "name": "Zinder",
+        "sourceName": "Zinder",
+        "sourceRow": 11852,
+        "population2025": 740218,
+        "nationalCapital": false
+      },
+      {
+        "id": 2168,
+        "name": "Maradi",
+        "sourceName": "Maradi",
+        "sourceRow": 11827,
+        "population2025": 666205,
+        "nationalCapital": false
+      },
+      {
+        "id": 1268,
+        "name": "Tahoua",
+        "sourceName": "Tahoua",
+        "sourceRow": 11839,
+        "population2025": 342253,
+        "nationalCapital": false
+      },
+      {
+        "id": 2546,
+        "name": "Agadez",
+        "sourceName": "Agadez",
+        "sourceRow": 11782,
+        "population2025": 335322,
+        "nationalCapital": false
+      }
+    ],
+    "NI": [
+      {
+        "id": 636,
+        "name": "Masaya",
+        "sourceName": "Masaya",
+        "sourceRow": 11772,
+        "population2025": 156536,
+        "nationalCapital": false
+      },
+      {
+        "id": 184,
+        "name": "León",
+        "sourceName": "León",
+        "sourceRow": 11769,
+        "population2025": 156438,
+        "nationalCapital": false
+      },
+      {
+        "id": 1127,
+        "name": "Matagalpa",
+        "sourceName": "Matagalpa",
+        "sourceRow": 11773,
+        "population2025": 131533,
+        "nationalCapital": false
+      },
+      {
+        "id": 493,
+        "name": "Esteli",
+        "sourceName": "Esteli",
+        "sourceRow": 11764,
+        "population2025": 111513,
+        "nationalCapital": false
+      }
+    ],
+    "NO": [
+      {
+        "id": 388,
+        "name": "Stavanger",
+        "sourceName": "Stavanger",
+        "sourceRow": 12655,
+        "population2025": 206726,
+        "nationalCapital": false
+      },
+      {
+        "id": 677,
+        "name": "Trondheim",
+        "sourceName": "Trondheim",
+        "sourceRow": 12657,
+        "population2025": 141819,
+        "nationalCapital": false
+      },
+      {
+        "id": 57,
+        "name": "Bergen",
+        "sourceName": "Bergen",
+        "sourceRow": 12649,
+        "population2025": 135293,
+        "nationalCapital": false
+      },
+      {
+        "id": 1164,
+        "name": "Tromsø",
+        "sourceName": "Tromsø",
+        "sourceRow": 12656,
+        "population2025": 54242,
+        "nationalCapital": false
+      }
+    ],
+    "NP": [
+      {
+        "id": 2049,
+        "name": "Biratnagar",
+        "sourceName": "Biratnagar",
+        "sourceRow": 11667,
+        "population2025": 398453,
+        "nationalCapital": false
+      },
+      {
+        "id": 1323,
+        "name": "Pokhara",
+        "sourceName": "Pokhara",
+        "sourceRow": 11687,
+        "population2025": 297320,
+        "nationalCapital": false
+      },
+      {
+        "id": 1529,
+        "name": "Pokhariya",
+        "sourceName": "Pokhariya",
+        "sourceRow": 11688,
+        "population2025": 242966,
+        "nationalCapital": false
+      },
+      {
+        "id": 1428,
+        "name": "Bharatpur",
+        "sourceName": "Bharatpur",
+        "sourceRow": 11665,
+        "population2025": 161441,
+        "nationalCapital": false
+      }
+    ],
+    "NZ": [
+      {
+        "id": 1005,
+        "name": "Auckland",
+        "sourceName": "Auckland",
+        "sourceRow": 11748,
+        "population2025": 1123094,
+        "nationalCapital": false
+      },
+      {
+        "id": 336,
+        "name": "Christchurch",
+        "sourceName": "Christchurch",
+        "sourceRow": 11749,
+        "population2025": 260804,
+        "nationalCapital": false
+      },
+      {
+        "id": 888,
+        "name": "Hamilton",
+        "sourceName": "Hamilton",
+        "sourceRow": 11752,
+        "population2025": 166249,
+        "nationalCapital": false
+      },
+      {
+        "id": 173,
+        "name": "Dunedin",
+        "sourceName": "Dunedin",
+        "sourceRow": 11750,
+        "population2025": 82204,
+        "nationalCapital": false
+      }
+    ],
+    "OM": [
+      {
+        "id": 144,
+        "name": "Salalah",
+        "sourceName": "Salalah",
+        "sourceRow": 12671,
+        "population2025": 279161,
+        "nationalCapital": false
+      },
+      {
+        "id": 607,
+        "name": "Sohar",
+        "sourceName": "Sohar",
+        "sourceRow": 12673,
+        "population2025": 154765,
+        "nationalCapital": false
+      }
+    ],
+    "PE": [
+      {
+        "id": 3272,
+        "name": "Arequipa",
+        "sourceName": "Arequipa",
+        "sourceRow": 13225,
+        "population2025": 977496,
+        "nationalCapital": false
+      },
+      {
+        "id": 1014,
+        "name": "Trujillo",
+        "sourceName": "Trujillo",
+        "sourceRow": 13273,
+        "population2025": 949018,
+        "nationalCapital": false
+      },
+      {
+        "id": 897,
+        "name": "Chiclayo",
+        "sourceName": "Chiclayo",
+        "sourceRow": 13233,
+        "population2025": 620622,
+        "nationalCapital": false
+      },
+      {
+        "id": 495,
+        "name": "Piura",
+        "sourceName": "Piura",
+        "sourceRow": 13260,
+        "population2025": 471521,
+        "nationalCapital": false
+      }
+    ],
+    "PG": [
+      {
+        "id": 485,
+        "name": "Mendi",
+        "sourceName": "Mendi",
+        "sourceRow": 13200,
+        "population2025": 132879,
+        "nationalCapital": false
+      },
+      {
+        "id": 1441,
+        "name": "Lae",
+        "sourceName": "Lae",
+        "sourceRow": 13197,
+        "population2025": 121552,
+        "nationalCapital": false
+      },
+      {
+        "id": 762,
+        "name": "Mount Hagen",
+        "sourceName": "Mount Hagen",
+        "sourceRow": 13202,
+        "population2025": 107186,
+        "nationalCapital": false
+      },
+      {
+        "id": 1119,
+        "name": "Goroka",
+        "sourceName": "Goroka",
+        "sourceRow": 13190,
+        "population2025": 95462,
+        "nationalCapital": false
+      }
+    ],
+    "PH": [
+      {
+        "id": 5062,
+        "name": "Cebu City",
+        "sourceName": "Cebu City",
+        "sourceRow": 13310,
+        "population2025": 3044564,
+        "nationalCapital": false
+      },
+      {
+        "id": 5852,
+        "name": "Davao City",
+        "sourceName": "Davao City",
+        "sourceRow": 13319,
+        "population2025": 1546026,
+        "nationalCapital": false
+      },
+      {
+        "id": 2059,
+        "name": "Angeles",
+        "sourceName": "Angeles",
+        "sourceRow": 13277,
+        "population2025": 1445721,
+        "nationalCapital": false
+      },
+      {
+        "id": 5465,
+        "name": "Cagayan de Oro",
+        "sourceName": "Cagayan de Oro",
+        "sourceRow": 13299,
+        "population2025": 870291,
+        "nationalCapital": false
+      }
+    ],
+    "PK": [
+      {
+        "id": 2578,
+        "name": "Karachi",
+        "sourceName": "Karachi",
+        "sourceRow": 12884,
+        "population2025": 21422590,
+        "nationalCapital": false
+      },
+      {
+        "id": 8021,
+        "name": "Lahore",
+        "sourceName": "Lahore",
+        "sourceRow": 12937,
+        "population2025": 15156430,
+        "nationalCapital": false
+      },
+      {
+        "id": 7724,
+        "name": "Faisalabad",
+        "sourceName": "Faisalabad",
+        "sourceRow": 12789,
+        "population2025": 5566382,
+        "nationalCapital": false
+      },
+      {
+        "id": 4408,
+        "name": "Peshawar",
+        "sourceName": "Peshawar",
+        "sourceRow": 13033,
+        "population2025": 3554423,
+        "nationalCapital": false
+      }
+    ],
+    "PY": [
+      {
+        "id": 1024,
+        "name": "Ciudad del Este",
+        "sourceName": "Ciudad del Este",
+        "sourceRow": 13212,
+        "population2025": 412725,
+        "nationalCapital": false
+      },
+      {
+        "id": 907,
+        "name": "Encarnacion",
+        "sourceName": "Encarnacion",
+        "sourceRow": 13215,
+        "population2025": 170683,
+        "nationalCapital": false
+      },
+      {
+        "id": 508,
+        "name": "Coronel Oviedo",
+        "sourceName": "Coronel Oviedo",
+        "sourceRow": 13214,
+        "population2025": 112027,
+        "nationalCapital": false
+      },
+      {
+        "id": 784,
+        "name": "Caaguazú",
+        "sourceName": "Caaguazú",
+        "sourceRow": 13211,
+        "population2025": 109926,
+        "nationalCapital": false
+      }
+    ],
+    "QA": [
+      {
+        "id": 737,
+        "name": "Al Wakrah",
+        "sourceName": "Al Wakrah",
+        "sourceRow": 13525,
+        "population2025": 111390,
+        "nationalCapital": false
+      },
+      {
+        "id": 603,
+        "name": "Al Khor",
+        "sourceName": "Al Khor",
+        "sourceRow": 13524,
+        "population2025": 79244,
+        "nationalCapital": false
+      }
+    ],
+    "RS": [
+      {
+        "id": 255,
+        "name": "Novi Sad",
+        "sourceName": "Novi Sad",
+        "sourceRow": 14107,
+        "population2025": 262324,
+        "nationalCapital": false
+      },
+      {
+        "id": 1489,
+        "name": "Niš",
+        "sourceName": "Niš",
+        "sourceRow": 14105,
+        "population2025": 199431,
+        "nationalCapital": false
+      },
+      {
+        "id": 1282,
+        "name": "Kragujevac",
+        "sourceName": "Kragujevac",
+        "sourceRow": 14101,
+        "population2025": 130084,
+        "nationalCapital": false
+      },
+      {
+        "id": 1061,
+        "name": "Novi Pazar",
+        "sourceName": "Novi Pazar",
+        "sourceRow": 14106,
+        "population2025": 79249,
+        "nationalCapital": false
+      }
+    ],
+    "RW": [
+      {
+        "id": 112,
+        "name": "Rubavu",
+        "sourceName": "Rubavu",
+        "sourceRow": 13974,
+        "population2025": 337963,
+        "nationalCapital": false
+      },
+      {
+        "id": 280,
+        "name": "Musanze",
+        "sourceName": "Musanze",
+        "sourceRow": 13964,
+        "population2025": 155984,
+        "nationalCapital": false
+      },
+      {
+        "id": 435,
+        "name": "Muhanga",
+        "sourceName": "Muhanga",
+        "sourceRow": 13961,
+        "population2025": 75461,
+        "nationalCapital": false
+      },
+      {
+        "id": 715,
+        "name": "Kayonza",
+        "sourceName": "Kayonza",
+        "sourceRow": 13957,
+        "population2025": 50465,
+        "nationalCapital": false
+      }
+    ],
+    "SA": [
+      {
+        "id": 1086,
+        "name": "Jeddah",
+        "sourceName": "Jeddah",
+        "sourceRow": 14024,
+        "population2025": 4284080,
+        "nationalCapital": false
+      },
+      {
+        "id": 3520,
+        "name": "Dammam",
+        "sourceName": "Dammam",
+        "sourceRow": 14016,
+        "population2025": 2335647,
+        "nationalCapital": false
+      },
+      {
+        "id": 1513,
+        "name": "Mecca",
+        "sourceName": "Mecca",
+        "sourceRow": 14028,
+        "population2025": 1692152,
+        "nationalCapital": false
+      },
+      {
+        "id": 728,
+        "name": "Medina",
+        "sourceName": "Medina",
+        "sourceRow": 14029,
+        "population2025": 1432287,
+        "nationalCapital": false
+      }
+    ],
+    "SE": [
+      {
+        "id": 66,
+        "name": "Gothenburg",
+        "sourceName": "Gothenburg",
+        "sourceRow": 14712,
+        "population2025": 562945,
+        "nationalCapital": false
+      },
+      {
+        "id": 540,
+        "name": "Malmo",
+        "sourceName": "Malmo",
+        "sourceRow": 14718,
+        "population2025": 318242,
+        "nationalCapital": false
+      },
+      {
+        "id": 1482,
+        "name": "Uppsala",
+        "sourceName": "Uppsala",
+        "sourceRow": 14726,
+        "population2025": 134252,
+        "nationalCapital": false
+      }
+    ],
+    "SI": [
+      {
+        "id": 244,
+        "name": "Maribor",
+        "sourceName": "Maribor",
+        "sourceRow": 14147,
+        "population2025": 82053,
+        "nationalCapital": false
+      }
+    ],
+    "SK": [
+      {
+        "id": 944,
+        "name": "Košice",
+        "sourceName": "Košice",
+        "sourceRow": 14140,
+        "population2025": 216740,
+        "nationalCapital": false
+      },
+      {
+        "id": 824,
+        "name": "Prešov",
+        "sourceName": "Prešov",
+        "sourceRow": 14143,
+        "population2025": 76161,
+        "nationalCapital": false
+      },
+      {
+        "id": 550,
+        "name": "Žilina",
+        "sourceName": "Žilina",
+        "sourceRow": 14145,
+        "population2025": 65278,
+        "nationalCapital": false
+      },
+      {
+        "id": 691,
+        "name": "Banská Bystrica",
+        "sourceName": "Banská Bystrica",
+        "sourceRow": 14138,
+        "population2025": 59336,
+        "nationalCapital": false
+      }
+    ],
+    "SL": [
+      {
+        "id": 1027,
+        "name": "Bo",
+        "sourceName": "Bo",
+        "sourceRow": 14119,
+        "population2025": 345988,
+        "nationalCapital": false
+      },
+      {
+        "id": 1142,
+        "name": "Kenema",
+        "sourceName": "Kenema",
+        "sourceRow": 14125,
+        "population2025": 249485,
+        "nationalCapital": false
+      },
+      {
+        "id": 789,
+        "name": "Makeni",
+        "sourceName": "Makeni",
+        "sourceRow": 14130,
+        "population2025": 200865,
+        "nationalCapital": false
+      },
+      {
+        "id": 1252,
+        "name": "Koidu Town",
+        "sourceName": "Koidu Town",
+        "sourceRow": 14126,
+        "population2025": 140949,
+        "nationalCapital": false
+      }
+    ],
+    "SN": [
+      {
+        "id": 1829,
+        "name": "Touba",
+        "sourceName": "Touba",
+        "sourceRow": 14095,
+        "population2025": 1151552,
+        "nationalCapital": false
+      },
+      {
+        "id": 205,
+        "name": "M'bour",
+        "sourceName": "M'bour",
+        "sourceRow": 14076,
+        "population2025": 553170,
+        "nationalCapital": false
+      },
+      {
+        "id": 364,
+        "name": "Thiès",
+        "sourceName": "Thiès",
+        "sourceRow": 14093,
+        "population2025": 521678,
+        "nationalCapital": false
+      },
+      {
+        "id": 1650,
+        "name": "Kaolack",
+        "sourceName": "Kaolack",
+        "sourceRow": 14068,
+        "population2025": 412347,
+        "nationalCapital": false
+      }
+    ],
+    "SS": [
+      {
+        "id": 1403,
+        "name": "Nimule",
+        "sourceName": "Nimule",
+        "sourceRow": 14387,
+        "population2025": 581444,
+        "nationalCapital": false
+      },
+      {
+        "id": 1780,
+        "name": "Torit",
+        "sourceName": "Torit",
+        "sourceRow": 14394,
+        "population2025": 424731,
+        "nationalCapital": false
+      },
+      {
+        "id": 2109,
+        "name": "Riwoto",
+        "sourceName": "Riwoto",
+        "sourceRow": 14390,
+        "population2025": 330053,
+        "nationalCapital": false
+      },
+      {
+        "id": 2340,
+        "name": "Kapoeta",
+        "sourceName": "Kapoeta",
+        "sourceRow": 14374,
+        "population2025": 270167,
+        "nationalCapital": false
+      }
+    ],
+    "SV": [
+      {
+        "id": 491,
+        "name": "Santa Ana",
+        "sourceName": "Santa Ana",
+        "sourceRow": 5665,
+        "population2025": 214624,
+        "nationalCapital": false
+      },
+      {
+        "id": 182,
+        "name": "Sonsonate",
+        "sourceName": "Sonsonate",
+        "sourceRow": 5666,
+        "population2025": 177507,
+        "nationalCapital": false
+      },
+      {
+        "id": 1445,
+        "name": "San Miguel",
+        "sourceName": "San Miguel",
+        "sourceRow": 5663,
+        "population2025": 166162,
+        "nationalCapital": false
+      },
+      {
+        "id": 768,
+        "name": "Lourdes",
+        "sourceName": "Lourdes",
+        "sourceRow": 5661,
+        "population2025": 127882,
+        "nationalCapital": false
+      }
+    ],
+    "SY": [
+      {
+        "id": 1601,
+        "name": "Aleppo",
+        "sourceName": "Aleppo",
+        "sourceRow": 14766,
+        "population2025": 2922277,
+        "nationalCapital": false
+      },
+      {
+        "id": 2106,
+        "name": "Homs",
+        "sourceName": "Homs",
+        "sourceRow": 14788,
+        "population2025": 940460,
+        "nationalCapital": false
+      },
+      {
+        "id": 119,
+        "name": "Latakia",
+        "sourceName": "Latakia",
+        "sourceRow": 14800,
+        "population2025": 591300,
+        "nationalCapital": false
+      },
+      {
+        "id": 1690,
+        "name": "Hama",
+        "sourceName": "Hama",
+        "sourceRow": 14786,
+        "population2025": 374643,
+        "nationalCapital": false
+      }
+    ],
+    "TD": [
+      {
+        "id": 2945,
+        "name": "Abéché",
+        "sourceName": "Abéché",
+        "sourceRow": 1819,
+        "population2025": 443793,
+        "nationalCapital": false
+      },
+      {
+        "id": 1385,
+        "name": "Moundou",
+        "sourceName": "Moundou",
+        "sourceRow": 1874,
+        "population2025": 281943,
+        "nationalCapital": false
+      },
+      {
+        "id": 2404,
+        "name": "Sarh",
+        "sourceName": "Sarh",
+        "sourceRow": 1880,
+        "population2025": 276978,
+        "nationalCapital": false
+      },
+      {
+        "id": 2479,
+        "name": "Mongo",
+        "sourceName": "Mongo",
+        "sourceRow": 1873,
+        "population2025": 223205,
+        "nationalCapital": false
+      }
+    ],
+    "TG": [
+      {
+        "id": 223,
+        "name": "Dapaong",
+        "sourceName": "Dapaong",
+        "sourceRow": 14956,
+        "population2025": 242985,
+        "nationalCapital": false
+      },
+      {
+        "id": 669,
+        "name": "Blitta-Gare",
+        "sourceName": "Blitta-Gare",
+        "sourceRow": 14954,
+        "population2025": 209755,
+        "nationalCapital": false
+      },
+      {
+        "id": 1039,
+        "name": "Sokodé",
+        "sourceName": "Sokodé",
+        "sourceRow": 14969,
+        "population2025": 197651,
+        "nationalCapital": false
+      },
+      {
+        "id": 1263,
+        "name": "Kara",
+        "sourceName": "Kara",
+        "sourceRow": 14960,
+        "population2025": 192544,
+        "nationalCapital": false
+      }
+    ],
+    "TH": [
+      {
+        "id": 160,
+        "name": "Chiang Mai",
+        "sourceName": "Chiang Mai",
+        "sourceRow": 14868,
+        "population2025": 626629,
+        "nationalCapital": false
+      },
+      {
+        "id": 3528,
+        "name": "Hat Yai",
+        "sourceName": "Hat Yai",
+        "sourceRow": 14872,
+        "population2025": 407059,
+        "nationalCapital": false
+      },
+      {
+        "id": 1533,
+        "name": "Phuket",
+        "sourceName": "Phuket",
+        "sourceRow": 14910,
+        "population2025": 389376,
+        "nationalCapital": false
+      },
+      {
+        "id": 2362,
+        "name": "Lop Buri",
+        "sourceName": "Lop Buri",
+        "sourceRow": 14884,
+        "population2025": 378160,
+        "nationalCapital": false
+      }
+    ],
+    "TJ": [
+      {
+        "id": 868,
+        "name": "Khujand",
+        "sourceName": "Khujand",
+        "sourceRow": 14840,
+        "population2025": 204088,
+        "nationalCapital": false
+      },
+      {
+        "id": 2505,
+        "name": "Kulob",
+        "sourceName": "Kulob",
+        "sourceRow": 14842,
+        "population2025": 184502,
+        "nationalCapital": false
+      },
+      {
+        "id": 1100,
+        "name": "Ghafurov",
+        "sourceName": "Ghafurov",
+        "sourceRow": 14830,
+        "population2025": 183812,
+        "nationalCapital": false
+      },
+      {
+        "id": 985,
+        "name": "Hisor",
+        "sourceName": "Hisor",
+        "sourceRow": 14832,
+        "population2025": 125054,
+        "nationalCapital": false
+      }
+    ],
+    "TN": [
+      {
+        "id": 2170,
+        "name": "Sfax",
+        "sourceName": "Sfax",
+        "sourceRow": 15001,
+        "population2025": 608293,
+        "nationalCapital": false
+      },
+      {
+        "id": 1849,
+        "name": "Sousse",
+        "sourceName": "Sousse",
+        "sourceRow": 15003,
+        "population2025": 495877,
+        "nationalCapital": false
+      },
+      {
+        "id": 1760,
+        "name": "Hammamet",
+        "sourceName": "Hammamet",
+        "sourceRow": 14988,
+        "population2025": 229253,
+        "nationalCapital": false
+      },
+      {
+        "id": 1049,
+        "name": "Bizerte",
+        "sourceName": "Bizerte",
+        "sourceRow": 14982,
+        "population2025": 176615,
+        "nationalCapital": false
+      }
+    ],
+    "TR": [
+      {
+        "id": 2626,
+        "name": "Istanbul",
+        "sourceName": "Istanbul",
+        "sourceRow": 15101,
+        "population2025": 15014763,
+        "nationalCapital": false,
+        "historicalRole": "Istanbul war als Konstantinopel Hauptstadt des Osmanischen Reichs.",
+        "historicalSource": "https://www.britannica.com/place/Istanbul"
+      },
+      {
+        "id": 1069,
+        "name": "Izmir",
+        "sourceName": "Izmir",
+        "sourceRow": 15102,
+        "population2025": 2650237,
+        "nationalCapital": false
+      },
+      {
+        "id": 3124,
+        "name": "Bursa",
+        "sourceName": "Bursa",
+        "sourceRow": 15059,
+        "population2025": 2281622,
+        "nationalCapital": false,
+        "historicalRole": "Bursa war eine frühe Hauptstadt des Osmanischen Reichs.",
+        "historicalSource": "https://bursa.ktb.gov.tr/EN-91280/the-first-capital-city-of-the-ottoman-empire.html"
+      },
+      {
+        "id": 4508,
+        "name": "Antalya",
+        "sourceName": "Antalya",
+        "sourceRow": 15038,
+        "population2025": 1273822,
+        "nationalCapital": false
+      }
+    ],
+    "TT": [
+      {
+        "id": 360,
+        "name": "Chaguanas",
+        "sourceName": "Chaguanas",
+        "sourceRow": 14977,
+        "population2025": 115936,
+        "nationalCapital": false
+      },
+      {
+        "id": 199,
+        "name": "San Fernando",
+        "sourceName": "San Fernando",
+        "sourceRow": 14979,
+        "population2025": 96840,
+        "nationalCapital": false
+      }
+    ],
+    "TZ": [
+      {
+        "id": 3670,
+        "name": "Zanzibar City",
+        "sourceName": "Zanzibar City",
+        "sourceRow": 15727,
+        "population2025": 966642,
+        "nationalCapital": false
+      },
+      {
+        "id": 1868,
+        "name": "Mwanza",
+        "sourceName": "Mwanza",
+        "sourceRow": 15690,
+        "population2025": 954104,
+        "nationalCapital": false
+      },
+      {
+        "id": 3133,
+        "name": "Arusha",
+        "sourceName": "Arusha",
+        "sourceRow": 15586,
+        "population2025": 795744,
+        "nationalCapital": false
+      },
+      {
+        "id": 2187,
+        "name": "Mbeya",
+        "sourceName": "Mbeya",
+        "sourceRow": 15658,
+        "population2025": 539248,
+        "nationalCapital": false
+      }
+    ],
+    "UA": [
+      {
+        "id": 3991,
+        "name": "Kharkiv",
+        "sourceName": "Kharkiv",
+        "sourceRow": 15321,
+        "population2025": 1308892,
+        "nationalCapital": false
+      },
+      {
+        "id": 2693,
+        "name": "Odesa",
+        "sourceName": "Odesa",
+        "sourceRow": 15357,
+        "population2025": 899157,
+        "nationalCapital": false
+      },
+      {
+        "id": 3763,
+        "name": "Dnipro",
+        "sourceName": "Dnipro",
+        "sourceRow": 15303,
+        "population2025": 792115,
+        "nationalCapital": false
+      },
+      {
+        "id": 700,
+        "name": "Lviv",
+        "sourceName": "Lviv",
+        "sourceRow": 15345,
+        "population2025": 627280,
+        "nationalCapital": false
+      }
+    ],
+    "UG": [
+      {
+        "id": 2565,
+        "name": "Mbale City",
+        "sourceName": "Mbale City",
+        "sourceRow": 15268,
+        "population2025": 380565,
+        "nationalCapital": false
+      },
+      {
+        "id": 2633,
+        "name": "Bukalasi",
+        "sourceName": "Bukalasi",
+        "sourceRow": 15227,
+        "population2025": 345288,
+        "nationalCapital": false
+      },
+      {
+        "id": 2263,
+        "name": "Jinja",
+        "sourceName": "Jinja",
+        "sourceRow": 15244,
+        "population2025": 261604,
+        "nationalCapital": false
+      },
+      {
+        "id": 716,
+        "name": "Mbarara",
+        "sourceName": "Mbarara",
+        "sourceRow": 15269,
+        "population2025": 231926,
+        "nationalCapital": false
+      }
+    ],
+    "US": [
+      {
+        "id": 8354,
+        "name": "New York City",
+        "sourceName": "New York City",
+        "sourceRow": 16007,
+        "population2025": 13920148,
+        "nationalCapital": false,
+        "historicalRole": "New York City war von 1789 bis 1790 Hauptstadt der USA.",
+        "historicalSource": "https://www.senate.gov/about/historic-buildings-spaces/meeting-places.htm"
+      },
+      {
+        "id": 1725,
+        "name": "Los Angeles",
+        "sourceName": "Los Angeles",
+        "sourceRow": 15960,
+        "population2025": 12740420,
+        "nationalCapital": false
+      },
+      {
+        "id": 7747,
+        "name": "Chicago",
+        "sourceName": "Chicago",
+        "sourceRow": 15798,
+        "population2025": 3683385,
+        "nationalCapital": false
+      },
+      {
+        "id": 6237,
+        "name": "Houston",
+        "sourceName": "Houston",
+        "sourceRow": 15905,
+        "population2025": 3955046,
+        "nationalCapital": false
+      }
+    ],
+    "UY": [
+      {
+        "id": 509,
+        "name": "Las Piedras",
+        "sourceName": "Las Piedras",
+        "sourceRow": 16173,
+        "population2025": 103682,
+        "nationalCapital": false
+      },
+      {
+        "id": 908,
+        "name": "Maldonado",
+        "sourceName": "Maldonado",
+        "sourceRow": 16174,
+        "population2025": 102414,
+        "nationalCapital": false
+      },
+      {
+        "id": 31,
+        "name": "Salto",
+        "sourceName": "Salto",
+        "sourceRow": 16178,
+        "population2025": 94454,
+        "nationalCapital": false
+      },
+      {
+        "id": 785,
+        "name": "Ciudad de la Costa",
+        "sourceName": "Ciudad de la Costa",
+        "sourceRow": 16172,
+        "population2025": 92062,
+        "nationalCapital": false
+      }
+    ],
+    "UZ": [
+      {
+        "id": 4368,
+        "name": "Namangan",
+        "sourceName": "Namangan",
+        "sourceRow": 16243,
+        "population2025": 947465,
+        "nationalCapital": false
+      },
+      {
+        "id": 2427,
+        "name": "Samarqand",
+        "sourceName": "Samarqand",
+        "sourceRow": 16264,
+        "population2025": 932219,
+        "nationalCapital": false
+      },
+      {
+        "id": 4738,
+        "name": "Andijon",
+        "sourceName": "Andijon",
+        "sourceRow": 16180,
+        "population2025": 803518,
+        "nationalCapital": false
+      },
+      {
+        "id": 4554,
+        "name": "Fergana",
+        "sourceName": "Fergana",
+        "sourceRow": 16206,
+        "population2025": 791877,
+        "nationalCapital": false
+      }
+    ],
+    "VN": [
+      {
+        "id": 5435,
+        "name": "Ho Chi Minh City",
+        "sourceName": "Ho Chi Minh City",
+        "sourceRow": 16423,
+        "population2025": 14052713,
+        "nationalCapital": false
+      },
+      {
+        "id": 4924,
+        "name": "Cần Thơ",
+        "sourceName": "Cần Thơ",
+        "sourceRow": 16402,
+        "population2025": 1327741,
+        "nationalCapital": false
+      },
+      {
+        "id": 5489,
+        "name": "Đà Nẵng",
+        "sourceName": "Đà Nẵng",
+        "sourceRow": 16543,
+        "population2025": 1142621,
+        "nationalCapital": false
+      },
+      {
+        "id": 3966,
+        "name": "Hải Phòng",
+        "sourceName": "Hải Phòng",
+        "sourceRow": 16433,
+        "population2025": 1015494,
+        "nationalCapital": false
+      }
+    ],
+    "ZM": [
+      {
+        "id": 1774,
+        "name": "Kitwe",
+        "sourceName": "Kitwe",
+        "sourceRow": 16771,
+        "population2025": 678749,
+        "nationalCapital": false
+      },
+      {
+        "id": 2104,
+        "name": "Ndola",
+        "sourceName": "Ndola",
+        "sourceRow": 16797,
+        "population2025": 535108,
+        "nationalCapital": false
+      },
+      {
+        "id": 2412,
+        "name": "Mansa",
+        "sourceName": "Mansa",
+        "sourceRow": 16777,
+        "population2025": 335503,
+        "nationalCapital": false
+      },
+      {
+        "id": 1183,
+        "name": "Chingola",
+        "sourceName": "Chingola",
+        "sourceRow": 16753,
+        "population2025": 294193,
+        "nationalCapital": false
+      }
+    ],
+    "ZW": [
+      {
+        "id": 109,
+        "name": "Bulawayo",
+        "sourceName": "Bulawayo",
+        "sourceRow": 16805,
+        "population2025": 492771,
+        "nationalCapital": false
+      },
+      {
+        "id": 1500,
+        "name": "Ruwa",
+        "sourceName": "Ruwa",
+        "sourceRow": 16827,
+        "population2025": 185224,
+        "nationalCapital": false
+      },
+      {
+        "id": 1776,
+        "name": "Mutare",
+        "sourceName": "Mutare",
+        "sourceRow": 16821,
+        "population2025": 149231,
+        "nationalCapital": false
+      },
+      {
+        "id": 577,
+        "name": "Kwekwe",
+        "sourceName": "Kwekwe",
+        "sourceRow": 16817,
+        "population2025": 135991,
+        "nationalCapital": false
+      }
+    ]
+  }
+}

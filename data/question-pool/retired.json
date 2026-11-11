@@ -268,5 +268,3215 @@
       ],
       "siteId": "65"
     }
+  },
+  {
+    "id": "geo-v3-capitals-8a5948c6a655619b",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Afghanistan?",
+    "options": [
+      "Dushanbe",
+      "Tashkent",
+      "Islamabad",
+      "Kabul"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Kabul ist die Hauptstadt von Afghanistan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:AF",
+      "edition": "geo-v3-2026-11",
+      "iso": "AF",
+      "confusions": [
+        "PK",
+        "TJ",
+        "UZ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-8a9dfd4e08d847b5",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Albanien?",
+    "options": [
+      "Podgorica",
+      "Belgrad",
+      "Tirana",
+      "Zagreb"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Tirana ist die Hauptstadt von Albanien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:AL",
+      "edition": "geo-v3-2026-11",
+      "iso": "AL",
+      "confusions": [
+        "ME",
+        "RS",
+        "HR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-9e978270d1cc477d",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Armenien?",
+    "options": [
+      "Yerevan",
+      "Baku",
+      "Baghdad",
+      "Tbilisi"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Yerevan ist die Hauptstadt von Armenien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:AM",
+      "edition": "geo-v3-2026-11",
+      "iso": "AM",
+      "confusions": [
+        "AZ",
+        "GE",
+        "IQ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-58d4e20b9dbbb9da",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Angola?",
+    "options": [
+      "Luanda",
+      "Windhoek",
+      "Lusaka",
+      "Harare"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Luanda ist die Hauptstadt von Angola. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:AO",
+      "edition": "geo-v3-2026-11",
+      "iso": "AO",
+      "confusions": [
+        "NA",
+        "ZM",
+        "ZW"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-19240a782a40c696",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Argentinien?",
+    "options": [
+      "Buenos Aires",
+      "Santiago",
+      "Asunción",
+      "Montevideo"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Buenos Aires ist die Hauptstadt von Argentinien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:AR",
+      "edition": "geo-v3-2026-11",
+      "iso": "AR",
+      "confusions": [
+        "UY",
+        "CL",
+        "PY"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-5a4869a57b498b21",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Australien?",
+    "options": [
+      "Canberra",
+      "Honiara",
+      "Funafuti",
+      "Wellington"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Canberra ist die Hauptstadt von Australien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:AU",
+      "edition": "geo-v3-2026-11",
+      "iso": "AU",
+      "confusions": [
+        "SB",
+        "NZ",
+        "TV"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e3bfd81ffe1a654c",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Aserbaidschan?",
+    "options": [
+      "Yerevan",
+      "Baghdad",
+      "Tbilisi",
+      "Baku"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Baku ist die Hauptstadt von Aserbaidschan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:AZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "AZ",
+      "confusions": [
+        "AM",
+        "GE",
+        "IQ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-17867aa5b97a02de",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Burkina Faso?",
+    "options": [
+      "Lomé",
+      "Monrovia",
+      "Bamako",
+      "Ouagadougou"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Ouagadougou ist die Hauptstadt von Burkina Faso. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:BF",
+      "edition": "geo-v3-2026-11",
+      "iso": "BF",
+      "confusions": [
+        "ML",
+        "TG",
+        "LR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-8553ee95c66d9422",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Bulgarien?",
+    "options": [
+      "Sofia",
+      "Skopje",
+      "Podgorica",
+      "Belgrad"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Sofia ist die Hauptstadt von Bulgarien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:BG",
+      "edition": "geo-v3-2026-11",
+      "iso": "BG",
+      "confusions": [
+        "MK",
+        "RS",
+        "ME"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-0420585fbb703d01",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Brasilien?",
+    "options": [
+      "Lima",
+      "Montevideo",
+      "Brasília",
+      "Paramaribo"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Brasília ist die Hauptstadt von Brasilien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:BR",
+      "edition": "geo-v3-2026-11",
+      "iso": "BR",
+      "confusions": [
+        "SR",
+        "PE",
+        "UY"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-b0557cf3b7cbd041",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Bhutan?",
+    "options": [
+      "Thimphu",
+      "Kathmandu",
+      "Islamabad",
+      "Bangkok"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Thimphu ist die Hauptstadt von Bhutan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:BT",
+      "edition": "geo-v3-2026-11",
+      "iso": "BT",
+      "confusions": [
+        "NP",
+        "TH",
+        "PK"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-80234e5a6beaabf1",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Botsuana?",
+    "options": [
+      "Maseru",
+      "Windhoek",
+      "Gaborone",
+      "Harare"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Gaborone ist die Hauptstadt von Botsuana. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:BW",
+      "edition": "geo-v3-2026-11",
+      "iso": "BW",
+      "confusions": [
+        "ZW",
+        "NA",
+        "LS"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-3d6ffa2209e0c6af",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Belarus?",
+    "options": [
+      "Kyjiw",
+      "Vilnius",
+      "Tallinn",
+      "Minsk"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Minsk ist die Hauptstadt von Belarus. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:BY",
+      "edition": "geo-v3-2026-11",
+      "iso": "BY",
+      "confusions": [
+        "LT",
+        "UA",
+        "EE"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-ea88273b08ab052e",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Belize?",
+    "options": [
+      "Belmopan",
+      "Managua",
+      "San Salvador",
+      "Tegucigalpa"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Belmopan ist die Hauptstadt von Belize. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:BZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "BZ",
+      "confusions": [
+        "HN",
+        "SV",
+        "NI"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-c847231d66e451c8",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Kanada?",
+    "options": [
+      "Nassau",
+      "Kingston",
+      "Tegucigalpa",
+      "Ottawa"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Ottawa ist die Hauptstadt von Kanada. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:CA",
+      "edition": "geo-v3-2026-11",
+      "iso": "CA",
+      "confusions": [
+        "BS",
+        "JM",
+        "HN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-0a5e007a75796f7b",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Chile?",
+    "options": [
+      "Asunción",
+      "Santiago",
+      "Buenos Aires",
+      "Montevideo"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Santiago ist die Hauptstadt von Chile. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:CL",
+      "edition": "geo-v3-2026-11",
+      "iso": "CL",
+      "confusions": [
+        "AR",
+        "UY",
+        "PY"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-81863a29989b7d19",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Kamerun?",
+    "options": [
+      "Lomé",
+      "Libreville",
+      "Yaoundé",
+      "Accra"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Yaoundé ist die Hauptstadt von Kamerun. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:CM",
+      "edition": "geo-v3-2026-11",
+      "iso": "CM",
+      "confusions": [
+        "GA",
+        "TG",
+        "GH"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-83716d1255b74ef0",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von China?",
+    "options": [
+      "Peking",
+      "Kathmandu",
+      "Vientiane",
+      "Seoul"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Peking ist die Hauptstadt von China. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:CN",
+      "edition": "geo-v3-2026-11",
+      "iso": "CN",
+      "confusions": [
+        "LA",
+        "KR",
+        "NP"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-111e63a3fae19dcc",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Kolumbien?",
+    "options": [
+      "Lima",
+      "Quito",
+      "Bogotá",
+      "Brasília"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Bogotá ist die Hauptstadt von Kolumbien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:CO",
+      "edition": "geo-v3-2026-11",
+      "iso": "CO",
+      "confusions": [
+        "EC",
+        "PE",
+        "BR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-627ef7ecc984509d",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Costa Rica?",
+    "options": [
+      "Managua",
+      "San José",
+      "Tegucigalpa",
+      "San Salvador"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "San José ist die Hauptstadt von Costa Rica. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:CR",
+      "edition": "geo-v3-2026-11",
+      "iso": "CR",
+      "confusions": [
+        "NI",
+        "HN",
+        "SV"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-9aaa61bb0a844ee5",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Deutschland?",
+    "options": [
+      "Berlin",
+      "Zagreb",
+      "Paris",
+      "Vaduz"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Berlin ist die Hauptstadt von Deutschland. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:DE",
+      "edition": "geo-v3-2026-11",
+      "iso": "DE",
+      "confusions": [
+        "LI",
+        "FR",
+        "HR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-24a70fa63f5f112e",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Dschibuti?",
+    "options": [
+      "Djibouti",
+      "Addis Ababa",
+      "Nairobi",
+      "Asmara"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Djibouti ist die Hauptstadt von Dschibuti. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:DJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "DJ",
+      "confusions": [
+        "ER",
+        "ET",
+        "KE"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-03d5e8f21fc1fe0f",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Dominikanische Republik?",
+    "options": [
+      "Santo Domingo",
+      "Kingston",
+      "Port of Spain",
+      "Castries"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Santo Domingo ist die Hauptstadt von Dominikanische Republik. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:DO",
+      "edition": "geo-v3-2026-11",
+      "iso": "DO",
+      "confusions": [
+        "JM",
+        "LC",
+        "TT"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-1a4d700ffb4ac846",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Algerien?",
+    "options": [
+      "Algier",
+      "Tunis",
+      "Rabat",
+      "Bamako"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Algier ist die Hauptstadt von Algerien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:DZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "DZ",
+      "confusions": [
+        "TN",
+        "MA",
+        "ML"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e294a1b4f62e5510",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Ecuador?",
+    "options": [
+      "Brasília",
+      "Quito",
+      "Bogotá",
+      "Georgetown"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Quito ist die Hauptstadt von Ecuador. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:EC",
+      "edition": "geo-v3-2026-11",
+      "iso": "EC",
+      "confusions": [
+        "CO",
+        "GY",
+        "BR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e72b2926444aded5",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Estland?",
+    "options": [
+      "Helsinki",
+      "Vilnius",
+      "Tallinn",
+      "Riga"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Tallinn ist die Hauptstadt von Estland. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:EE",
+      "edition": "geo-v3-2026-11",
+      "iso": "EE",
+      "confusions": [
+        "LV",
+        "LT",
+        "FI"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-82662ad5eb1bcbf5",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Ägypten?",
+    "options": [
+      "Djibouti",
+      "Kairo",
+      "Addis Ababa",
+      "N'Djamena"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Kairo ist die Hauptstadt von Ägypten. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:EG",
+      "edition": "geo-v3-2026-11",
+      "iso": "EG",
+      "confusions": [
+        "TD",
+        "DJ",
+        "ET"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-3b0d1bccc2c5b4e2",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Eritrea?",
+    "options": [
+      "Djibouti",
+      "Juba",
+      "Addis Ababa",
+      "Asmara"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Asmara ist die Hauptstadt von Eritrea. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:ER",
+      "edition": "geo-v3-2026-11",
+      "iso": "ER",
+      "confusions": [
+        "DJ",
+        "ET",
+        "SS"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-94780c67d40c1f79",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Spanien?",
+    "options": [
+      "Dublin",
+      "Luxembourg",
+      "Madrid",
+      "Paris"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Madrid ist die Hauptstadt von Spanien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:ES",
+      "edition": "geo-v3-2026-11",
+      "iso": "ES",
+      "confusions": [
+        "FR",
+        "LU",
+        "IE"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-9f26c4ace282de98",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Äthiopien?",
+    "options": [
+      "Nairobi",
+      "Djibouti",
+      "Addis Ababa",
+      "Asmara"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Addis Ababa ist die Hauptstadt von Äthiopien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:ET",
+      "edition": "geo-v3-2026-11",
+      "iso": "ET",
+      "confusions": [
+        "DJ",
+        "KE",
+        "ER"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-53d9d3a64868ab7c",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Finnland?",
+    "options": [
+      "Tallinn",
+      "Vilnius",
+      "Riga",
+      "Helsinki"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Helsinki ist die Hauptstadt von Finnland. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:FI",
+      "edition": "geo-v3-2026-11",
+      "iso": "FI",
+      "confusions": [
+        "EE",
+        "LV",
+        "LT"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-0278d7d125df4591",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Fidschi?",
+    "options": [
+      "Suva",
+      "Port Vila",
+      "Nuku'alofa",
+      "Funafuti"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Suva ist die Hauptstadt von Fidschi. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:FJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "FJ",
+      "confusions": [
+        "VU",
+        "TO",
+        "TV"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-c8e8ff98dea0c557",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Frankreich?",
+    "options": [
+      "Paris",
+      "Madrid",
+      "Monaco",
+      "Vaduz"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Paris ist die Hauptstadt von Frankreich. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:FR",
+      "edition": "geo-v3-2026-11",
+      "iso": "FR",
+      "confusions": [
+        "MC",
+        "LI",
+        "ES"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-8eff15651c52f706",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Gabun?",
+    "options": [
+      "Libreville",
+      "Lomé",
+      "Luanda",
+      "Yaoundé"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Libreville ist die Hauptstadt von Gabun. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:GA",
+      "edition": "geo-v3-2026-11",
+      "iso": "GA",
+      "confusions": [
+        "CM",
+        "AO",
+        "TG"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-d78272183dd93156",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Vereinigtes Königreich?",
+    "options": [
+      "Luxembourg",
+      "Paris",
+      "Oslo",
+      "London"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "London ist die Hauptstadt von Vereinigtes Königreich. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:GB",
+      "edition": "geo-v3-2026-11",
+      "iso": "GB",
+      "confusions": [
+        "LU",
+        "FR",
+        "NO"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-7dbba9ee0ed42f15",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Georgien?",
+    "options": [
+      "Tbilisi",
+      "Ankara",
+      "Yerevan",
+      "Baghdad"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Tbilisi ist die Hauptstadt von Georgien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:GE",
+      "edition": "geo-v3-2026-11",
+      "iso": "GE",
+      "confusions": [
+        "AM",
+        "TR",
+        "IQ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e761cdbadeefa4d1",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Ghana?",
+    "options": [
+      "Ouagadougou",
+      "Accra",
+      "Monrovia",
+      "Lomé"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Accra ist die Hauptstadt von Ghana. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:GH",
+      "edition": "geo-v3-2026-11",
+      "iso": "GH",
+      "confusions": [
+        "TG",
+        "BF",
+        "LR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-4ecce71c96826948",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Guinea?",
+    "options": [
+      "Freetown",
+      "Monrovia",
+      "Dakar",
+      "Conakry"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Conakry ist die Hauptstadt von Guinea. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:GN",
+      "edition": "geo-v3-2026-11",
+      "iso": "GN",
+      "confusions": [
+        "SL",
+        "LR",
+        "SN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-d6f22ce615b63718",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Guinea-Bissau?",
+    "options": [
+      "Conakry",
+      "Dakar",
+      "Bissau",
+      "Freetown"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Bissau ist die Hauptstadt von Guinea-Bissau. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:GW",
+      "edition": "geo-v3-2026-11",
+      "iso": "GW",
+      "confusions": [
+        "SN",
+        "SL",
+        "GN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-d85595b69f620128",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Honduras?",
+    "options": [
+      "San Salvador",
+      "Managua",
+      "Belmopan",
+      "Tegucigalpa"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Tegucigalpa ist die Hauptstadt von Honduras. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:HN",
+      "edition": "geo-v3-2026-11",
+      "iso": "HN",
+      "confusions": [
+        "NI",
+        "SV",
+        "BZ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-c8f8a347b77d421b",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Kroatien?",
+    "options": [
+      "Budapest",
+      "Ljubljana",
+      "Zagreb",
+      "Podgorica"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Zagreb ist die Hauptstadt von Kroatien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:HR",
+      "edition": "geo-v3-2026-11",
+      "iso": "HR",
+      "confusions": [
+        "SI",
+        "HU",
+        "ME"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-3a1a3ad43b19fd01",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Ungarn?",
+    "options": [
+      "Belgrad",
+      "Budapest",
+      "Bratislava",
+      "Zagreb"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Budapest ist die Hauptstadt von Ungarn. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:HU",
+      "edition": "geo-v3-2026-11",
+      "iso": "HU",
+      "confusions": [
+        "SK",
+        "RS",
+        "HR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e567634af7c328f1",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Irland?",
+    "options": [
+      "Paris",
+      "Dublin",
+      "London",
+      "Andorra la Vella"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Dublin ist die Hauptstadt von Irland. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:IE",
+      "edition": "geo-v3-2026-11",
+      "iso": "IE",
+      "confusions": [
+        "GB",
+        "FR",
+        "AD"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-b7f092cbd38ad423",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Irak?",
+    "options": [
+      "Beirut",
+      "Yerevan",
+      "Baghdad",
+      "Damaskus"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Baghdad ist die Hauptstadt von Irak. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:IQ",
+      "edition": "geo-v3-2026-11",
+      "iso": "IQ",
+      "confusions": [
+        "SY",
+        "LB",
+        "AM"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-f452f2e9c7a25632",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Jamaika?",
+    "options": [
+      "Kingston",
+      "Managua",
+      "Santo Domingo",
+      "Nassau"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Kingston ist die Hauptstadt von Jamaika. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:JM",
+      "edition": "geo-v3-2026-11",
+      "iso": "JM",
+      "confusions": [
+        "BS",
+        "DO",
+        "NI"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-61980a9d83806e11",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Jordanien?",
+    "options": [
+      "Amman",
+      "Beirut",
+      "Riyadh",
+      "Baghdad"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Amman ist die Hauptstadt von Jordanien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:JO",
+      "edition": "geo-v3-2026-11",
+      "iso": "JO",
+      "confusions": [
+        "LB",
+        "IQ",
+        "SA"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-aa08dc39803d637f",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Japan?",
+    "options": [
+      "Manila",
+      "Vientiane",
+      "Pyongyang",
+      "Tokio"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Tokio ist die Hauptstadt von Japan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:JP",
+      "edition": "geo-v3-2026-11",
+      "iso": "JP",
+      "confusions": [
+        "KP",
+        "PH",
+        "LA"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-c0ebe1b423039728",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Kenia?",
+    "options": [
+      "Nairobi",
+      "Juba",
+      "Dodoma",
+      "Kampala"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Nairobi ist die Hauptstadt von Kenia. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:KE",
+      "edition": "geo-v3-2026-11",
+      "iso": "KE",
+      "confusions": [
+        "UG",
+        "TZ",
+        "SS"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-52cf3b7e51382998",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Kirgisistan?",
+    "options": [
+      "Bishkek",
+      "Tashkent",
+      "Astana",
+      "Dushanbe"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Bishkek ist die Hauptstadt von Kirgisistan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:KG",
+      "edition": "geo-v3-2026-11",
+      "iso": "KG",
+      "confusions": [
+        "TJ",
+        "UZ",
+        "KZ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-bec7d2709d1a2717",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Kambodscha?",
+    "options": [
+      "Bandar Seri Begawan",
+      "Phnom Penh",
+      "Hanoi",
+      "Bangkok"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Phnom Penh ist die Hauptstadt von Kambodscha. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:KH",
+      "edition": "geo-v3-2026-11",
+      "iso": "KH",
+      "confusions": [
+        "VN",
+        "TH",
+        "BN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e0687c2fb906334e",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Nordkorea?",
+    "options": [
+      "Tokio",
+      "Seoul",
+      "Peking",
+      "Pyongyang"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Pyongyang ist die Hauptstadt von Nordkorea. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:KP",
+      "edition": "geo-v3-2026-11",
+      "iso": "KP",
+      "confusions": [
+        "KR",
+        "JP",
+        "CN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-4ec6c9a5a2a41096",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Südkorea?",
+    "options": [
+      "Seoul",
+      "Hanoi",
+      "Peking",
+      "Pyongyang"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Seoul ist die Hauptstadt von Südkorea. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:KR",
+      "edition": "geo-v3-2026-11",
+      "iso": "KR",
+      "confusions": [
+        "KP",
+        "CN",
+        "VN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-b58060d1294b9a9b",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Kasachstan?",
+    "options": [
+      "Dushanbe",
+      "Tashkent",
+      "Bishkek",
+      "Astana"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Astana ist die Hauptstadt von Kasachstan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:KZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "KZ",
+      "confusions": [
+        "UZ",
+        "KG",
+        "TJ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-0e47c25ddd724af1",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Laos?",
+    "options": [
+      "Hanoi",
+      "Vientiane",
+      "Bandar Seri Begawan",
+      "Bangkok"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Vientiane ist die Hauptstadt von Laos. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:LA",
+      "edition": "geo-v3-2026-11",
+      "iso": "LA",
+      "confusions": [
+        "VN",
+        "TH",
+        "BN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-33bc5d1e0a343725",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Libanon?",
+    "options": [
+      "Ankara",
+      "Damaskus",
+      "Beirut",
+      "Amman"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Beirut ist die Hauptstadt von Libanon. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:LB",
+      "edition": "geo-v3-2026-11",
+      "iso": "LB",
+      "confusions": [
+        "SY",
+        "JO",
+        "TR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-9e6cfdb95676f330",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Liberia?",
+    "options": [
+      "Freetown",
+      "Accra",
+      "Monrovia",
+      "Dakar"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Monrovia ist die Hauptstadt von Liberia. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:LR",
+      "edition": "geo-v3-2026-11",
+      "iso": "LR",
+      "confusions": [
+        "SL",
+        "GH",
+        "SN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-7153cba4e8c23849",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Litauen?",
+    "options": [
+      "Riga",
+      "Tallinn",
+      "Minsk",
+      "Vilnius"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Vilnius ist die Hauptstadt von Litauen. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:LT",
+      "edition": "geo-v3-2026-11",
+      "iso": "LT",
+      "confusions": [
+        "LV",
+        "EE",
+        "BY"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-013f60a2e6bdabde",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Lettland?",
+    "options": [
+      "Riga",
+      "Vilnius",
+      "Minsk",
+      "Tallinn"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Riga ist die Hauptstadt von Lettland. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:LV",
+      "edition": "geo-v3-2026-11",
+      "iso": "LV",
+      "confusions": [
+        "LT",
+        "EE",
+        "BY"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-31f327e77fbe6f42",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Marokko?",
+    "options": [
+      "Tunis",
+      "Algier",
+      "Rabat",
+      "Nouakchott"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Rabat ist die Hauptstadt von Marokko. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:MA",
+      "edition": "geo-v3-2026-11",
+      "iso": "MA",
+      "confusions": [
+        "DZ",
+        "TN",
+        "MR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-9f3cba8bb43137a0",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Republik Moldau?",
+    "options": [
+      "Sofia",
+      "Kyjiw",
+      "Chișinău",
+      "Minsk"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Chișinău ist die Hauptstadt von Republik Moldau. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:MD",
+      "edition": "geo-v3-2026-11",
+      "iso": "MD",
+      "confusions": [
+        "UA",
+        "BG",
+        "BY"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-9406b5a1956132da",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Montenegro?",
+    "options": [
+      "Skopje",
+      "Podgorica",
+      "Belgrad",
+      "Tirana"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Podgorica ist die Hauptstadt von Montenegro. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:ME",
+      "edition": "geo-v3-2026-11",
+      "iso": "ME",
+      "confusions": [
+        "AL",
+        "RS",
+        "MK"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-eb19c6afcc0cd6ce",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Madagaskar?",
+    "options": [
+      "Port Louis",
+      "Lilongwe",
+      "Antananarivo",
+      "Maputo"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Antananarivo ist die Hauptstadt von Madagaskar. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:MG",
+      "edition": "geo-v3-2026-11",
+      "iso": "MG",
+      "confusions": [
+        "MU",
+        "MZ",
+        "MW"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-d79f01a5243c8d4c",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Nordmazedonien?",
+    "options": [
+      "Podgorica",
+      "Belgrad",
+      "Tirana",
+      "Skopje"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Skopje ist die Hauptstadt von Nordmazedonien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:MK",
+      "edition": "geo-v3-2026-11",
+      "iso": "MK",
+      "confusions": [
+        "AL",
+        "ME",
+        "RS"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e625566b070b9dae",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Mali?",
+    "options": [
+      "Dakar",
+      "Conakry",
+      "Ouagadougou",
+      "Bamako"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Bamako ist die Hauptstadt von Mali. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:ML",
+      "edition": "geo-v3-2026-11",
+      "iso": "ML",
+      "confusions": [
+        "BF",
+        "GN",
+        "SN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-d979d37e786bbc2a",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Mauretanien?",
+    "options": [
+      "Bamako",
+      "Dakar",
+      "Nouakchott",
+      "Bissau"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Nouakchott ist die Hauptstadt von Mauretanien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:MR",
+      "edition": "geo-v3-2026-11",
+      "iso": "MR",
+      "confusions": [
+        "SN",
+        "ML",
+        "GW"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-f579341bb86616c0",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Malawi?",
+    "options": [
+      "Lilongwe",
+      "Maputo",
+      "Harare",
+      "Lusaka"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Lilongwe ist die Hauptstadt von Malawi. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:MW",
+      "edition": "geo-v3-2026-11",
+      "iso": "MW",
+      "confusions": [
+        "ZM",
+        "MZ",
+        "ZW"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-7c32c2770bb75d72",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Mosambik?",
+    "options": [
+      "Lusaka",
+      "Maputo",
+      "Lilongwe",
+      "Antananarivo"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Maputo ist die Hauptstadt von Mosambik. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:MZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "MZ",
+      "confusions": [
+        "MW",
+        "ZM",
+        "MG"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e02bb9fb8088757e",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Namibia?",
+    "options": [
+      "Harare",
+      "Windhoek",
+      "Luanda",
+      "Gaborone"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Windhoek ist die Hauptstadt von Namibia. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:NA",
+      "edition": "geo-v3-2026-11",
+      "iso": "NA",
+      "confusions": [
+        "BW",
+        "AO",
+        "ZW"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-5478b94df7d931bd",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Niger?",
+    "options": [
+      "N'Djamena",
+      "Ouagadougou",
+      "Bamako",
+      "Niamey"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Niamey ist die Hauptstadt von Niger. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:NE",
+      "edition": "geo-v3-2026-11",
+      "iso": "NE",
+      "confusions": [
+        "BF",
+        "TD",
+        "ML"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-6084e97c0d8d33a7",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Nicaragua?",
+    "options": [
+      "Tegucigalpa",
+      "San José",
+      "San Salvador",
+      "Managua"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Managua ist die Hauptstadt von Nicaragua. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:NI",
+      "edition": "geo-v3-2026-11",
+      "iso": "NI",
+      "confusions": [
+        "HN",
+        "CR",
+        "SV"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-074073cbe0e77ff8",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Norwegen?",
+    "options": [
+      "Tallinn",
+      "Oslo",
+      "Stockholm",
+      "Vilnius"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Oslo ist die Hauptstadt von Norwegen. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:NO",
+      "edition": "geo-v3-2026-11",
+      "iso": "NO",
+      "confusions": [
+        "SE",
+        "EE",
+        "LT"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-a7229eb927fa339a",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Nepal?",
+    "options": [
+      "Thimphu",
+      "Bishkek",
+      "Islamabad",
+      "Kathmandu"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Kathmandu ist die Hauptstadt von Nepal. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:NP",
+      "edition": "geo-v3-2026-11",
+      "iso": "NP",
+      "confusions": [
+        "BT",
+        "PK",
+        "KG"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-c591f6d05e4a9e5d",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Neuseeland?",
+    "options": [
+      "Funafuti",
+      "Port Vila",
+      "Nuku'alofa",
+      "Wellington"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Wellington ist die Hauptstadt von Neuseeland. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:NZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "NZ",
+      "confusions": [
+        "TO",
+        "VU",
+        "TV"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-2e72c5dff4b708af",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Oman?",
+    "options": [
+      "Doha",
+      "Manama",
+      "Muscat",
+      "Riyadh"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Muscat ist die Hauptstadt von Oman. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:OM",
+      "edition": "geo-v3-2026-11",
+      "iso": "OM",
+      "confusions": [
+        "QA",
+        "BH",
+        "SA"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-6ef2573aaf4289f1",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Peru?",
+    "options": [
+      "Lima",
+      "Quito",
+      "Santiago",
+      "Asunción"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Lima ist die Hauptstadt von Peru. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:PE",
+      "edition": "geo-v3-2026-11",
+      "iso": "PE",
+      "confusions": [
+        "EC",
+        "CL",
+        "PY"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-b7f43c85a1055969",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Papua-Neuguinea?",
+    "options": [
+      "Honiara",
+      "Canberra",
+      "Port Vila",
+      "Port Moresby"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Port Moresby ist die Hauptstadt von Papua-Neuguinea. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:PG",
+      "edition": "geo-v3-2026-11",
+      "iso": "PG",
+      "confusions": [
+        "SB",
+        "VU",
+        "AU"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-6a4553f5bfba8f53",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Philippinen?",
+    "options": [
+      "Phnom Penh",
+      "Manila",
+      "Bangkok",
+      "Bandar Seri Begawan"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Manila ist die Hauptstadt von Philippinen. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:PH",
+      "edition": "geo-v3-2026-11",
+      "iso": "PH",
+      "confusions": [
+        "BN",
+        "KH",
+        "TH"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-60c8ee9fd2a83b66",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Pakistan?",
+    "options": [
+      "Bishkek",
+      "Dushanbe",
+      "Kabul",
+      "Islamabad"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Islamabad ist die Hauptstadt von Pakistan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:PK",
+      "edition": "geo-v3-2026-11",
+      "iso": "PK",
+      "confusions": [
+        "AF",
+        "TJ",
+        "KG"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-d1ba6b9bb182371b",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Paraguay?",
+    "options": [
+      "Brasília",
+      "Lima",
+      "Asunción",
+      "Montevideo"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Asunción ist die Hauptstadt von Paraguay. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:PY",
+      "edition": "geo-v3-2026-11",
+      "iso": "PY",
+      "confusions": [
+        "UY",
+        "BR",
+        "PE"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-582c5d72cd528fba",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Katar?",
+    "options": [
+      "Doha",
+      "Manama",
+      "Riyadh",
+      "Muscat"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Doha ist die Hauptstadt von Katar. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:QA",
+      "edition": "geo-v3-2026-11",
+      "iso": "QA",
+      "confusions": [
+        "BH",
+        "SA",
+        "OM"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-dbc284b03c110822",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Serbien?",
+    "options": [
+      "Skopje",
+      "Sofia",
+      "Podgorica",
+      "Belgrad"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Belgrad ist die Hauptstadt von Serbien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:RS",
+      "edition": "geo-v3-2026-11",
+      "iso": "RS",
+      "confusions": [
+        "ME",
+        "MK",
+        "BG"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-070da76fbba54747",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Ruanda?",
+    "options": [
+      "Kigali",
+      "Nairobi",
+      "Dodoma",
+      "Kampala"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Kigali ist die Hauptstadt von Ruanda. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:RW",
+      "edition": "geo-v3-2026-11",
+      "iso": "RW",
+      "confusions": [
+        "UG",
+        "TZ",
+        "KE"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-a26a65e64f675f31",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Saudi-Arabien?",
+    "options": [
+      "Damaskus",
+      "Riyadh",
+      "Baghdad",
+      "Manama"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Riyadh ist die Hauptstadt von Saudi-Arabien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SA",
+      "edition": "geo-v3-2026-11",
+      "iso": "SA",
+      "confusions": [
+        "BH",
+        "IQ",
+        "SY"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-5af4d557708f58c1",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Schweden?",
+    "options": [
+      "Oslo",
+      "Stockholm",
+      "Tallinn",
+      "Helsinki"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Stockholm ist die Hauptstadt von Schweden. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SE",
+      "edition": "geo-v3-2026-11",
+      "iso": "SE",
+      "confusions": [
+        "NO",
+        "FI",
+        "EE"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-b2ade206b3387002",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Slowenien?",
+    "options": [
+      "Ljubljana",
+      "Zagreb",
+      "Vaduz",
+      "Budapest"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Ljubljana ist die Hauptstadt von Slowenien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SI",
+      "edition": "geo-v3-2026-11",
+      "iso": "SI",
+      "confusions": [
+        "HR",
+        "HU",
+        "LI"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-745e807c158db6c4",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Slowakei?",
+    "options": [
+      "Zagreb",
+      "Bratislava",
+      "Budapest",
+      "Ljubljana"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Bratislava ist die Hauptstadt von Slowakei. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SK",
+      "edition": "geo-v3-2026-11",
+      "iso": "SK",
+      "confusions": [
+        "HU",
+        "SI",
+        "HR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-f9918ceabbbf680a",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Sierra Leone?",
+    "options": [
+      "Freetown",
+      "Bissau",
+      "Monrovia",
+      "Conakry"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Freetown ist die Hauptstadt von Sierra Leone. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SL",
+      "edition": "geo-v3-2026-11",
+      "iso": "SL",
+      "confusions": [
+        "LR",
+        "GN",
+        "GW"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-edc43bae2bf08a5b",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Senegal?",
+    "options": [
+      "Bissau",
+      "Monrovia",
+      "Freetown",
+      "Dakar"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Dakar ist die Hauptstadt von Senegal. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SN",
+      "edition": "geo-v3-2026-11",
+      "iso": "SN",
+      "confusions": [
+        "GW",
+        "SL",
+        "LR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-e9c2e705e1bfbf35",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Südsudan?",
+    "options": [
+      "Kampala",
+      "Juba",
+      "Kigali",
+      "Asmara"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Juba ist die Hauptstadt von Südsudan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SS",
+      "edition": "geo-v3-2026-11",
+      "iso": "SS",
+      "confusions": [
+        "UG",
+        "RW",
+        "ER"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-32652c44c9941c2d",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von El Salvador?",
+    "options": [
+      "Belmopan",
+      "Managua",
+      "San Salvador",
+      "Tegucigalpa"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "San Salvador ist die Hauptstadt von El Salvador. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SV",
+      "edition": "geo-v3-2026-11",
+      "iso": "SV",
+      "confusions": [
+        "HN",
+        "BZ",
+        "NI"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-d9c27e224a665575",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Syrien?",
+    "options": [
+      "Beirut",
+      "Damaskus",
+      "Yerevan",
+      "Ankara"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Damaskus ist die Hauptstadt von Syrien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:SY",
+      "edition": "geo-v3-2026-11",
+      "iso": "SY",
+      "confusions": [
+        "LB",
+        "TR",
+        "AM"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-0d7ef3b79d11b9c6",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Tschad?",
+    "options": [
+      "N'Djamena",
+      "Juba",
+      "Niamey",
+      "Yaoundé"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "N'Djamena ist die Hauptstadt von Tschad. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:TD",
+      "edition": "geo-v3-2026-11",
+      "iso": "TD",
+      "confusions": [
+        "NE",
+        "CM",
+        "SS"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-fe0b8550c3ceb037",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Togo?",
+    "options": [
+      "Monrovia",
+      "Lomé",
+      "Bamako",
+      "Accra"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Lomé ist die Hauptstadt von Togo. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:TG",
+      "edition": "geo-v3-2026-11",
+      "iso": "TG",
+      "confusions": [
+        "GH",
+        "ML",
+        "LR"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-3ee6b5061514d493",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Thailand?",
+    "options": [
+      "Hanoi",
+      "Phnom Penh",
+      "Bangkok",
+      "Vientiane"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Bangkok ist die Hauptstadt von Thailand. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:TH",
+      "edition": "geo-v3-2026-11",
+      "iso": "TH",
+      "confusions": [
+        "KH",
+        "LA",
+        "VN"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-5cadcfd4a0ad533e",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Tadschikistan?",
+    "options": [
+      "Bishkek",
+      "Dushanbe",
+      "Astana",
+      "Kabul"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Dushanbe ist die Hauptstadt von Tadschikistan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:TJ",
+      "edition": "geo-v3-2026-11",
+      "iso": "TJ",
+      "confusions": [
+        "KG",
+        "AF",
+        "KZ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-388e3cab1c4325c8",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Tunesien?",
+    "options": [
+      "Algier",
+      "Niamey",
+      "Tunis",
+      "Bamako"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Tunis ist die Hauptstadt von Tunesien. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:TN",
+      "edition": "geo-v3-2026-11",
+      "iso": "TN",
+      "confusions": [
+        "DZ",
+        "NE",
+        "ML"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-7778e493e0faa214",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Türkei?",
+    "options": [
+      "Ankara",
+      "Amman",
+      "Tbilisi",
+      "Damaskus"
+    ],
+    "correct": 0,
+    "enabled": false,
+    "explanation": "Ankara ist die Hauptstadt von Türkei. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:TR",
+      "edition": "geo-v3-2026-11",
+      "iso": "TR",
+      "confusions": [
+        "SY",
+        "GE",
+        "JO"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-ca84dde2fc8d49dc",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Trinidad und Tobago?",
+    "options": [
+      "St. George's",
+      "Port of Spain",
+      "Santo Domingo",
+      "Castries"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Port of Spain ist die Hauptstadt von Trinidad und Tobago. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:TT",
+      "edition": "geo-v3-2026-11",
+      "iso": "TT",
+      "confusions": [
+        "GD",
+        "LC",
+        "DO"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-4ca2ef2fea0cb221",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Tansania?",
+    "options": [
+      "Lilongwe",
+      "Kigali",
+      "Nairobi",
+      "Dodoma"
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Dodoma ist die Hauptstadt von Tansania. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:TZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "TZ",
+      "confusions": [
+        "RW",
+        "MW",
+        "KE"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-c9e5d47c2f783c88",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Ukraine?",
+    "options": [
+      "Chișinău",
+      "Budapest",
+      "Kyjiw",
+      "Sofia"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Kyjiw ist die Hauptstadt von Ukraine. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:UA",
+      "edition": "geo-v3-2026-11",
+      "iso": "UA",
+      "confusions": [
+        "MD",
+        "BG",
+        "HU"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-7c9510106e63cf85",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Uganda?",
+    "options": [
+      "Juba",
+      "Kampala",
+      "Nairobi",
+      "Kigali"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Kampala ist die Hauptstadt von Uganda. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:UG",
+      "edition": "geo-v3-2026-11",
+      "iso": "UG",
+      "confusions": [
+        "RW",
+        "KE",
+        "SS"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-af021730f962c5c1",
+    "category": "capitals",
+    "difficulty": 1,
+    "prompt": "Was ist die Hauptstadt von Vereinigte Staaten?",
+    "options": [
+      "Tegucigalpa",
+      "Kingston",
+      "Ottawa",
+      "Washington D.C."
+    ],
+    "correct": 3,
+    "enabled": false,
+    "explanation": "Washington D.C. ist die Hauptstadt von Vereinigte Staaten. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:US",
+      "edition": "geo-v3-2026-11",
+      "iso": "US",
+      "confusions": [
+        "CA",
+        "HN",
+        "JM"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-c6751573dfbdffdf",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Uruguay?",
+    "options": [
+      "Buenos Aires",
+      "Santiago",
+      "Montevideo",
+      "Asunción"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Montevideo ist die Hauptstadt von Uruguay. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:UY",
+      "edition": "geo-v3-2026-11",
+      "iso": "UY",
+      "confusions": [
+        "AR",
+        "PY",
+        "CL"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-ec1d76469f4ea040",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Usbekistan?",
+    "options": [
+      "Islamabad",
+      "Kabul",
+      "Tashkent",
+      "Dushanbe"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Tashkent ist die Hauptstadt von Usbekistan. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:UZ",
+      "edition": "geo-v3-2026-11",
+      "iso": "UZ",
+      "confusions": [
+        "TJ",
+        "AF",
+        "PK"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-3ced58665c5067e8",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Vietnam?",
+    "options": [
+      "Phnom Penh",
+      "Vientiane",
+      "Hanoi",
+      "Bangkok"
+    ],
+    "correct": 2,
+    "enabled": false,
+    "explanation": "Hanoi ist die Hauptstadt von Vietnam. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:VN",
+      "edition": "geo-v3-2026-11",
+      "iso": "VN",
+      "confusions": [
+        "LA",
+        "KH",
+        "TH"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-29741c2d6216c63e",
+    "category": "capitals",
+    "difficulty": 2,
+    "prompt": "Was ist die Hauptstadt von Sambia?",
+    "options": [
+      "Lilongwe",
+      "Lusaka",
+      "Dodoma",
+      "Maputo"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Lusaka ist die Hauptstadt von Sambia. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:ZM",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZM",
+      "confusions": [
+        "MW",
+        "MZ",
+        "TZ"
+      ]
+    }
+  },
+  {
+    "id": "geo-v3-capitals-5e9b3663b89c8621",
+    "category": "capitals",
+    "difficulty": 3,
+    "prompt": "Was ist die Hauptstadt von Simbabwe?",
+    "options": [
+      "Lusaka",
+      "Harare",
+      "Gaborone",
+      "Maputo"
+    ],
+    "correct": 1,
+    "enabled": false,
+    "explanation": "Harare ist die Hauptstadt von Simbabwe. Die übrigen Optionen sind Hauptstädte anderer Länder derselben geografischen Umgebung.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2024/table08.xls",
+        "https://github.com/mledoze/countries"
+      ],
+      "subjectKey": "capital:ZW",
+      "edition": "geo-v3-2026-11",
+      "iso": "ZW",
+      "confusions": [
+        "ZM",
+        "MZ",
+        "BW"
+      ]
+    }
   }
 ]

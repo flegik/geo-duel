@@ -1,0 +1,225 @@
+{
+  "runsPerMode": 1000,
+  "region": [
+    {
+      "mode": "borders",
+      "category": "borders",
+      "region": "Afrika",
+      "total": 572
+    },
+    {
+      "mode": "borders",
+      "category": "borders",
+      "region": "Asien",
+      "total": 3466
+    },
+    {
+      "mode": "borders",
+      "category": "borders",
+      "region": "Europa",
+      "total": 3830
+    },
+    {
+      "mode": "borders",
+      "category": "borders",
+      "region": "Nordamerika",
+      "total": 2033
+    },
+    {
+      "mode": "borders",
+      "category": "borders",
+      "region": "Ozeanien",
+      "total": 259
+    },
+    {
+      "mode": "borders",
+      "category": "borders",
+      "region": "Südamerika",
+      "total": 1840
+    },
+    {
+      "mode": "regular",
+      "category": "borders",
+      "region": "Afrika",
+      "total": 150
+    },
+    {
+      "mode": "regular",
+      "category": "borders",
+      "region": "Asien",
+      "total": 838
+    },
+    {
+      "mode": "regular",
+      "category": "borders",
+      "region": "Europa",
+      "total": 1016
+    },
+    {
+      "mode": "regular",
+      "category": "borders",
+      "region": "Nordamerika",
+      "total": 473
+    },
+    {
+      "mode": "regular",
+      "category": "borders",
+      "region": "Ozeanien",
+      "total": 83
+    },
+    {
+      "mode": "regular",
+      "category": "borders",
+      "region": "Südamerika",
+      "total": 440
+    },
+    {
+      "mode": "regular",
+      "category": "capitals",
+      "region": "Afrika",
+      "total": 247
+    },
+    {
+      "mode": "regular",
+      "category": "capitals",
+      "region": "Asien",
+      "total": 902
+    },
+    {
+      "mode": "regular",
+      "category": "capitals",
+      "region": "Europa",
+      "total": 841
+    },
+    {
+      "mode": "regular",
+      "category": "capitals",
+      "region": "Nordamerika",
+      "total": 401
+    },
+    {
+      "mode": "regular",
+      "category": "capitals",
+      "region": "Ozeanien",
+      "total": 291
+    },
+    {
+      "mode": "regular",
+      "category": "capitals",
+      "region": "Südamerika",
+      "total": 318
+    },
+    {
+      "mode": "regular",
+      "category": "maps",
+      "region": "Afrika",
+      "total": 304
+    },
+    {
+      "mode": "regular",
+      "category": "maps",
+      "region": "Asien",
+      "total": 877
+    },
+    {
+      "mode": "regular",
+      "category": "maps",
+      "region": "Europa",
+      "total": 850
+    },
+    {
+      "mode": "regular",
+      "category": "maps",
+      "region": "Nordamerika",
+      "total": 452
+    },
+    {
+      "mode": "regular",
+      "category": "maps",
+      "region": "Ozeanien",
+      "total": 277
+    },
+    {
+      "mode": "regular",
+      "category": "maps",
+      "region": "Südamerika",
+      "total": 240
+    },
+    {
+      "mode": "regular",
+      "category": "silhouettes",
+      "region": "Afrika",
+      "total": 297
+    },
+    {
+      "mode": "regular",
+      "category": "silhouettes",
+      "region": "Asien",
+      "total": 877
+    },
+    {
+      "mode": "regular",
+      "category": "silhouettes",
+      "region": "Europa",
+      "total": 859
+    },
+    {
+      "mode": "regular",
+      "category": "silhouettes",
+      "region": "Nordamerika",
+      "total": 455
+    },
+    {
+      "mode": "regular",
+      "category": "silhouettes",
+      "region": "Ozeanien",
+      "total": 272
+    },
+    {
+      "mode": "regular",
+      "category": "silhouettes",
+      "region": "Südamerika",
+      "total": 240
+    }
+  ],
+  "round": [
+    {
+      "mode": "borders",
+      "africa": 0,
+      "rounds": 428
+    },
+    {
+      "mode": "borders",
+      "africa": 1,
+      "rounds": 572
+    },
+    {
+      "mode": "regular",
+      "africa": 0,
+      "rounds": 110
+    },
+    {
+      "mode": "regular",
+      "africa": 1,
+      "rounds": 782
+    },
+    {
+      "mode": "regular",
+      "africa": 2,
+      "rounds": 108
+    }
+  ],
+  "repeats": [
+    {
+      "mode": "borders",
+      "repeated_subjects": 0,
+      "repeated_african_focus": 0
+    },
+    {
+      "mode": "regular",
+      "repeated_subjects": 0,
+      "repeated_african_focus": 0
+    }
+  ],
+  "duplicateSubjects": []
+}
