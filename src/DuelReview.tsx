@@ -52,7 +52,9 @@ function ReviewCard({question, players, ownId}:{
         </span>
       </summary>
       {open && <div className="duel-review-detail">
-        {question.media && !hasFlagOptions(question.media) && <div className={`question-image ${question.category}`}><QuestionMedia media={question.media}/></div>}
+         {question.media?.type==='city-map' && <QuestionMedia media={question.media} options={question.options}
+          location={question.provenance?.cityLocation} correct={question.correct} onSelect={setPreview}/>}
+        {question.media && question.media.type!=='city-map' && !hasFlagOptions(question.media) && <div className={`question-image ${question.category}`}><QuestionMedia media={question.media}/></div>}
         <div className={hasFlagOptions(question.media)?'answers flag-options':'answers'}>
           {question.options.map((option, index) => {
             const correct = index === question.correct;

@@ -35,3 +35,34 @@
  .flag-option img {height:104px}
  .answers.flag-options .answer {padding:14px}
 }
+.city-map {
+ margin:0 0 15px;
+ padding:8px;
+ background:#102638;
+ border:1px solid #344253;
+ border-radius:14px;
+}
+.city-map-svg {
+ display:block;
+ width:100%;
+ max-height:280px;
+ margin:auto;
+}
+.city-country-pin[role="button"] {cursor:pointer}
+.city-country-pin circle {fill:#192536;stroke:#c7d7e6}
+.city-country-pin:hover circle,.city-country-pin:focus circle {stroke:#fff;fill:#34526a}
+.city-country-pin.correct circle {fill:#246452;stroke:#c2fff0}
+.city-country-pin.incorrect circle {fill:#6b3645;stroke:#ffd7e3}
+.city-country-pin text {fill:#fff;font-weight:800;pointer-events:none}
+.city-location-pin circle:first-child {fill:#102435;stroke:#ffd27a}
+.city-location-pin circle:last-child,.city-map-location span {fill:#ffd27a;background:#ffd27a}
+.city-location-pin {pointer-events:none}
+.city-map-location {
+ display:flex;
+ align-items:center;
+ justify-content:center;
+ gap:7px;
+ margin:4px 0;
+ font-size:12px;
+}
+.city-map-location span {width:8px;height:8px;border-radius:50%}

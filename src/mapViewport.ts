@@ -41,3 +41,5 @@ export function regionalViews(paths:string[]){
  });
 }
 export function mapViewport(paths:string[]){return regionalViews(paths)[0]??{viewBox:'0 0 16 10',x:8,y:5,width:16,height:10,scaleX:1,aspect:1.6,tiny:false,sourceX:8,sourceWidth:16,detail:null};}
+
+export function pointMapViewport(points:Point[]){return camera(points);}

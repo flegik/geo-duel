@@ -3,10 +3,10 @@ import {readFileSync} from 'node:fs';import {createHash} from 'node:crypto';
 import {expandedQuestions} from '../src/questionPool';import {answerRound,createRound,emptyState,nextRound,recordRound,questions} from '../src/engine';import {questionSubject,flagQuestions} from '../src/flags';import registry from '../data/flags/registry.json';import facts from '../data/learning/countries.json';import capitals from '../data/learning/capital-audit.json';import borderAudit from '../data/learning/borders-audit.json';import sites from '../data/learning/unesco-sites.json';import geo from '../data/atlas/geography.json';import {mapViewport} from '../src/mapViewport';
 const codes=Object.keys(facts) as (keyof typeof facts)[];const byName=new Map(registry.map(c=>[c.name,c.iso]));
 test('Expanded data: exact targets, opaque IDs, four choices, sources, historical rows retained',()=>{
- const expected={capitals:292,silhouettes:195,maps:195,borders:294,landmarks:120,world:270};
- assert.equal(expandedQuestions.length,1366);assert.equal(new Set(expandedQuestions.map(q=>q.id)).size,1366);
+ const expected={capitals:292,silhouettes:195,maps:396,borders:294,landmarks:120,world:270};
+ assert.equal(expandedQuestions.length,1567);assert.equal(new Set(expandedQuestions.map(q=>q.id)).size,1567);
  for(const [cat,count] of Object.entries(expected))assert.equal(expandedQuestions.filter(q=>q.category===cat).length,count);
- for(const q of expandedQuestions){assert.match(q.id,/^(geo-v3-[a-z]+-[a-f0-9]{16}|(?:population-v1|capital-cities-v1)-[a-f0-9]{20})$/);assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);assert.ok(Number.isInteger(q.correct)&&q.correct>=0&&q.correct<=3);assert.ok(q.provenance.subjectKey);assert.ok(q.explanation.length>30);assert.ok(q.provenance.sources.every(s=>s.startsWith('https://')));}
+ for(const q of expandedQuestions){assert.match(q.id,/^(geo-v3-[a-z]+-[a-f0-9]{16}|(?:population-v1|capital-cities-v1|city-map-v1)-[a-f0-9]{20})$/);assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);assert.ok(Number.isInteger(q.correct)&&q.correct>=0&&q.correct<=3);assert.ok(q.provenance.subjectKey);assert.ok(q.explanation.length>30);assert.ok(q.provenance.sources.every(s=>s.startsWith('https://')));}
  const raw=JSON.parse(readFileSync('data/questions.json','utf8'));for(const old of raw){const found=questions.find(q=>q.id===old.id);assert.deepEqual(found,{...old,enabled:false});}assert.equal(flagQuestions.length,585);
 });
 test('All 132 included capitals have audit evidence; both directions share one learning subject',()=>{
@@ -16,7 +16,7 @@ test('All 132 included capitals have audit evidence; both directions share one l
  for(const iso of ['ZA','LK','BO','CH','NL','PS','IL','GQ'])assert.equal(facts[iso as keyof typeof facts].capital,null);
 });
 test('Map/outline coverage complete; maps have regional choices; Brazil cannot be an ISO-collision polygon',()=>{
- for(const cat of ['maps','silhouettes']){const qs=expandedQuestions.filter(q=>q.category===cat);assert.equal(new Set(qs.map(q=>q.provenance.iso)).size,195);for(const q of qs){const iso=q.provenance.iso as keyof typeof geo.countries;assert.equal(q.media!.src,'atlas:'+iso);assert.equal(q.options[q.correct],registry.find(c=>c.iso===iso)!.name);for(const option of q.options)assert.ok(byName.has(option));if(cat==='maps')for(const c of q.provenance.confusions!)assert.equal(geo.countries[c as keyof typeof geo.countries].continent,geo.countries[iso].continent);}}
+ for(const cat of ['maps','silhouettes']){const qs=expandedQuestions.filter(q=>q.category===cat&&q.media?.type!=='city-map');assert.equal(new Set(qs.map(q=>q.provenance.iso)).size,195);for(const q of qs){const iso=q.provenance.iso as keyof typeof geo.countries;assert.equal(q.media!.src,'atlas:'+iso);assert.equal(q.options[q.correct],registry.find(c=>c.iso===iso)!.name);for(const option of q.options)assert.ok(byName.has(option));if(cat==='maps')for(const c of q.provenance.confusions!)assert.equal(geo.countries[c as keyof typeof geo.countries].continent,geo.countries[iso].continent);}}
  assert.ok(geo.countries.BR.path.length>10000);assert.ok(geo.countries.BR.height/geo.countries.BR.width>.7);
  const va=mapViewport(geo.world.filter(f=>f.iso==='VA').map(f=>f.path));assert.equal(va.tiny,true);assert.ok(va.width<30);assert.ok(!va.viewBox.includes('NaN'));const fj=mapViewport(geo.world.filter(f=>f.iso==='FJ').map(f=>f.path));assert.ok(fj.width<200,'Date-line countries must have a compact regional map');
 });
