@@ -1,7 +1,7 @@
 import {africaSlots,pickBalanced,selectionPolicy} from './selection';
 import raw from '../data/questions.json';
 import {expandedQuestions,retiredQuestions} from './questionPool';
-import {flagQuestions,questionSubject,seenSubject} from './flags';
+import {flagQuestions,reverseFlagQuestions,questionSubject,seenSubject} from './flags';
 export const categories = {
  flags:{name:'Flaggen',description:'195 Staaten. Originalgetreue Flaggen.',icon:'Flag'},
  maps:{name:'Länder auf Karten',description:'Finde deinen Platz auf der Welt',icon:'Map'},
@@ -13,7 +13,7 @@ export const categories = {
 } as const;
 export type Category=keyof typeof categories;
 export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:{sources:string[];subjectKey?:string;iso?:string;challenge?:number;confusions?:string[];topic?:string;population?:{[key:string]:unknown}};enabled:boolean};
-export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...expandedQuestions,...retiredQuestions];
+export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...reverseFlagQuestions,...expandedQuestions,...retiredQuestions];
 const questionById=new Map(questions.map(q=>[q.id,q]));
 export type Answer={selected:number;points:number};
 export type Round={id:string;mode:'quick'|'training';category?:Category;questions:Question[];answers:Answer[];cursor:number;status:'playing'|'completed';createdAt:string};

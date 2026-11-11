@@ -1,0 +1,37 @@
+.answers.flag-options {
+ display:grid;
+ grid-template-columns:repeat(2,minmax(0,1fr));
+}
+.answers.flag-options .answer {
+ position:relative;
+ align-items:flex-start;
+ min-width:0;
+ padding:12px 10px;
+ gap:5px;
+}
+.answers.flag-options .answer > svg {
+ position:absolute;
+ right:7px;
+ top:9px;
+ width:17px;
+}
+.answers.flag-options .letter {flex:0 0 23px;width:23px;height:23px}
+.flag-option {
+ display:flex;
+ flex:1;
+ min-width:0;
+ flex-direction:column;
+ align-items:center;
+ text-align:center;
+ overflow-wrap:anywhere;
+ gap:6px;
+}
+.flag-option img {
+ width:100%;
+ height:72px;
+ object-fit:contain;
+}
+@media (min-width:520px) {
+ .flag-option img {height:104px}
+ .answers.flag-options .answer {padding:14px}
+}

@@ -1,5 +1,5 @@
 import {test} from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {createHash} from 'node:crypto';
-import {flags,flagQuestions,flagAlternatives,flagSimilarity,questionSubject} from '../src/flags';
+import {flags,flagQuestions,reverseFlagQuestions,seenSubject,flagAlternatives,flagSimilarity,questionSubject} from '../src/flags';
 import {answerRound,createRound,emptyState,nextRound,questions,recordRound} from '../src/engine';
 const expected=`AF AL DZ AD AO AG AR AM AU AT AZ BS BH BD BB BY BE BZ BJ BT BO BA BW BR BN BG BF BI CV KH CM CA CF TD CL CN CO KM CG CD CR CI HR CU CY CZ DK DJ DM DO EC EG SV GQ ER EE SZ ET FJ FI FR GA GM GE DE GH GR GD GT GN GW GY HT HN HU IS IN ID IR IQ IE IL IT JM JP JO KZ KE KI KP KR KW KG LA LV LB LS LR LY LI LT LU MG MW MY MV ML MT MH MR MU MX FM MD MC MN ME MA MZ MM NA NR NP NL NZ NI NE NG MK NO OM PK PW PS PA PG PY PE PH PL PT QA RO RU RW KN LC VC WS SM ST SA SN RS SC SL SG SK SI SB SO ZA SS ES LK SD SR SE CH SY TJ TZ TH TL TG TO TT TN TR TM TV UG UA AE GB US UY UZ VU VA VE VN YE ZM ZW`.split(' ').sort();
 test('Exakt 193 UN-Mitglieder plus VA/PS: 195 eindeutige ISO-Zuordnungen und Namen',()=>{assert.deepEqual(flags.map(f=>f.iso).sort(),expected);assert.equal(new Set(flags.map(f=>f.name)).size,195);assert.equal(new Set(flags.map(f=>f.svg)).size,195);});
@@ -11,3 +11,18 @@ test('Bekannte Länder kommen auch mit 3 Punkten vor; Bekanntheit beeinflusst Pu
 test('Unterschiedliche Schwierigkeitsvarianten besitzen unterschiedliche Alternativen',()=>{for(const f of flags){const sets=[1,2,3].map(d=>flagAlternatives(f,d as 1|2|3).map(f=>f.iso).sort().join(','));assert.ok(new Set(sets).size>=2,f.iso);}});
 test('Flaggenwiederholungen werden länderweise statt variantenweise vermieden',()=>{let state=emptyState();const seen=new Set<string>();for(let run=0;run<12;run++){let r=createRound(state,16,'flags');for(const q of r.questions){const subject=questionSubject(q);assert.ok(!seen.has(subject),subject);seen.add(subject);}while(r.status==='playing')r=nextRound(answerRound(r,0));state=recordRound(state,r);}assert.equal(seen.size,192);const final=createRound(state,8,'flags');assert.equal(final.questions.filter(q=>!seen.has(questionSubject(q))).length,3);assert.equal(new Set(final.questions.map(questionSubject)).size,8);});
 test('Legacy-IDs bleiben lesbar, Alt-Runden und Punkte bleiben unverändert',()=>{for(let i=1;i<=30;i++){const q=questions.find(q=>q.id===`flags-${String(i).padStart(3,'0')}`)!;assert.ok(q);assert.equal(q.enabled,false);}for(const d of [1,2,3]){const q=flagQuestions.find(q=>q.difficulty===d)!;const r={...createRound(emptyState(),8,'flags'),questions:[q],cursor:0};assert.equal(answerRound(r,q.correct).answers[0].points,d);assert.equal(answerRound(r,(q.correct+1)%4).answers[0].points,0);}});
+
+test('195 reverse variants share forward subjects and use only visually related registry flags',()=>{
+ assert.equal(reverseFlagQuestions.length,195);
+ assert.equal(new Set(reverseFlagQuestions.map(q=>q.id)).size,195);
+ assert.deepEqual([...new Set(reverseFlagQuestions.map(q=>q.difficulty))].sort(),[1,2,3]);
+ for(const q of reverseFlagQuestions){
+  const country=flags.find(f=>f.iso===q.provenance.iso)!;
+  assert.equal(q.options[q.correct],country.name);
+  assert.equal(q.media?.type,'flag-options');
+  assert.equal(new Set(q.options).size,4);
+  assert.equal(questionSubject(q),seenSubject(country.questionIds[0]));
+  assert.equal(seenSubject(q.id),questionSubject(q));
+  assert.ok(q.options.filter((_,i)=>i!==q.correct).every(name=>flagSimilarity(country,flags.find(f=>f.name===name)!)>0));
+ }
+});

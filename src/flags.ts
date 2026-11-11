@@ -36,10 +36,24 @@ export function generateFlagQuestions():Question[]{
  }));
 }
 export const flagQuestions=generateFlagQuestions();
-const subjects=new Map(flagQuestions.map(q=>[q.id,`flag:${q.provenance.iso}`]));
+export const reverseFlagQuestions:Question[]=flags.map(flag=>{
+ const challenge=(1+hash(`reverse:${flag.iso}`)%3) as 1|2|3;
+ const alternatives=flagAlternatives(flag,challenge);
+ const options=shuffled([flag,...alternatives],`reverse:${flag.iso}:options`).map(country=>country.name);
+ return {
+  id:`flag-image-v1-${flag.questionIds[0].split('-').at(-1)}`,
+  category:'flags',difficulty:Math.max(flag.familiarity,challenge),
+  prompt:`Welche dieser vier Flaggen gehört zu diesem Land? ${flag.name}`,
+  options,correct:options.indexOf(flag.name),enabled:true,
+  explanation:`Diese Flagge gehört zu ${flag.name}. Vergleiche Farben, Symbole und deren Anordnung mit den anderen Flaggen.`,
+  media:{type:'flag-options',src:'choice:flags',alt:'Vier Staatsflaggen als Antwortmöglichkeiten',license:'Public Domain – Flagpedia / Wikimedia Commons'},
+  provenance:{sources:[flag.source,'https://flagpedia.net/download'],subjectKey:`flag:${flag.iso}`,iso:flag.iso,challenge,confusions:alternatives.map(country=>country.iso)},
+ };
+});
+const subjects=new Map([...flagQuestions,...reverseFlagQuestions].map(q=>[q.id,`flag:${q.provenance.iso}`]));
 export function questionSubject(question:Pick<Question,'id'|'category'|'options'|'correct'|'provenance'>){
  if(question.category!=='flags')return question.provenance?.subjectKey??question.id;
- return subjects.get(question.id)??`flag:${flags.find(f=>f.name===question.options[question.correct])?.iso??question.id}`;
+ return question.provenance?.subjectKey??subjects.get(question.id)??`flag:${flags.find(f=>f.name===question.options[question.correct])?.iso??question.id}`;
 }
 export function seenSubject(id:string){return subjects.get(id)??expandedSubjects.get(id)??legacySubjects.get(id)??id;}
 // Preserves the effect of old history without rewriting stored user data.

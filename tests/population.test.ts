@@ -25,5 +25,5 @@ test('1000 simulated ordinary rounds reduce Africa and preserve an international
 });
 test('Category training rotates recent subjects, flags stay unweighted, and scoring remains difficulty-based',()=>{
  let state=emptyState();const seen=new Set<string>();for(let run=0;run<12;run++){let r=createRound(state,16,'maps');for(const q of r.questions)assert.ok(!seen.has(questionSubject(q)));seen.clear();for(const q of r.questions)seen.add(questionSubject(q));while(r.status==='playing')r=nextRound(answerRound(r,r.questions[r.cursor].correct));state=recordRound(state,r);}assert.equal(seen.size,16);
- assert.equal(questions.filter(q=>q.enabled&&q.category==='flags').length,585);const q=questions.find(q=>q.id===population[0].id)!;const r={...createRound(emptyState(),8,'world'),questions:[q],cursor:0};assert.equal(answerRound(r,q.correct).answers[0].points,q.difficulty);assert.equal(answerRound(r,(q.correct+1)%4).answers[0].points,0);
+ assert.equal(questions.filter(q=>q.enabled&&q.category==='flags').length,780);const q=questions.find(q=>q.id===population[0].id)!;const r={...createRound(emptyState(),8,'world'),questions:[q],cursor:0};assert.equal(answerRound(r,q.correct).answers[0].points,q.difficulty);assert.equal(answerRound(r,(q.correct+1)%4).answers[0].points,0);
 });

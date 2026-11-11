@@ -1,5 +1,6 @@
 import {useState} from 'react';
 import {Check, ChevronDown, Minus, X} from 'lucide-react';
+import {AnswerOption,hasFlagOptions} from './AnswerOption';
 import {AnswerDiscovery} from './AnswerDiscovery';
 import {QuestionMedia} from './QuestionMedia';
 import {categories} from './engine';
@@ -51,8 +52,8 @@ function ReviewCard({question, players, ownId}:{
         </span>
       </summary>
       {open && <div className="duel-review-detail">
-        {question.media && <div className={`question-image ${question.category}`}><QuestionMedia media={question.media}/></div>}
-        <div className="answers">
+        {question.media && !hasFlagOptions(question.media) && <div className={`question-image ${question.category}`}><QuestionMedia media={question.media}/></div>}
+        <div className={hasFlagOptions(question.media)?'answers flag-options':'answers'}>
           {question.options.map((option, index) => {
             const correct = index === question.correct;
             const selectedBy = choices.filter(choice => choice.answer?.selected === index);
@@ -61,7 +62,7 @@ function ReviewCard({question, players, ownId}:{
                 aria-pressed={preview === index} onClick={() => setPreview(preview === index ? null : index)}>
                 <span className="letter" aria-hidden="true">{'ABCD'[index]}</span>
                 <span className="duel-review-option-text">
-                  <span>{option}</span>
+                  <AnswerOption option={option} media={question.media} revealed/>
                   {(correct || selectedBy.length > 0) && <span className="duel-review-tags">
                     {correct && <span className="solution"><Check size={14} aria-hidden="true"/> Richtige Lösung</span>}
                     {selectedBy.map(choice => <span key={choice.id} className={correct ? 'right' : 'wrong'}>
