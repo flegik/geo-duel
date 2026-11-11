@@ -49,10 +49,11 @@
  margin:auto;
 }
 .city-country-pin[role="button"] {cursor:pointer}
-.city-country-pin circle {fill:#192536;stroke:#c7d7e6}
-.city-country-pin:hover circle,.city-country-pin:focus circle {stroke:#fff;fill:#34526a}
-.city-country-pin.correct circle {fill:#246452;stroke:#c2fff0}
-.city-country-pin.incorrect circle {fill:#6b3645;stroke:#ffd7e3}
+.city-pin-hit {fill:transparent}
+.city-country-pin .city-pin-disc {fill:#192536;stroke:#c7d7e6}
+.city-country-pin:hover .city-pin-disc,.city-country-pin:focus .city-pin-disc {stroke:#fff;fill:#34526a}
+.city-country-pin.correct .city-pin-disc {fill:#246452;stroke:#c2fff0}
+.city-country-pin.incorrect .city-pin-disc {fill:#6b3645;stroke:#ffd7e3}
 .city-country-pin text {fill:#fff;font-weight:800;pointer-events:none}
 .city-location-pin circle:first-child {fill:#102435;stroke:#ffd27a}
 .city-location-pin circle:last-child,.city-map-location span {fill:#ffd27a;background:#ffd27a}

@@ -40,7 +40,8 @@ export function CityQuestionMap({options,location,correct,selected,onSelect,disa
       aria-hidden={choose?undefined:true} onClick={choose} onKeyDown={event=>{
        if(choose&&(event.key==='Enter'||event.key===' ')){event.preventDefault();choose();}
       }}>
-     <circle r={radius} strokeWidth={radius*.15}/>
+     <circle className="city-pin-hit" r={radius*1.48}/>
+     <circle className="city-pin-disc" r={radius} strokeWidth={radius*.15}/>
      <text textAnchor="middle" dominantBaseline="central" fontSize={radius*1.12}>{'ABCD'[index]}</text>
     </g>;
    })}

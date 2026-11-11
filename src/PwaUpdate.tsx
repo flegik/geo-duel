@@ -1,7 +1,7 @@
 /// <reference types="vite-plugin-pwa/client" />
 import {useEffect,useRef,useState} from 'react';
 import {useRegisterSW} from 'virtual:pwa-register/react';
-export const APP_VERSION='0.7.0';
+export const APP_VERSION='0.8.0';
 export function PwaUpdate({blocked}:{blocked:boolean}){
  const registration=useRef<ServiceWorkerRegistration | undefined>(undefined);const blockedRef=useRef(blocked);blockedRef.current=blocked;
  const [error,setError]=useState('');const [applying,setApplying]=useState(false);

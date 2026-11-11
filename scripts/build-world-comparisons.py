@@ -85,7 +85,7 @@ def question(metric,sort_rule,rank,level,options):
  else:prompt+=f' Weltbank, {source["year"]}.'
  values=[dict(c,display=format_value(metric,c['value'])+' '+unit) for c in ordered]
  comparisons=' · '.join(f'{c["name"]} ({c["display"]})' for c in values)
- explanation=f'{answer["name"]} ist richtig. Vergleichswerte, absteigend: {comparisons}.'
+ explanation=f'{answer["name"]} ist richtig. Die Werte in absteigender Reihenfolge sind {comparisons}.'
  if metric=='density':explanation+=' Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.'
  if metric=='land':explanation+=' Gezählt wird Landfläche ohne Binnengewässer.'
  if metric=='cityPopulation':explanation+=' Die UN zählt urbane Zentren nach DEGURBA.'
