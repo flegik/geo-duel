@@ -3,10 +3,10 @@ import {readFileSync} from 'node:fs';import {createHash} from 'node:crypto';
 import {expandedQuestions} from '../src/questionPool';import {answerRound,createRound,emptyState,nextRound,recordRound,questions} from '../src/engine';import {questionSubject,flagQuestions} from '../src/flags';import registry from '../data/flags/registry.json';import facts from '../data/learning/countries.json';import capitals from '../data/learning/capital-audit.json';import borderAudit from '../data/learning/borders-audit.json';import sites from '../data/learning/unesco-sites.json';import geo from '../data/atlas/geography.json';import {mapViewport} from '../src/mapViewport';
 const codes=Object.keys(facts) as (keyof typeof facts)[];const byName=new Map(registry.map(c=>[c.name,c.iso]));
 test('Expanded data: exact targets, opaque IDs, four choices, sources, historical rows retained',()=>{
- const expected={capitals:292,silhouettes:195,maps:396,borders:294,landmarks:120,world:270};
- assert.equal(expandedQuestions.length,1567);assert.equal(new Set(expandedQuestions.map(q=>q.id)).size,1567);
+ const expected={capitals:292,silhouettes:195,maps:396,borders:294,landmarks:162,world:270};
+ assert.equal(expandedQuestions.length,1609);assert.equal(new Set(expandedQuestions.map(q=>q.id)).size,1609);
  for(const [cat,count] of Object.entries(expected))assert.equal(expandedQuestions.filter(q=>q.category===cat).length,count);
- for(const q of expandedQuestions){assert.match(q.id,/^(geo-v3-[a-z]+-[a-f0-9]{16}|(?:population-v1|capital-cities-v1|city-map-v1)-[a-f0-9]{20})$/);assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);assert.ok(Number.isInteger(q.correct)&&q.correct>=0&&q.correct<=3);assert.ok(q.provenance.subjectKey);assert.ok(q.explanation.length>30);assert.ok(q.provenance.sources.every(s=>s.startsWith('https://')));}
+ for(const q of expandedQuestions){assert.match(q.id,/^(geo-v3-[a-z]+-[a-f0-9]{16}|(?:population-v1|capital-cities-v1|city-map-v1|landmark-city-v1)-[a-f0-9]{20})$/);assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);assert.ok(Number.isInteger(q.correct)&&q.correct>=0&&q.correct<=3);assert.ok(q.provenance.subjectKey);assert.ok(q.explanation.length>30);assert.ok(q.provenance.sources.every(s=>s.startsWith('https://')));}
  const raw=JSON.parse(readFileSync('data/questions.json','utf8'));for(const old of raw){const found=questions.find(q=>q.id===old.id);assert.deepEqual(found,{...old,enabled:false});}assert.equal(flagQuestions.length,585);
 });
 test('All 132 included capitals have audit evidence; both directions share one learning subject',()=>{

@@ -1,0 +1,1371 @@
+{
+  "source": "https://download.geonames.org/export/dump/cities500.zip",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "sha256": "a8b4f5c66bc1d0b181c06c347eb85983c97a75693d632133bd28339b477c0dcc",
+  "cities": [
+    {
+      "name": "Graz",
+      "iso": "AT",
+      "point": [
+        47.06733,
+        15.44197
+      ],
+      "source": "https://www.geonames.org/2778067/",
+      "geonameId": 2778067,
+      "sourceName": "Graz"
+    },
+    {
+      "name": "Innsbruck",
+      "iso": "AT",
+      "point": [
+        47.26266,
+        11.39454
+      ],
+      "source": "https://www.geonames.org/2775220/",
+      "geonameId": 2775220,
+      "sourceName": "Innsbruck"
+    },
+    {
+      "name": "Linz",
+      "iso": "AT",
+      "point": [
+        48.30639,
+        14.28611
+      ],
+      "source": "https://www.geonames.org/2772400/",
+      "geonameId": 2772400,
+      "sourceName": "Linz"
+    },
+    {
+      "name": "Salzburg",
+      "iso": "AT",
+      "point": [
+        47.79941,
+        13.04399
+      ],
+      "source": "https://www.geonames.org/2766824/",
+      "geonameId": 2766824,
+      "sourceName": "Salzburg"
+    },
+    {
+      "name": "Wien",
+      "iso": "AT",
+      "point": [
+        48.20849,
+        16.37208
+      ],
+      "source": "https://www.geonames.org/2761369/",
+      "geonameId": 2761369,
+      "sourceName": "Vienna"
+    },
+    {
+      "name": "Brisbane",
+      "iso": "AU",
+      "point": [
+        -27.46794,
+        153.02809
+      ],
+      "source": "https://www.geonames.org/2174003/",
+      "geonameId": 2174003,
+      "sourceName": "Brisbane"
+    },
+    {
+      "name": "Melbourne",
+      "iso": "AU",
+      "point": [
+        -37.814,
+        144.96332
+      ],
+      "source": "https://www.geonames.org/2158177/",
+      "geonameId": 2158177,
+      "sourceName": "Melbourne"
+    },
+    {
+      "name": "Perth",
+      "iso": "AU",
+      "point": [
+        -31.95224,
+        115.8614
+      ],
+      "source": "https://www.geonames.org/2063523/",
+      "geonameId": 2063523,
+      "sourceName": "Perth"
+    },
+    {
+      "name": "Sydney",
+      "iso": "AU",
+      "point": [
+        -33.86785,
+        151.20732
+      ],
+      "source": "https://www.geonames.org/2147714/",
+      "geonameId": 2147714,
+      "sourceName": "Sydney"
+    },
+    {
+      "name": "Banja Luka",
+      "iso": "BA",
+      "point": [
+        44.77879,
+        17.20629
+      ],
+      "source": "https://www.geonames.org/3204541/",
+      "geonameId": 3204541,
+      "sourceName": "Banja Luka"
+    },
+    {
+      "name": "Mostar",
+      "iso": "BA",
+      "point": [
+        43.34333,
+        17.80806
+      ],
+      "source": "https://www.geonames.org/3194828/",
+      "geonameId": 3194828,
+      "sourceName": "Mostar"
+    },
+    {
+      "name": "Sarajevo",
+      "iso": "BA",
+      "point": [
+        43.84864,
+        18.35644
+      ],
+      "source": "https://www.geonames.org/3191281/",
+      "geonameId": 3191281,
+      "sourceName": "Sarajevo"
+    },
+    {
+      "name": "Trebinje",
+      "iso": "BA",
+      "point": [
+        42.71197,
+        18.34362
+      ],
+      "source": "https://www.geonames.org/3188893/",
+      "geonameId": 3188893,
+      "sourceName": "Trebinje"
+    },
+    {
+      "name": "Belo Horizonte",
+      "iso": "BR",
+      "point": [
+        -19.92083,
+        -43.93778
+      ],
+      "source": "https://www.geonames.org/3470127/",
+      "geonameId": 3470127,
+      "sourceName": "Belo Horizonte"
+    },
+    {
+      "name": "Brasília",
+      "iso": "BR",
+      "point": [
+        -15.77972,
+        -47.92972
+      ],
+      "source": "https://www.geonames.org/3469058/",
+      "geonameId": 3469058,
+      "sourceName": "Brasília"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "iso": "BR",
+      "point": [
+        -22.90642,
+        -43.18223
+      ],
+      "source": "https://www.geonames.org/3451190/",
+      "geonameId": 3451190,
+      "sourceName": "Rio de Janeiro"
+    },
+    {
+      "name": "São Paulo",
+      "iso": "BR",
+      "point": [
+        -23.5475,
+        -46.63611
+      ],
+      "source": "https://www.geonames.org/3448439/",
+      "geonameId": 3448439,
+      "sourceName": "São Paulo"
+    },
+    {
+      "name": "Montréal",
+      "iso": "CA",
+      "point": [
+        45.50884,
+        -73.58781
+      ],
+      "source": "https://www.geonames.org/6077243/",
+      "geonameId": 6077243,
+      "sourceName": "Montréal"
+    },
+    {
+      "name": "Ottawa",
+      "iso": "CA",
+      "point": [
+        45.41117,
+        -75.69812
+      ],
+      "source": "https://www.geonames.org/6094817/",
+      "geonameId": 6094817,
+      "sourceName": "Ottawa"
+    },
+    {
+      "name": "Québec",
+      "iso": "CA",
+      "point": [
+        46.81228,
+        -71.21454
+      ],
+      "source": "https://www.geonames.org/6325494/",
+      "geonameId": 6325494,
+      "sourceName": "Québec"
+    },
+    {
+      "name": "Toronto",
+      "iso": "CA",
+      "point": [
+        43.65333,
+        -79.38389
+      ],
+      "source": "https://www.geonames.org/6167865/",
+      "geonameId": 6167865,
+      "sourceName": "Toronto"
+    },
+    {
+      "name": "Chengdu",
+      "iso": "CN",
+      "point": [
+        30.66667,
+        104.06667
+      ],
+      "source": "https://www.geonames.org/1815286/",
+      "geonameId": 1815286,
+      "sourceName": "Chengdu"
+    },
+    {
+      "name": "Kunming",
+      "iso": "CN",
+      "point": [
+        25.03889,
+        102.71833
+      ],
+      "source": "https://www.geonames.org/1804651/",
+      "geonameId": 1804651,
+      "sourceName": "Kunming"
+    },
+    {
+      "name": "Lhasa",
+      "iso": "CN",
+      "point": [
+        29.65,
+        91.1
+      ],
+      "source": "https://www.geonames.org/1280737/",
+      "geonameId": 1280737,
+      "sourceName": "Lhasa"
+    },
+    {
+      "name": "Xi’an",
+      "iso": "CN",
+      "point": [
+        34.25833,
+        108.92861
+      ],
+      "source": "https://www.geonames.org/1790630/",
+      "geonameId": 1790630,
+      "sourceName": "Xi’an"
+    },
+    {
+      "name": "Brünn",
+      "iso": "CZ",
+      "point": [
+        49.19522,
+        16.60796
+      ],
+      "source": "https://www.geonames.org/3078610/",
+      "geonameId": 3078610,
+      "sourceName": "Brno"
+    },
+    {
+      "name": "Olmütz",
+      "iso": "CZ",
+      "point": [
+        49.59552,
+        17.25175
+      ],
+      "source": "https://www.geonames.org/3069011/",
+      "geonameId": 3069011,
+      "sourceName": "Olomouc"
+    },
+    {
+      "name": "Pilsen",
+      "iso": "CZ",
+      "point": [
+        49.74747,
+        13.37759
+      ],
+      "source": "https://www.geonames.org/3068160/",
+      "geonameId": 3068160,
+      "sourceName": "Pilsen"
+    },
+    {
+      "name": "Prag",
+      "iso": "CZ",
+      "point": [
+        50.08804,
+        14.42076
+      ],
+      "source": "https://www.geonames.org/3067696/",
+      "geonameId": 3067696,
+      "sourceName": "Prague"
+    },
+    {
+      "name": "Aachen",
+      "iso": "DE",
+      "point": [
+        50.77664,
+        6.08342
+      ],
+      "source": "https://www.geonames.org/3247449/",
+      "geonameId": 3247449,
+      "sourceName": "Aachen"
+    },
+    {
+      "name": "Bamberg",
+      "iso": "DE",
+      "point": [
+        49.89873,
+        10.90067
+      ],
+      "source": "https://www.geonames.org/2952984/",
+      "geonameId": 2952984,
+      "sourceName": "Bamberg"
+    },
+    {
+      "name": "Bayreuth",
+      "iso": "DE",
+      "point": [
+        49.94782,
+        11.57893
+      ],
+      "source": "https://www.geonames.org/2951825/",
+      "geonameId": 2951825,
+      "sourceName": "Bayreuth"
+    },
+    {
+      "name": "Dresden",
+      "iso": "DE",
+      "point": [
+        51.05089,
+        13.73832
+      ],
+      "source": "https://www.geonames.org/2935022/",
+      "geonameId": 2935022,
+      "sourceName": "Dresden"
+    },
+    {
+      "name": "Köln",
+      "iso": "DE",
+      "point": [
+        50.93333,
+        6.95
+      ],
+      "source": "https://www.geonames.org/2886242/",
+      "geonameId": 2886242,
+      "sourceName": "Köln"
+    },
+    {
+      "name": "Mainz",
+      "iso": "DE",
+      "point": [
+        49.98185,
+        8.28008
+      ],
+      "source": "https://www.geonames.org/2874225/",
+      "geonameId": 2874225,
+      "sourceName": "Mainz"
+    },
+    {
+      "name": "Trier",
+      "iso": "DE",
+      "point": [
+        49.75565,
+        6.63935
+      ],
+      "source": "https://www.geonames.org/2821164/",
+      "geonameId": 2821164,
+      "sourceName": "Trier"
+    },
+    {
+      "name": "Würzburg",
+      "iso": "DE",
+      "point": [
+        49.79391,
+        9.95121
+      ],
+      "source": "https://www.geonames.org/2805615/",
+      "geonameId": 2805615,
+      "sourceName": "Würzburg"
+    },
+    {
+      "name": "Barcelona",
+      "iso": "ES",
+      "point": [
+        41.38879,
+        2.15899
+      ],
+      "source": "https://www.geonames.org/3128760/",
+      "geonameId": 3128760,
+      "sourceName": "Barcelona"
+    },
+    {
+      "name": "Córdoba",
+      "iso": "ES",
+      "point": [
+        37.89155,
+        -4.77275
+      ],
+      "source": "https://www.geonames.org/2519240/",
+      "geonameId": 2519240,
+      "sourceName": "Córdoba"
+    },
+    {
+      "name": "Granada",
+      "iso": "ES",
+      "point": [
+        37.18817,
+        -3.60667
+      ],
+      "source": "https://www.geonames.org/2517117/",
+      "geonameId": 2517117,
+      "sourceName": "Granada"
+    },
+    {
+      "name": "Madrid",
+      "iso": "ES",
+      "point": [
+        40.4165,
+        -3.70256
+      ],
+      "source": "https://www.geonames.org/3117735/",
+      "geonameId": 3117735,
+      "sourceName": "Madrid"
+    },
+    {
+      "name": "Málaga",
+      "iso": "ES",
+      "point": [
+        36.72016,
+        -4.42034
+      ],
+      "source": "https://www.geonames.org/2514256/",
+      "geonameId": 2514256,
+      "sourceName": "Málaga"
+    },
+    {
+      "name": "Sevilla",
+      "iso": "ES",
+      "point": [
+        37.38283,
+        -5.97317
+      ],
+      "source": "https://www.geonames.org/2510911/",
+      "geonameId": 2510911,
+      "sourceName": "Sevilla"
+    },
+    {
+      "name": "Toledo",
+      "iso": "ES",
+      "point": [
+        39.8581,
+        -4.02263
+      ],
+      "source": "https://www.geonames.org/2510409/",
+      "geonameId": 2510409,
+      "sourceName": "Toledo"
+    },
+    {
+      "name": "Valencia",
+      "iso": "ES",
+      "point": [
+        39.47391,
+        -0.37966
+      ],
+      "source": "https://www.geonames.org/2509954/",
+      "geonameId": 2509954,
+      "sourceName": "Valencia"
+    },
+    {
+      "name": "Arles",
+      "iso": "FR",
+      "point": [
+        43.67681,
+        4.63031
+      ],
+      "source": "https://www.geonames.org/3036938/",
+      "geonameId": 3036938,
+      "sourceName": "Arles"
+    },
+    {
+      "name": "Avignon",
+      "iso": "FR",
+      "point": [
+        43.94834,
+        4.80892
+      ],
+      "source": "https://www.geonames.org/3035681/",
+      "geonameId": 3035681,
+      "sourceName": "Avignon"
+    },
+    {
+      "name": "Bordeaux",
+      "iso": "FR",
+      "point": [
+        44.84124,
+        -0.58046
+      ],
+      "source": "https://www.geonames.org/3031582/",
+      "geonameId": 3031582,
+      "sourceName": "Bordeaux"
+    },
+    {
+      "name": "Chantilly",
+      "iso": "FR",
+      "point": [
+        49.19461,
+        2.47124
+      ],
+      "source": "https://www.geonames.org/3026827/",
+      "geonameId": 3026827,
+      "sourceName": "Chantilly"
+    },
+    {
+      "name": "Fontainebleau",
+      "iso": "FR",
+      "point": [
+        48.40908,
+        2.70177
+      ],
+      "source": "https://www.geonames.org/3018074/",
+      "geonameId": 3018074,
+      "sourceName": "Fontainebleau"
+    },
+    {
+      "name": "Lyon",
+      "iso": "FR",
+      "point": [
+        45.74906,
+        4.84789
+      ],
+      "source": "https://www.geonames.org/2996944/",
+      "geonameId": 2996944,
+      "sourceName": "Lyon"
+    },
+    {
+      "name": "Marseille",
+      "iso": "FR",
+      "point": [
+        43.29695,
+        5.38107
+      ],
+      "source": "https://www.geonames.org/2995469/",
+      "geonameId": 2995469,
+      "sourceName": "Marseille"
+    },
+    {
+      "name": "Paris",
+      "iso": "FR",
+      "point": [
+        48.85341,
+        2.3488
+      ],
+      "source": "https://www.geonames.org/2988507/",
+      "geonameId": 2988507,
+      "sourceName": "Paris"
+    },
+    {
+      "name": "Saint-Germain-en-Laye",
+      "iso": "FR",
+      "point": [
+        48.89643,
+        2.0904
+      ],
+      "source": "https://www.geonames.org/2979783/",
+      "geonameId": 2979783,
+      "sourceName": "Saint-Germain-en-Laye"
+    },
+    {
+      "name": "Toulouse",
+      "iso": "FR",
+      "point": [
+        43.60426,
+        1.44367
+      ],
+      "source": "https://www.geonames.org/2972315/",
+      "geonameId": 2972315,
+      "sourceName": "Toulouse"
+    },
+    {
+      "name": "Versailles",
+      "iso": "FR",
+      "point": [
+        48.80359,
+        2.13424
+      ],
+      "source": "https://www.geonames.org/2969679/",
+      "geonameId": 2969679,
+      "sourceName": "Versailles"
+    },
+    {
+      "name": "Edinburgh",
+      "iso": "GB",
+      "point": [
+        55.95206,
+        -3.19648
+      ],
+      "source": "https://www.geonames.org/2650225/",
+      "geonameId": 2650225,
+      "sourceName": "Edinburgh"
+    },
+    {
+      "name": "Liverpool",
+      "iso": "GB",
+      "point": [
+        53.41058,
+        -2.97794
+      ],
+      "source": "https://www.geonames.org/2644210/",
+      "geonameId": 2644210,
+      "sourceName": "Liverpool"
+    },
+    {
+      "name": "London",
+      "iso": "GB",
+      "point": [
+        51.50853,
+        -0.12574
+      ],
+      "source": "https://www.geonames.org/2643743/",
+      "geonameId": 2643743,
+      "sourceName": "London"
+    },
+    {
+      "name": "Manchester",
+      "iso": "GB",
+      "point": [
+        53.48095,
+        -2.23743
+      ],
+      "source": "https://www.geonames.org/2643123/",
+      "geonameId": 2643123,
+      "sourceName": "Manchester"
+    },
+    {
+      "name": "Athen",
+      "iso": "GR",
+      "point": [
+        37.98376,
+        23.72784
+      ],
+      "source": "https://www.geonames.org/264371/",
+      "geonameId": 264371,
+      "sourceName": "Athens"
+    },
+    {
+      "name": "Iraklio",
+      "iso": "GR",
+      "point": [
+        35.32787,
+        25.14341
+      ],
+      "source": "https://www.geonames.org/261745/",
+      "geonameId": 261745,
+      "sourceName": "Irákleion"
+    },
+    {
+      "name": "Patras",
+      "iso": "GR",
+      "point": [
+        38.2462,
+        21.73508
+      ],
+      "source": "https://www.geonames.org/255683/",
+      "geonameId": 255683,
+      "sourceName": "Pátra"
+    },
+    {
+      "name": "Thessaloniki",
+      "iso": "GR",
+      "point": [
+        40.64072,
+        22.93493
+      ],
+      "source": "https://www.geonames.org/734077/",
+      "geonameId": 734077,
+      "sourceName": "Thessaloníki"
+    },
+    {
+      "name": "Agra",
+      "iso": "IN",
+      "point": [
+        27.18333,
+        78.01667
+      ],
+      "source": "https://www.geonames.org/1279259/",
+      "geonameId": 1279259,
+      "sourceName": "Agra"
+    },
+    {
+      "name": "Jaipur",
+      "iso": "IN",
+      "point": [
+        26.91962,
+        75.78781
+      ],
+      "source": "https://www.geonames.org/1269515/",
+      "geonameId": 1269515,
+      "sourceName": "Jaipur"
+    },
+    {
+      "name": "Lucknow",
+      "iso": "IN",
+      "point": [
+        26.83928,
+        80.92313
+      ],
+      "source": "https://www.geonames.org/1264733/",
+      "geonameId": 1264733,
+      "sourceName": "Lucknow"
+    },
+    {
+      "name": "Neu-Delhi",
+      "iso": "IN",
+      "point": [
+        28.62137,
+        77.2148
+      ],
+      "source": "https://www.geonames.org/1261481/",
+      "geonameId": 1261481,
+      "sourceName": "New Delhi"
+    },
+    {
+      "name": "Bologna",
+      "iso": "IT",
+      "point": [
+        44.49381,
+        11.33875
+      ],
+      "source": "https://www.geonames.org/3181928/",
+      "geonameId": 3181928,
+      "sourceName": "Bologna"
+    },
+    {
+      "name": "Florenz",
+      "iso": "IT",
+      "point": [
+        43.77925,
+        11.24626
+      ],
+      "source": "https://www.geonames.org/3176959/",
+      "geonameId": 3176959,
+      "sourceName": "Florence"
+    },
+    {
+      "name": "Lucca",
+      "iso": "IT",
+      "point": [
+        43.84369,
+        10.50447
+      ],
+      "source": "https://www.geonames.org/3174530/",
+      "geonameId": 3174530,
+      "sourceName": "Lucca"
+    },
+    {
+      "name": "Mailand",
+      "iso": "IT",
+      "point": [
+        45.46427,
+        9.18951
+      ],
+      "source": "https://www.geonames.org/3173435/",
+      "geonameId": 3173435,
+      "sourceName": "Milan"
+    },
+    {
+      "name": "Neapel",
+      "iso": "IT",
+      "point": [
+        40.85216,
+        14.26811
+      ],
+      "source": "https://www.geonames.org/3172394/",
+      "geonameId": 3172394,
+      "sourceName": "Naples"
+    },
+    {
+      "name": "Padua",
+      "iso": "IT",
+      "point": [
+        45.40797,
+        11.88586
+      ],
+      "source": "https://www.geonames.org/3171728/",
+      "geonameId": 3171728,
+      "sourceName": "Padua"
+    },
+    {
+      "name": "Pisa",
+      "iso": "IT",
+      "point": [
+        43.70853,
+        10.4036
+      ],
+      "source": "https://www.geonames.org/3170647/",
+      "geonameId": 3170647,
+      "sourceName": "Pisa"
+    },
+    {
+      "name": "Ravenna",
+      "iso": "IT",
+      "point": [
+        44.41344,
+        12.20121
+      ],
+      "source": "https://www.geonames.org/3169561/",
+      "geonameId": 3169561,
+      "sourceName": "Ravenna"
+    },
+    {
+      "name": "Rom",
+      "iso": "IT",
+      "point": [
+        41.89193,
+        12.51133
+      ],
+      "source": "https://www.geonames.org/3169070/",
+      "geonameId": 3169070,
+      "sourceName": "Rome"
+    },
+    {
+      "name": "Siena",
+      "iso": "IT",
+      "point": [
+        43.31822,
+        11.33064
+      ],
+      "source": "https://www.geonames.org/3166548/",
+      "geonameId": 3166548,
+      "sourceName": "Siena"
+    },
+    {
+      "name": "Turin",
+      "iso": "IT",
+      "point": [
+        45.07049,
+        7.68682
+      ],
+      "source": "https://www.geonames.org/3165524/",
+      "geonameId": 3165524,
+      "sourceName": "Turin"
+    },
+    {
+      "name": "Venedig",
+      "iso": "IT",
+      "point": [
+        45.43713,
+        12.33265
+      ],
+      "source": "https://www.geonames.org/3164603/",
+      "geonameId": 3164603,
+      "sourceName": "Venice"
+    },
+    {
+      "name": "Verona",
+      "iso": "IT",
+      "point": [
+        45.43854,
+        10.9938
+      ],
+      "source": "https://www.geonames.org/3164527/",
+      "geonameId": 3164527,
+      "sourceName": "Verona"
+    },
+    {
+      "name": "Vicenza",
+      "iso": "IT",
+      "point": [
+        45.54672,
+        11.5475
+      ],
+      "source": "https://www.geonames.org/3164419/",
+      "geonameId": 3164419,
+      "sourceName": "Vicenza"
+    },
+    {
+      "name": "Fukuoka",
+      "iso": "JP",
+      "point": [
+        33.6,
+        130.41667
+      ],
+      "source": "https://www.geonames.org/1863967/",
+      "geonameId": 1863967,
+      "sourceName": "Fukuoka"
+    },
+    {
+      "name": "Himeji",
+      "iso": "JP",
+      "point": [
+        34.81667,
+        134.7
+      ],
+      "source": "https://www.geonames.org/1862627/",
+      "geonameId": 1862627,
+      "sourceName": "Himeji"
+    },
+    {
+      "name": "Hiroshima",
+      "iso": "JP",
+      "point": [
+        34.4,
+        132.45
+      ],
+      "source": "https://www.geonames.org/1862415/",
+      "geonameId": 1862415,
+      "sourceName": "Hiroshima"
+    },
+    {
+      "name": "Kamakura",
+      "iso": "JP",
+      "point": [
+        35.31085,
+        139.54698
+      ],
+      "source": "https://www.geonames.org/1860672/",
+      "geonameId": 1860672,
+      "sourceName": "Kamakura"
+    },
+    {
+      "name": "Kyoto",
+      "iso": "JP",
+      "point": [
+        35.02107,
+        135.75385
+      ],
+      "source": "https://www.geonames.org/1857910/",
+      "geonameId": 1857910,
+      "sourceName": "Kyoto"
+    },
+    {
+      "name": "Nagasaki",
+      "iso": "JP",
+      "point": [
+        32.75,
+        129.88333
+      ],
+      "source": "https://www.geonames.org/1856177/",
+      "geonameId": 1856177,
+      "sourceName": "Nagasaki"
+    },
+    {
+      "name": "Nagoya",
+      "iso": "JP",
+      "point": [
+        35.18147,
+        136.90641
+      ],
+      "source": "https://www.geonames.org/1856057/",
+      "geonameId": 1856057,
+      "sourceName": "Nagoya"
+    },
+    {
+      "name": "Nara",
+      "iso": "JP",
+      "point": [
+        34.68505,
+        135.80485
+      ],
+      "source": "https://www.geonames.org/1855612/",
+      "geonameId": 1855612,
+      "sourceName": "Nara-shi"
+    },
+    {
+      "name": "Okayama",
+      "iso": "JP",
+      "point": [
+        34.65,
+        133.93333
+      ],
+      "source": "https://www.geonames.org/1854383/",
+      "geonameId": 1854383,
+      "sourceName": "Okayama"
+    },
+    {
+      "name": "Osaka",
+      "iso": "JP",
+      "point": [
+        34.69379,
+        135.50107
+      ],
+      "source": "https://www.geonames.org/1853909/",
+      "geonameId": 1853909,
+      "sourceName": "Osaka"
+    },
+    {
+      "name": "Busan",
+      "iso": "KR",
+      "point": [
+        35.10168,
+        129.03004
+      ],
+      "source": "https://www.geonames.org/1838524/",
+      "geonameId": 1838524,
+      "sourceName": "Busan"
+    },
+    {
+      "name": "Gyeongju",
+      "iso": "KR",
+      "point": [
+        35.84278,
+        129.21167
+      ],
+      "source": "https://www.geonames.org/1841603/",
+      "geonameId": 1841603,
+      "sourceName": "Gyeongju"
+    },
+    {
+      "name": "Seoul",
+      "iso": "KR",
+      "point": [
+        37.566,
+        126.9784
+      ],
+      "source": "https://www.geonames.org/1835848/",
+      "geonameId": 1835848,
+      "sourceName": "Seoul"
+    },
+    {
+      "name": "Suwon",
+      "iso": "KR",
+      "point": [
+        37.27818,
+        127.03164
+      ],
+      "source": "https://www.geonames.org/1835553/",
+      "geonameId": 1835553,
+      "sourceName": "Suwon"
+    },
+    {
+      "name": "Guadalajara",
+      "iso": "MX",
+      "point": [
+        20.67738,
+        -103.34749
+      ],
+      "source": "https://www.geonames.org/4005539/",
+      "geonameId": 4005539,
+      "sourceName": "Guadalajara"
+    },
+    {
+      "name": "Mexiko-Stadt",
+      "iso": "MX",
+      "point": [
+        19.42847,
+        -99.12766
+      ],
+      "source": "https://www.geonames.org/3530597/",
+      "geonameId": 3530597,
+      "sourceName": "Mexico City"
+    },
+    {
+      "name": "Oaxaca de Juárez",
+      "iso": "MX",
+      "point": [
+        17.06025,
+        -96.72544
+      ],
+      "source": "https://www.geonames.org/3522507/",
+      "geonameId": 3522507,
+      "sourceName": "Oaxaca"
+    },
+    {
+      "name": "Puebla",
+      "iso": "MX",
+      "point": [
+        19.04778,
+        -98.20723
+      ],
+      "source": "https://www.geonames.org/3521081/",
+      "geonameId": 3521081,
+      "sourceName": "Puebla"
+    },
+    {
+      "name": "Islamabad",
+      "iso": "PK",
+      "point": [
+        33.72148,
+        73.04329
+      ],
+      "source": "https://www.geonames.org/1176615/",
+      "geonameId": 1176615,
+      "sourceName": "Islamabad"
+    },
+    {
+      "name": "Karachi",
+      "iso": "PK",
+      "point": [
+        24.8608,
+        67.0104
+      ],
+      "source": "https://www.geonames.org/1174872/",
+      "geonameId": 1174872,
+      "sourceName": "Karachi"
+    },
+    {
+      "name": "Lahore",
+      "iso": "PK",
+      "point": [
+        31.558,
+        74.35071
+      ],
+      "source": "https://www.geonames.org/1172451/",
+      "geonameId": 1172451,
+      "sourceName": "Lahore"
+    },
+    {
+      "name": "Multan",
+      "iso": "PK",
+      "point": [
+        30.19679,
+        71.47824
+      ],
+      "source": "https://www.geonames.org/1169825/",
+      "geonameId": 1169825,
+      "sourceName": "Multan"
+    },
+    {
+      "name": "Danzig",
+      "iso": "PL",
+      "point": [
+        54.35227,
+        18.64912
+      ],
+      "source": "https://www.geonames.org/3099434/",
+      "geonameId": 3099434,
+      "sourceName": "Gdańsk"
+    },
+    {
+      "name": "Krakau",
+      "iso": "PL",
+      "point": [
+        50.06143,
+        19.93658
+      ],
+      "source": "https://www.geonames.org/3094802/",
+      "geonameId": 3094802,
+      "sourceName": "Kraków"
+    },
+    {
+      "name": "Malbork",
+      "iso": "PL",
+      "point": [
+        54.03591,
+        19.0266
+      ],
+      "source": "https://www.geonames.org/3092472/",
+      "geonameId": 3092472,
+      "sourceName": "Malbork"
+    },
+    {
+      "name": "Toruń",
+      "iso": "PL",
+      "point": [
+        53.01375,
+        18.59814
+      ],
+      "source": "https://www.geonames.org/3083271/",
+      "geonameId": 3083271,
+      "sourceName": "Toruń"
+    },
+    {
+      "name": "Braga",
+      "iso": "PT",
+      "point": [
+        41.5514,
+        -8.42311
+      ],
+      "source": "https://www.geonames.org/2742032/",
+      "geonameId": 2742032,
+      "sourceName": "Braga"
+    },
+    {
+      "name": "Coimbra",
+      "iso": "PT",
+      "point": [
+        40.20686,
+        -8.41996
+      ],
+      "source": "https://www.geonames.org/2740637/",
+      "geonameId": 2740637,
+      "sourceName": "Coimbra"
+    },
+    {
+      "name": "Lissabon",
+      "iso": "PT",
+      "point": [
+        38.72509,
+        -9.1498
+      ],
+      "source": "https://www.geonames.org/2267057/",
+      "geonameId": 2267057,
+      "sourceName": "Lisbon"
+    },
+    {
+      "name": "Porto",
+      "iso": "PT",
+      "point": [
+        41.1485,
+        -8.61097
+      ],
+      "source": "https://www.geonames.org/2735943/",
+      "geonameId": 2735943,
+      "sourceName": "Porto"
+    },
+    {
+      "name": "Ankara",
+      "iso": "TR",
+      "point": [
+        39.91987,
+        32.85427
+      ],
+      "source": "https://www.geonames.org/323786/",
+      "geonameId": 323786,
+      "sourceName": "Ankara"
+    },
+    {
+      "name": "Bursa",
+      "iso": "TR",
+      "point": [
+        40.19559,
+        29.06013
+      ],
+      "source": "https://www.geonames.org/750269/",
+      "geonameId": 750269,
+      "sourceName": "Bursa"
+    },
+    {
+      "name": "Istanbul",
+      "iso": "TR",
+      "point": [
+        41.01384,
+        28.94966
+      ],
+      "source": "https://www.geonames.org/745044/",
+      "geonameId": 745044,
+      "sourceName": "Istanbul"
+    },
+    {
+      "name": "Izmir",
+      "iso": "TR",
+      "point": [
+        38.41273,
+        27.13838
+      ],
+      "source": "https://www.geonames.org/311046/",
+      "geonameId": 311046,
+      "sourceName": "İzmir"
+    },
+    {
+      "name": "Baltimore",
+      "iso": "US",
+      "point": [
+        39.29038,
+        -76.61219
+      ],
+      "source": "https://www.geonames.org/4347778/",
+      "geonameId": 4347778,
+      "sourceName": "Baltimore"
+    },
+    {
+      "name": "Boston",
+      "iso": "US",
+      "point": [
+        42.35843,
+        -71.05977
+      ],
+      "source": "https://www.geonames.org/4930956/",
+      "geonameId": 4930956,
+      "sourceName": "Boston"
+    },
+    {
+      "name": "New York City",
+      "iso": "US",
+      "point": [
+        40.71427,
+        -74.00597
+      ],
+      "source": "https://www.geonames.org/5128581/",
+      "geonameId": 5128581,
+      "sourceName": "New York City"
+    },
+    {
+      "name": "Philadelphia",
+      "iso": "US",
+      "point": [
+        39.95238,
+        -75.16362
+      ],
+      "source": "https://www.geonames.org/4560349/",
+      "geonameId": 4560349,
+      "sourceName": "Philadelphia"
+    },
+    {
+      "name": "Buchara",
+      "iso": "UZ",
+      "point": [
+        39.77026,
+        64.43069
+      ],
+      "source": "https://www.geonames.org/1217662/",
+      "geonameId": 1217662,
+      "sourceName": "Bukhara"
+    },
+    {
+      "name": "Chiwa",
+      "iso": "UZ",
+      "point": [
+        41.38555,
+        60.36408
+      ],
+      "source": "https://www.geonames.org/1513604/",
+      "geonameId": 1513604,
+      "sourceName": "Xiva"
+    },
+    {
+      "name": "Samarkand",
+      "iso": "UZ",
+      "point": [
+        39.65456,
+        66.96445
+      ],
+      "source": "https://www.geonames.org/1216265/",
+      "geonameId": 1216265,
+      "sourceName": "Samarkand"
+    },
+    {
+      "name": "Taschkent",
+      "iso": "UZ",
+      "point": [
+        41.26465,
+        69.21627
+      ],
+      "source": "https://www.geonames.org/1512569/",
+      "geonameId": 1512569,
+      "sourceName": "Tashkent"
+    }
+  ]
+}

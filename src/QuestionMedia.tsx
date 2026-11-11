@@ -6,7 +6,15 @@ const Geography=lazy(()=>import('./AtlasGeography').then(m=>({default:m.AtlasGeo
 const legacy=new Map(raw.filter(q=>q.category==='maps'||q.category==='silhouettes').map(q=>[q.media!.src,registry.find(f=>f.name===q.options[q.correct])!.iso]));
 export type QuestionMediaData={src:string;alt:string;license:string;type?:string};
 export type CityLocation={name:string;iso:string;point:[number,number]};
-export type QuestionResolution={sources:string[];cityLocation?:CityLocation};
+type ImageCredit={source:string;title:string;license:string;licenseUrl:string;author:string};
+export type QuestionResolution={sources:string[];cityLocation?:CityLocation;cityChoices?:CityLocation[];imageCredit?:ImageCredit};
+export function QuestionImageCredit({credit}:{credit?:ImageCredit}){
+ if(!credit)return null;
+ return <p className="question-credit">Foto von {credit.author} ·{' '}
+  <a href={credit.source} target="_blank" rel="noreferrer">{credit.title}</a> ·{' '}
+  <a href={credit.licenseUrl} target="_blank" rel="noreferrer">{credit.license}</a> · Verkleinerte WebP-Fassung
+ </p>;
+}
 export function QuestionMedia({media,options=[],location,correct,selected,onSelect,disabled}:{
  media:QuestionMediaData;options?:string[];location?:CityLocation;correct?:number;
  selected?:number;onSelect?:(index:number)=>void;disabled?:boolean;

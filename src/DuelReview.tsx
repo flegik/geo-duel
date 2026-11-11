@@ -2,7 +2,7 @@ import {useState} from 'react';
 import {Check, ChevronDown, Minus, X} from 'lucide-react';
 import {AnswerOption,hasFlagOptions} from './AnswerOption';
 import {AnswerDiscovery} from './AnswerDiscovery';
-import {QuestionMedia} from './QuestionMedia';
+import {QuestionMedia,QuestionImageCredit} from './QuestionMedia';
 import {categories} from './engine';
 import type {DuelReviewAnswer, DuelReviewQuestion, MatchResult} from './api';
 import './duelReview.css';
@@ -77,10 +77,11 @@ function ReviewCard({question, players, ownId}:{
             );
           })}
         </div>
-        <AnswerDiscovery category={question.category} options={question.options} selected={preview} onSelect={setPreview}/>
+        <AnswerDiscovery category={question.category} options={question.options} selected={preview} onSelect={setPreview} resolution={question.provenance}/>
         <div className="duel-review-explanation">
           <strong>Erklärung</strong>
           <p>{question.explanation}</p>
+          <QuestionImageCredit credit={question.provenance?.imageCredit}/>
           {question.provenance?.sources[0] && <a href={question.provenance.sources[0]} target="_blank" rel="noreferrer">Quelle ansehen ↗</a>}
         </div>
       </div>}

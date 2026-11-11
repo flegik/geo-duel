@@ -1,0 +1,74 @@
+{
+  "3": {
+    "path": "/media/landmark-cities/dd55a4e22d306316.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Aachen_Germany_Imperial-Cathedral-01.jpg",
+    "title": "Aachen Germany Imperial-Cathedral-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "CEphoto, Uwe Aranas",
+    "sha256": "fd6def4c835ab4458fe97c3fcc15e14190aea65dd605f35032834870bc8c3f29"
+  },
+  "300": {
+    "path": "/media/landmark-cities/6ad0857482555e52.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_02.jpg",
+    "title": "Château Frontenac 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Bernard Gagnon",
+    "sha256": "f1e43d0b2c25cd1a2d8e1cc330661eb0fa4c4b3006464ad031861f3d7f78d024"
+  },
+  "292": {
+    "path": "/media/landmark-cities/14b69b2b6dba116d.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+    "title": "Kölner Dom - Westfassade 2022 ohne Gerüst-0968 b.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Raimond Spekking",
+    "sha256": "d1a22272388eea97e2233fdae80aeb2499523e78fc2f31aee3d80386482afaa6"
+  },
+  "174": {
+    "path": "/media/landmark-cities/6667d271bb54349e.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "title": "Cattedrale di Santa Maria del Fiore – Il Duomo di Firenze.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Gary Campbell-Hall",
+    "sha256": "69e5e2d21ebd79cfe4f284db68a591df533350d707fb5b0282a25b881298f412"
+  },
+  "383": {
+    "path": "/media/landmark-cities/4fdebd0a929e1b33.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sevilla_Cathedral_-_Giralda.jpg",
+    "title": "Sevilla Cathedral - Giralda.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ingo Mehling",
+    "sha256": "13632a2ac0dc3e74e6e88a5ae1cf5460f80d48cddc6deec05f2beea90481a252"
+  },
+  "784": {
+    "path": "/media/landmark-cities/0150d5bffb1cabaa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Salzburg_-_Festung_Hohensalzburg.JPG",
+    "title": "Salzburg - Festung Hohensalzburg.JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "C.Stadler/Bwag",
+    "sha256": "e0309dd40ed3a9611682e87b34de5ed1a3b71812c7e2ebbddee56d7cd1f2f944"
+  },
+  "797": {
+    "path": "/media/landmark-cities/196d996cf1706105.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena-XE3F2406a.jpg",
+    "title": "Arena-XE3F2406a.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Claconvr",
+    "sha256": "94d51a0c94104e7dfeb9db58b37a69f27e2373c956f60a24d885be10872fcfd1"
+  },
+  "169": {
+    "path": "/media/landmark-cities/2e77ee9def701e77.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Residencia,_Wurzburgo,_Alemania,_2025-10-03,_DD_104.jpg",
+    "title": "Residencia, Wurzburgo, Alemania, 2025-10-03, DD 104.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Diego Delso",
+    "sha256": "bdc9c19088301f1da5e511b6ece73caa3feab7f367a45252d565812621339964"
+  }
+}

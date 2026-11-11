@@ -1,0 +1,3213 @@
+[
+  {
+    "id": "landmark-city-v1-188239d882690cedae6e",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Bordeaux",
+      "Paris",
+      "Marseille",
+      "Lyon"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Eiffelturm befindet sich in Paris (Frankreich).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/e6b21f44dbcb86a88b2e.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/600/",
+        "https://www.geonames.org/2988507/"
+      ],
+      "subjectKey": "landmark:600",
+      "iso": "FR",
+      "siteId": "600",
+      "cityChoices": [
+        {
+          "name": "Bordeaux",
+          "iso": "FR",
+          "point": [
+            44.84124,
+            -0.58046
+          ],
+          "source": "https://www.geonames.org/3031582/",
+          "geonameId": 3031582,
+          "sourceName": "Bordeaux"
+        },
+        {
+          "name": "Paris",
+          "iso": "FR",
+          "point": [
+            48.85341,
+            2.3488
+          ],
+          "source": "https://www.geonames.org/2988507/",
+          "geonameId": 2988507,
+          "sourceName": "Paris"
+        },
+        {
+          "name": "Marseille",
+          "iso": "FR",
+          "point": [
+            43.29695,
+            5.38107
+          ],
+          "source": "https://www.geonames.org/2995469/",
+          "geonameId": 2995469,
+          "sourceName": "Marseille"
+        },
+        {
+          "name": "Lyon",
+          "iso": "FR",
+          "point": [
+            45.74906,
+            4.84789
+          ],
+          "source": "https://www.geonames.org/2996944/",
+          "geonameId": 2996944,
+          "sourceName": "Lyon"
+        }
+      ],
+      "landmarkName": "Eiffelturm"
+    }
+  },
+  {
+    "id": "landmark-city-v1-b035efb0ca34abb7f3ba",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Rom",
+      "Neapel",
+      "Florenz",
+      "Mailand"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Kolosseum befindet sich in Rom (Italien).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/9e5957f8f02c0f718a4d.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://colosseo.it/en/area/the-colosseum/",
+        "https://whc.unesco.org/en/list/91/",
+        "https://www.geonames.org/3169070/"
+      ],
+      "subjectKey": "landmark:91",
+      "iso": "IT",
+      "siteId": "91",
+      "cityChoices": [
+        {
+          "name": "Rom",
+          "iso": "IT",
+          "point": [
+            41.89193,
+            12.51133
+          ],
+          "source": "https://www.geonames.org/3169070/",
+          "geonameId": 3169070,
+          "sourceName": "Rome"
+        },
+        {
+          "name": "Neapel",
+          "iso": "IT",
+          "point": [
+            40.85216,
+            14.26811
+          ],
+          "source": "https://www.geonames.org/3172394/",
+          "geonameId": 3172394,
+          "sourceName": "Naples"
+        },
+        {
+          "name": "Florenz",
+          "iso": "IT",
+          "point": [
+            43.77925,
+            11.24626
+          ],
+          "source": "https://www.geonames.org/3176959/",
+          "geonameId": 3176959,
+          "sourceName": "Florence"
+        },
+        {
+          "name": "Mailand",
+          "iso": "IT",
+          "point": [
+            45.46427,
+            9.18951
+          ],
+          "source": "https://www.geonames.org/3173435/",
+          "geonameId": 3173435,
+          "sourceName": "Milan"
+        }
+      ],
+      "landmarkName": "Kolosseum"
+    }
+  },
+  {
+    "id": "landmark-city-v1-71af2b4688b4c3ac8448",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Neu-Delhi",
+      "Lucknow",
+      "Jaipur",
+      "Agra"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Taj Mahal befindet sich in Agra (Indien).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/72781fa7bcd8336c2a0b.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/252/",
+        "https://www.geonames.org/1279259/"
+      ],
+      "subjectKey": "landmark:252",
+      "iso": "IN",
+      "siteId": "252",
+      "cityChoices": [
+        {
+          "name": "Neu-Delhi",
+          "iso": "IN",
+          "point": [
+            28.62137,
+            77.2148
+          ],
+          "source": "https://www.geonames.org/1261481/",
+          "geonameId": 1261481,
+          "sourceName": "New Delhi"
+        },
+        {
+          "name": "Lucknow",
+          "iso": "IN",
+          "point": [
+            26.83928,
+            80.92313
+          ],
+          "source": "https://www.geonames.org/1264733/",
+          "geonameId": 1264733,
+          "sourceName": "Lucknow"
+        },
+        {
+          "name": "Jaipur",
+          "iso": "IN",
+          "point": [
+            26.91962,
+            75.78781
+          ],
+          "source": "https://www.geonames.org/1269515/",
+          "geonameId": 1269515,
+          "sourceName": "Jaipur"
+        },
+        {
+          "name": "Agra",
+          "iso": "IN",
+          "point": [
+            27.18333,
+            78.01667
+          ],
+          "source": "https://www.geonames.org/1279259/",
+          "geonameId": 1279259,
+          "sourceName": "Agra"
+        }
+      ],
+      "landmarkName": "Taj Mahal"
+    }
+  },
+  {
+    "id": "landmark-city-v1-a3a8c4af590ac0c8a9ca",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Boston",
+      "New York City",
+      "Baltimore",
+      "Philadelphia"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Freiheitsstatue auf Liberty Island befindet sich in New York City (Vereinigte Staaten).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/4a63c67d7ef740358b2a.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/307/",
+        "https://www.geonames.org/5128581/"
+      ],
+      "subjectKey": "landmark:307",
+      "iso": "US",
+      "siteId": "307",
+      "cityChoices": [
+        {
+          "name": "Boston",
+          "iso": "US",
+          "point": [
+            42.35843,
+            -71.05977
+          ],
+          "source": "https://www.geonames.org/4930956/",
+          "geonameId": 4930956,
+          "sourceName": "Boston"
+        },
+        {
+          "name": "New York City",
+          "iso": "US",
+          "point": [
+            40.71427,
+            -74.00597
+          ],
+          "source": "https://www.geonames.org/5128581/",
+          "geonameId": 5128581,
+          "sourceName": "New York City"
+        },
+        {
+          "name": "Baltimore",
+          "iso": "US",
+          "point": [
+            39.29038,
+            -76.61219
+          ],
+          "source": "https://www.geonames.org/4347778/",
+          "geonameId": 4347778,
+          "sourceName": "Baltimore"
+        },
+        {
+          "name": "Philadelphia",
+          "iso": "US",
+          "point": [
+            39.95238,
+            -75.16362
+          ],
+          "source": "https://www.geonames.org/4560349/",
+          "geonameId": 4560349,
+          "sourceName": "Philadelphia"
+        }
+      ],
+      "landmarkName": "Freiheitsstatue auf Liberty Island"
+    }
+  },
+  {
+    "id": "landmark-city-v1-d4f809a56a8100baa042",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Brisbane",
+      "Sydney",
+      "Perth",
+      "Melbourne"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Opernhaus mit weißen Segeldächern befindet sich in Sydney (Australien).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/b00ed6a92dddcbbe9c25.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/166/",
+        "https://www.geonames.org/2147714/"
+      ],
+      "subjectKey": "landmark:166",
+      "iso": "AU",
+      "siteId": "166",
+      "cityChoices": [
+        {
+          "name": "Brisbane",
+          "iso": "AU",
+          "point": [
+            -27.46794,
+            153.02809
+          ],
+          "source": "https://www.geonames.org/2174003/",
+          "geonameId": 2174003,
+          "sourceName": "Brisbane"
+        },
+        {
+          "name": "Sydney",
+          "iso": "AU",
+          "point": [
+            -33.86785,
+            151.20732
+          ],
+          "source": "https://www.geonames.org/2147714/",
+          "geonameId": 2147714,
+          "sourceName": "Sydney"
+        },
+        {
+          "name": "Perth",
+          "iso": "AU",
+          "point": [
+            -31.95224,
+            115.8614
+          ],
+          "source": "https://www.geonames.org/2063523/",
+          "geonameId": 2063523,
+          "sourceName": "Perth"
+        },
+        {
+          "name": "Melbourne",
+          "iso": "AU",
+          "point": [
+            -37.814,
+            144.96332
+          ],
+          "source": "https://www.geonames.org/2158177/",
+          "geonameId": 2158177,
+          "sourceName": "Melbourne"
+        }
+      ],
+      "landmarkName": "Opernhaus mit weißen Segeldächern"
+    }
+  },
+  {
+    "id": "landmark-city-v1-86434a15e40e64b70b9d",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Lucca",
+      "Florenz",
+      "Pisa",
+      "Siena"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Schiefer Glockenturm auf der Piazza del Duomo befindet sich in Pisa (Italien).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/0abd4d0d298d9e2b7454.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/395/",
+        "https://www.geonames.org/3170647/"
+      ],
+      "subjectKey": "landmark:395",
+      "iso": "IT",
+      "siteId": "395",
+      "cityChoices": [
+        {
+          "name": "Lucca",
+          "iso": "IT",
+          "point": [
+            43.84369,
+            10.50447
+          ],
+          "source": "https://www.geonames.org/3174530/",
+          "geonameId": 3174530,
+          "sourceName": "Lucca"
+        },
+        {
+          "name": "Florenz",
+          "iso": "IT",
+          "point": [
+            43.77925,
+            11.24626
+          ],
+          "source": "https://www.geonames.org/3176959/",
+          "geonameId": 3176959,
+          "sourceName": "Florence"
+        },
+        {
+          "name": "Pisa",
+          "iso": "IT",
+          "point": [
+            43.70853,
+            10.4036
+          ],
+          "source": "https://www.geonames.org/3170647/",
+          "geonameId": 3170647,
+          "sourceName": "Pisa"
+        },
+        {
+          "name": "Siena",
+          "iso": "IT",
+          "point": [
+            43.31822,
+            11.33064
+          ],
+          "source": "https://www.geonames.org/3166548/",
+          "geonameId": 3166548,
+          "sourceName": "Siena"
+        }
+      ],
+      "landmarkName": "schiefer Glockenturm auf der Piazza del Duomo"
+    }
+  },
+  {
+    "id": "landmark-city-v1-5599ac645d9fabccc598",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Iraklio",
+      "Athen",
+      "Thessaloniki",
+      "Patras"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Parthenon auf der Akropolis befindet sich in Athen (Griechenland).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/70ee52b147e0ad36285a.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/404/",
+        "https://www.geonames.org/264371/"
+      ],
+      "subjectKey": "landmark:404",
+      "iso": "GR",
+      "siteId": "404",
+      "cityChoices": [
+        {
+          "name": "Iraklio",
+          "iso": "GR",
+          "point": [
+            35.32787,
+            25.14341
+          ],
+          "source": "https://www.geonames.org/261745/",
+          "geonameId": 261745,
+          "sourceName": "Irákleion"
+        },
+        {
+          "name": "Athen",
+          "iso": "GR",
+          "point": [
+            37.98376,
+            23.72784
+          ],
+          "source": "https://www.geonames.org/264371/",
+          "geonameId": 264371,
+          "sourceName": "Athens"
+        },
+        {
+          "name": "Thessaloniki",
+          "iso": "GR",
+          "point": [
+            40.64072,
+            22.93493
+          ],
+          "source": "https://www.geonames.org/734077/",
+          "geonameId": 734077,
+          "sourceName": "Thessaloníki"
+        },
+        {
+          "name": "Patras",
+          "iso": "GR",
+          "point": [
+            38.2462,
+            21.73508
+          ],
+          "source": "https://www.geonames.org/255683/",
+          "geonameId": 255683,
+          "sourceName": "Pátra"
+        }
+      ],
+      "landmarkName": "Parthenon auf der Akropolis"
+    }
+  },
+  {
+    "id": "landmark-city-v1-f2ad60a5ae7df02cebbc",
+    "category": "landmarks",
+    "difficulty": 1,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Manchester",
+      "London",
+      "Edinburgh",
+      "Liverpool"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Elizabeth Tower mit Big Ben befindet sich in London (Vereinigtes Königreich).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/61a23e0376b5dee9bbba.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/426/",
+        "https://www.geonames.org/2643743/"
+      ],
+      "subjectKey": "landmark:426",
+      "iso": "GB",
+      "siteId": "426",
+      "cityChoices": [
+        {
+          "name": "Manchester",
+          "iso": "GB",
+          "point": [
+            53.48095,
+            -2.23743
+          ],
+          "source": "https://www.geonames.org/2643123/",
+          "geonameId": 2643123,
+          "sourceName": "Manchester"
+        },
+        {
+          "name": "London",
+          "iso": "GB",
+          "point": [
+            51.50853,
+            -0.12574
+          ],
+          "source": "https://www.geonames.org/2643743/",
+          "geonameId": 2643743,
+          "sourceName": "London"
+        },
+        {
+          "name": "Edinburgh",
+          "iso": "GB",
+          "point": [
+            55.95206,
+            -3.19648
+          ],
+          "source": "https://www.geonames.org/2650225/",
+          "geonameId": 2650225,
+          "sourceName": "Edinburgh"
+        },
+        {
+          "name": "Liverpool",
+          "iso": "GB",
+          "point": [
+            53.41058,
+            -2.97794
+          ],
+          "source": "https://www.geonames.org/2644210/",
+          "geonameId": 2644210,
+          "sourceName": "Liverpool"
+        }
+      ],
+      "landmarkName": "Elizabeth Tower mit Big Ben"
+    }
+  },
+  {
+    "id": "landmark-city-v1-7b393cb0a8007329984a",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Barcelona",
+      "Sevilla",
+      "Valencia",
+      "Madrid"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Sagrada Família befindet sich in Barcelona (Spanien).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/f2e981b04d0b82f694d3.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/320/",
+        "https://www.geonames.org/3128760/"
+      ],
+      "subjectKey": "landmark:320",
+      "iso": "ES",
+      "siteId": "320",
+      "cityChoices": [
+        {
+          "name": "Barcelona",
+          "iso": "ES",
+          "point": [
+            41.38879,
+            2.15899
+          ],
+          "source": "https://www.geonames.org/3128760/",
+          "geonameId": 3128760,
+          "sourceName": "Barcelona"
+        },
+        {
+          "name": "Sevilla",
+          "iso": "ES",
+          "point": [
+            37.38283,
+            -5.97317
+          ],
+          "source": "https://www.geonames.org/2510911/",
+          "geonameId": 2510911,
+          "sourceName": "Sevilla"
+        },
+        {
+          "name": "Valencia",
+          "iso": "ES",
+          "point": [
+            39.47391,
+            -0.37966
+          ],
+          "source": "https://www.geonames.org/2509954/",
+          "geonameId": 2509954,
+          "sourceName": "Valencia"
+        },
+        {
+          "name": "Madrid",
+          "iso": "ES",
+          "point": [
+            40.4165,
+            -3.70256
+          ],
+          "source": "https://www.geonames.org/3117735/",
+          "geonameId": 3117735,
+          "sourceName": "Madrid"
+        }
+      ],
+      "landmarkName": "Sagrada Família"
+    }
+  },
+  {
+    "id": "landmark-city-v1-3b004b3a410cc44e6487",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Istanbul",
+      "Bursa",
+      "Ankara",
+      "Izmir"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Hagia Sophia befindet sich in Istanbul (Türkei).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/e0eaf6e7cb09853b6096.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/356/",
+        "https://www.geonames.org/745044/"
+      ],
+      "subjectKey": "landmark:356",
+      "iso": "TR",
+      "siteId": "356",
+      "cityChoices": [
+        {
+          "name": "Istanbul",
+          "iso": "TR",
+          "point": [
+            41.01384,
+            28.94966
+          ],
+          "source": "https://www.geonames.org/745044/",
+          "geonameId": 745044,
+          "sourceName": "Istanbul"
+        },
+        {
+          "name": "Bursa",
+          "iso": "TR",
+          "point": [
+            40.19559,
+            29.06013
+          ],
+          "source": "https://www.geonames.org/750269/",
+          "geonameId": 750269,
+          "sourceName": "Bursa"
+        },
+        {
+          "name": "Ankara",
+          "iso": "TR",
+          "point": [
+            39.91987,
+            32.85427
+          ],
+          "source": "https://www.geonames.org/323786/",
+          "geonameId": 323786,
+          "sourceName": "Ankara"
+        },
+        {
+          "name": "Izmir",
+          "iso": "TR",
+          "point": [
+            38.41273,
+            27.13838
+          ],
+          "source": "https://www.geonames.org/311046/",
+          "geonameId": 311046,
+          "sourceName": "İzmir"
+        }
+      ],
+      "landmarkName": "Hagia Sophia"
+    }
+  },
+  {
+    "id": "landmark-city-v1-42a99fb4e91fa0c1f27d",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Innsbruck",
+      "Graz",
+      "Wien",
+      "Salzburg"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Schloss Schönbrunn befindet sich in Wien (Österreich).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/bf55501438c6f99a4118.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/786/",
+        "https://www.geonames.org/2761369/"
+      ],
+      "subjectKey": "landmark:786",
+      "iso": "AT",
+      "siteId": "786",
+      "cityChoices": [
+        {
+          "name": "Innsbruck",
+          "iso": "AT",
+          "point": [
+            47.26266,
+            11.39454
+          ],
+          "source": "https://www.geonames.org/2775220/",
+          "geonameId": 2775220,
+          "sourceName": "Innsbruck"
+        },
+        {
+          "name": "Graz",
+          "iso": "AT",
+          "point": [
+            47.06733,
+            15.44197
+          ],
+          "source": "https://www.geonames.org/2778067/",
+          "geonameId": 2778067,
+          "sourceName": "Graz"
+        },
+        {
+          "name": "Wien",
+          "iso": "AT",
+          "point": [
+            48.20849,
+            16.37208
+          ],
+          "source": "https://www.geonames.org/2761369/",
+          "geonameId": 2761369,
+          "sourceName": "Vienna"
+        },
+        {
+          "name": "Salzburg",
+          "iso": "AT",
+          "point": [
+            47.79941,
+            13.04399
+          ],
+          "source": "https://www.geonames.org/2766824/",
+          "geonameId": 2766824,
+          "sourceName": "Salzburg"
+        }
+      ],
+      "landmarkName": "Schloss Schönbrunn"
+    }
+  },
+  {
+    "id": "landmark-city-v1-d005e2df95c2a6a91549",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Coimbra",
+      "Porto",
+      "Lissabon",
+      "Braga"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Torre de Belém befindet sich in Lissabon (Portugal).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/6b6bb749332b8c888230.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/263/",
+        "https://www.geonames.org/2267057/"
+      ],
+      "subjectKey": "landmark:263",
+      "iso": "PT",
+      "siteId": "263",
+      "cityChoices": [
+        {
+          "name": "Coimbra",
+          "iso": "PT",
+          "point": [
+            40.20686,
+            -8.41996
+          ],
+          "source": "https://www.geonames.org/2740637/",
+          "geonameId": 2740637,
+          "sourceName": "Coimbra"
+        },
+        {
+          "name": "Porto",
+          "iso": "PT",
+          "point": [
+            41.1485,
+            -8.61097
+          ],
+          "source": "https://www.geonames.org/2735943/",
+          "geonameId": 2735943,
+          "sourceName": "Porto"
+        },
+        {
+          "name": "Lissabon",
+          "iso": "PT",
+          "point": [
+            38.72509,
+            -9.1498
+          ],
+          "source": "https://www.geonames.org/2267057/",
+          "geonameId": 2267057,
+          "sourceName": "Lisbon"
+        },
+        {
+          "name": "Braga",
+          "iso": "PT",
+          "point": [
+            41.5514,
+            -8.42311
+          ],
+          "source": "https://www.geonames.org/2742032/",
+          "geonameId": 2742032,
+          "sourceName": "Braga"
+        }
+      ],
+      "landmarkName": "Torre de Belém"
+    }
+  },
+  {
+    "id": "landmark-city-v1-429665991779b3fb314a",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Kunming",
+      "Xi’an",
+      "Lhasa",
+      "Chengdu"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Potala-Palast befindet sich in Lhasa (China).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/e27a6b0e6885420a0f6d.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/707/",
+        "https://www.geonames.org/1280737/"
+      ],
+      "subjectKey": "landmark:707",
+      "iso": "CN",
+      "siteId": "707",
+      "cityChoices": [
+        {
+          "name": "Kunming",
+          "iso": "CN",
+          "point": [
+            25.03889,
+            102.71833
+          ],
+          "source": "https://www.geonames.org/1804651/",
+          "geonameId": 1804651,
+          "sourceName": "Kunming"
+        },
+        {
+          "name": "Xi’an",
+          "iso": "CN",
+          "point": [
+            34.25833,
+            108.92861
+          ],
+          "source": "https://www.geonames.org/1790630/",
+          "geonameId": 1790630,
+          "sourceName": "Xi’an"
+        },
+        {
+          "name": "Lhasa",
+          "iso": "CN",
+          "point": [
+            29.65,
+            91.1
+          ],
+          "source": "https://www.geonames.org/1280737/",
+          "geonameId": 1280737,
+          "sourceName": "Lhasa"
+        },
+        {
+          "name": "Chengdu",
+          "iso": "CN",
+          "point": [
+            30.66667,
+            104.06667
+          ],
+          "source": "https://www.geonames.org/1815286/",
+          "geonameId": 1815286,
+          "sourceName": "Chengdu"
+        }
+      ],
+      "landmarkName": "Potala-Palast"
+    }
+  },
+  {
+    "id": "landmark-city-v1-bfc25d046c787b167ea5",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Sarajevo",
+      "Banja Luka",
+      "Trebinje",
+      "Mostar"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Osmanische Steinbogenbrücke Stari Most befindet sich in Mostar (Bosnien und Herzegowina).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/4310e7875d4b2156c84c.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/946/",
+        "https://www.geonames.org/3194828/"
+      ],
+      "subjectKey": "landmark:946",
+      "iso": "BA",
+      "siteId": "946",
+      "cityChoices": [
+        {
+          "name": "Sarajevo",
+          "iso": "BA",
+          "point": [
+            43.84864,
+            18.35644
+          ],
+          "source": "https://www.geonames.org/3191281/",
+          "geonameId": 3191281,
+          "sourceName": "Sarajevo"
+        },
+        {
+          "name": "Banja Luka",
+          "iso": "BA",
+          "point": [
+            44.77879,
+            17.20629
+          ],
+          "source": "https://www.geonames.org/3204541/",
+          "geonameId": 3204541,
+          "sourceName": "Banja Luka"
+        },
+        {
+          "name": "Trebinje",
+          "iso": "BA",
+          "point": [
+            42.71197,
+            18.34362
+          ],
+          "source": "https://www.geonames.org/3188893/",
+          "geonameId": 3188893,
+          "sourceName": "Trebinje"
+        },
+        {
+          "name": "Mostar",
+          "iso": "BA",
+          "point": [
+            43.34333,
+            17.80806
+          ],
+          "source": "https://www.geonames.org/3194828/",
+          "geonameId": 3194828,
+          "sourceName": "Mostar"
+        }
+      ],
+      "landmarkName": "osmanische Steinbogenbrücke Stari Most"
+    }
+  },
+  {
+    "id": "landmark-city-v1-dd2eb3ee97efa81f356d",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Taschkent",
+      "Samarkand",
+      "Chiwa",
+      "Buchara"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Registan mit drei Medresen befindet sich in Samarkand (Usbekistan).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/a897c3b9eed8e47eda16.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/603/",
+        "https://www.geonames.org/1216265/"
+      ],
+      "subjectKey": "landmark:603",
+      "iso": "UZ",
+      "siteId": "603",
+      "cityChoices": [
+        {
+          "name": "Taschkent",
+          "iso": "UZ",
+          "point": [
+            41.26465,
+            69.21627
+          ],
+          "source": "https://www.geonames.org/1512569/",
+          "geonameId": 1512569,
+          "sourceName": "Tashkent"
+        },
+        {
+          "name": "Samarkand",
+          "iso": "UZ",
+          "point": [
+            39.65456,
+            66.96445
+          ],
+          "source": "https://www.geonames.org/1216265/",
+          "geonameId": 1216265,
+          "sourceName": "Samarkand"
+        },
+        {
+          "name": "Chiwa",
+          "iso": "UZ",
+          "point": [
+            41.38555,
+            60.36408
+          ],
+          "source": "https://www.geonames.org/1513604/",
+          "geonameId": 1513604,
+          "sourceName": "Xiva"
+        },
+        {
+          "name": "Buchara",
+          "iso": "UZ",
+          "point": [
+            39.77026,
+            64.43069
+          ],
+          "source": "https://www.geonames.org/1217662/",
+          "geonameId": 1217662,
+          "sourceName": "Bukhara"
+        }
+      ],
+      "landmarkName": "Registan mit drei Medresen"
+    }
+  },
+  {
+    "id": "landmark-city-v1-eb342cadcb93e4524f80",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Nara",
+      "Kyoto",
+      "Osaka",
+      "Kamakura"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Goldener Pavillon Kinkaku-ji befindet sich in Kyoto (Japan).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/6d5bc842c6cee944c79b.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/688/",
+        "https://www.geonames.org/1857910/"
+      ],
+      "subjectKey": "landmark:688",
+      "iso": "JP",
+      "siteId": "688",
+      "cityChoices": [
+        {
+          "name": "Nara",
+          "iso": "JP",
+          "point": [
+            34.68505,
+            135.80485
+          ],
+          "source": "https://www.geonames.org/1855612/",
+          "geonameId": 1855612,
+          "sourceName": "Nara-shi"
+        },
+        {
+          "name": "Kyoto",
+          "iso": "JP",
+          "point": [
+            35.02107,
+            135.75385
+          ],
+          "source": "https://www.geonames.org/1857910/",
+          "geonameId": 1857910,
+          "sourceName": "Kyoto"
+        },
+        {
+          "name": "Osaka",
+          "iso": "JP",
+          "point": [
+            34.69379,
+            135.50107
+          ],
+          "source": "https://www.geonames.org/1853909/",
+          "geonameId": 1853909,
+          "sourceName": "Osaka"
+        },
+        {
+          "name": "Kamakura",
+          "iso": "JP",
+          "point": [
+            35.31085,
+            139.54698
+          ],
+          "source": "https://www.geonames.org/1860672/",
+          "geonameId": 1860672,
+          "sourceName": "Kamakura"
+        }
+      ],
+      "landmarkName": "Goldener Pavillon Kinkaku-ji"
+    }
+  },
+  {
+    "id": "landmark-city-v1-142ab69ed4cbee251695",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Nagoya",
+      "Osaka",
+      "Himeji",
+      "Kyoto"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Weiße Burg Shirasagi-jō befindet sich in Himeji (Japan).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/6b48560c92e019c2aa7d.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/661/",
+        "https://www.geonames.org/1862627/"
+      ],
+      "subjectKey": "landmark:661",
+      "iso": "JP",
+      "siteId": "661",
+      "cityChoices": [
+        {
+          "name": "Nagoya",
+          "iso": "JP",
+          "point": [
+            35.18147,
+            136.90641
+          ],
+          "source": "https://www.geonames.org/1856057/",
+          "geonameId": 1856057,
+          "sourceName": "Nagoya"
+        },
+        {
+          "name": "Osaka",
+          "iso": "JP",
+          "point": [
+            34.69379,
+            135.50107
+          ],
+          "source": "https://www.geonames.org/1853909/",
+          "geonameId": 1853909,
+          "sourceName": "Osaka"
+        },
+        {
+          "name": "Himeji",
+          "iso": "JP",
+          "point": [
+            34.81667,
+            134.7
+          ],
+          "source": "https://www.geonames.org/1862627/",
+          "geonameId": 1862627,
+          "sourceName": "Himeji"
+        },
+        {
+          "name": "Kyoto",
+          "iso": "JP",
+          "point": [
+            35.02107,
+            135.75385
+          ],
+          "source": "https://www.geonames.org/1857910/",
+          "geonameId": 1857910,
+          "sourceName": "Kyoto"
+        }
+      ],
+      "landmarkName": "weiße Burg Shirasagi-jō"
+    }
+  },
+  {
+    "id": "landmark-city-v1-5b0e6a13da3cb3b03693",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Krakau",
+      "Toruń",
+      "Danzig",
+      "Malbork"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Deutschordensburg aus Backstein befindet sich in Malbork (Polen).",
+    "media": {
+      "alt": "Illustration des gesuchten Wahrzeichens",
+      "src": "/media/450c610d097907cc689f.svg",
+      "type": "image",
+      "license": "GeoDuel original SVG – CC0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/847/",
+        "https://www.geonames.org/3092472/"
+      ],
+      "subjectKey": "landmark:847",
+      "iso": "PL",
+      "siteId": "847",
+      "cityChoices": [
+        {
+          "name": "Krakau",
+          "iso": "PL",
+          "point": [
+            50.06143,
+            19.93658
+          ],
+          "source": "https://www.geonames.org/3094802/",
+          "geonameId": 3094802,
+          "sourceName": "Kraków"
+        },
+        {
+          "name": "Toruń",
+          "iso": "PL",
+          "point": [
+            53.01375,
+            18.59814
+          ],
+          "source": "https://www.geonames.org/3083271/",
+          "geonameId": 3083271,
+          "sourceName": "Toruń"
+        },
+        {
+          "name": "Danzig",
+          "iso": "PL",
+          "point": [
+            54.35227,
+            18.64912
+          ],
+          "source": "https://www.geonames.org/3099434/",
+          "geonameId": 3099434,
+          "sourceName": "Gdańsk"
+        },
+        {
+          "name": "Malbork",
+          "iso": "PL",
+          "point": [
+            54.03591,
+            19.0266
+          ],
+          "source": "https://www.geonames.org/3092472/",
+          "geonameId": 3092472,
+          "sourceName": "Malbork"
+        }
+      ],
+      "landmarkName": "Deutschordensburg aus Backstein"
+    }
+  },
+  {
+    "id": "landmark-city-v1-b9115362b38719e4322f",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Aachen",
+      "Köln",
+      "Trier",
+      "Mainz"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Karolingische Pfalzkapelle Karls des Großen befindet sich in Aachen (Deutschland).",
+    "media": {
+      "type": "image",
+      "src": "/media/landmark-cities/dd55a4e22d306316.webp",
+      "alt": "Foto des gesuchten Wahrzeichens",
+      "license": "CC BY-SA 3.0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/3/",
+        "https://www.geonames.org/3247449/"
+      ],
+      "subjectKey": "landmark:3",
+      "iso": "DE",
+      "siteId": "3",
+      "cityChoices": [
+        {
+          "name": "Aachen",
+          "iso": "DE",
+          "point": [
+            50.77664,
+            6.08342
+          ],
+          "source": "https://www.geonames.org/3247449/",
+          "geonameId": 3247449,
+          "sourceName": "Aachen"
+        },
+        {
+          "name": "Köln",
+          "iso": "DE",
+          "point": [
+            50.93333,
+            6.95
+          ],
+          "source": "https://www.geonames.org/2886242/",
+          "geonameId": 2886242,
+          "sourceName": "Köln"
+        },
+        {
+          "name": "Trier",
+          "iso": "DE",
+          "point": [
+            49.75565,
+            6.63935
+          ],
+          "source": "https://www.geonames.org/2821164/",
+          "geonameId": 2821164,
+          "sourceName": "Trier"
+        },
+        {
+          "name": "Mainz",
+          "iso": "DE",
+          "point": [
+            49.98185,
+            8.28008
+          ],
+          "source": "https://www.geonames.org/2874225/",
+          "geonameId": 2874225,
+          "sourceName": "Mainz"
+        }
+      ],
+      "landmarkName": "karolingische Pfalzkapelle Karls des Großen",
+      "imageCredit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Aachen_Germany_Imperial-Cathedral-01.jpg",
+        "title": "Aachen Germany Imperial-Cathedral-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "CEphoto, Uwe Aranas"
+      }
+    }
+  },
+  {
+    "id": "landmark-city-v1-6ba4c755ad59888c7af3",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Bayreuth",
+      "Bamberg",
+      "Dresden",
+      "Würzburg"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Fürstbischöfliche Residenz mit Tiepolos Treppenhausfresko befindet sich in Würzburg (Deutschland).",
+    "media": {
+      "type": "image",
+      "src": "/media/landmark-cities/2e77ee9def701e77.webp",
+      "alt": "Foto des gesuchten Wahrzeichens",
+      "license": "CC BY-SA 4.0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/169/",
+        "https://www.geonames.org/2805615/"
+      ],
+      "subjectKey": "landmark:169",
+      "iso": "DE",
+      "siteId": "169",
+      "cityChoices": [
+        {
+          "name": "Bayreuth",
+          "iso": "DE",
+          "point": [
+            49.94782,
+            11.57893
+          ],
+          "source": "https://www.geonames.org/2951825/",
+          "geonameId": 2951825,
+          "sourceName": "Bayreuth"
+        },
+        {
+          "name": "Bamberg",
+          "iso": "DE",
+          "point": [
+            49.89873,
+            10.90067
+          ],
+          "source": "https://www.geonames.org/2952984/",
+          "geonameId": 2952984,
+          "sourceName": "Bamberg"
+        },
+        {
+          "name": "Dresden",
+          "iso": "DE",
+          "point": [
+            51.05089,
+            13.73832
+          ],
+          "source": "https://www.geonames.org/2935022/",
+          "geonameId": 2935022,
+          "sourceName": "Dresden"
+        },
+        {
+          "name": "Würzburg",
+          "iso": "DE",
+          "point": [
+            49.79391,
+            9.95121
+          ],
+          "source": "https://www.geonames.org/2805615/",
+          "geonameId": 2805615,
+          "sourceName": "Würzburg"
+        }
+      ],
+      "landmarkName": "fürstbischöfliche Residenz mit Tiepolos Treppenhausfresko",
+      "imageCredit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Residencia,_Wurzburgo,_Alemania,_2025-10-03,_DD_104.jpg",
+        "title": "Residencia, Wurzburgo, Alemania, 2025-10-03, DD 104.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Diego Delso"
+      }
+    }
+  },
+  {
+    "id": "landmark-city-v1-a1f3cec39f90dfb4691e",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Trier",
+      "Mainz",
+      "Köln",
+      "Aachen"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Gotische Kathedrale mit dem Dreikönigenschrein befindet sich in Köln (Deutschland).",
+    "media": {
+      "type": "image",
+      "src": "/media/landmark-cities/14b69b2b6dba116d.webp",
+      "alt": "Foto des gesuchten Wahrzeichens",
+      "license": "CC BY-SA 4.0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/292/",
+        "https://www.geonames.org/2886242/"
+      ],
+      "subjectKey": "landmark:292",
+      "iso": "DE",
+      "siteId": "292",
+      "cityChoices": [
+        {
+          "name": "Trier",
+          "iso": "DE",
+          "point": [
+            49.75565,
+            6.63935
+          ],
+          "source": "https://www.geonames.org/2821164/",
+          "geonameId": 2821164,
+          "sourceName": "Trier"
+        },
+        {
+          "name": "Mainz",
+          "iso": "DE",
+          "point": [
+            49.98185,
+            8.28008
+          ],
+          "source": "https://www.geonames.org/2874225/",
+          "geonameId": 2874225,
+          "sourceName": "Mainz"
+        },
+        {
+          "name": "Köln",
+          "iso": "DE",
+          "point": [
+            50.93333,
+            6.95
+          ],
+          "source": "https://www.geonames.org/2886242/",
+          "geonameId": 2886242,
+          "sourceName": "Köln"
+        },
+        {
+          "name": "Aachen",
+          "iso": "DE",
+          "point": [
+            50.77664,
+            6.08342
+          ],
+          "source": "https://www.geonames.org/3247449/",
+          "geonameId": 3247449,
+          "sourceName": "Aachen"
+        }
+      ],
+      "landmarkName": "gotische Kathedrale mit dem Dreikönigenschrein",
+      "imageCredit": {
+        "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+        "title": "Kölner Dom - Westfassade 2022 ohne Gerüst-0968 b.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Raimond Spekking"
+      }
+    }
+  },
+  {
+    "id": "landmark-city-v1-b6c17807f85d21a6dddc",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Karlsbrücke?",
+    "options": [
+      "Brünn",
+      "Pilsen",
+      "Olmütz",
+      "Prag"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Karlsbrücke befindet sich in Prag (Tschechien).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/616/",
+        "https://www.geonames.org/3067696/"
+      ],
+      "subjectKey": "landmark:616",
+      "iso": "CZ",
+      "siteId": "616",
+      "cityChoices": [
+        {
+          "name": "Brünn",
+          "iso": "CZ",
+          "point": [
+            49.19522,
+            16.60796
+          ],
+          "source": "https://www.geonames.org/3078610/",
+          "geonameId": 3078610,
+          "sourceName": "Brno"
+        },
+        {
+          "name": "Pilsen",
+          "iso": "CZ",
+          "point": [
+            49.74747,
+            13.37759
+          ],
+          "source": "https://www.geonames.org/3068160/",
+          "geonameId": 3068160,
+          "sourceName": "Pilsen"
+        },
+        {
+          "name": "Olmütz",
+          "iso": "CZ",
+          "point": [
+            49.59552,
+            17.25175
+          ],
+          "source": "https://www.geonames.org/3069011/",
+          "geonameId": 3069011,
+          "sourceName": "Olomouc"
+        },
+        {
+          "name": "Prag",
+          "iso": "CZ",
+          "point": [
+            50.08804,
+            14.42076
+          ],
+          "source": "https://www.geonames.org/3067696/",
+          "geonameId": 3067696,
+          "sourceName": "Prague"
+        }
+      ],
+      "landmarkName": "Karlsbrücke"
+    }
+  },
+  {
+    "id": "landmark-city-v1-8413a3b8223fcf45c421",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Alhambra?",
+    "options": [
+      "Sevilla",
+      "Málaga",
+      "Córdoba",
+      "Granada"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Alhambra befindet sich in Granada (Spanien).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/314/",
+        "https://www.geonames.org/2517117/"
+      ],
+      "subjectKey": "landmark:314",
+      "iso": "ES",
+      "siteId": "314",
+      "cityChoices": [
+        {
+          "name": "Sevilla",
+          "iso": "ES",
+          "point": [
+            37.38283,
+            -5.97317
+          ],
+          "source": "https://www.geonames.org/2510911/",
+          "geonameId": 2510911,
+          "sourceName": "Sevilla"
+        },
+        {
+          "name": "Málaga",
+          "iso": "ES",
+          "point": [
+            36.72016,
+            -4.42034
+          ],
+          "source": "https://www.geonames.org/2514256/",
+          "geonameId": 2514256,
+          "sourceName": "Málaga"
+        },
+        {
+          "name": "Córdoba",
+          "iso": "ES",
+          "point": [
+            37.89155,
+            -4.77275
+          ],
+          "source": "https://www.geonames.org/2519240/",
+          "geonameId": 2519240,
+          "sourceName": "Córdoba"
+        },
+        {
+          "name": "Granada",
+          "iso": "ES",
+          "point": [
+            37.18817,
+            -3.60667
+          ],
+          "source": "https://www.geonames.org/2517117/",
+          "geonameId": 2517117,
+          "sourceName": "Granada"
+        }
+      ],
+      "landmarkName": "Alhambra"
+    }
+  },
+  {
+    "id": "landmark-city-v1-975aa13f40687c33a7b7",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Mezquita-Catedral?",
+    "options": [
+      "Sevilla",
+      "Granada",
+      "Córdoba",
+      "Toledo"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Mezquita-Catedral befindet sich in Córdoba (Spanien).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/313/",
+        "https://www.geonames.org/2519240/"
+      ],
+      "subjectKey": "landmark:313",
+      "iso": "ES",
+      "siteId": "313",
+      "cityChoices": [
+        {
+          "name": "Sevilla",
+          "iso": "ES",
+          "point": [
+            37.38283,
+            -5.97317
+          ],
+          "source": "https://www.geonames.org/2510911/",
+          "geonameId": 2510911,
+          "sourceName": "Sevilla"
+        },
+        {
+          "name": "Granada",
+          "iso": "ES",
+          "point": [
+            37.18817,
+            -3.60667
+          ],
+          "source": "https://www.geonames.org/2517117/",
+          "geonameId": 2517117,
+          "sourceName": "Granada"
+        },
+        {
+          "name": "Córdoba",
+          "iso": "ES",
+          "point": [
+            37.89155,
+            -4.77275
+          ],
+          "source": "https://www.geonames.org/2519240/",
+          "geonameId": 2519240,
+          "sourceName": "Córdoba"
+        },
+        {
+          "name": "Toledo",
+          "iso": "ES",
+          "point": [
+            39.8581,
+            -4.02263
+          ],
+          "source": "https://www.geonames.org/2510409/",
+          "geonameId": 2510409,
+          "sourceName": "Toledo"
+        }
+      ],
+      "landmarkName": "Mezquita-Catedral"
+    }
+  },
+  {
+    "id": "landmark-city-v1-aee3b3316e6ed2211873",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Valencia",
+      "Sevilla",
+      "Granada",
+      "Córdoba"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Giralda befindet sich in Sevilla (Spanien).",
+    "media": {
+      "type": "image",
+      "src": "/media/landmark-cities/4fdebd0a929e1b33.webp",
+      "alt": "Foto des gesuchten Wahrzeichens",
+      "license": "CC BY-SA 4.0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/383/",
+        "https://www.geonames.org/2510911/"
+      ],
+      "subjectKey": "landmark:383",
+      "iso": "ES",
+      "siteId": "383",
+      "cityChoices": [
+        {
+          "name": "Valencia",
+          "iso": "ES",
+          "point": [
+            39.47391,
+            -0.37966
+          ],
+          "source": "https://www.geonames.org/2509954/",
+          "geonameId": 2509954,
+          "sourceName": "Valencia"
+        },
+        {
+          "name": "Sevilla",
+          "iso": "ES",
+          "point": [
+            37.38283,
+            -5.97317
+          ],
+          "source": "https://www.geonames.org/2510911/",
+          "geonameId": 2510911,
+          "sourceName": "Sevilla"
+        },
+        {
+          "name": "Granada",
+          "iso": "ES",
+          "point": [
+            37.18817,
+            -3.60667
+          ],
+          "source": "https://www.geonames.org/2517117/",
+          "geonameId": 2517117,
+          "sourceName": "Granada"
+        },
+        {
+          "name": "Córdoba",
+          "iso": "ES",
+          "point": [
+            37.89155,
+            -4.77275
+          ],
+          "source": "https://www.geonames.org/2519240/",
+          "geonameId": 2519240,
+          "sourceName": "Córdoba"
+        }
+      ],
+      "landmarkName": "Giralda",
+      "imageCredit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Sevilla_Cathedral_-_Giralda.jpg",
+        "title": "Sevilla Cathedral - Giralda.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Ingo Mehling"
+      }
+    }
+  },
+  {
+    "id": "landmark-city-v1-ce9b6fd4193ea3d8615e",
+    "category": "landmarks",
+    "difficulty": 2,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Papstpalast aus dem 14. Jahrhundert?",
+    "options": [
+      "Lyon",
+      "Arles",
+      "Avignon",
+      "Toulouse"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Papstpalast aus dem 14. Jahrhundert befindet sich in Avignon (Frankreich).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/228/",
+        "https://www.geonames.org/3035681/"
+      ],
+      "subjectKey": "landmark:228",
+      "iso": "FR",
+      "siteId": "228",
+      "cityChoices": [
+        {
+          "name": "Lyon",
+          "iso": "FR",
+          "point": [
+            45.74906,
+            4.84789
+          ],
+          "source": "https://www.geonames.org/2996944/",
+          "geonameId": 2996944,
+          "sourceName": "Lyon"
+        },
+        {
+          "name": "Arles",
+          "iso": "FR",
+          "point": [
+            43.67681,
+            4.63031
+          ],
+          "source": "https://www.geonames.org/3036938/",
+          "geonameId": 3036938,
+          "sourceName": "Arles"
+        },
+        {
+          "name": "Avignon",
+          "iso": "FR",
+          "point": [
+            43.94834,
+            4.80892
+          ],
+          "source": "https://www.geonames.org/3035681/",
+          "geonameId": 3035681,
+          "sourceName": "Avignon"
+        },
+        {
+          "name": "Toulouse",
+          "iso": "FR",
+          "point": [
+            43.60426,
+            1.44367
+          ],
+          "source": "https://www.geonames.org/2972315/",
+          "geonameId": 2972315,
+          "sourceName": "Toulouse"
+        }
+      ],
+      "landmarkName": "Papstpalast aus dem 14. Jahrhundert"
+    }
+  },
+  {
+    "id": "landmark-city-v1-4207dbb8c9a6e846d60d",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Schloss mit dem berühmten Spiegelsaal Ludwigs XIV.?",
+    "options": [
+      "Saint-Germain-en-Laye",
+      "Fontainebleau",
+      "Versailles",
+      "Chantilly"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Schloss mit dem berühmten Spiegelsaal Ludwigs XIV. befindet sich in Versailles (Frankreich).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/83/",
+        "https://www.geonames.org/2969679/"
+      ],
+      "subjectKey": "landmark:83",
+      "iso": "FR",
+      "siteId": "83",
+      "cityChoices": [
+        {
+          "name": "Saint-Germain-en-Laye",
+          "iso": "FR",
+          "point": [
+            48.89643,
+            2.0904
+          ],
+          "source": "https://www.geonames.org/2979783/",
+          "geonameId": 2979783,
+          "sourceName": "Saint-Germain-en-Laye"
+        },
+        {
+          "name": "Fontainebleau",
+          "iso": "FR",
+          "point": [
+            48.40908,
+            2.70177
+          ],
+          "source": "https://www.geonames.org/3018074/",
+          "geonameId": 3018074,
+          "sourceName": "Fontainebleau"
+        },
+        {
+          "name": "Versailles",
+          "iso": "FR",
+          "point": [
+            48.80359,
+            2.13424
+          ],
+          "source": "https://www.geonames.org/2969679/",
+          "geonameId": 2969679,
+          "sourceName": "Versailles"
+        },
+        {
+          "name": "Chantilly",
+          "iso": "FR",
+          "point": [
+            49.19461,
+            2.47124
+          ],
+          "source": "https://www.geonames.org/3026827/",
+          "geonameId": 3026827,
+          "sourceName": "Chantilly"
+        }
+      ],
+      "landmarkName": "Schloss mit dem berühmten Spiegelsaal Ludwigs XIV."
+    }
+  },
+  {
+    "id": "landmark-city-v1-a97af8fb7008149749da",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Pisa",
+      "Florenz",
+      "Siena",
+      "Bologna"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Kathedrale Santa Maria del Fiore befindet sich in Florenz (Italien).",
+    "media": {
+      "type": "image",
+      "src": "/media/landmark-cities/6667d271bb54349e.webp",
+      "alt": "Foto des gesuchten Wahrzeichens",
+      "license": "CC BY 2.0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/174/",
+        "https://www.geonames.org/3176959/"
+      ],
+      "subjectKey": "landmark:174",
+      "iso": "IT",
+      "siteId": "174",
+      "cityChoices": [
+        {
+          "name": "Pisa",
+          "iso": "IT",
+          "point": [
+            43.70853,
+            10.4036
+          ],
+          "source": "https://www.geonames.org/3170647/",
+          "geonameId": 3170647,
+          "sourceName": "Pisa"
+        },
+        {
+          "name": "Florenz",
+          "iso": "IT",
+          "point": [
+            43.77925,
+            11.24626
+          ],
+          "source": "https://www.geonames.org/3176959/",
+          "geonameId": 3176959,
+          "sourceName": "Florence"
+        },
+        {
+          "name": "Siena",
+          "iso": "IT",
+          "point": [
+            43.31822,
+            11.33064
+          ],
+          "source": "https://www.geonames.org/3166548/",
+          "geonameId": 3166548,
+          "sourceName": "Siena"
+        },
+        {
+          "name": "Bologna",
+          "iso": "IT",
+          "point": [
+            44.49381,
+            11.33875
+          ],
+          "source": "https://www.geonames.org/3181928/",
+          "geonameId": 3181928,
+          "sourceName": "Bologna"
+        }
+      ],
+      "landmarkName": "Kathedrale Santa Maria del Fiore",
+      "imageCredit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+        "title": "Cattedrale di Santa Maria del Fiore – Il Duomo di Firenze.jpg",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "author": "Gary Campbell-Hall"
+      }
+    }
+  },
+  {
+    "id": "landmark-city-v1-b7a61da2fd979c17c028",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Kloster Santa Maria delle Grazie mit Leonardos Abendmahl?",
+    "options": [
+      "Mailand",
+      "Bologna",
+      "Florenz",
+      "Turin"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Kloster Santa Maria delle Grazie mit Leonardos Abendmahl befindet sich in Mailand (Italien).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/93/",
+        "https://www.geonames.org/3173435/"
+      ],
+      "subjectKey": "landmark:93",
+      "iso": "IT",
+      "siteId": "93",
+      "cityChoices": [
+        {
+          "name": "Mailand",
+          "iso": "IT",
+          "point": [
+            45.46427,
+            9.18951
+          ],
+          "source": "https://www.geonames.org/3173435/",
+          "geonameId": 3173435,
+          "sourceName": "Milan"
+        },
+        {
+          "name": "Bologna",
+          "iso": "IT",
+          "point": [
+            44.49381,
+            11.33875
+          ],
+          "source": "https://www.geonames.org/3181928/",
+          "geonameId": 3181928,
+          "sourceName": "Bologna"
+        },
+        {
+          "name": "Florenz",
+          "iso": "IT",
+          "point": [
+            43.77925,
+            11.24626
+          ],
+          "source": "https://www.geonames.org/3176959/",
+          "geonameId": 3176959,
+          "sourceName": "Florence"
+        },
+        {
+          "name": "Turin",
+          "iso": "IT",
+          "point": [
+            45.07049,
+            7.68682
+          ],
+          "source": "https://www.geonames.org/3165524/",
+          "geonameId": 3165524,
+          "sourceName": "Turin"
+        }
+      ],
+      "landmarkName": "Kloster Santa Maria delle Grazie mit Leonardos Abendmahl"
+    }
+  },
+  {
+    "id": "landmark-city-v1-881b01529c9ee554fe22",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Markusdom?",
+    "options": [
+      "Verona",
+      "Ravenna",
+      "Venedig",
+      "Padua"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Markusdom befindet sich in Venedig (Italien).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/394/",
+        "https://www.geonames.org/3164603/"
+      ],
+      "subjectKey": "landmark:394",
+      "iso": "IT",
+      "siteId": "394",
+      "cityChoices": [
+        {
+          "name": "Verona",
+          "iso": "IT",
+          "point": [
+            45.43854,
+            10.9938
+          ],
+          "source": "https://www.geonames.org/3164527/",
+          "geonameId": 3164527,
+          "sourceName": "Verona"
+        },
+        {
+          "name": "Ravenna",
+          "iso": "IT",
+          "point": [
+            44.41344,
+            12.20121
+          ],
+          "source": "https://www.geonames.org/3169561/",
+          "geonameId": 3169561,
+          "sourceName": "Ravenna"
+        },
+        {
+          "name": "Venedig",
+          "iso": "IT",
+          "point": [
+            45.43713,
+            12.33265
+          ],
+          "source": "https://www.geonames.org/3164603/",
+          "geonameId": 3164603,
+          "sourceName": "Venice"
+        },
+        {
+          "name": "Padua",
+          "iso": "IT",
+          "point": [
+            45.40797,
+            11.88586
+          ],
+          "source": "https://www.geonames.org/3171728/",
+          "geonameId": 3171728,
+          "sourceName": "Padua"
+        }
+      ],
+      "landmarkName": "Markusdom"
+    }
+  },
+  {
+    "id": "landmark-city-v1-fd2d92e7d4305cb6c7a4",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Vicenza",
+      "Venedig",
+      "Padua",
+      "Verona"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Römisches Amphitheater an der Piazza Bra befindet sich in Verona (Italien).",
+    "media": {
+      "type": "image",
+      "src": "/media/landmark-cities/196d996cf1706105.webp",
+      "alt": "Foto des gesuchten Wahrzeichens",
+      "license": "CC BY-SA 4.0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/797/",
+        "https://www.geonames.org/3164527/"
+      ],
+      "subjectKey": "landmark:797",
+      "iso": "IT",
+      "siteId": "797",
+      "cityChoices": [
+        {
+          "name": "Vicenza",
+          "iso": "IT",
+          "point": [
+            45.54672,
+            11.5475
+          ],
+          "source": "https://www.geonames.org/3164419/",
+          "geonameId": 3164419,
+          "sourceName": "Vicenza"
+        },
+        {
+          "name": "Venedig",
+          "iso": "IT",
+          "point": [
+            45.43713,
+            12.33265
+          ],
+          "source": "https://www.geonames.org/3164603/",
+          "geonameId": 3164603,
+          "sourceName": "Venice"
+        },
+        {
+          "name": "Padua",
+          "iso": "IT",
+          "point": [
+            45.40797,
+            11.88586
+          ],
+          "source": "https://www.geonames.org/3171728/",
+          "geonameId": 3171728,
+          "sourceName": "Padua"
+        },
+        {
+          "name": "Verona",
+          "iso": "IT",
+          "point": [
+            45.43854,
+            10.9938
+          ],
+          "source": "https://www.geonames.org/3164527/",
+          "geonameId": 3164527,
+          "sourceName": "Verona"
+        }
+      ],
+      "landmarkName": "römisches Amphitheater an der Piazza Bra",
+      "imageCredit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Arena-XE3F2406a.jpg",
+        "title": "Arena-XE3F2406a.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Claconvr"
+      }
+    }
+  },
+  {
+    "id": "landmark-city-v1-5500ee1ac2d310f9f6a8",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Torre del Mangia?",
+    "options": [
+      "Florenz",
+      "Lucca",
+      "Siena",
+      "Pisa"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Torre del Mangia befindet sich in Siena (Italien).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/717/",
+        "https://www.geonames.org/3166548/"
+      ],
+      "subjectKey": "landmark:717",
+      "iso": "IT",
+      "siteId": "717",
+      "cityChoices": [
+        {
+          "name": "Florenz",
+          "iso": "IT",
+          "point": [
+            43.77925,
+            11.24626
+          ],
+          "source": "https://www.geonames.org/3176959/",
+          "geonameId": 3176959,
+          "sourceName": "Florence"
+        },
+        {
+          "name": "Lucca",
+          "iso": "IT",
+          "point": [
+            43.84369,
+            10.50447
+          ],
+          "source": "https://www.geonames.org/3174530/",
+          "geonameId": 3174530,
+          "sourceName": "Lucca"
+        },
+        {
+          "name": "Siena",
+          "iso": "IT",
+          "point": [
+            43.31822,
+            11.33064
+          ],
+          "source": "https://www.geonames.org/3166548/",
+          "geonameId": 3166548,
+          "sourceName": "Siena"
+        },
+        {
+          "name": "Pisa",
+          "iso": "IT",
+          "point": [
+            43.70853,
+            10.4036
+          ],
+          "source": "https://www.geonames.org/3170647/",
+          "geonameId": 3170647,
+          "sourceName": "Pisa"
+        }
+      ],
+      "landmarkName": "Torre del Mangia"
+    }
+  },
+  {
+    "id": "landmark-city-v1-6fe42016ca0e8a7fc09f",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Wien",
+      "Salzburg",
+      "Innsbruck",
+      "Graz"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Festung auf dem Festungsberg befindet sich in Salzburg (Österreich).",
+    "media": {
+      "type": "image",
+      "src": "/media/landmark-cities/0150d5bffb1cabaa.webp",
+      "alt": "Foto des gesuchten Wahrzeichens",
+      "license": "CC BY-SA 4.0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/784/",
+        "https://www.geonames.org/2766824/"
+      ],
+      "subjectKey": "landmark:784",
+      "iso": "AT",
+      "siteId": "784",
+      "cityChoices": [
+        {
+          "name": "Wien",
+          "iso": "AT",
+          "point": [
+            48.20849,
+            16.37208
+          ],
+          "source": "https://www.geonames.org/2761369/",
+          "geonameId": 2761369,
+          "sourceName": "Vienna"
+        },
+        {
+          "name": "Salzburg",
+          "iso": "AT",
+          "point": [
+            47.79941,
+            13.04399
+          ],
+          "source": "https://www.geonames.org/2766824/",
+          "geonameId": 2766824,
+          "sourceName": "Salzburg"
+        },
+        {
+          "name": "Innsbruck",
+          "iso": "AT",
+          "point": [
+            47.26266,
+            11.39454
+          ],
+          "source": "https://www.geonames.org/2775220/",
+          "geonameId": 2775220,
+          "sourceName": "Innsbruck"
+        },
+        {
+          "name": "Graz",
+          "iso": "AT",
+          "point": [
+            47.06733,
+            15.44197
+          ],
+          "source": "https://www.geonames.org/2778067/",
+          "geonameId": 2778067,
+          "sourceName": "Graz"
+        }
+      ],
+      "landmarkName": "Festung auf dem Festungsberg",
+      "imageCredit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Salzburg_-_Festung_Hohensalzburg.JPG",
+        "title": "Salzburg - Festung Hohensalzburg.JPG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "C.Stadler/Bwag"
+      }
+    }
+  },
+  {
+    "id": "landmark-city-v1-8880f23508eee1e97a3e",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Schloss Eggenberg?",
+    "options": [
+      "Linz",
+      "Graz",
+      "Innsbruck",
+      "Salzburg"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Schloss Eggenberg befindet sich in Graz (Österreich).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/931/",
+        "https://www.geonames.org/2778067/"
+      ],
+      "subjectKey": "landmark:931",
+      "iso": "AT",
+      "siteId": "931",
+      "cityChoices": [
+        {
+          "name": "Linz",
+          "iso": "AT",
+          "point": [
+            48.30639,
+            14.28611
+          ],
+          "source": "https://www.geonames.org/2772400/",
+          "geonameId": 2772400,
+          "sourceName": "Linz"
+        },
+        {
+          "name": "Graz",
+          "iso": "AT",
+          "point": [
+            47.06733,
+            15.44197
+          ],
+          "source": "https://www.geonames.org/2778067/",
+          "geonameId": 2778067,
+          "sourceName": "Graz"
+        },
+        {
+          "name": "Innsbruck",
+          "iso": "AT",
+          "point": [
+            47.26266,
+            11.39454
+          ],
+          "source": "https://www.geonames.org/2775220/",
+          "geonameId": 2775220,
+          "sourceName": "Innsbruck"
+        },
+        {
+          "name": "Salzburg",
+          "iso": "AT",
+          "point": [
+            47.79941,
+            13.04399
+          ],
+          "source": "https://www.geonames.org/2766824/",
+          "geonameId": 2766824,
+          "sourceName": "Salzburg"
+        }
+      ],
+      "landmarkName": "Schloss Eggenberg"
+    }
+  },
+  {
+    "id": "landmark-city-v1-9f9063b9b9e6d75543cf",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Friedensdenkmal Genbaku-Dom?",
+    "options": [
+      "Fukuoka",
+      "Hiroshima",
+      "Okayama",
+      "Nagasaki"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Friedensdenkmal Genbaku-Dom befindet sich in Hiroshima (Japan).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/775/",
+        "https://www.geonames.org/1862415/"
+      ],
+      "subjectKey": "landmark:775",
+      "iso": "JP",
+      "siteId": "775",
+      "cityChoices": [
+        {
+          "name": "Fukuoka",
+          "iso": "JP",
+          "point": [
+            33.6,
+            130.41667
+          ],
+          "source": "https://www.geonames.org/1863967/",
+          "geonameId": 1863967,
+          "sourceName": "Fukuoka"
+        },
+        {
+          "name": "Hiroshima",
+          "iso": "JP",
+          "point": [
+            34.4,
+            132.45
+          ],
+          "source": "https://www.geonames.org/1862415/",
+          "geonameId": 1862415,
+          "sourceName": "Hiroshima"
+        },
+        {
+          "name": "Okayama",
+          "iso": "JP",
+          "point": [
+            34.65,
+            133.93333
+          ],
+          "source": "https://www.geonames.org/1854383/",
+          "geonameId": 1854383,
+          "sourceName": "Okayama"
+        },
+        {
+          "name": "Nagasaki",
+          "iso": "JP",
+          "point": [
+            32.75,
+            129.88333
+          ],
+          "source": "https://www.geonames.org/1856177/",
+          "geonameId": 1856177,
+          "sourceName": "Nagasaki"
+        }
+      ],
+      "landmarkName": "Friedensdenkmal Genbaku-Dom"
+    }
+  },
+  {
+    "id": "landmark-city-v1-4b679d63ca245dc4b6e8",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Tempel Tōdai-ji mit der großen Bronzebuddha-Statue?",
+    "options": [
+      "Osaka",
+      "Kamakura",
+      "Kyoto",
+      "Nara"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Tempel Tōdai-ji mit der großen Bronzebuddha-Statue befindet sich in Nara (Japan).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/870/",
+        "https://www.geonames.org/1855612/"
+      ],
+      "subjectKey": "landmark:870",
+      "iso": "JP",
+      "siteId": "870",
+      "cityChoices": [
+        {
+          "name": "Osaka",
+          "iso": "JP",
+          "point": [
+            34.69379,
+            135.50107
+          ],
+          "source": "https://www.geonames.org/1853909/",
+          "geonameId": 1853909,
+          "sourceName": "Osaka"
+        },
+        {
+          "name": "Kamakura",
+          "iso": "JP",
+          "point": [
+            35.31085,
+            139.54698
+          ],
+          "source": "https://www.geonames.org/1860672/",
+          "geonameId": 1860672,
+          "sourceName": "Kamakura"
+        },
+        {
+          "name": "Kyoto",
+          "iso": "JP",
+          "point": [
+            35.02107,
+            135.75385
+          ],
+          "source": "https://www.geonames.org/1857910/",
+          "geonameId": 1857910,
+          "sourceName": "Kyoto"
+        },
+        {
+          "name": "Nara",
+          "iso": "JP",
+          "point": [
+            34.68505,
+            135.80485
+          ],
+          "source": "https://www.geonames.org/1855612/",
+          "geonameId": 1855612,
+          "sourceName": "Nara-shi"
+        }
+      ],
+      "landmarkName": "Tempel Tōdai-ji mit der großen Bronzebuddha-Statue"
+    }
+  },
+  {
+    "id": "landmark-city-v1-04d3fb3d8a342e2e67d2",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Königspalast Changdeokgung?",
+    "options": [
+      "Gyeongju",
+      "Seoul",
+      "Busan",
+      "Suwon"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Königspalast Changdeokgung befindet sich in Seoul (Südkorea).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/816/",
+        "https://www.geonames.org/1835848/"
+      ],
+      "subjectKey": "landmark:816",
+      "iso": "KR",
+      "siteId": "816",
+      "cityChoices": [
+        {
+          "name": "Gyeongju",
+          "iso": "KR",
+          "point": [
+            35.84278,
+            129.21167
+          ],
+          "source": "https://www.geonames.org/1841603/",
+          "geonameId": 1841603,
+          "sourceName": "Gyeongju"
+        },
+        {
+          "name": "Seoul",
+          "iso": "KR",
+          "point": [
+            37.566,
+            126.9784
+          ],
+          "source": "https://www.geonames.org/1835848/",
+          "geonameId": 1835848,
+          "sourceName": "Seoul"
+        },
+        {
+          "name": "Busan",
+          "iso": "KR",
+          "point": [
+            35.10168,
+            129.03004
+          ],
+          "source": "https://www.geonames.org/1838524/",
+          "geonameId": 1838524,
+          "sourceName": "Busan"
+        },
+        {
+          "name": "Suwon",
+          "iso": "KR",
+          "point": [
+            37.27818,
+            127.03164
+          ],
+          "source": "https://www.geonames.org/1835553/",
+          "geonameId": 1835553,
+          "sourceName": "Suwon"
+        }
+      ],
+      "landmarkName": "Königspalast Changdeokgung"
+    }
+  },
+  {
+    "id": "landmark-city-v1-97238b513a3c542c556e",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Sternwarte Cheomseongdae?",
+    "options": [
+      "Seoul",
+      "Suwon",
+      "Busan",
+      "Gyeongju"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Sternwarte Cheomseongdae befindet sich in Gyeongju (Südkorea).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/976/",
+        "https://www.geonames.org/1841603/"
+      ],
+      "subjectKey": "landmark:976",
+      "iso": "KR",
+      "siteId": "976",
+      "cityChoices": [
+        {
+          "name": "Seoul",
+          "iso": "KR",
+          "point": [
+            37.566,
+            126.9784
+          ],
+          "source": "https://www.geonames.org/1835848/",
+          "geonameId": 1835848,
+          "sourceName": "Seoul"
+        },
+        {
+          "name": "Suwon",
+          "iso": "KR",
+          "point": [
+            37.27818,
+            127.03164
+          ],
+          "source": "https://www.geonames.org/1835553/",
+          "geonameId": 1835553,
+          "sourceName": "Suwon"
+        },
+        {
+          "name": "Busan",
+          "iso": "KR",
+          "point": [
+            35.10168,
+            129.03004
+          ],
+          "source": "https://www.geonames.org/1838524/",
+          "geonameId": 1838524,
+          "sourceName": "Busan"
+        },
+        {
+          "name": "Gyeongju",
+          "iso": "KR",
+          "point": [
+            35.84278,
+            129.21167
+          ],
+          "source": "https://www.geonames.org/1841603/",
+          "geonameId": 1841603,
+          "sourceName": "Gyeongju"
+        }
+      ],
+      "landmarkName": "Sternwarte Cheomseongdae"
+    }
+  },
+  {
+    "id": "landmark-city-v1-4a7a1d42ff7fd56cfb24",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Templo Mayor der Azteken?",
+    "options": [
+      "Mexiko-Stadt",
+      "Oaxaca de Juárez",
+      "Guadalajara",
+      "Puebla"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Templo Mayor der Azteken befindet sich in Mexiko-Stadt (Mexiko).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/412/",
+        "https://www.geonames.org/3530597/"
+      ],
+      "subjectKey": "landmark:412",
+      "iso": "MX",
+      "siteId": "412",
+      "cityChoices": [
+        {
+          "name": "Mexiko-Stadt",
+          "iso": "MX",
+          "point": [
+            19.42847,
+            -99.12766
+          ],
+          "source": "https://www.geonames.org/3530597/",
+          "geonameId": 3530597,
+          "sourceName": "Mexico City"
+        },
+        {
+          "name": "Oaxaca de Juárez",
+          "iso": "MX",
+          "point": [
+            17.06025,
+            -96.72544
+          ],
+          "source": "https://www.geonames.org/3522507/",
+          "geonameId": 3522507,
+          "sourceName": "Oaxaca"
+        },
+        {
+          "name": "Guadalajara",
+          "iso": "MX",
+          "point": [
+            20.67738,
+            -103.34749
+          ],
+          "source": "https://www.geonames.org/4005539/",
+          "geonameId": 4005539,
+          "sourceName": "Guadalajara"
+        },
+        {
+          "name": "Puebla",
+          "iso": "MX",
+          "point": [
+            19.04778,
+            -98.20723
+          ],
+          "source": "https://www.geonames.org/3521081/",
+          "geonameId": 3521081,
+          "sourceName": "Puebla"
+        }
+      ],
+      "landmarkName": "Templo Mayor der Azteken"
+    }
+  },
+  {
+    "id": "landmark-city-v1-6e7b580399dfeffbb596",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Nationalkongress mit zwei Türmen und zwei gegensätzlichen Kuppeln?",
+    "options": [
+      "Belo Horizonte",
+      "São Paulo",
+      "Brasília",
+      "Rio de Janeiro"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Nationalkongress mit zwei Türmen und zwei gegensätzlichen Kuppeln befindet sich in Brasília (Brasilien).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/445/",
+        "https://www.geonames.org/3469058/"
+      ],
+      "subjectKey": "landmark:445",
+      "iso": "BR",
+      "siteId": "445",
+      "cityChoices": [
+        {
+          "name": "Belo Horizonte",
+          "iso": "BR",
+          "point": [
+            -19.92083,
+            -43.93778
+          ],
+          "source": "https://www.geonames.org/3470127/",
+          "geonameId": 3470127,
+          "sourceName": "Belo Horizonte"
+        },
+        {
+          "name": "São Paulo",
+          "iso": "BR",
+          "point": [
+            -23.5475,
+            -46.63611
+          ],
+          "source": "https://www.geonames.org/3448439/",
+          "geonameId": 3448439,
+          "sourceName": "São Paulo"
+        },
+        {
+          "name": "Brasília",
+          "iso": "BR",
+          "point": [
+            -15.77972,
+            -47.92972
+          ],
+          "source": "https://www.geonames.org/3469058/",
+          "geonameId": 3469058,
+          "sourceName": "Brasília"
+        },
+        {
+          "name": "Rio de Janeiro",
+          "iso": "BR",
+          "point": [
+            -22.90642,
+            -43.18223
+          ],
+          "source": "https://www.geonames.org/3451190/",
+          "geonameId": 3451190,
+          "sourceName": "Rio de Janeiro"
+        }
+      ],
+      "landmarkName": "Nationalkongress mit zwei Türmen und zwei gegensätzlichen Kuppeln"
+    }
+  },
+  {
+    "id": "landmark-city-v1-06f5e8c176d4e1d78bce",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Bauwerk?",
+    "options": [
+      "Montréal",
+      "Québec",
+      "Ottawa",
+      "Toronto"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Château Frontenac befindet sich in Québec (Kanada).",
+    "media": {
+      "type": "image",
+      "src": "/media/landmark-cities/6ad0857482555e52.webp",
+      "alt": "Foto des gesuchten Wahrzeichens",
+      "license": "CC BY-SA 4.0"
+    },
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/300/",
+        "https://www.geonames.org/6325494/"
+      ],
+      "subjectKey": "landmark:300",
+      "iso": "CA",
+      "siteId": "300",
+      "cityChoices": [
+        {
+          "name": "Montréal",
+          "iso": "CA",
+          "point": [
+            45.50884,
+            -73.58781
+          ],
+          "source": "https://www.geonames.org/6077243/",
+          "geonameId": 6077243,
+          "sourceName": "Montréal"
+        },
+        {
+          "name": "Québec",
+          "iso": "CA",
+          "point": [
+            46.81228,
+            -71.21454
+          ],
+          "source": "https://www.geonames.org/6325494/",
+          "geonameId": 6325494,
+          "sourceName": "Québec"
+        },
+        {
+          "name": "Ottawa",
+          "iso": "CA",
+          "point": [
+            45.41117,
+            -75.69812
+          ],
+          "source": "https://www.geonames.org/6094817/",
+          "geonameId": 6094817,
+          "sourceName": "Ottawa"
+        },
+        {
+          "name": "Toronto",
+          "iso": "CA",
+          "point": [
+            43.65333,
+            -79.38389
+          ],
+          "source": "https://www.geonames.org/6167865/",
+          "geonameId": 6167865,
+          "sourceName": "Toronto"
+        }
+      ],
+      "landmarkName": "Château Frontenac",
+      "imageCredit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_02.jpg",
+        "title": "Château Frontenac 02.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Bernard Gagnon"
+      }
+    }
+  },
+  {
+    "id": "landmark-city-v1-f58452025d8f3a887ea6",
+    "category": "landmarks",
+    "difficulty": 3,
+    "prompt": "In welcher Stadt befindet sich dieses Wahrzeichen – Shalamar-Gärten aus der Mogulzeit?",
+    "options": [
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Multan"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Shalamar-Gärten aus der Mogulzeit befindet sich in Lahore (Pakistan).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://whc.unesco.org/en/list/171/",
+        "https://www.geonames.org/1172451/"
+      ],
+      "subjectKey": "landmark:171",
+      "iso": "PK",
+      "siteId": "171",
+      "cityChoices": [
+        {
+          "name": "Islamabad",
+          "iso": "PK",
+          "point": [
+            33.72148,
+            73.04329
+          ],
+          "source": "https://www.geonames.org/1176615/",
+          "geonameId": 1176615,
+          "sourceName": "Islamabad"
+        },
+        {
+          "name": "Karachi",
+          "iso": "PK",
+          "point": [
+            24.8608,
+            67.0104
+          ],
+          "source": "https://www.geonames.org/1174872/",
+          "geonameId": 1174872,
+          "sourceName": "Karachi"
+        },
+        {
+          "name": "Lahore",
+          "iso": "PK",
+          "point": [
+            31.558,
+            74.35071
+          ],
+          "source": "https://www.geonames.org/1172451/",
+          "geonameId": 1172451,
+          "sourceName": "Lahore"
+        },
+        {
+          "name": "Multan",
+          "iso": "PK",
+          "point": [
+            30.19679,
+            71.47824
+          ],
+          "source": "https://www.geonames.org/1169825/",
+          "geonameId": 1169825,
+          "sourceName": "Multan"
+        }
+      ],
+      "landmarkName": "Shalamar-Gärten aus der Mogulzeit"
+    }
+  }
+]
