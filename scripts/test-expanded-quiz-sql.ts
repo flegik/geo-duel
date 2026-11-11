@@ -99,5 +99,22 @@ const solved=await action(players[0],'answer',{roomId:modern,position:0,option:c
 assert.equal(solved.feedback.points,ready.question.difficulty);
 assert.ok(solved.question.options.every((option:string)=>!option.startsWith('/')));
 assert.equal((await action(players[1],'snapshot',{roomId:modern})).feedback,undefined);
+for(const [index,[category,prefix,resolutionKey]] of [
+ ['maps','city-map-v1-','cityLocation'],
+ ['landmarks','landmark-city-v1-','cityChoices'],
+ ['world','world-compare-v1-','comparison'],
+].entries()){
+ const id=`00000000-0000-0000-0000-000000000${index+3}00`;
+ const started=await room(id,category,[2,2]);
+ assert.ok(started.question.id.startsWith(prefix));
+ assert.equal(started.feedback,undefined);
+ assert.equal(started.question.provenance,undefined);
+ assert.ok(!JSON.stringify(started.question.media).includes(resolutionKey));
+ const {rows:[stored]}=await db.query(`select qb.correct,mq.option_order,qb.provenance from game.match_questions mq
+  join game.questions qb on qb.id=mq.question_id where room_id=$1 and position=0`,[id]);
+ const outcome=await action(players[0],'answer',{roomId:id,position:0,option:stored.option_order.indexOf(stored.correct)});
+ assert.equal(outcome.feedback.points,started.question.difficulty);
+ assert.deepEqual(outcome.feedback.provenance[resolutionKey],stored.provenance[resolutionKey]);
+}
 await db.close();
-console.log('502 immutable seeds, guarded activation, format negotiation, opaque shared choices and score passed.');
+console.log('502 immutable seeds, guarded activation, format negotiation, opaque shared flag choices and all four resolutions passed.');
