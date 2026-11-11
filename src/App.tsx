@@ -4,6 +4,9 @@ import {QuestionMedia,QuestionImageCredit,type QuestionMediaData,type QuestionRe
 import {AnswerOption,answerLetter,hasFlagOptions} from './AnswerOption';
 import {SoloReviewOptions} from './SoloReviewOptions';
 import {AnswerDiscovery,useDiscovery} from './AnswerDiscovery';
+import {DuelConfiguration} from './DuelConfiguration';
+import './duelConfiguration.css';
+import {duelDistribution,duelCategories,validDuelLength,type DuelConfigUpdate} from './duelConfiguration';
 import {DuelReview} from './DuelReview';
 import {PwaUpdate,APP_VERSION} from './PwaUpdate';
 import {useCallback,useEffect,useRef,useState,type ReactNode} from 'react';
@@ -24,12 +27,19 @@ export default function App(){
  const [preview,setPreview]=useDiscovery();
  const [view,setView]=useState<View>('home');const [solo,setSolo]=useState<SoloState>(loadState);const soloRef=useRef(solo);soloRef.current=solo;
  const [count,setCount]=useState<8|12|16>(12);const [nickname,setNickname]=useState(()=>localStorage.getItem('geoduel-nickname')??'');const [nameDraft,setNameDraft]=useState(nickname);
- const [user,setUser]=useState<{id:string;nickname:string}|null>(null);const [room,setRoom]=useState<Room|null>(null);const roomRef=useRef(room);roomRef.current=room;
+ const [user,setUser]=useState<{id:string;nickname:string}|null>(null);const [room,setRoom]=useState<Room|null>(null);const roomRef=useRef(room);
+ type PendingConfig={roomId:string;update:DuelConfigUpdate};
+ const [pendingConfig,setPendingConfig]=useState<PendingConfig|null>(null);
+ const queuedConfig=useRef<PendingConfig|null>(null);
+ const savingConfig=useRef(false);
  const [duelStats,setDuelStats]=useState<DuelStats|null>(null);const [code,setCode]=useState(()=>new URLSearchParams(location.search).get('join')?.replace(/\D/g,'').slice(0,4)??'');
  const [error,setError]=useState('');const [notice,setNotice]=useState('');const [busy,setBusy]=useState(false);const busyRef=useRef(false);const [online,setOnline]=useState(navigator.onLine);const [install,setInstall]=useState<InstallEvent|null>(null);
  const [statTab,setStatTab]=useState<'solo'|'duel'>('solo');const [review,setReview]=useState<{roomId:string;questions:DuelReviewQuestion[]}|null>(null);const [confirm,setConfirm]=useState<{text:string;run:()=>void}|null>(null);const reduced=useReducedMotion();const summary=soloSummary(solo.records);
  const persist=useCallback((next:SoloState)=>{try{saveState(next);setSolo(next);soloRef.current=next;return true;}catch{setError('Dein Browser konnte den Fortschritt nicht speichern. Bitte erlaube lokalen Speicher und schaffe freien Speicherplatz.');return false;}},[]);
- const updateRoom=useCallback((value:Room|null)=>{setRoom(value);roomRef.current=value;if(value)localStorage.setItem('geoduel-last-room',value.id);else localStorage.removeItem('geoduel-last-room');},[]);
+ const updateRoom=useCallback((value:Room|null)=>{
+  const current=roomRef.current;
+  if(value&&current?.id===value.id&&value.revision!=null&&current.revision!=null&&value.revision<current.revision)return;
+  setRoom(value);roomRef.current=value;if(value)localStorage.setItem('geoduel-last-room',value.id);else localStorage.removeItem('geoduel-last-room');},[]);
  const run=useCallback(async(fn:()=>Promise<void>)=>{if(busyRef.current)return;busyRef.current=true;setBusy(true);setError('');try{await fn();}catch(e){setError(e instanceof Error?e.message:'Ein Fehler ist aufgetreten.');}finally{busyRef.current=false;setBusy(false);}},[]);
  const navigate=(v:View)=>{setPreview(null);setError('');setReview(null);setView(v);window.scrollTo({top:0});};
  useEffect(()=>{const on=()=>setOnline(navigator.onLine);const prompt=(e:Event)=>{e.preventDefault();setInstall(e as InstallEvent);};window.addEventListener('online',on);window.addEventListener('offline',on);window.addEventListener('beforeinstallprompt',prompt);return()=>{window.removeEventListener('online',on);window.removeEventListener('offline',on);window.removeEventListener('beforeinstallprompt',prompt);};},[]);
@@ -43,12 +53,61 @@ export default function App(){
  }
  const stats=await rpc<DuelStats>('stats');if(alive)setDuelStats(stats);})().catch(()=>{});return()=>{alive=false;};},[updateRoom]);
  // Realtime carries only an invalidation event, never answers or the rival's score.
- useEffect(()=>{if(!room||!user||!supabase)return;let alive=true;const id=room.id;const refresh=async()=>{if(!alive||busyRef.current||document.hidden)return;try{const next=await rpc<Room>('snapshot',{roomId:id});if(alive&&!busyRef.current&&roomRef.current?.id===id){updateRoom(next);if(next.status==='completed')setDuelStats(await rpc<DuelStats>('stats'));}}catch{if(alive)setNotice('Verbindung unterbrochen. Dein Duell bleibt gespeichert.');}};
+ useEffect(()=>{if(!room||!user||!supabase)return;let alive=true;const id=room.id;const refresh=async()=>{
+  if(!alive||busyRef.current||document.hidden)return;
+  try{
+   const next=await rpc<Room>('snapshot',{roomId:id});
+   if(!alive||busyRef.current||roomRef.current?.id!==id)return;
+   updateRoom(next);
+   if(next.status==='completed'){
+    if(next.rematchId){
+     const rematch=await rpc<Room>('snapshot',{roomId:next.rematchId});
+     if(alive&&!busyRef.current&&roomRef.current?.id===id&&(rematch.status==='waiting'||rematch.status==='playing')){
+      updateRoom(rematch);
+      setReview(null);
+     }
+    }
+    if(alive)setDuelStats(await rpc<DuelStats>('stats'));
+   }
+  }catch{if(alive)setNotice('Verbindung unterbrochen. Dein Duell bleibt gespeichert.');}
+ };
  const channel=supabase.channel(`duel-${id}`).on('postgres_changes',{event:'UPDATE',schema:'public',table:'duel_events',filter:`room_id=eq.${id}`},()=>void refresh()).subscribe();
  const timer=setInterval(()=>void refresh(),5000);const visible=()=>void refresh();document.addEventListener('visibilitychange',visible);window.addEventListener('online',visible);return()=>{alive=false;clearInterval(timer);void supabase!.removeChannel(channel);document.removeEventListener('visibilitychange',visible);window.removeEventListener('online',visible);};
  },[room?.id,user?.id,updateRoom]);
  const ensureGuest=async()=>{const name=nameDraft.trim()||nickname.trim();if(name.length<2||name.length>24)throw Error('Wähle bitte einen Namen mit 2–24 Zeichen.');const identity=await connectGuest(name);setUser(identity);setNickname(name);localStorage.setItem('geoduel-nickname',name);return identity;};
- const roomAction=(action:string,payload:Record<string,unknown>={})=>run(async()=>{if(!roomRef.current)return;if(action==='next')setPreview(null);const value=await rpc<Room|null>(action,{roomId:roomRef.current.id,...payload});updateRoom(value);setReview(null);if(action==='leave')navigate('duel');if(value?.status==='completed')setDuelStats(await rpc<DuelStats>('stats'));});
+ const configureDuel=(update:DuelConfigUpdate)=>{
+  const current=roomRef.current;
+  if(!current||current.status!=='waiting'||busyRef.current)return;
+  const request={roomId:current.id,update};
+  queuedConfig.current=request;
+  setPendingConfig(request);
+  if(savingConfig.current)return;
+  savingConfig.current=true;
+  setError('');
+  let expectedRevision=current.configRevision;
+  void (async()=>{
+   try{
+    while(queuedConfig.current){
+     const next=queuedConfig.current;
+     queuedConfig.current=null;
+     const lobby=roomRef.current;
+     if(lobby?.id!==next.roomId||lobby.status!=='waiting')break;
+     const saved=await rpc<Room>('configure',{roomId:next.roomId,configRevision:expectedRevision,...next.update});
+     expectedRevision=saved.configRevision;
+     if(roomRef.current?.id===next.roomId)updateRoom(saved);
+    }
+   }catch(e){
+    queuedConfig.current=null;
+    setError(e instanceof Error?e.message:'Die Duellkonfiguration konnte nicht gespeichert werden.');
+    const fresh=await rpc<Room>('snapshot',{roomId:request.roomId}).catch(()=>null);
+    if(fresh&&roomRef.current?.id===request.roomId)updateRoom(fresh);
+   }finally{
+    savingConfig.current=false;
+    setPendingConfig(null);
+   }
+  })();
+ };
+ const roomAction=(action:string,payload:Record<string,unknown>={})=>run(async()=>{if(!roomRef.current||savingConfig.current)return;if(action==='next')setPreview(null);const value=await rpc<Room|null>(action,{roomId:roomRef.current.id,...payload});updateRoom(value);setReview(null);if(action==='leave')navigate('duel');if(value?.status==='completed')setDuelStats(await rpc<DuelStats>('stats'));});
  const startSolo=(category?:Category)=>{const start=()=>{const round=createRound(soloRef.current,count,category);if(persist({...soloRef.current,round}))navigate('quiz');};if(solo.round?.status==='playing')setConfirm({text:'Eine Runde ist noch offen. Möchtest du sie durch eine neue Runde ersetzen?',run:start});else start();};
  const answerSolo=(index:number)=>{if(!soloRef.current.round)return;persist(recordRound(soloRef.current,answerRound(soloRef.current.round,index)));};
  const advanceSolo=()=>{setPreview(null);const r=soloRef.current.round;if(!r)return;const next=nextRound(r);if(persist(recordRound(soloRef.current,next))&&next.status==='completed')navigate('soloResult');};
@@ -90,12 +149,20 @@ export default function App(){
  else if(view==='duel')content=<>{intro('GEMEINSAM DIE WELT ENTDECKEN','Zwei Köpfe. Ein Duell.','Gleiche Fragen, euer eigenes Tempo. Die Spannung bleibt bis zum Schluss.')}
  {room&&room.status!=='aborted'&&<Button secondary onClick={()=>navigate('room')}><Play size={18}/>{room.status==='completed'?'Letztes Ergebnis ansehen':`Duell ${room.code} fortsetzen`}</Button>}
  <section className="panel"><div className="section-heading"><h2>Dein Gastprofil</h2><UserRound size={22}/></div><label className="label" htmlFor="nickname">Wie sollen wir dich nennen?</label><input id="nickname" maxLength={24} autoComplete="nickname" value={nameDraft} onChange={e=>setNameDraft(e.target.value)} placeholder="Dein Spielername"/><p className="fine-print">Kein Konto, kein Passwort. Dein Gastprofil bleibt in diesem Browser gespeichert.</p></section>
- <div className="duel-grid"><section className="panel"><span className="small-icon mint"><Plus/></span><h2>Neues Duell</h2><p>Erstelle einen Raum und lade jemanden ein.</p>{lengths}<Button disabled={busy||!online} onClick={()=>run(async()=>{await ensureGuest();updateRoom(await rpc<Room>('create',{perCategory:count/4}));navigate('room');})}><Plus size={19}/>Raum erstellen</Button></section><section className="panel"><span className="small-icon"><Users/></span><h2>Raum beitreten</h2><p>Vier Ziffern. Und ihr seid verbunden.</p><label className="label" htmlFor="room-code">Raumcode</label><input id="room-code" className="code-input" type="text" inputMode="numeric" pattern="[0-9]{4}" autoComplete="off" maxLength={4} value={code} onChange={e=>setCode(e.target.value.replace(/\D/g,'').slice(0,4))} placeholder="0000"/><Button secondary disabled={busy||!online||code.length!==4} onClick={()=>run(async()=>{await ensureGuest();updateRoom(await rpc<Room>('join',{code}));history.replaceState(null,'',location.pathname);navigate('room');})}>Beitreten<ArrowRight size={19}/></Button></section></div><p className="fine-print center"><Swords size={15}/>Die gegnerischen Punkte seht ihr erst nach dem Duell.</p></>;
+ <div className="duel-grid"><section className="panel"><span className="small-icon mint"><Plus/></span><h2>Neues Duell</h2><p>Erstelle einen Raum und lade jemanden ein.</p><Button disabled={busy||!online} onClick={()=>run(async()=>{await ensureGuest();updateRoom(await rpc<Room>('create',{perCategory:3}));navigate('room');})}><Plus size={19}/>Raum erstellen</Button></section><section className="panel"><span className="small-icon"><Users/></span><h2>Raum beitreten</h2><p>Vier Ziffern. Und ihr seid verbunden.</p><label className="label" htmlFor="room-code">Raumcode</label><input id="room-code" className="code-input" type="text" inputMode="numeric" pattern="[0-9]{4}" autoComplete="off" maxLength={4} value={code} onChange={e=>setCode(e.target.value.replace(/\D/g,'').slice(0,4))} placeholder="0000"/><Button secondary disabled={busy||!online||code.length!==4} onClick={()=>run(async()=>{await ensureGuest();updateRoom(await rpc<Room>('join',{code}));history.replaceState(null,'',location.pathname);navigate('room');})}>Beitreten<ArrowRight size={19}/></Button></section></div><p className="fine-print center"><Swords size={15}/>Die gegnerischen Punkte seht ihr erst nach dem Duell.</p></>;
  else if(view==='room'&&room){const me=room.players.find(p=>p.id===user?.id),other=room.players.find(p=>p.id!==user?.id);if(room.status==='aborted')content=<section className="panel empty"><Swords size={40}/><h1>Duell beendet</h1><p>Der Raum wurde verlassen oder ist abgelaufen. Es zählt nicht zur Siegstatistik.</p><Button onClick={()=>{updateRoom(null);navigate('duel');}}>Neues Duell</Button></section>;
- else if(room.status==='waiting')content=<>{intro('EURE REISE BEGINNT HIER','Duell-Lobby','Ladet euch ein und macht euch bereit.')}<section className="panel lobby-code"><span className="eyebrow">DEIN RAUMCODE</span><strong>{room.code}</strong><div className="inline-actions"><Button secondary onClick={()=>run(async()=>{await navigator.clipboard.writeText(room.code);setNotice('Raumcode kopiert.');})}><Copy size={17}/>Kopieren</Button><Button onClick={share}><Share2 size={17}/>Einladen</Button></div></section><section className="panel"><div className="section-heading"><h2>{room.selectedCategories?"Fragen je Kategorie":"Fragenanzahl"}</h2><span>{room.total} Fragen</span></div><div className="segmented">{([2,3,4] as const).map(n=><button key={n} disabled={busy||room.host!==user?.id} aria-pressed={room.perCategory===n} className={room.perCategory===n?'selected':''} onClick={()=>roomAction('configure',{perCategory:n})}><strong>{n*(room.selectedCategories?.length??4)}</strong><span>{n===2?'Kurz':n===3?'Standard':'Ausführlich'}</span></button>)}</div></section><section className="panel"><div className="section-heading"><h2>Kategorien</h2><button className="text-button" disabled={busy||room.host!==user?.id} onClick={()=>roomAction('configure',{randomCategories:true})}>Vier zufällige</button></div><p className="fine-print">{room.selectedCategories?'Wähle eine oder mehrere Kategorien.':'Aktuell: vier zufällige Kategorien.'}</p><div className="category-picker">{(Object.keys(categories) as Category[]).map(c=><button key={c} aria-pressed={room.selectedCategories?.includes(c)??false} disabled={busy||room.host!==user?.id} onClick={()=>{const selected=room.selectedCategories??[];const next=selected.includes(c)?selected.filter(x=>x!==c):[...selected,c];void roomAction('configure',next.length?{categories:next}:{randomCategories:true});}}><CategoryIcon category={c} size={17}/>{categories[c].name}</button>)}</div></section><section className="panel"><div className="section-heading"><h2>Spieler</h2><span>{room.players.length} / 2</span></div>{room.players.map(p=><div key={p.id} className="player"><span className="avatar">{p.nickname.slice(0,1).toUpperCase()}</span><div><strong>{p.nickname}{p.id===user?.id?' (du)':''}</strong><small>{p.id===room.host?'Host':'Entdecker'}</small></div><span className={p.ready?'ready':'muted'}>{p.ready?<><Check size={16}/>Bereit</>:'Noch nicht bereit'}</span></div>)}{!other&&<div className="player muted"><span className="avatar"><UserRound/></span><span>Warten auf deinen Mitspieler …</span></div>}</section><Button secondary disabled={busy} onClick={()=>roomAction('ready',{ready:!me?.ready})}>{me?.ready?'Bereit zurücknehmen':<><Check size={19}/>Ich bin bereit</>}</Button>{room.host===user?.id&&<Button disabled={busy||room.players.length!==2||!room.players.every(p=>p.ready)} onClick={()=>roomAction('start')}><Play size={19}/>Duell starten</Button>}<button className="text-button" disabled={busy} onClick={()=>setConfirm({text:'Möchtest du diesen Raum verlassen?',run:()=>roomAction('leave')})}>Raum verlassen</button></>;
+ else if(room.status==='waiting'){
+ const pending=pendingConfig?.roomId===room.id?pendingConfig.update:null;
+ const counts=pending?'questionCounts' in pending?pending.questionCounts:null:duelDistribution(room);
+ const perCategory=pending&&'perCategory' in pending?pending.perCategory:room.perCategory;
+ const host=room.host===user?.id;
+ const valid=counts===null||validDuelLength(room.total);
+ content=<>{intro('EURE REISE BEGINNT HIER','Duell-Lobby','Ladet euch ein und macht euch bereit.')}<section className="panel lobby-code"><span className="eyebrow">DEIN RAUMCODE</span><strong>{room.code}</strong><div className="inline-actions"><Button secondary onClick={()=>run(async()=>{await navigator.clipboard.writeText(room.code);setNotice('Raumcode kopiert.');})}><Copy size={17}/>Kopieren</Button><Button onClick={share}><Share2 size={17}/>Einladen</Button></div></section><DuelConfiguration counts={counts} perCategory={perCategory} host={host}
+ disabled={busy||!online} saving={Boolean(pending)} onChange={configureDuel}
+ icon={category=><CategoryIcon category={category} size={17}/>}/><section className="panel"><div className="section-heading"><h2>Spieler</h2><span>{room.players.length} / 2</span></div>{room.players.map(p=><div key={p.id} className="player"><span className="avatar">{p.nickname.slice(0,1).toUpperCase()}</span><div><strong>{p.nickname}{p.id===user?.id?' (du)':''}</strong><small>{p.id===room.host?'Host':'Entdecker'}</small></div><span className={p.ready?'ready':'muted'}>{p.ready?<><Check size={16}/>Bereit</>:'Noch nicht bereit'}</span></div>)}{!other&&<div className="player muted"><span className="avatar"><UserRound/></span><span>Warten auf deinen Mitspieler …</span></div>}</section><Button secondary disabled={busy||Boolean(pending)||(!me?.ready&&!valid)} onClick={()=>roomAction('ready',{ready:!me?.ready,configRevision:room.configRevision})}>{me?.ready?'Bereit zurücknehmen':<><Check size={19}/>Ich bin bereit</>}</Button>{room.host===user?.id&&<Button disabled={busy||Boolean(pending)||!valid||room.players.length!==2||!room.players.every(p=>p.ready)} onClick={()=>roomAction('start')}><Play size={19}/>Duell starten</Button>}<button className="text-button" disabled={busy||Boolean(pending)} onClick={()=>setConfirm({text:'Möchtest du diesen Raum verlassen?',run:()=>roomAction('leave')})}>Raum verlassen</button></>;}
  else if(room.status==='playing'&&room.finished)content=<section className="panel empty waiting"><span className="result-medal"><Check size={40}/></span><span className="eyebrow">DEIN TEIL IST GESCHAFFT</span><h1>Gut gespielt.</h1><p>{other?.nickname??'Dein Mitspieler'} ist noch auf Entdeckungsreise.</p><div className="wait-progress"><strong>{other?.progress??0} / {room.total}</strong><span>Fragen beantwortet</span><div className="progress"><i style={{width:`${(other?.progress??0)/room.total*100}%`}}/></div></div><p className="fine-print">Du hast {room.points} Punkte. Das gemeinsame Ergebnis erscheint automatisch.</p><Button secondary onClick={()=>navigate('home')}>Zur Startseite</Button></section>;
  else if(room.status==='playing'&&room.question)content=<>{renderQuestion(room.question,room.cursor,room.total,room.points,room.feedback,i=>roomAction('answer',{position:room.cursor,option:i}),()=>roomAction('next',{position:room.cursor}))}<p className="opponent-progress"><Users size={15}/>{other?.nickname}: {other?.progress??0} / {room.total} beantwortet · Punkte verborgen</p></>;
- else if(room.result){const currentReview=review?.roomId===room.id?review.questions:null;const a=room.result.players.find(p=>p.id===user?.id)!,b=room.result.players.find(p=>p.id!==user?.id)!;const pair=duelStats?.history.filter(h=>h.opponent.id===b.id)??[];content=<><div className="result-hero"><span className="result-medal"><Trophy size={42}/></span><span className="eyebrow">EURE WELTREISE IN ZAHLEN</span><h1>{a.points>b.points?'Du hast gewonnen!':a.points===b.points?'Auf Augenhöhe.':'Gut gekämpft!'}</h1><p>{a.points===b.points?'Ein Unentschieden – Zeit für eine Revanche?':a.points>b.points?'Diese Runde gehört dir.':'Die nächste Runde wartet auf dich.'}</p></div><section className="panel versus"><div><span className="avatar">{a.nickname.slice(0,1)}</span><h3>{a.nickname}</h3><strong>{a.points}</strong><small>{a.correct} richtig</small></div><span>:</span><div><span className="avatar">{b.nickname.slice(0,1)}</span><h3>{b.nickname}</h3><strong>{b.points}</strong><small>{b.correct} richtig</small></div></section><section className="panel"><h2>Eure 1v1-Bilanz</h2><p>{a.nickname} & {b.nickname}</p><div className="metrics"><Metric value={pair.filter(x=>x.me.points>x.opponent.points).length} label="Deine Siege"/><Metric value={pair.filter(x=>x.me.points===x.opponent.points).length} label="Unentschieden"/><Metric value={pair.filter(x=>x.me.points<x.opponent.points).length} label="Gegner-Siege"/></div></section><Button disabled={busy} onClick={()=>roomAction('rematch')}><RotateCcw size={19}/>Revanche</Button><Button secondary disabled={busy} aria-expanded={currentReview!==null} onClick={()=>{
+ else if(room.result){const distribution=duelDistribution(room);const currentReview=review?.roomId===room.id?review.questions:null;const a=room.result.players.find(p=>p.id===user?.id)!,b=room.result.players.find(p=>p.id!==user?.id)!;const pair=duelStats?.history.filter(h=>h.opponent.id===b.id)??[];content=<><div className="result-hero"><span className="result-medal"><Trophy size={42}/></span><span className="eyebrow">EURE WELTREISE IN ZAHLEN</span><h1>{a.points>b.points?'Du hast gewonnen!':a.points===b.points?'Auf Augenhöhe.':'Gut gekämpft!'}</h1><p>{a.points===b.points?'Ein Unentschieden – Zeit für eine Revanche?':a.points>b.points?'Diese Runde gehört dir.':'Die nächste Runde wartet auf dich.'}</p>{distribution&&<p className="duel-result-distribution">{duelCategories.filter(c=>distribution[c]).map(c=>`${distribution[c]} ${categories[c].name}`).join(' · ')}</p>}</div><section className="panel versus"><div><span className="avatar">{a.nickname.slice(0,1)}</span><h3>{a.nickname}</h3><strong>{a.points}</strong><small>{a.correct} richtig</small></div><span>:</span><div><span className="avatar">{b.nickname.slice(0,1)}</span><h3>{b.nickname}</h3><strong>{b.points}</strong><small>{b.correct} richtig</small></div></section><section className="panel"><h2>Eure 1v1-Bilanz</h2><p>{a.nickname} & {b.nickname}</p><div className="metrics"><Metric value={pair.filter(x=>x.me.points>x.opponent.points).length} label="Deine Siege"/><Metric value={pair.filter(x=>x.me.points===x.opponent.points).length} label="Unentschieden"/><Metric value={pair.filter(x=>x.me.points<x.opponent.points).length} label="Gegner-Siege"/></div></section><Button disabled={busy} onClick={()=>roomAction('rematch')}><RotateCcw size={19}/>Revanche</Button><Button secondary disabled={busy} aria-expanded={currentReview!==null} onClick={()=>{
   if(currentReview){setReview(null);return;}
   void run(async()=>{const questions=await rpc<DuelReviewQuestion[]>('review',{roomId:room.id});setReview({roomId:room.id,questions});});
  }}><BookOpen size={19}/>{currentReview?'Antworten ausblenden':'Antworten ansehen'}</Button>
