@@ -92,7 +92,8 @@
     "nature": 18,
     "area": 12,
     "landlocked": 9,
-    "continents": 9
+    "continents": 9,
+    "comparisons": 20
   },
   "continentOverrides": {
     "CY": "Asien"

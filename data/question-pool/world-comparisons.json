@@ -1,0 +1,4098 @@
+[
+  {
+    "id": "world-compare-v1-993da25c3e6fdcf045a2",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die höchste Bevölkerungsdichte? Weltbank, 2023.",
+    "options": [
+      "Litauen",
+      "Slowenien",
+      "Bulgarien",
+      "Deutschland"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Deutschland ist richtig. Vergleichswerte, absteigend: Deutschland (238 Einw./km² Landfläche) · Slowenien (105 Einw./km² Landfläche) · Bulgarien (59 Einw./km² Landfläche) · Litauen (46 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:993da25c3e6fdcf045a2",
+      "topic": "Größenvergleiche",
+      "iso": "DE",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "DE",
+            "iso": "DE",
+            "name": "Deutschland",
+            "value": 238.351810090719,
+            "display": "238 Einw./km² Landfläche"
+          },
+          {
+            "id": "SI",
+            "iso": "SI",
+            "name": "Slowenien",
+            "value": 105.31480791676,
+            "display": "105 Einw./km² Landfläche"
+          },
+          {
+            "id": "BG",
+            "iso": "BG",
+            "name": "Bulgarien",
+            "value": 59.3827929255711,
+            "display": "59 Einw./km² Landfläche"
+          },
+          {
+            "id": "LT",
+            "iso": "LT",
+            "name": "Litauen",
+            "value": 45.87196485623,
+            "display": "46 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-7de3e54561ab254bcb8e",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die höchste Bevölkerungsdichte? Weltbank, 2023.",
+    "options": [
+      "Guatemala",
+      "Rumänien",
+      "Ukraine",
+      "Japan"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Japan ist richtig. Vergleichswerte, absteigend: Japan (342 Einw./km² Landfläche) · Guatemala (169 Einw./km² Landfläche) · Rumänien (83 Einw./km² Landfläche) · Ukraine (65 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:7de3e54561ab254bcb8e",
+      "topic": "Größenvergleiche",
+      "iso": "JP",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "JP",
+            "iso": "JP",
+            "name": "Japan",
+            "value": 341.609465020576,
+            "display": "342 Einw./km² Landfläche"
+          },
+          {
+            "id": "GT",
+            "iso": "GT",
+            "name": "Guatemala",
+            "value": 169.138092571855,
+            "display": "169 Einw./km² Landfläche"
+          },
+          {
+            "id": "RO",
+            "iso": "RO",
+            "name": "Rumänien",
+            "value": 82.8453668289291,
+            "display": "83 Einw./km² Landfläche"
+          },
+          {
+            "id": "UA",
+            "iso": "UA",
+            "name": "Ukraine",
+            "value": 65.1239834311357,
+            "display": "65 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-e43cd248cc09b37dce31",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die höchste Bevölkerungsdichte? Weltbank, 2023.",
+    "options": [
+      "Vietnam",
+      "Haiti",
+      "Irland",
+      "Polen"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Haiti ist richtig. Vergleichswerte, absteigend: Haiti (422 Einw./km² Landfläche) · Vietnam (320 Einw./km² Landfläche) · Polen (120 Einw./km² Landfläche) · Irland (77 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:e43cd248cc09b37dce31",
+      "topic": "Größenvergleiche",
+      "iso": "HT",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "HT",
+            "iso": "HT",
+            "name": "Haiti",
+            "value": 422.256821480406,
+            "display": "422 Einw./km² Landfläche"
+          },
+          {
+            "id": "VN",
+            "iso": "VN",
+            "name": "Vietnam",
+            "value": 320.175197572656,
+            "display": "320 Einw./km² Landfläche"
+          },
+          {
+            "id": "PL",
+            "iso": "PL",
+            "name": "Polen",
+            "value": 119.787615502661,
+            "display": "120 Einw./km² Landfläche"
+          },
+          {
+            "id": "IE",
+            "iso": "IE",
+            "name": "Irland",
+            "value": 77.1017273914937,
+            "display": "77 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-3342dc31588d5dffd3b2",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die höchste Bevölkerungsdichte? Weltbank, 2023.",
+    "options": [
+      "Nicaragua",
+      "Ecuador",
+      "Neuseeland",
+      "Vereinigte Staaten"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Ecuador ist richtig. Vergleichswerte, absteigend: Ecuador (72 Einw./km² Landfläche) · Nicaragua (57 Einw./km² Landfläche) · Vereinigte Staaten (37 Einw./km² Landfläche) · Neuseeland (20 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:3342dc31588d5dffd3b2",
+      "topic": "Größenvergleiche",
+      "iso": "EC",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "EC",
+            "iso": "EC",
+            "name": "Ecuador",
+            "value": 72.3952448059269,
+            "display": "72 Einw./km² Landfläche"
+          },
+          {
+            "id": "NI",
+            "iso": "NI",
+            "name": "Nicaragua",
+            "value": 56.702783779292,
+            "display": "57 Einw./km² Landfläche"
+          },
+          {
+            "id": "US",
+            "iso": "US",
+            "name": "Vereinigte Staaten",
+            "value": 36.8142112202129,
+            "display": "37 Einw./km² Landfläche"
+          },
+          {
+            "id": "NZ",
+            "iso": "NZ",
+            "name": "Neuseeland",
+            "value": 19.7485853176864,
+            "display": "20 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-9cf8df2dda903e8700c3",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die niedrigste Bevölkerungsdichte? Weltbank, 2023.",
+    "options": [
+      "Fidschi",
+      "Mexiko",
+      "Österreich",
+      "Jamaika"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Fidschi ist richtig. Vergleichswerte, absteigend: Jamaika (262 Einw./km² Landfläche) · Österreich (111 Einw./km² Landfläche) · Mexiko (67 Einw./km² Landfläche) · Fidschi (51 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:9cf8df2dda903e8700c3",
+      "topic": "Größenvergleiche",
+      "iso": "FJ",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "JM",
+            "iso": "JM",
+            "name": "Jamaika",
+            "value": 262.214773776547,
+            "display": "262 Einw./km² Landfläche"
+          },
+          {
+            "id": "AT",
+            "iso": "AT",
+            "name": "Österreich",
+            "value": 110.661185167232,
+            "display": "111 Einw./km² Landfläche"
+          },
+          {
+            "id": "MX",
+            "iso": "MX",
+            "name": "Mexiko",
+            "value": 66.7402757272564,
+            "display": "67 Einw./km² Landfläche"
+          },
+          {
+            "id": "FJ",
+            "iso": "FJ",
+            "name": "Fidschi",
+            "value": 50.5826491516147,
+            "display": "51 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-5cd803f3741ed306eca5",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die niedrigste Bevölkerungsdichte? Weltbank, 2023.",
+    "options": [
+      "Papua-Neuguinea",
+      "Samoa",
+      "Finnland",
+      "Spanien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Finnland ist richtig. Vergleichswerte, absteigend: Spanien (97 Einw./km² Landfläche) · Samoa (78 Einw./km² Landfläche) · Papua-Neuguinea (23 Einw./km² Landfläche) · Finnland (18 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:5cd803f3741ed306eca5",
+      "topic": "Größenvergleiche",
+      "iso": "FI",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "ES",
+            "iso": "ES",
+            "name": "Spanien",
+            "value": 96.7636173412149,
+            "display": "97 Einw./km² Landfläche"
+          },
+          {
+            "id": "WS",
+            "iso": "WS",
+            "name": "Samoa",
+            "value": 77.9363309352518,
+            "display": "78 Einw./km² Landfläche"
+          },
+          {
+            "id": "PG",
+            "iso": "PG",
+            "name": "Papua-Neuguinea",
+            "value": 22.9422669257607,
+            "display": "23 Einw./km² Landfläche"
+          },
+          {
+            "id": "FI",
+            "iso": "FI",
+            "name": "Finnland",
+            "value": 18.3705454665088,
+            "display": "18 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-56febfffb390a858b139",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die niedrigste Bevölkerungsdichte? Weltbank, 2023.",
+    "options": [
+      "Griechenland",
+      "Kolumbien",
+      "Saudi-Arabien",
+      "Salomonen"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Saudi-Arabien ist richtig. Vergleichswerte, absteigend: Griechenland (81 Einw./km² Landfläche) · Kolumbien (47 Einw./km² Landfläche) · Salomonen (29 Einw./km² Landfläche) · Saudi-Arabien (16 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:56febfffb390a858b139",
+      "topic": "Größenvergleiche",
+      "iso": "SA",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "GR",
+            "iso": "GR",
+            "name": "Griechenland",
+            "value": 80.7397284716835,
+            "display": "81 Einw./km² Landfläche"
+          },
+          {
+            "id": "CO",
+            "iso": "CO",
+            "name": "Kolumbien",
+            "value": 47.1574150518251,
+            "display": "47 Einw./km² Landfläche"
+          },
+          {
+            "id": "SB",
+            "iso": "SB",
+            "name": "Salomonen",
+            "value": 28.581814933905,
+            "display": "29 Einw./km² Landfläche"
+          },
+          {
+            "id": "SA",
+            "iso": "SA",
+            "name": "Saudi-Arabien",
+            "value": 15.6779493787476,
+            "display": "16 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-ff4d6a3fad978c0c3769",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die niedrigste Bevölkerungsdichte? Weltbank, 2023.",
+    "options": [
+      "Südkorea",
+      "Honduras",
+      "Thailand",
+      "Dominikanische Republik"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Honduras ist richtig. Vergleichswerte, absteigend: Südkorea (530 Einw./km² Landfläche) · Dominikanische Republik (235 Einw./km² Landfläche) · Thailand (140 Einw./km² Landfläche) · Honduras (95 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:ff4d6a3fad978c0c3769",
+      "topic": "Größenvergleiche",
+      "iso": "HN",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "KR",
+            "iso": "KR",
+            "name": "Südkorea",
+            "value": 529.842407786885,
+            "display": "530 Einw./km² Landfläche"
+          },
+          {
+            "id": "DO",
+            "iso": "DO",
+            "name": "Dominikanische Republik",
+            "value": 235.098143035751,
+            "display": "235 Einw./km² Landfläche"
+          },
+          {
+            "id": "TH",
+            "iso": "TH",
+            "name": "Thailand",
+            "value": 140.348088629646,
+            "display": "140 Einw./km² Landfläche"
+          },
+          {
+            "id": "HN",
+            "iso": "HN",
+            "name": "Honduras",
+            "value": 95.1367503798373,
+            "display": "95 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-54e005c21bbe8530c55c",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Bevölkerungsdichte auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Venezuela",
+      "Schweden",
+      "Kambodscha",
+      "Paraguay"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Venezuela ist richtig. Vergleichswerte, absteigend: Kambodscha (99 Einw./km² Landfläche) · Venezuela (32 Einw./km² Landfläche) · Schweden (26 Einw./km² Landfläche) · Paraguay (17 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:54e005c21bbe8530c55c",
+      "topic": "Größenvergleiche",
+      "iso": "VE",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "KH",
+            "iso": "KH",
+            "name": "Kambodscha",
+            "value": 98.7076818490823,
+            "display": "99 Einw./km² Landfläche"
+          },
+          {
+            "id": "VE",
+            "iso": "VE",
+            "name": "Venezuela",
+            "value": 32.0853171588912,
+            "display": "32 Einw./km² Landfläche"
+          },
+          {
+            "id": "SE",
+            "iso": "SE",
+            "name": "Schweden",
+            "value": 25.8713678886243,
+            "display": "26 Einw./km² Landfläche"
+          },
+          {
+            "id": "PY",
+            "iso": "PY",
+            "name": "Paraguay",
+            "value": 17.282671943072,
+            "display": "17 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-caae55da93c3aea527d9",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Bevölkerungsdichte auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Schweden",
+      "Frankreich",
+      "Samoa",
+      "Estland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Samoa ist richtig. Vergleichswerte, absteigend: Frankreich (127 Einw./km² Landfläche) · Samoa (78 Einw./km² Landfläche) · Estland (32 Einw./km² Landfläche) · Schweden (26 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:caae55da93c3aea527d9",
+      "topic": "Größenvergleiche",
+      "iso": "WS",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "FR",
+            "iso": "FR",
+            "name": "Frankreich",
+            "value": 126.862020595603,
+            "display": "127 Einw./km² Landfläche"
+          },
+          {
+            "id": "WS",
+            "iso": "WS",
+            "name": "Samoa",
+            "value": 77.9363309352518,
+            "display": "78 Einw./km² Landfläche"
+          },
+          {
+            "id": "EE",
+            "iso": "EE",
+            "name": "Estland",
+            "value": 32.0684764802247,
+            "display": "32 Einw./km² Landfläche"
+          },
+          {
+            "id": "SE",
+            "iso": "SE",
+            "name": "Schweden",
+            "value": 25.8713678886243,
+            "display": "26 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-5d08b5ae2d62d3a771f0",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Bevölkerungsdichte auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Panama",
+      "Italien",
+      "Pakistan",
+      "China"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Italien ist richtig. Vergleichswerte, absteigend: Pakistan (321 Einw./km² Landfläche) · Italien (199 Einw./km² Landfläche) · China (150 Einw./km² Landfläche) · Panama (60 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:5d08b5ae2d62d3a771f0",
+      "topic": "Größenvergleiche",
+      "iso": "IT",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "PK",
+            "iso": "PK",
+            "name": "Pakistan",
+            "value": 321.067474833956,
+            "display": "321 Einw./km² Landfläche"
+          },
+          {
+            "id": "IT",
+            "iso": "IT",
+            "name": "Italien",
+            "value": 199.459678073854,
+            "display": "199 Einw./km² Landfläche"
+          },
+          {
+            "id": "CN",
+            "iso": "CN",
+            "name": "China",
+            "value": 150.264001337848,
+            "display": "150 Einw./km² Landfläche"
+          },
+          {
+            "id": "PA",
+            "iso": "PA",
+            "name": "Panama",
+            "value": 60.1072930709086,
+            "display": "60 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-6d99a1f72ab454f26fdb",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Bevölkerungsdichte auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Kroatien",
+      "Philippinen",
+      "Portugal",
+      "Vereinigte Arabische Emirate"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Vereinigte Arabische Emirate ist richtig. Vergleichswerte, absteigend: Philippinen (385 Einw./km² Landfläche) · Vereinigte Arabische Emirate (148 Einw./km² Landfläche) · Portugal (115 Einw./km² Landfläche) · Kroatien (69 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:6d99a1f72ab454f26fdb",
+      "topic": "Größenvergleiche",
+      "iso": "AE",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "PH",
+            "iso": "PH",
+            "name": "Philippinen",
+            "value": 385.321122178623,
+            "display": "385 Einw./km² Landfläche"
+          },
+          {
+            "id": "AE",
+            "iso": "AE",
+            "name": "Vereinigte Arabische Emirate",
+            "value": 147.616882568291,
+            "display": "148 Einw./km² Landfläche"
+          },
+          {
+            "id": "PT",
+            "iso": "PT",
+            "name": "Portugal",
+            "value": 115.475189289738,
+            "display": "115 Einw./km² Landfläche"
+          },
+          {
+            "id": "HR",
+            "iso": "HR",
+            "name": "Kroatien",
+            "value": 68.9722301644031,
+            "display": "69 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-fe9b50e8b520d6d49172",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Bevölkerungsdichte auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Sri Lanka",
+      "Schweiz",
+      "Costa Rica",
+      "Kroatien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Costa Rica ist richtig. Vergleichswerte, absteigend: Sri Lanka (356 Einw./km² Landfläche) · Schweiz (225 Einw./km² Landfläche) · Costa Rica (101 Einw./km² Landfläche) · Kroatien (69 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:fe9b50e8b520d6d49172",
+      "topic": "Größenvergleiche",
+      "iso": "CR",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "LK",
+            "iso": "LK",
+            "name": "Sri Lanka",
+            "value": 356.239896540576,
+            "display": "356 Einw./km² Landfläche"
+          },
+          {
+            "id": "CH",
+            "iso": "CH",
+            "name": "Schweiz",
+            "value": 224.978619136651,
+            "display": "225 Einw./km² Landfläche"
+          },
+          {
+            "id": "CR",
+            "iso": "CR",
+            "name": "Costa Rica",
+            "value": 100.979529272152,
+            "display": "101 Einw./km² Landfläche"
+          },
+          {
+            "id": "HR",
+            "iso": "HR",
+            "name": "Kroatien",
+            "value": 68.9722301644031,
+            "display": "69 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-5e2c511f0313fd65a346",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Bevölkerungsdichte auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Kolumbien",
+      "Ungarn",
+      "Tschechien",
+      "Chile"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Kolumbien ist richtig. Vergleichswerte, absteigend: Tschechien (141 Einw./km² Landfläche) · Ungarn (105 Einw./km² Landfläche) · Kolumbien (47 Einw./km² Landfläche) · Chile (26 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:5e2c511f0313fd65a346",
+      "topic": "Größenvergleiche",
+      "iso": "CO",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "CZ",
+            "iso": "CZ",
+            "name": "Tschechien",
+            "value": 140.785547662605,
+            "display": "141 Einw./km² Landfläche"
+          },
+          {
+            "id": "HU",
+            "iso": "HU",
+            "name": "Ungarn",
+            "value": 105.108327854482,
+            "display": "105 Einw./km² Landfläche"
+          },
+          {
+            "id": "CO",
+            "iso": "CO",
+            "name": "Kolumbien",
+            "value": 47.1574150518251,
+            "display": "47 Einw./km² Landfläche"
+          },
+          {
+            "id": "CL",
+            "iso": "CL",
+            "name": "Chile",
+            "value": 26.4647249005172,
+            "display": "26 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-f91159bf62be228dceca",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Bevölkerungsdichte auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Norwegen",
+      "Usbekistan",
+      "Papua-Neuguinea",
+      "Türkei"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Papua-Neuguinea ist richtig. Vergleichswerte, absteigend: Türkei (111 Einw./km² Landfläche) · Usbekistan (81 Einw./km² Landfläche) · Papua-Neuguinea (23 Einw./km² Landfläche) · Norwegen (15 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:f91159bf62be228dceca",
+      "topic": "Größenvergleiche",
+      "iso": "PG",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "TR",
+            "iso": "TR",
+            "name": "Türkei",
+            "value": 110.866214934449,
+            "display": "111 Einw./km² Landfläche"
+          },
+          {
+            "id": "UZ",
+            "iso": "UZ",
+            "name": "Usbekistan",
+            "value": 80.9084466129581,
+            "display": "81 Einw./km² Landfläche"
+          },
+          {
+            "id": "PG",
+            "iso": "PG",
+            "name": "Papua-Neuguinea",
+            "value": 22.9422669257607,
+            "display": "23 Einw./km² Landfläche"
+          },
+          {
+            "id": "NO",
+            "iso": "NO",
+            "name": "Norwegen",
+            "value": 15.1524995195871,
+            "display": "15 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-8fd936c3a692927657db",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Bevölkerungsdichte auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Iran",
+      "Irland",
+      "Nepal",
+      "Vereinigtes Königreich"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Irland ist richtig. Vergleichswerte, absteigend: Vereinigtes Königreich (283 Einw./km² Landfläche) · Nepal (207 Einw./km² Landfläche) · Irland (77 Einw./km² Landfläche) · Iran (56 Einw./km² Landfläche). Die Weltbank bezieht die Einwohnerzahl auf die Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/EN.POP.DNST",
+        "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:8fd936c3a692927657db",
+      "topic": "Größenvergleiche",
+      "iso": "IE",
+      "comparison": {
+        "metric": "density",
+        "label": "Bevölkerungsdichte",
+        "year": 2023,
+        "unit": "Einw./km² Landfläche",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.22,
+        "values": [
+          {
+            "id": "GB",
+            "iso": "GB",
+            "name": "Vereinigtes Königreich",
+            "value": 283.247220270326,
+            "display": "283 Einw./km² Landfläche"
+          },
+          {
+            "id": "NP",
+            "iso": "NP",
+            "name": "Nepal",
+            "value": 207.147638646669,
+            "display": "207 Einw./km² Landfläche"
+          },
+          {
+            "id": "IE",
+            "iso": "IE",
+            "name": "Irland",
+            "value": 77.1017273914937,
+            "display": "77 Einw./km² Landfläche"
+          },
+          {
+            "id": "IR",
+            "iso": "IR",
+            "name": "Iran",
+            "value": 55.8451198767334,
+            "display": "56 Einw./km² Landfläche"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-5327875baf8b76833b38",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die größte Landfläche? Weltbank, 2023.",
+    "options": [
+      "Salomonen",
+      "Kroatien",
+      "Schweiz",
+      "Jamaika"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Kroatien ist richtig. Vergleichswerte, absteigend: Kroatien (56.000 km²) · Schweiz (39.500 km²) · Salomonen (28.000 km²) · Jamaika (10.800 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:5327875baf8b76833b38",
+      "topic": "Größenvergleiche",
+      "iso": "HR",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "HR",
+            "iso": "HR",
+            "name": "Kroatien",
+            "value": 55960,
+            "display": "56.000 km²"
+          },
+          {
+            "id": "CH",
+            "iso": "CH",
+            "name": "Schweiz",
+            "value": 39509.63,
+            "display": "39.500 km²"
+          },
+          {
+            "id": "SB",
+            "iso": "SB",
+            "name": "Salomonen",
+            "value": 27990,
+            "display": "28.000 km²"
+          },
+          {
+            "id": "JM",
+            "iso": "JM",
+            "name": "Jamaika",
+            "value": 10830,
+            "display": "10.800 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-236ce462f93f326b4a38",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die größte Landfläche? Weltbank, 2023.",
+    "options": [
+      "Philippinen",
+      "Türkei",
+      "Mongolei",
+      "Irak"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Mongolei ist richtig. Vergleichswerte, absteigend: Mongolei (1.558.500 km²) · Türkei (769.600 km²) · Irak (434.100 km²) · Philippinen (298.200 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:236ce462f93f326b4a38",
+      "topic": "Größenvergleiche",
+      "iso": "MN",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "MN",
+            "iso": "MN",
+            "name": "Mongolei",
+            "value": 1558499.786,
+            "display": "1.558.500 km²"
+          },
+          {
+            "id": "TR",
+            "iso": "TR",
+            "name": "Türkei",
+            "value": 769630,
+            "display": "769.600 km²"
+          },
+          {
+            "id": "IQ",
+            "iso": "IQ",
+            "name": "Irak",
+            "value": 434130,
+            "display": "434.100 km²"
+          },
+          {
+            "id": "PH",
+            "iso": "PH",
+            "name": "Philippinen",
+            "value": 298170,
+            "display": "298.200 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-0c87d0b4d547b4324aac",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die größte Landfläche? Weltbank, 2023.",
+    "options": [
+      "Nicaragua",
+      "Haiti",
+      "Panama",
+      "Dominikanische Republik"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Nicaragua ist richtig. Vergleichswerte, absteigend: Nicaragua (120.300 km²) · Panama (74.200 km²) · Dominikanische Republik (48.200 km²) · Haiti (27.600 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:0c87d0b4d547b4324aac",
+      "topic": "Größenvergleiche",
+      "iso": "NI",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "NI",
+            "iso": "NI",
+            "name": "Nicaragua",
+            "value": 120340,
+            "display": "120.300 km²"
+          },
+          {
+            "id": "PA",
+            "iso": "PA",
+            "name": "Panama",
+            "value": 74180,
+            "display": "74.200 km²"
+          },
+          {
+            "id": "DO",
+            "iso": "DO",
+            "name": "Dominikanische Republik",
+            "value": 48198.02,
+            "display": "48.200 km²"
+          },
+          {
+            "id": "HT",
+            "iso": "HT",
+            "name": "Haiti",
+            "value": 27560,
+            "display": "27.600 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-88f73952638d06417f6c",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die größte Landfläche? Weltbank, 2023.",
+    "options": [
+      "Paraguay",
+      "Honduras",
+      "Uruguay",
+      "Vereinigte Arabische Emirate"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Paraguay ist richtig. Vergleichswerte, absteigend: Paraguay (396.000 km²) · Uruguay (175.000 km²) · Honduras (111.900 km²) · Vereinigte Arabische Emirate (71.000 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:88f73952638d06417f6c",
+      "topic": "Größenvergleiche",
+      "iso": "PY",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "PY",
+            "iso": "PY",
+            "name": "Paraguay",
+            "value": 396012.03,
+            "display": "396.000 km²"
+          },
+          {
+            "id": "UY",
+            "iso": "UY",
+            "name": "Uruguay",
+            "value": 175020,
+            "display": "175.000 km²"
+          },
+          {
+            "id": "HN",
+            "iso": "HN",
+            "name": "Honduras",
+            "value": 111890,
+            "display": "111.900 km²"
+          },
+          {
+            "id": "AE",
+            "iso": "AE",
+            "name": "Vereinigte Arabische Emirate",
+            "value": 71020,
+            "display": "71.000 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-952b84fb66848d1d2e90",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die kleinste Landfläche? Weltbank, 2023.",
+    "options": [
+      "Niederlande",
+      "Fidschi",
+      "Jordanien",
+      "Slowakei"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Fidschi ist richtig. Vergleichswerte, absteigend: Jordanien (88.800 km²) · Slowakei (48.100 km²) · Niederlande (33.700 km²) · Fidschi (18.300 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:952b84fb66848d1d2e90",
+      "topic": "Größenvergleiche",
+      "iso": "FJ",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "JO",
+            "iso": "JO",
+            "name": "Jordanien",
+            "value": 88794,
+            "display": "88.800 km²"
+          },
+          {
+            "id": "SK",
+            "iso": "SK",
+            "name": "Slowakei",
+            "value": 48080,
+            "display": "48.100 km²"
+          },
+          {
+            "id": "NL",
+            "iso": "NL",
+            "name": "Niederlande",
+            "value": 33670,
+            "display": "33.700 km²"
+          },
+          {
+            "id": "FJ",
+            "iso": "FJ",
+            "name": "Fidschi",
+            "value": 18270,
+            "display": "18.300 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-6480fbdc747314ca293d",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die kleinste Landfläche? Weltbank, 2023.",
+    "options": [
+      "Italien",
+      "Tschechien",
+      "Schweden",
+      "Island"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Tschechien ist richtig. Vergleichswerte, absteigend: Schweden (407.300 km²) · Italien (295.700 km²) · Island (100.800 km²) · Tschechien (77.200 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:6480fbdc747314ca293d",
+      "topic": "Größenvergleiche",
+      "iso": "CZ",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "SE",
+            "iso": "SE",
+            "name": "Schweden",
+            "value": 407270,
+            "display": "407.300 km²"
+          },
+          {
+            "id": "IT",
+            "iso": "IT",
+            "name": "Italien",
+            "value": 295720,
+            "display": "295.700 km²"
+          },
+          {
+            "id": "IS",
+            "iso": "IS",
+            "name": "Island",
+            "value": 100830,
+            "display": "100.800 km²"
+          },
+          {
+            "id": "CZ",
+            "iso": "CZ",
+            "name": "Tschechien",
+            "value": 77167.31,
+            "display": "77.200 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-0b6794101410a948b362",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die kleinste Landfläche? Weltbank, 2023.",
+    "options": [
+      "Thailand",
+      "Südkorea",
+      "Nepal",
+      "Vietnam"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Südkorea ist richtig. Vergleichswerte, absteigend: Thailand (510.900 km²) · Vietnam (313.400 km²) · Nepal (143.400 km²) · Südkorea (97.600 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:0b6794101410a948b362",
+      "topic": "Größenvergleiche",
+      "iso": "KR",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "TH",
+            "iso": "TH",
+            "name": "Thailand",
+            "value": 510890,
+            "display": "510.900 km²"
+          },
+          {
+            "id": "VN",
+            "iso": "VN",
+            "name": "Vietnam",
+            "value": 313429,
+            "display": "313.400 km²"
+          },
+          {
+            "id": "NP",
+            "iso": "NP",
+            "name": "Nepal",
+            "value": 143350,
+            "display": "143.400 km²"
+          },
+          {
+            "id": "KR",
+            "iso": "KR",
+            "name": "Südkorea",
+            "value": 97600,
+            "display": "97.600 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-44407be7872878a41d0c",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die kleinste Landfläche? Weltbank, 2023.",
+    "options": [
+      "Sri Lanka",
+      "Costa Rica",
+      "Österreich",
+      "Neuseeland"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Costa Rica ist richtig. Vergleichswerte, absteigend: Neuseeland (263.300 km²) · Österreich (82.500 km²) · Sri Lanka (61.900 km²) · Costa Rica (50.600 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:44407be7872878a41d0c",
+      "topic": "Größenvergleiche",
+      "iso": "CR",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "NZ",
+            "iso": "NZ",
+            "name": "Neuseeland",
+            "value": 263310,
+            "display": "263.300 km²"
+          },
+          {
+            "id": "AT",
+            "iso": "AT",
+            "name": "Österreich",
+            "value": 82520,
+            "display": "82.500 km²"
+          },
+          {
+            "id": "LK",
+            "iso": "LK",
+            "name": "Sri Lanka",
+            "value": 61860,
+            "display": "61.900 km²"
+          },
+          {
+            "id": "CR",
+            "iso": "CR",
+            "name": "Costa Rica",
+            "value": 50560,
+            "display": "50.600 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-2b66b58cccf2205c5200",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Landfläche auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Oman",
+      "Kolumbien",
+      "Frankreich",
+      "Iran"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Kolumbien ist richtig. Vergleichswerte, absteigend: Iran (1.622.500 km²) · Kolumbien (1.109.500 km²) · Frankreich (539.000 km²) · Oman (309.500 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:2b66b58cccf2205c5200",
+      "topic": "Größenvergleiche",
+      "iso": "CO",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "IR",
+            "iso": "IR",
+            "name": "Iran",
+            "value": 1622500,
+            "display": "1.622.500 km²"
+          },
+          {
+            "id": "CO",
+            "iso": "CO",
+            "name": "Kolumbien",
+            "value": 1109500,
+            "display": "1.109.500 km²"
+          },
+          {
+            "id": "FR",
+            "iso": "FR",
+            "name": "Frankreich",
+            "value": 538950,
+            "display": "539.000 km²"
+          },
+          {
+            "id": "OM",
+            "iso": "OM",
+            "name": "Oman",
+            "value": 309500,
+            "display": "309.500 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-1b703f0e3ba54dd20f6d",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Landfläche auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Neuseeland",
+      "Bulgarien",
+      "Usbekistan",
+      "Griechenland"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Neuseeland ist richtig. Vergleichswerte, absteigend: Usbekistan (440.600 km²) · Neuseeland (263.300 km²) · Griechenland (128.900 km²) · Bulgarien (108.600 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:1b703f0e3ba54dd20f6d",
+      "topic": "Größenvergleiche",
+      "iso": "NZ",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "UZ",
+            "iso": "UZ",
+            "name": "Usbekistan",
+            "value": 440650,
+            "display": "440.600 km²"
+          },
+          {
+            "id": "NZ",
+            "iso": "NZ",
+            "name": "Neuseeland",
+            "value": 263310,
+            "display": "263.300 km²"
+          },
+          {
+            "id": "GR",
+            "iso": "GR",
+            "name": "Griechenland",
+            "value": 128900,
+            "display": "128.900 km²"
+          },
+          {
+            "id": "BG",
+            "iso": "BG",
+            "name": "Bulgarien",
+            "value": 108560,
+            "display": "108.600 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-d8386763620d953b40e0",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Landfläche auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Portugal",
+      "Polen",
+      "Norwegen",
+      "Irland"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Polen ist richtig. Vergleichswerte, absteigend: Norwegen (364.300 km²) · Polen (306.300 km²) · Portugal (91.600 km²) · Irland (68.900 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:d8386763620d953b40e0",
+      "topic": "Größenvergleiche",
+      "iso": "PL",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "NO",
+            "iso": "NO",
+            "name": "Norwegen",
+            "value": 364270,
+            "display": "364.300 km²"
+          },
+          {
+            "id": "PL",
+            "iso": "PL",
+            "name": "Polen",
+            "value": 306270,
+            "display": "306.300 km²"
+          },
+          {
+            "id": "PT",
+            "iso": "PT",
+            "name": "Portugal",
+            "value": 91605.6,
+            "display": "91.600 km²"
+          },
+          {
+            "id": "IE",
+            "iso": "IE",
+            "name": "Irland",
+            "value": 68890,
+            "display": "68.900 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-63d1d3079d190fa038b0",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Landfläche auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Malaysia",
+      "Spanien",
+      "Vereinigtes Königreich",
+      "Kuba"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Malaysia ist richtig. Vergleichswerte, absteigend: Spanien (499.700 km²) · Malaysia (328.600 km²) · Vereinigtes Königreich (241.900 km²) · Kuba (103.800 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:63d1d3079d190fa038b0",
+      "topic": "Größenvergleiche",
+      "iso": "MY",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "ES",
+            "iso": "ES",
+            "name": "Spanien",
+            "value": 499697.4,
+            "display": "499.700 km²"
+          },
+          {
+            "id": "MY",
+            "iso": "MY",
+            "name": "Malaysia",
+            "value": 328550,
+            "display": "328.600 km²"
+          },
+          {
+            "id": "GB",
+            "iso": "GB",
+            "name": "Vereinigtes Königreich",
+            "value": 241930,
+            "display": "241.900 km²"
+          },
+          {
+            "id": "CU",
+            "iso": "CU",
+            "name": "Kuba",
+            "value": 103800,
+            "display": "103.800 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-b8161291189f8b1d03d9",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Landfläche auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Ecuador",
+      "Deutschland",
+      "Panama",
+      "Guatemala"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Guatemala ist richtig. Vergleichswerte, absteigend: Deutschland (349.400 km²) · Ecuador (248.400 km²) · Guatemala (107.200 km²) · Panama (74.200 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:b8161291189f8b1d03d9",
+      "topic": "Größenvergleiche",
+      "iso": "GT",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "DE",
+            "iso": "DE",
+            "name": "Deutschland",
+            "value": 349430,
+            "display": "349.400 km²"
+          },
+          {
+            "id": "EC",
+            "iso": "EC",
+            "name": "Ecuador",
+            "value": 248360,
+            "display": "248.400 km²"
+          },
+          {
+            "id": "GT",
+            "iso": "GT",
+            "name": "Guatemala",
+            "value": 107160,
+            "display": "107.200 km²"
+          },
+          {
+            "id": "PA",
+            "iso": "PA",
+            "name": "Panama",
+            "value": 74180,
+            "display": "74.200 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-ebee4bcb2fd285eb0f07",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Landfläche auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Venezuela",
+      "Ecuador",
+      "Peru",
+      "Bolivien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Venezuela ist richtig. Vergleichswerte, absteigend: Peru (1.280.000 km²) · Bolivien (1.088.000 km²) · Venezuela (882.000 km²) · Ecuador (248.400 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:ebee4bcb2fd285eb0f07",
+      "topic": "Größenvergleiche",
+      "iso": "VE",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "PE",
+            "iso": "PE",
+            "name": "Peru",
+            "value": 1280000,
+            "display": "1.280.000 km²"
+          },
+          {
+            "id": "BO",
+            "iso": "BO",
+            "name": "Bolivien",
+            "value": 1087959.02,
+            "display": "1.088.000 km²"
+          },
+          {
+            "id": "VE",
+            "iso": "VE",
+            "name": "Venezuela",
+            "value": 882050,
+            "display": "882.000 km²"
+          },
+          {
+            "id": "EC",
+            "iso": "EC",
+            "name": "Ecuador",
+            "value": 248360,
+            "display": "248.400 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-9ad79fe87ea7753f7077",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Landfläche auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Papua-Neuguinea",
+      "Norwegen",
+      "Ukraine",
+      "Indien"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Papua-Neuguinea ist richtig. Vergleichswerte, absteigend: Indien (2.973.200 km²) · Ukraine (579.400 km²) · Papua-Neuguinea (452.900 km²) · Norwegen (364.300 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:9ad79fe87ea7753f7077",
+      "topic": "Größenvergleiche",
+      "iso": "PG",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "IN",
+            "iso": "IN",
+            "name": "Indien",
+            "value": 2973190,
+            "display": "2.973.200 km²"
+          },
+          {
+            "id": "UA",
+            "iso": "UA",
+            "name": "Ukraine",
+            "value": 579400,
+            "display": "579.400 km²"
+          },
+          {
+            "id": "PG",
+            "iso": "PG",
+            "name": "Papua-Neuguinea",
+            "value": 452860,
+            "display": "452.900 km²"
+          },
+          {
+            "id": "NO",
+            "iso": "NO",
+            "name": "Norwegen",
+            "value": 364270,
+            "display": "364.300 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-ef6df1de27de924849be",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Landfläche auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Bulgarien",
+      "Litauen",
+      "Kambodscha",
+      "Belgien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Litauen ist richtig. Vergleichswerte, absteigend: Kambodscha (176.500 km²) · Bulgarien (108.600 km²) · Litauen (62.600 km²) · Belgien (30.500 km²). Gezählt wird Landfläche ohne Binnengewässer.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+        "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:ef6df1de27de924849be",
+      "topic": "Größenvergleiche",
+      "iso": "LT",
+      "comparison": {
+        "metric": "land",
+        "label": "Landfläche",
+        "year": 2023,
+        "unit": "km²",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.17,
+        "values": [
+          {
+            "id": "KH",
+            "iso": "KH",
+            "name": "Kambodscha",
+            "value": 176520,
+            "display": "176.500 km²"
+          },
+          {
+            "id": "BG",
+            "iso": "BG",
+            "name": "Bulgarien",
+            "value": 108560,
+            "display": "108.600 km²"
+          },
+          {
+            "id": "LT",
+            "iso": "LT",
+            "name": "Litauen",
+            "value": 62600,
+            "display": "62.600 km²"
+          },
+          {
+            "id": "BE",
+            "iso": "BE",
+            "name": "Belgien",
+            "value": 30494,
+            "display": "30.500 km²"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-3d4cf0b0b3c5580edf56",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die höchste Einwohnerzahl? Weltbank, 2023.",
+    "options": [
+      "Jordanien",
+      "Kambodscha",
+      "Italien",
+      "Saudi-Arabien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Italien ist richtig. Vergleichswerte, absteigend: Italien (59,0 Mio. Einwohner) · Saudi-Arabien (33,7 Mio. Einwohner) · Kambodscha (17,4 Mio. Einwohner) · Jordanien (11,4 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:3d4cf0b0b3c5580edf56",
+      "topic": "Größenvergleiche",
+      "iso": "IT",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "IT",
+            "iso": "IT",
+            "name": "Italien",
+            "value": 58984216,
+            "display": "59,0 Mio. Einwohner"
+          },
+          {
+            "id": "SA",
+            "iso": "SA",
+            "name": "Saudi-Arabien",
+            "value": 33702731,
+            "display": "33,7 Mio. Einwohner"
+          },
+          {
+            "id": "KH",
+            "iso": "KH",
+            "name": "Kambodscha",
+            "value": 17423880,
+            "display": "17,4 Mio. Einwohner"
+          },
+          {
+            "id": "JO",
+            "iso": "JO",
+            "name": "Jordanien",
+            "value": 11439213,
+            "display": "11,4 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-f30a893a0ab70dde8845",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die höchste Einwohnerzahl? Weltbank, 2023.",
+    "options": [
+      "Usbekistan",
+      "Ecuador",
+      "Honduras",
+      "Paraguay"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Usbekistan ist richtig. Vergleichswerte, absteigend: Usbekistan (35,7 Mio. Einwohner) · Ecuador (18,0 Mio. Einwohner) · Honduras (10,6 Mio. Einwohner) · Paraguay (6,8 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:f30a893a0ab70dde8845",
+      "topic": "Größenvergleiche",
+      "iso": "UZ",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "UZ",
+            "iso": "UZ",
+            "name": "Usbekistan",
+            "value": 35652307,
+            "display": "35,7 Mio. Einwohner"
+          },
+          {
+            "id": "EC",
+            "iso": "EC",
+            "name": "Ecuador",
+            "value": 17980083,
+            "display": "18,0 Mio. Einwohner"
+          },
+          {
+            "id": "HN",
+            "iso": "HN",
+            "name": "Honduras",
+            "value": 10644851,
+            "display": "10,6 Mio. Einwohner"
+          },
+          {
+            "id": "PY",
+            "iso": "PY",
+            "name": "Paraguay",
+            "value": 6844146,
+            "display": "6,8 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-939c15ec52ef0ce978cf",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die höchste Einwohnerzahl? Weltbank, 2023.",
+    "options": [
+      "Guatemala",
+      "Haiti",
+      "Kanada",
+      "Nicaragua"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Kanada ist richtig. Vergleichswerte, absteigend: Kanada (40,0 Mio. Einwohner) · Guatemala (18,1 Mio. Einwohner) · Haiti (11,6 Mio. Einwohner) · Nicaragua (6,8 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:939c15ec52ef0ce978cf",
+      "topic": "Größenvergleiche",
+      "iso": "CA",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "CA",
+            "iso": "CA",
+            "name": "Kanada",
+            "value": 40049088,
+            "display": "40,0 Mio. Einwohner"
+          },
+          {
+            "id": "GT",
+            "iso": "GT",
+            "name": "Guatemala",
+            "value": 18124838,
+            "display": "18,1 Mio. Einwohner"
+          },
+          {
+            "id": "HT",
+            "iso": "HT",
+            "name": "Haiti",
+            "value": 11637398,
+            "display": "11,6 Mio. Einwohner"
+          },
+          {
+            "id": "NI",
+            "iso": "NI",
+            "name": "Nicaragua",
+            "value": 6823613,
+            "display": "6,8 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-6f4563b373b757a43277",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welches Land hat die höchste Einwohnerzahl? Weltbank, 2023.",
+    "options": [
+      "Oman",
+      "Vereinigte Arabische Emirate",
+      "Chile",
+      "Kroatien"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Chile ist richtig. Vergleichswerte, absteigend: Chile (19,7 Mio. Einwohner) · Vereinigte Arabische Emirate (10,5 Mio. Einwohner) · Oman (5,0 Mio. Einwohner) · Kroatien (3,9 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:6f4563b373b757a43277",
+      "topic": "Größenvergleiche",
+      "iso": "CL",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "CL",
+            "iso": "CL",
+            "name": "Chile",
+            "value": 19658835,
+            "display": "19,7 Mio. Einwohner"
+          },
+          {
+            "id": "AE",
+            "iso": "AE",
+            "name": "Vereinigte Arabische Emirate",
+            "value": 10483751,
+            "display": "10,5 Mio. Einwohner"
+          },
+          {
+            "id": "OM",
+            "iso": "OM",
+            "name": "Oman",
+            "value": 5049269,
+            "display": "5,0 Mio. Einwohner"
+          },
+          {
+            "id": "HR",
+            "iso": "HR",
+            "name": "Kroatien",
+            "value": 3859686,
+            "display": "3,9 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-7c28056ed349e595e907",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die niedrigste Einwohnerzahl? Weltbank, 2023.",
+    "options": [
+      "Vanuatu",
+      "Fidschi",
+      "Samoa",
+      "Estland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Samoa ist richtig. Vergleichswerte, absteigend: Estland (1,4 Mio. Einwohner) · Fidschi (924.000 Einwohner) · Vanuatu (320.000 Einwohner) · Samoa (217.000 Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:7c28056ed349e595e907",
+      "topic": "Größenvergleiche",
+      "iso": "WS",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "EE",
+            "iso": "EE",
+            "name": "Estland",
+            "value": 1370286,
+            "display": "1,4 Mio. Einwohner"
+          },
+          {
+            "id": "FJ",
+            "iso": "FJ",
+            "name": "Fidschi",
+            "value": 924145,
+            "display": "924.000 Einwohner"
+          },
+          {
+            "id": "VU",
+            "iso": "VU",
+            "name": "Vanuatu",
+            "value": 320409,
+            "display": "320.000 Einwohner"
+          },
+          {
+            "id": "WS",
+            "iso": "WS",
+            "name": "Samoa",
+            "value": 216663,
+            "display": "217.000 Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-f679fc2eccd22832b13a",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die niedrigste Einwohnerzahl? Weltbank, 2023.",
+    "options": [
+      "Griechenland",
+      "Slowakei",
+      "Venezuela",
+      "Sri Lanka"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Slowakei ist richtig. Vergleichswerte, absteigend: Venezuela (28,3 Mio. Einwohner) · Sri Lanka (22,0 Mio. Einwohner) · Griechenland (10,4 Mio. Einwohner) · Slowakei (5,4 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:f679fc2eccd22832b13a",
+      "topic": "Größenvergleiche",
+      "iso": "SK",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "VE",
+            "iso": "VE",
+            "name": "Venezuela",
+            "value": 28300854,
+            "display": "28,3 Mio. Einwohner"
+          },
+          {
+            "id": "LK",
+            "iso": "LK",
+            "name": "Sri Lanka",
+            "value": 22037000,
+            "display": "22,0 Mio. Einwohner"
+          },
+          {
+            "id": "GR",
+            "iso": "GR",
+            "name": "Griechenland",
+            "value": 10407351,
+            "display": "10,4 Mio. Einwohner"
+          },
+          {
+            "id": "SK",
+            "iso": "SK",
+            "name": "Slowakei",
+            "value": 5426740,
+            "display": "5,4 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-4659aeff7e130212ded9",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die niedrigste Einwohnerzahl? Weltbank, 2023.",
+    "options": [
+      "Finnland",
+      "Ungarn",
+      "Mongolei",
+      "Niederlande"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Mongolei ist richtig. Vergleichswerte, absteigend: Niederlande (17,9 Mio. Einwohner) · Ungarn (9,6 Mio. Einwohner) · Finnland (5,6 Mio. Einwohner) · Mongolei (3,5 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:4659aeff7e130212ded9",
+      "topic": "Größenvergleiche",
+      "iso": "MN",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "NL",
+            "iso": "NL",
+            "name": "Niederlande",
+            "value": 17877117,
+            "display": "17,9 Mio. Einwohner"
+          },
+          {
+            "id": "HU",
+            "iso": "HU",
+            "name": "Ungarn",
+            "value": 9592186,
+            "display": "9,6 Mio. Einwohner"
+          },
+          {
+            "id": "FI",
+            "iso": "FI",
+            "name": "Finnland",
+            "value": 5583911,
+            "display": "5,6 Mio. Einwohner"
+          },
+          {
+            "id": "MN",
+            "iso": "MN",
+            "name": "Mongolei",
+            "value": 3481145,
+            "display": "3,5 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-b55fd3d07a60b57f4560",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welches Land hat die niedrigste Einwohnerzahl? Weltbank, 2023.",
+    "options": [
+      "Bolivien",
+      "Bulgarien",
+      "Jamaika",
+      "Kasachstan"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Jamaika ist richtig. Vergleichswerte, absteigend: Kasachstan (20,3 Mio. Einwohner) · Bolivien (12,2 Mio. Einwohner) · Bulgarien (6,4 Mio. Einwohner) · Jamaika (2,8 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:b55fd3d07a60b57f4560",
+      "topic": "Größenvergleiche",
+      "iso": "JM",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "KZ",
+            "iso": "KZ",
+            "name": "Kasachstan",
+            "value": 20330104,
+            "display": "20,3 Mio. Einwohner"
+          },
+          {
+            "id": "BO",
+            "iso": "BO",
+            "name": "Bolivien",
+            "value": 12244159,
+            "display": "12,2 Mio. Einwohner"
+          },
+          {
+            "id": "BG",
+            "iso": "BG",
+            "name": "Bulgarien",
+            "value": 6446596,
+            "display": "6,4 Mio. Einwohner"
+          },
+          {
+            "id": "JM",
+            "iso": "JM",
+            "name": "Jamaika",
+            "value": 2839786,
+            "display": "2,8 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-cb132d0845179f35ae23",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Einwohnerzahl auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Australien",
+      "Kolumbien",
+      "Peru",
+      "Papua-Neuguinea"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Peru ist richtig. Vergleichswerte, absteigend: Kolumbien (52,3 Mio. Einwohner) · Peru (33,8 Mio. Einwohner) · Australien (26,7 Mio. Einwohner) · Papua-Neuguinea (10,4 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:cb132d0845179f35ae23",
+      "topic": "Größenvergleiche",
+      "iso": "PE",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "CO",
+            "iso": "CO",
+            "name": "Kolumbien",
+            "value": 52321152,
+            "display": "52,3 Mio. Einwohner"
+          },
+          {
+            "id": "PE",
+            "iso": "PE",
+            "name": "Peru",
+            "value": 33845617,
+            "display": "33,8 Mio. Einwohner"
+          },
+          {
+            "id": "AU",
+            "iso": "AU",
+            "name": "Australien",
+            "value": 26659922,
+            "display": "26,7 Mio. Einwohner"
+          },
+          {
+            "id": "PG",
+            "iso": "PG",
+            "name": "Papua-Neuguinea",
+            "value": 10389635,
+            "display": "10,4 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-c137a621f18feb6a46f4",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Einwohnerzahl auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Griechenland",
+      "Australien",
+      "Thailand",
+      "Rumänien"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Australien ist richtig. Vergleichswerte, absteigend: Thailand (71,7 Mio. Einwohner) · Australien (26,7 Mio. Einwohner) · Rumänien (19,1 Mio. Einwohner) · Griechenland (10,4 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:c137a621f18feb6a46f4",
+      "topic": "Größenvergleiche",
+      "iso": "AU",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "TH",
+            "iso": "TH",
+            "name": "Thailand",
+            "value": 71702435,
+            "display": "71,7 Mio. Einwohner"
+          },
+          {
+            "id": "AU",
+            "iso": "AU",
+            "name": "Australien",
+            "value": 26659922,
+            "display": "26,7 Mio. Einwohner"
+          },
+          {
+            "id": "RO",
+            "iso": "RO",
+            "name": "Rumänien",
+            "value": 19061062,
+            "display": "19,1 Mio. Einwohner"
+          },
+          {
+            "id": "GR",
+            "iso": "GR",
+            "name": "Griechenland",
+            "value": 10407351,
+            "display": "10,4 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-244f71b0e3440d00d47d",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Einwohnerzahl auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Österreich",
+      "Slowenien",
+      "Belgien",
+      "Litauen"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Österreich ist richtig. Vergleichswerte, absteigend: Belgien (11,8 Mio. Einwohner) · Österreich (9,1 Mio. Einwohner) · Litauen (2,9 Mio. Einwohner) · Slowenien (2,1 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:244f71b0e3440d00d47d",
+      "topic": "Größenvergleiche",
+      "iso": "AT",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "BE",
+            "iso": "BE",
+            "name": "Belgien",
+            "value": 11779946,
+            "display": "11,8 Mio. Einwohner"
+          },
+          {
+            "id": "AT",
+            "iso": "AT",
+            "name": "Österreich",
+            "value": 9131761,
+            "display": "9,1 Mio. Einwohner"
+          },
+          {
+            "id": "LT",
+            "iso": "LT",
+            "name": "Litauen",
+            "value": 2871585,
+            "display": "2,9 Mio. Einwohner"
+          },
+          {
+            "id": "SI",
+            "iso": "SI",
+            "name": "Slowenien",
+            "value": 2120461,
+            "display": "2,1 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-5ec9e0168a4ae7bfd694",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Einwohnerzahl auf Platz 2? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Argentinien",
+      "Nepal",
+      "Mexiko",
+      "Türkei"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Türkei ist richtig. Vergleichswerte, absteigend: Mexiko (129,7 Mio. Einwohner) · Türkei (85,3 Mio. Einwohner) · Argentinien (45,5 Mio. Einwohner) · Nepal (29,7 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:5ec9e0168a4ae7bfd694",
+      "topic": "Größenvergleiche",
+      "iso": "TR",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "MX",
+            "iso": "MX",
+            "name": "Mexiko",
+            "value": 129739759,
+            "display": "129,7 Mio. Einwohner"
+          },
+          {
+            "id": "TR",
+            "iso": "TR",
+            "name": "Türkei",
+            "value": 85325965,
+            "display": "85,3 Mio. Einwohner"
+          },
+          {
+            "id": "AR",
+            "iso": "AR",
+            "name": "Argentinien",
+            "value": 45538401,
+            "display": "45,5 Mio. Einwohner"
+          },
+          {
+            "id": "NP",
+            "iso": "NP",
+            "name": "Nepal",
+            "value": 29694614,
+            "display": "29,7 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-3384630a2ec5bba76322",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Einwohnerzahl auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Uruguay",
+      "Costa Rica",
+      "Rumänien",
+      "Portugal"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Costa Rica ist richtig. Vergleichswerte, absteigend: Rumänien (19,1 Mio. Einwohner) · Portugal (10,6 Mio. Einwohner) · Costa Rica (5,1 Mio. Einwohner) · Uruguay (3,4 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:3384630a2ec5bba76322",
+      "topic": "Größenvergleiche",
+      "iso": "CR",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "RO",
+            "iso": "RO",
+            "name": "Rumänien",
+            "value": 19061062,
+            "display": "19,1 Mio. Einwohner"
+          },
+          {
+            "id": "PT",
+            "iso": "PT",
+            "name": "Portugal",
+            "value": 10578174,
+            "display": "10,6 Mio. Einwohner"
+          },
+          {
+            "id": "CR",
+            "iso": "CR",
+            "name": "Costa Rica",
+            "value": 5105525,
+            "display": "5,1 Mio. Einwohner"
+          },
+          {
+            "id": "UY",
+            "iso": "UY",
+            "name": "Uruguay",
+            "value": 3388081,
+            "display": "3,4 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-11120717ddc93ded38cc",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Einwohnerzahl auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Tschechien",
+      "Thailand",
+      "Venezuela",
+      "Ukraine"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Venezuela ist richtig. Vergleichswerte, absteigend: Thailand (71,7 Mio. Einwohner) · Ukraine (37,7 Mio. Einwohner) · Venezuela (28,3 Mio. Einwohner) · Tschechien (10,9 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:11120717ddc93ded38cc",
+      "topic": "Größenvergleiche",
+      "iso": "VE",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "TH",
+            "iso": "TH",
+            "name": "Thailand",
+            "value": 71702435,
+            "display": "71,7 Mio. Einwohner"
+          },
+          {
+            "id": "UA",
+            "iso": "UA",
+            "name": "Ukraine",
+            "value": 37732836,
+            "display": "37,7 Mio. Einwohner"
+          },
+          {
+            "id": "VE",
+            "iso": "VE",
+            "name": "Venezuela",
+            "value": 28300854,
+            "display": "28,3 Mio. Einwohner"
+          },
+          {
+            "id": "CZ",
+            "iso": "CZ",
+            "name": "Tschechien",
+            "value": 10864042,
+            "display": "10,9 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-ef7ec58558d6769dcefd",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Einwohnerzahl auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Haiti",
+      "Neuseeland",
+      "Mongolei",
+      "Ecuador"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Neuseeland ist richtig. Vergleichswerte, absteigend: Ecuador (18,0 Mio. Einwohner) · Haiti (11,6 Mio. Einwohner) · Neuseeland (5,2 Mio. Einwohner) · Mongolei (3,5 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:ef7ec58558d6769dcefd",
+      "topic": "Größenvergleiche",
+      "iso": "NZ",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "EC",
+            "iso": "EC",
+            "name": "Ecuador",
+            "value": 17980083,
+            "display": "18,0 Mio. Einwohner"
+          },
+          {
+            "id": "HT",
+            "iso": "HT",
+            "name": "Haiti",
+            "value": 11637398,
+            "display": "11,6 Mio. Einwohner"
+          },
+          {
+            "id": "NZ",
+            "iso": "NZ",
+            "name": "Neuseeland",
+            "value": 5200000,
+            "display": "5,2 Mio. Einwohner"
+          },
+          {
+            "id": "MN",
+            "iso": "MN",
+            "name": "Mongolei",
+            "value": 3481145,
+            "display": "3,5 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-7b9b243c953d596515d4",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welches Land liegt bei der Einwohnerzahl auf Platz 3? Sortierung absteigend. Weltbank, 2023.",
+    "options": [
+      "Dominikanische Republik",
+      "Paraguay",
+      "Irland",
+      "Lettland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Irland ist richtig. Vergleichswerte, absteigend: Dominikanische Republik (11,3 Mio. Einwohner) · Paraguay (6,8 Mio. Einwohner) · Irland (5,3 Mio. Einwohner) · Lettland (1,9 Mio. Einwohner).",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://data.worldbank.org/indicator/SP.POP.TOTL",
+        "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350"
+      ],
+      "subjectKey": "world:comparison:7b9b243c953d596515d4",
+      "topic": "Größenvergleiche",
+      "iso": "IE",
+      "comparison": {
+        "metric": "population",
+        "label": "Einwohnerzahl",
+        "year": 2023,
+        "unit": "Einwohner",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.24,
+        "values": [
+          {
+            "id": "DO",
+            "iso": "DO",
+            "name": "Dominikanische Republik",
+            "value": 11331265,
+            "display": "11,3 Mio. Einwohner"
+          },
+          {
+            "id": "PY",
+            "iso": "PY",
+            "name": "Paraguay",
+            "value": 6844146,
+            "display": "6,8 Mio. Einwohner"
+          },
+          {
+            "id": "IE",
+            "iso": "IE",
+            "name": "Irland",
+            "value": 5311538,
+            "display": "5,3 Mio. Einwohner"
+          },
+          {
+            "id": "LV",
+            "iso": "LV",
+            "name": "Lettland",
+            "value": 1883710,
+            "display": "1,9 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-5f048a2e0dd853a405e7",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welche Stadt hat die höchste Einwohnerzahl? Urbane Zentren, UN 2025.",
+    "options": [
+      "München",
+      "Barcelona",
+      "Rom",
+      "Paris"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Paris ist richtig. Vergleichswerte, absteigend: Paris (9,4 Mio. Einwohner) · Barcelona (4,0 Mio. Einwohner) · Rom (2,4 Mio. Einwohner) · München (1,8 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:5f048a2e0dd853a405e7",
+      "topic": "Größenvergleiche",
+      "iso": "FR",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-2994",
+            "iso": "FR",
+            "name": "Paris",
+            "value": 9381921,
+            "display": "9,4 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-5068",
+            "iso": "ES",
+            "name": "Barcelona",
+            "value": 3982704,
+            "display": "4,0 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-4156",
+            "iso": "IT",
+            "name": "Rom",
+            "value": 2376474,
+            "display": "2,4 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-5337",
+            "iso": "DE",
+            "name": "München",
+            "value": 1815022,
+            "display": "1,8 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-80022064689bb260aad5",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welche Stadt hat die höchste Einwohnerzahl? Urbane Zentren, UN 2025.",
+    "options": [
+      "Houston",
+      "Manchester",
+      "Bengaluru",
+      "Bagdad"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Bengaluru ist richtig. Vergleichswerte, absteigend: Bengaluru (13,2 Mio. Einwohner) · Bagdad (6,4 Mio. Einwohner) · Houston (4,0 Mio. Einwohner) · Manchester (2,5 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:80022064689bb260aad5",
+      "topic": "Größenvergleiche",
+      "iso": "IN",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-9949",
+            "iso": "IN",
+            "name": "Bengaluru",
+            "value": 13187098,
+            "display": "13,2 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3303",
+            "iso": "IQ",
+            "name": "Bagdad",
+            "value": 6390735,
+            "display": "6,4 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-6237",
+            "iso": "US",
+            "name": "Houston",
+            "value": 3955046,
+            "display": "4,0 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3388",
+            "iso": "GB",
+            "name": "Manchester",
+            "value": 2535427,
+            "display": "2,5 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-5914a9576df72729daa7",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welche Stadt hat die höchste Einwohnerzahl? Urbane Zentren, UN 2025.",
+    "options": [
+      "Montreal",
+      "Toronto",
+      "New York City",
+      "Chicago"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "New York City ist richtig. Vergleichswerte, absteigend: New York City (13,9 Mio. Einwohner) · Toronto (5,5 Mio. Einwohner) · Chicago (3,7 Mio. Einwohner) · Montreal (2,7 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:5914a9576df72729daa7",
+      "topic": "Größenvergleiche",
+      "iso": "US",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-8354",
+            "iso": "US",
+            "name": "New York City",
+            "value": 13920148,
+            "display": "13,9 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-2925",
+            "iso": "CA",
+            "name": "Toronto",
+            "value": 5494431,
+            "display": "5,5 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-7747",
+            "iso": "US",
+            "name": "Chicago",
+            "value": 3683385,
+            "display": "3,7 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3645",
+            "iso": "CA",
+            "name": "Montreal",
+            "value": 2668723,
+            "display": "2,7 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-b19981656912ecab189d",
+    "category": "world",
+    "difficulty": 1,
+    "prompt": "Welche Stadt hat die höchste Einwohnerzahl? Urbane Zentren, UN 2025.",
+    "options": [
+      "Buenos Aires",
+      "Neapel",
+      "Berlin",
+      "Bogotá"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Buenos Aires ist richtig. Vergleichswerte, absteigend: Buenos Aires (14,0 Mio. Einwohner) · Bogotá (10,6 Mio. Einwohner) · Berlin (3,6 Mio. Einwohner) · Neapel (2,8 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:b19981656912ecab189d",
+      "topic": "Größenvergleiche",
+      "iso": "AR",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "max",
+        "rank": 1,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-4459",
+            "iso": "AR",
+            "name": "Buenos Aires",
+            "value": 14017736,
+            "display": "14,0 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3883",
+            "iso": "CO",
+            "name": "Bogotá",
+            "value": 10624315,
+            "display": "10,6 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-5576",
+            "iso": "DE",
+            "name": "Berlin",
+            "value": 3560908,
+            "display": "3,6 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-4726",
+            "iso": "IT",
+            "name": "Neapel",
+            "value": 2767923,
+            "display": "2,8 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-3aac5ae77beb549368a8",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Stadt hat die niedrigste Einwohnerzahl? Urbane Zentren, UN 2025.",
+    "options": [
+      "London",
+      "Singapur",
+      "Bangkok",
+      "Melbourne"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Melbourne ist richtig. Vergleichswerte, absteigend: Bangkok (18,2 Mio. Einwohner) · London (10,4 Mio. Einwohner) · Singapur (5,0 Mio. Einwohner) · Melbourne (3,6 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:3aac5ae77beb549368a8",
+      "topic": "Größenvergleiche",
+      "iso": "AU",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-2286",
+            "iso": "TH",
+            "name": "Bangkok",
+            "value": 18180280,
+            "display": "18,2 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-5938",
+            "iso": "GB",
+            "name": "London",
+            "value": 10416420,
+            "display": "10,4 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-165",
+            "iso": "SG",
+            "name": "Singapur",
+            "value": 4963998,
+            "display": "5,0 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-1634",
+            "iso": "AU",
+            "name": "Melbourne",
+            "value": 3639893,
+            "display": "3,6 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-7894e2250cc61e7fc90c",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Stadt hat die niedrigste Einwohnerzahl? Urbane Zentren, UN 2025.",
+    "options": [
+      "Neu-Delhi",
+      "Rio de Janeiro",
+      "Shenzhen",
+      "Madrid"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Madrid ist richtig. Vergleichswerte, absteigend: Neu-Delhi (30,2 Mio. Einwohner) · Shenzhen (13,9 Mio. Einwohner) · Rio de Janeiro (9,5 Mio. Einwohner) · Madrid (5,6 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:7894e2250cc61e7fc90c",
+      "topic": "Größenvergleiche",
+      "iso": "ES",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-8364",
+            "iso": "IN",
+            "name": "Neu-Delhi",
+            "value": 30222405,
+            "display": "30,2 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-11478",
+            "iso": "CN",
+            "name": "Shenzhen",
+            "value": 13878396,
+            "display": "13,9 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-7935",
+            "iso": "BR",
+            "name": "Rio de Janeiro",
+            "value": 9500336,
+            "display": "9,5 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3440",
+            "iso": "ES",
+            "name": "Madrid",
+            "value": 5583601,
+            "display": "5,6 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-a478f3d2927556718f39",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Stadt hat die niedrigste Einwohnerzahl? Urbane Zentren, UN 2025.",
+    "options": [
+      "Nagoya",
+      "Karachi",
+      "Guangzhou",
+      "Dubai"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Dubai ist richtig. Vergleichswerte, absteigend: Guangzhou (27,6 Mio. Einwohner) · Karachi (21,4 Mio. Einwohner) · Nagoya (7,1 Mio. Einwohner) · Dubai (5,3 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:a478f3d2927556718f39",
+      "topic": "Größenvergleiche",
+      "iso": "AE",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-11306",
+            "iso": "CN",
+            "name": "Guangzhou",
+            "value": 27563372,
+            "display": "27,6 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-2578",
+            "iso": "PK",
+            "name": "Karachi",
+            "value": 21422590,
+            "display": "21,4 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-5245",
+            "iso": "JP",
+            "name": "Nagoya",
+            "value": 7146160,
+            "display": "7,1 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-865",
+            "iso": "AE",
+            "name": "Dubai",
+            "value": 5283789,
+            "display": "5,3 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-c92c5f382ef4e0578e8a",
+    "category": "world",
+    "difficulty": 2,
+    "prompt": "Welche Stadt hat die niedrigste Einwohnerzahl? Urbane Zentren, UN 2025.",
+    "options": [
+      "Singapur",
+      "Santiago de Chile",
+      "Vancouver",
+      "Chennai"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Vancouver ist richtig. Vergleichswerte, absteigend: Chennai (11,2 Mio. Einwohner) · Santiago de Chile (6,7 Mio. Einwohner) · Singapur (5,0 Mio. Einwohner) · Vancouver (1,7 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:c92c5f382ef4e0578e8a",
+      "topic": "Größenvergleiche",
+      "iso": "CA",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "min",
+        "rank": 4,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-10747",
+            "iso": "IN",
+            "name": "Chennai",
+            "value": 11153205,
+            "display": "11,2 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-2380",
+            "iso": "CL",
+            "name": "Santiago de Chile",
+            "value": 6726045,
+            "display": "6,7 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-165",
+            "iso": "SG",
+            "name": "Singapur",
+            "value": 4963998,
+            "display": "5,0 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-341",
+            "iso": "CA",
+            "name": "Vancouver",
+            "value": 1707865,
+            "display": "1,7 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-20afcba0c369ff97d8c1",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Stadt liegt bei der Einwohnerzahl auf Platz 2? Sortierung absteigend. Urbane Zentren, UN 2025.",
+    "options": [
+      "Bandung",
+      "Wien",
+      "Budapest",
+      "Medellín"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Medellín ist richtig. Vergleichswerte, absteigend: Bandung (8,9 Mio. Einwohner) · Medellín (3,4 Mio. Einwohner) · Wien (2,0 Mio. Einwohner) · Budapest (1,6 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:20afcba0c369ff97d8c1",
+      "topic": "Größenvergleiche",
+      "iso": "CO",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-5991",
+            "iso": "ID",
+            "name": "Bandung",
+            "value": 8909104,
+            "display": "8,9 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-2525",
+            "iso": "CO",
+            "name": "Medellín",
+            "value": 3350384,
+            "display": "3,4 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-1054",
+            "iso": "AT",
+            "name": "Wien",
+            "value": 2031326,
+            "display": "2,0 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-942",
+            "iso": "HU",
+            "name": "Budapest",
+            "value": 1609260,
+            "display": "1,6 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-9d8c6f6876c694622d33",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Stadt liegt bei der Einwohnerzahl auf Platz 2? Sortierung absteigend. Urbane Zentren, UN 2025.",
+    "options": [
+      "Lima",
+      "Lissabon",
+      "Sydney",
+      "Auckland"
+    ],
+    "correct": 2,
+    "enabled": true,
+    "explanation": "Sydney ist richtig. Vergleichswerte, absteigend: Lima (10,6 Mio. Einwohner) · Sydney (4,2 Mio. Einwohner) · Lissabon (1,9 Mio. Einwohner) · Auckland (1,1 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:9d8c6f6876c694622d33",
+      "topic": "Größenvergleiche",
+      "iso": "AU",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-1987",
+            "iso": "PE",
+            "name": "Lima",
+            "value": 10580241,
+            "display": "10,6 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-2139",
+            "iso": "AU",
+            "name": "Sydney",
+            "value": 4150917,
+            "display": "4,2 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-217",
+            "iso": "PT",
+            "name": "Lissabon",
+            "value": 1913798,
+            "display": "1,9 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-1005",
+            "iso": "NZ",
+            "name": "Auckland",
+            "value": 1123094,
+            "display": "1,1 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-9c0650122c19dc9ea85b",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Stadt liegt bei der Einwohnerzahl auf Platz 2? Sortierung absteigend. Urbane Zentren, UN 2025.",
+    "options": [
+      "Hamburg",
+      "Köln",
+      "Mailand",
+      "Genf"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Hamburg ist richtig. Vergleichswerte, absteigend: Mailand (2,6 Mio. Einwohner) · Hamburg (1,8 Mio. Einwohner) · Köln (1,1 Mio. Einwohner) · Genf (437.000 Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:9c0650122c19dc9ea85b",
+      "topic": "Größenvergleiche",
+      "iso": "DE",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-1848",
+            "iso": "IT",
+            "name": "Mailand",
+            "value": 2599022,
+            "display": "2,6 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-4278",
+            "iso": "DE",
+            "name": "Hamburg",
+            "value": 1759377,
+            "display": "1,8 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-1160",
+            "iso": "DE",
+            "name": "Köln",
+            "value": 1125292,
+            "display": "1,1 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-60",
+            "iso": "CH",
+            "name": "Genf",
+            "value": 436587,
+            "display": "437.000 Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-56705226cb57ce72b11b",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Stadt liegt bei der Einwohnerzahl auf Platz 2? Sortierung absteigend. Urbane Zentren, UN 2025.",
+    "options": [
+      "Ankara",
+      "Lyon",
+      "Manchester",
+      "Riad"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Ankara ist richtig. Vergleichswerte, absteigend: Riad (6,9 Mio. Einwohner) · Ankara (3,6 Mio. Einwohner) · Manchester (2,5 Mio. Einwohner) · Lyon (1,2 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:56705226cb57ce72b11b",
+      "topic": "Größenvergleiche",
+      "iso": "TR",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "rank2",
+        "rank": 2,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-2961",
+            "iso": "SA",
+            "name": "Riad",
+            "value": 6916417,
+            "display": "6,9 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-4941",
+            "iso": "TR",
+            "name": "Ankara",
+            "value": 3612251,
+            "display": "3,6 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3388",
+            "iso": "GB",
+            "name": "Manchester",
+            "value": 2535427,
+            "display": "2,5 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-4068",
+            "iso": "FR",
+            "name": "Lyon",
+            "value": 1202985,
+            "display": "1,2 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-a0a3b6eaaefa11055532",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Stadt liegt bei der Einwohnerzahl auf Platz 3? Sortierung absteigend. Urbane Zentren, UN 2025.",
+    "options": [
+      "Mexiko-Stadt",
+      "Los Angeles",
+      "Washington, D.C.",
+      "Guadalajara"
+    ],
+    "correct": 3,
+    "enabled": true,
+    "explanation": "Guadalajara ist richtig. Vergleichswerte, absteigend: Mexiko-Stadt (17,7 Mio. Einwohner) · Los Angeles (12,7 Mio. Einwohner) · Guadalajara (4,1 Mio. Einwohner) · Washington, D.C. (3,3 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:a0a3b6eaaefa11055532",
+      "topic": "Größenvergleiche",
+      "iso": "MX",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-5439",
+            "iso": "MX",
+            "name": "Mexiko-Stadt",
+            "value": 17734212,
+            "display": "17,7 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-1725",
+            "iso": "US",
+            "name": "Los Angeles",
+            "value": 12740420,
+            "display": "12,7 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3099",
+            "iso": "MX",
+            "name": "Guadalajara",
+            "value": 4135440,
+            "display": "4,1 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-8123",
+            "iso": "US",
+            "name": "Washington, D.C.",
+            "value": 3270018,
+            "display": "3,3 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-ec4c1d8230248ec815b3",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Stadt liegt bei der Einwohnerzahl auf Platz 3? Sortierung absteigend. Urbane Zentren, UN 2025.",
+    "options": [
+      "San Francisco",
+      "Rio de Janeiro",
+      "Mumbai",
+      "Osaka"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Rio de Janeiro ist richtig. Vergleichswerte, absteigend: Mumbai (20,2 Mio. Einwohner) · Osaka (13,0 Mio. Einwohner) · Rio de Janeiro (9,5 Mio. Einwohner) · San Francisco (3,2 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:ec4c1d8230248ec815b3",
+      "topic": "Größenvergleiche",
+      "iso": "BR",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-7945",
+            "iso": "IN",
+            "name": "Mumbai",
+            "value": 20203056,
+            "display": "20,2 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-4490",
+            "iso": "JP",
+            "name": "Osaka",
+            "value": 12964145,
+            "display": "13,0 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-7935",
+            "iso": "BR",
+            "name": "Rio de Janeiro",
+            "value": 9500336,
+            "display": "9,5 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-1233",
+            "iso": "US",
+            "name": "San Francisco",
+            "value": 3163486,
+            "display": "3,2 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-c26a6e03405b1b19e3f1",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Stadt liegt bei der Einwohnerzahl auf Platz 3? Sortierung absteigend. Urbane Zentren, UN 2025.",
+    "options": [
+      "Auckland",
+      "Sydney",
+      "Oslo",
+      "Hamburg"
+    ],
+    "correct": 0,
+    "enabled": true,
+    "explanation": "Auckland ist richtig. Vergleichswerte, absteigend: Sydney (4,2 Mio. Einwohner) · Hamburg (1,8 Mio. Einwohner) · Auckland (1,1 Mio. Einwohner) · Oslo (875.000 Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:c26a6e03405b1b19e3f1",
+      "topic": "Größenvergleiche",
+      "iso": "NZ",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-2139",
+            "iso": "AU",
+            "name": "Sydney",
+            "value": 4150917,
+            "display": "4,2 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-4278",
+            "iso": "DE",
+            "name": "Hamburg",
+            "value": 1759377,
+            "display": "1,8 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-1005",
+            "iso": "NZ",
+            "name": "Auckland",
+            "value": 1123094,
+            "display": "1,1 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-931",
+            "iso": "NO",
+            "name": "Oslo",
+            "value": 874991,
+            "display": "875.000 Einwohner"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "world-compare-v1-b7f60430287378654e2a",
+    "category": "world",
+    "difficulty": 3,
+    "prompt": "Welche Stadt liegt bei der Einwohnerzahl auf Platz 3? Sortierung absteigend. Urbane Zentren, UN 2025.",
+    "options": [
+      "Nagoya",
+      "Warschau",
+      "Busan",
+      "Amsterdam"
+    ],
+    "correct": 1,
+    "enabled": true,
+    "explanation": "Warschau ist richtig. Vergleichswerte, absteigend: Nagoya (7,1 Mio. Einwohner) · Busan (3,3 Mio. Einwohner) · Warschau (1,9 Mio. Einwohner) · Amsterdam (1,2 Mio. Einwohner). Die UN zählt urbane Zentren nach DEGURBA.",
+    "media": null,
+    "provenance": {
+      "sources": [
+        "https://population.un.org/wup/downloads?tab=Cities",
+        "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx"
+      ],
+      "subjectKey": "world:comparison:b7f60430287378654e2a",
+      "topic": "Größenvergleiche",
+      "iso": "PL",
+      "comparison": {
+        "metric": "cityPopulation",
+        "label": "Einwohnerzahl urbaner Zentren",
+        "year": 2025,
+        "unit": "Einwohner",
+        "rule": "rank3",
+        "rank": 3,
+        "minimumRatio": 1.25,
+        "values": [
+          {
+            "id": "un-wup2025-5245",
+            "iso": "JP",
+            "name": "Nagoya",
+            "value": 7146160,
+            "display": "7,1 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3878",
+            "iso": "KR",
+            "name": "Busan",
+            "value": 3263221,
+            "display": "3,3 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-3660",
+            "iso": "PL",
+            "name": "Warschau",
+            "value": 1882756,
+            "display": "1,9 Mio. Einwohner"
+          },
+          {
+            "id": "un-wup2025-1754",
+            "iso": "NL",
+            "name": "Amsterdam",
+            "value": 1235985,
+            "display": "1,2 Mio. Einwohner"
+          }
+        ]
+      }
+    }
+  }
+]

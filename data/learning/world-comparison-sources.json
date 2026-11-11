@@ -1,0 +1,1420 @@
+{
+  "density": {
+    "source": {
+      "series": "EN.POP.DNST",
+      "url": "https://data.worldbank.org/indicator/EN.POP.DNST",
+      "download": "https://api.worldbank.org/v2/country/all/indicator/EN.POP.DNST?date=2023&format=json&per_page=350",
+      "sha256": "5d56c2f208ff3a9b8dddda699caeb397978e1f65164fb68bf5b02d4d01b2293c",
+      "year": 2023
+    },
+    "records": [
+      {
+        "id": "AT",
+        "iso": "AT",
+        "name": "Österreich",
+        "value": 110.661185167232
+      },
+      {
+        "id": "BG",
+        "iso": "BG",
+        "name": "Bulgarien",
+        "value": 59.3827929255711
+      },
+      {
+        "id": "KH",
+        "iso": "KH",
+        "name": "Kambodscha",
+        "value": 98.7076818490823
+      },
+      {
+        "id": "CL",
+        "iso": "CL",
+        "name": "Chile",
+        "value": 26.4647249005172
+      },
+      {
+        "id": "CN",
+        "iso": "CN",
+        "name": "China",
+        "value": 150.264001337848
+      },
+      {
+        "id": "CO",
+        "iso": "CO",
+        "name": "Kolumbien",
+        "value": 47.1574150518251
+      },
+      {
+        "id": "CR",
+        "iso": "CR",
+        "name": "Costa Rica",
+        "value": 100.979529272152
+      },
+      {
+        "id": "HR",
+        "iso": "HR",
+        "name": "Kroatien",
+        "value": 68.9722301644031
+      },
+      {
+        "id": "CZ",
+        "iso": "CZ",
+        "name": "Tschechien",
+        "value": 140.785547662605
+      },
+      {
+        "id": "DO",
+        "iso": "DO",
+        "name": "Dominikanische Republik",
+        "value": 235.098143035751
+      },
+      {
+        "id": "EC",
+        "iso": "EC",
+        "name": "Ecuador",
+        "value": 72.3952448059269
+      },
+      {
+        "id": "EE",
+        "iso": "EE",
+        "name": "Estland",
+        "value": 32.0684764802247
+      },
+      {
+        "id": "FJ",
+        "iso": "FJ",
+        "name": "Fidschi",
+        "value": 50.5826491516147
+      },
+      {
+        "id": "FI",
+        "iso": "FI",
+        "name": "Finnland",
+        "value": 18.3705454665088
+      },
+      {
+        "id": "FR",
+        "iso": "FR",
+        "name": "Frankreich",
+        "value": 126.862020595603
+      },
+      {
+        "id": "DE",
+        "iso": "DE",
+        "name": "Deutschland",
+        "value": 238.351810090719
+      },
+      {
+        "id": "GR",
+        "iso": "GR",
+        "name": "Griechenland",
+        "value": 80.7397284716835
+      },
+      {
+        "id": "GT",
+        "iso": "GT",
+        "name": "Guatemala",
+        "value": 169.138092571855
+      },
+      {
+        "id": "HT",
+        "iso": "HT",
+        "name": "Haiti",
+        "value": 422.256821480406
+      },
+      {
+        "id": "HN",
+        "iso": "HN",
+        "name": "Honduras",
+        "value": 95.1367503798373
+      },
+      {
+        "id": "HU",
+        "iso": "HU",
+        "name": "Ungarn",
+        "value": 105.108327854482
+      },
+      {
+        "id": "IR",
+        "iso": "IR",
+        "name": "Iran",
+        "value": 55.8451198767334
+      },
+      {
+        "id": "IE",
+        "iso": "IE",
+        "name": "Irland",
+        "value": 77.1017273914937
+      },
+      {
+        "id": "IT",
+        "iso": "IT",
+        "name": "Italien",
+        "value": 199.459678073854
+      },
+      {
+        "id": "JM",
+        "iso": "JM",
+        "name": "Jamaika",
+        "value": 262.214773776547
+      },
+      {
+        "id": "JP",
+        "iso": "JP",
+        "name": "Japan",
+        "value": 341.609465020576
+      },
+      {
+        "id": "KR",
+        "iso": "KR",
+        "name": "Südkorea",
+        "value": 529.842407786885
+      },
+      {
+        "id": "LT",
+        "iso": "LT",
+        "name": "Litauen",
+        "value": 45.87196485623
+      },
+      {
+        "id": "MX",
+        "iso": "MX",
+        "name": "Mexiko",
+        "value": 66.7402757272564
+      },
+      {
+        "id": "NP",
+        "iso": "NP",
+        "name": "Nepal",
+        "value": 207.147638646669
+      },
+      {
+        "id": "NZ",
+        "iso": "NZ",
+        "name": "Neuseeland",
+        "value": 19.7485853176864
+      },
+      {
+        "id": "NI",
+        "iso": "NI",
+        "name": "Nicaragua",
+        "value": 56.702783779292
+      },
+      {
+        "id": "NO",
+        "iso": "NO",
+        "name": "Norwegen",
+        "value": 15.1524995195871
+      },
+      {
+        "id": "PK",
+        "iso": "PK",
+        "name": "Pakistan",
+        "value": 321.067474833956
+      },
+      {
+        "id": "PA",
+        "iso": "PA",
+        "name": "Panama",
+        "value": 60.1072930709086
+      },
+      {
+        "id": "PG",
+        "iso": "PG",
+        "name": "Papua-Neuguinea",
+        "value": 22.9422669257607
+      },
+      {
+        "id": "PY",
+        "iso": "PY",
+        "name": "Paraguay",
+        "value": 17.282671943072
+      },
+      {
+        "id": "PH",
+        "iso": "PH",
+        "name": "Philippinen",
+        "value": 385.321122178623
+      },
+      {
+        "id": "PL",
+        "iso": "PL",
+        "name": "Polen",
+        "value": 119.787615502661
+      },
+      {
+        "id": "PT",
+        "iso": "PT",
+        "name": "Portugal",
+        "value": 115.475189289738
+      },
+      {
+        "id": "RO",
+        "iso": "RO",
+        "name": "Rumänien",
+        "value": 82.8453668289291
+      },
+      {
+        "id": "WS",
+        "iso": "WS",
+        "name": "Samoa",
+        "value": 77.9363309352518
+      },
+      {
+        "id": "SA",
+        "iso": "SA",
+        "name": "Saudi-Arabien",
+        "value": 15.6779493787476
+      },
+      {
+        "id": "SI",
+        "iso": "SI",
+        "name": "Slowenien",
+        "value": 105.31480791676
+      },
+      {
+        "id": "SB",
+        "iso": "SB",
+        "name": "Salomonen",
+        "value": 28.581814933905
+      },
+      {
+        "id": "ES",
+        "iso": "ES",
+        "name": "Spanien",
+        "value": 96.7636173412149
+      },
+      {
+        "id": "LK",
+        "iso": "LK",
+        "name": "Sri Lanka",
+        "value": 356.239896540576
+      },
+      {
+        "id": "SE",
+        "iso": "SE",
+        "name": "Schweden",
+        "value": 25.8713678886243
+      },
+      {
+        "id": "CH",
+        "iso": "CH",
+        "name": "Schweiz",
+        "value": 224.978619136651
+      },
+      {
+        "id": "TH",
+        "iso": "TH",
+        "name": "Thailand",
+        "value": 140.348088629646
+      },
+      {
+        "id": "TR",
+        "iso": "TR",
+        "name": "Türkei",
+        "value": 110.866214934449
+      },
+      {
+        "id": "UA",
+        "iso": "UA",
+        "name": "Ukraine",
+        "value": 65.1239834311357
+      },
+      {
+        "id": "AE",
+        "iso": "AE",
+        "name": "Vereinigte Arabische Emirate",
+        "value": 147.616882568291
+      },
+      {
+        "id": "GB",
+        "iso": "GB",
+        "name": "Vereinigtes Königreich",
+        "value": 283.247220270326
+      },
+      {
+        "id": "US",
+        "iso": "US",
+        "name": "Vereinigte Staaten",
+        "value": 36.8142112202129
+      },
+      {
+        "id": "UZ",
+        "iso": "UZ",
+        "name": "Usbekistan",
+        "value": 80.9084466129581
+      },
+      {
+        "id": "VE",
+        "iso": "VE",
+        "name": "Venezuela",
+        "value": 32.0853171588912
+      },
+      {
+        "id": "VN",
+        "iso": "VN",
+        "name": "Vietnam",
+        "value": 320.175197572656
+      }
+    ]
+  },
+  "land": {
+    "source": {
+      "series": "AG.LND.TOTL.K2",
+      "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2",
+      "download": "https://api.worldbank.org/v2/country/all/indicator/AG.LND.TOTL.K2?date=2023&format=json&per_page=350",
+      "sha256": "d2d9272cceac6a1694ed853997cfc0eccea7662cb1463d1c74b5bf124dae2ff1",
+      "year": 2023
+    },
+    "records": [
+      {
+        "id": "AT",
+        "iso": "AT",
+        "name": "Österreich",
+        "value": 82520
+      },
+      {
+        "id": "BE",
+        "iso": "BE",
+        "name": "Belgien",
+        "value": 30494
+      },
+      {
+        "id": "BO",
+        "iso": "BO",
+        "name": "Bolivien",
+        "value": 1087959.02
+      },
+      {
+        "id": "BG",
+        "iso": "BG",
+        "name": "Bulgarien",
+        "value": 108560
+      },
+      {
+        "id": "KH",
+        "iso": "KH",
+        "name": "Kambodscha",
+        "value": 176520
+      },
+      {
+        "id": "CO",
+        "iso": "CO",
+        "name": "Kolumbien",
+        "value": 1109500
+      },
+      {
+        "id": "CR",
+        "iso": "CR",
+        "name": "Costa Rica",
+        "value": 50560
+      },
+      {
+        "id": "HR",
+        "iso": "HR",
+        "name": "Kroatien",
+        "value": 55960
+      },
+      {
+        "id": "CU",
+        "iso": "CU",
+        "name": "Kuba",
+        "value": 103800
+      },
+      {
+        "id": "CZ",
+        "iso": "CZ",
+        "name": "Tschechien",
+        "value": 77167.31
+      },
+      {
+        "id": "DO",
+        "iso": "DO",
+        "name": "Dominikanische Republik",
+        "value": 48198.02
+      },
+      {
+        "id": "EC",
+        "iso": "EC",
+        "name": "Ecuador",
+        "value": 248360
+      },
+      {
+        "id": "FJ",
+        "iso": "FJ",
+        "name": "Fidschi",
+        "value": 18270
+      },
+      {
+        "id": "FR",
+        "iso": "FR",
+        "name": "Frankreich",
+        "value": 538950
+      },
+      {
+        "id": "DE",
+        "iso": "DE",
+        "name": "Deutschland",
+        "value": 349430
+      },
+      {
+        "id": "GR",
+        "iso": "GR",
+        "name": "Griechenland",
+        "value": 128900
+      },
+      {
+        "id": "GT",
+        "iso": "GT",
+        "name": "Guatemala",
+        "value": 107160
+      },
+      {
+        "id": "HT",
+        "iso": "HT",
+        "name": "Haiti",
+        "value": 27560
+      },
+      {
+        "id": "HN",
+        "iso": "HN",
+        "name": "Honduras",
+        "value": 111890
+      },
+      {
+        "id": "IS",
+        "iso": "IS",
+        "name": "Island",
+        "value": 100830
+      },
+      {
+        "id": "IN",
+        "iso": "IN",
+        "name": "Indien",
+        "value": 2973190
+      },
+      {
+        "id": "IR",
+        "iso": "IR",
+        "name": "Iran",
+        "value": 1622500
+      },
+      {
+        "id": "IQ",
+        "iso": "IQ",
+        "name": "Irak",
+        "value": 434130
+      },
+      {
+        "id": "IE",
+        "iso": "IE",
+        "name": "Irland",
+        "value": 68890
+      },
+      {
+        "id": "IT",
+        "iso": "IT",
+        "name": "Italien",
+        "value": 295720
+      },
+      {
+        "id": "JM",
+        "iso": "JM",
+        "name": "Jamaika",
+        "value": 10830
+      },
+      {
+        "id": "JO",
+        "iso": "JO",
+        "name": "Jordanien",
+        "value": 88794
+      },
+      {
+        "id": "KR",
+        "iso": "KR",
+        "name": "Südkorea",
+        "value": 97600
+      },
+      {
+        "id": "LT",
+        "iso": "LT",
+        "name": "Litauen",
+        "value": 62600
+      },
+      {
+        "id": "MY",
+        "iso": "MY",
+        "name": "Malaysia",
+        "value": 328550
+      },
+      {
+        "id": "MN",
+        "iso": "MN",
+        "name": "Mongolei",
+        "value": 1558499.786
+      },
+      {
+        "id": "NP",
+        "iso": "NP",
+        "name": "Nepal",
+        "value": 143350
+      },
+      {
+        "id": "NL",
+        "iso": "NL",
+        "name": "Niederlande",
+        "value": 33670
+      },
+      {
+        "id": "NZ",
+        "iso": "NZ",
+        "name": "Neuseeland",
+        "value": 263310
+      },
+      {
+        "id": "NI",
+        "iso": "NI",
+        "name": "Nicaragua",
+        "value": 120340
+      },
+      {
+        "id": "NO",
+        "iso": "NO",
+        "name": "Norwegen",
+        "value": 364270
+      },
+      {
+        "id": "OM",
+        "iso": "OM",
+        "name": "Oman",
+        "value": 309500
+      },
+      {
+        "id": "PA",
+        "iso": "PA",
+        "name": "Panama",
+        "value": 74180
+      },
+      {
+        "id": "PG",
+        "iso": "PG",
+        "name": "Papua-Neuguinea",
+        "value": 452860
+      },
+      {
+        "id": "PY",
+        "iso": "PY",
+        "name": "Paraguay",
+        "value": 396012.03
+      },
+      {
+        "id": "PE",
+        "iso": "PE",
+        "name": "Peru",
+        "value": 1280000
+      },
+      {
+        "id": "PH",
+        "iso": "PH",
+        "name": "Philippinen",
+        "value": 298170
+      },
+      {
+        "id": "PL",
+        "iso": "PL",
+        "name": "Polen",
+        "value": 306270
+      },
+      {
+        "id": "PT",
+        "iso": "PT",
+        "name": "Portugal",
+        "value": 91605.6
+      },
+      {
+        "id": "SK",
+        "iso": "SK",
+        "name": "Slowakei",
+        "value": 48080
+      },
+      {
+        "id": "SB",
+        "iso": "SB",
+        "name": "Salomonen",
+        "value": 27990
+      },
+      {
+        "id": "ES",
+        "iso": "ES",
+        "name": "Spanien",
+        "value": 499697.4
+      },
+      {
+        "id": "LK",
+        "iso": "LK",
+        "name": "Sri Lanka",
+        "value": 61860
+      },
+      {
+        "id": "SE",
+        "iso": "SE",
+        "name": "Schweden",
+        "value": 407270
+      },
+      {
+        "id": "CH",
+        "iso": "CH",
+        "name": "Schweiz",
+        "value": 39509.63
+      },
+      {
+        "id": "TH",
+        "iso": "TH",
+        "name": "Thailand",
+        "value": 510890
+      },
+      {
+        "id": "TR",
+        "iso": "TR",
+        "name": "Türkei",
+        "value": 769630
+      },
+      {
+        "id": "UA",
+        "iso": "UA",
+        "name": "Ukraine",
+        "value": 579400
+      },
+      {
+        "id": "AE",
+        "iso": "AE",
+        "name": "Vereinigte Arabische Emirate",
+        "value": 71020
+      },
+      {
+        "id": "GB",
+        "iso": "GB",
+        "name": "Vereinigtes Königreich",
+        "value": 241930
+      },
+      {
+        "id": "UY",
+        "iso": "UY",
+        "name": "Uruguay",
+        "value": 175020
+      },
+      {
+        "id": "UZ",
+        "iso": "UZ",
+        "name": "Usbekistan",
+        "value": 440650
+      },
+      {
+        "id": "VE",
+        "iso": "VE",
+        "name": "Venezuela",
+        "value": 882050
+      },
+      {
+        "id": "VN",
+        "iso": "VN",
+        "name": "Vietnam",
+        "value": 313429
+      }
+    ]
+  },
+  "population": {
+    "source": {
+      "series": "SP.POP.TOTL",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "download": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=350",
+      "sha256": "00c947dd1fec0984e2c7243d7271c973928a3e0d00548457ab9069e12d94ef93",
+      "year": 2023
+    },
+    "records": [
+      {
+        "id": "AR",
+        "iso": "AR",
+        "name": "Argentinien",
+        "value": 45538401
+      },
+      {
+        "id": "AU",
+        "iso": "AU",
+        "name": "Australien",
+        "value": 26659922
+      },
+      {
+        "id": "AT",
+        "iso": "AT",
+        "name": "Österreich",
+        "value": 9131761
+      },
+      {
+        "id": "BE",
+        "iso": "BE",
+        "name": "Belgien",
+        "value": 11779946
+      },
+      {
+        "id": "BO",
+        "iso": "BO",
+        "name": "Bolivien",
+        "value": 12244159
+      },
+      {
+        "id": "BG",
+        "iso": "BG",
+        "name": "Bulgarien",
+        "value": 6446596
+      },
+      {
+        "id": "KH",
+        "iso": "KH",
+        "name": "Kambodscha",
+        "value": 17423880
+      },
+      {
+        "id": "CA",
+        "iso": "CA",
+        "name": "Kanada",
+        "value": 40049088
+      },
+      {
+        "id": "CL",
+        "iso": "CL",
+        "name": "Chile",
+        "value": 19658835
+      },
+      {
+        "id": "CO",
+        "iso": "CO",
+        "name": "Kolumbien",
+        "value": 52321152
+      },
+      {
+        "id": "CR",
+        "iso": "CR",
+        "name": "Costa Rica",
+        "value": 5105525
+      },
+      {
+        "id": "HR",
+        "iso": "HR",
+        "name": "Kroatien",
+        "value": 3859686
+      },
+      {
+        "id": "CZ",
+        "iso": "CZ",
+        "name": "Tschechien",
+        "value": 10864042
+      },
+      {
+        "id": "DO",
+        "iso": "DO",
+        "name": "Dominikanische Republik",
+        "value": 11331265
+      },
+      {
+        "id": "EC",
+        "iso": "EC",
+        "name": "Ecuador",
+        "value": 17980083
+      },
+      {
+        "id": "EE",
+        "iso": "EE",
+        "name": "Estland",
+        "value": 1370286
+      },
+      {
+        "id": "FJ",
+        "iso": "FJ",
+        "name": "Fidschi",
+        "value": 924145
+      },
+      {
+        "id": "FI",
+        "iso": "FI",
+        "name": "Finnland",
+        "value": 5583911
+      },
+      {
+        "id": "GR",
+        "iso": "GR",
+        "name": "Griechenland",
+        "value": 10407351
+      },
+      {
+        "id": "GT",
+        "iso": "GT",
+        "name": "Guatemala",
+        "value": 18124838
+      },
+      {
+        "id": "HT",
+        "iso": "HT",
+        "name": "Haiti",
+        "value": 11637398
+      },
+      {
+        "id": "HN",
+        "iso": "HN",
+        "name": "Honduras",
+        "value": 10644851
+      },
+      {
+        "id": "HU",
+        "iso": "HU",
+        "name": "Ungarn",
+        "value": 9592186
+      },
+      {
+        "id": "IE",
+        "iso": "IE",
+        "name": "Irland",
+        "value": 5311538
+      },
+      {
+        "id": "IT",
+        "iso": "IT",
+        "name": "Italien",
+        "value": 58984216
+      },
+      {
+        "id": "JM",
+        "iso": "JM",
+        "name": "Jamaika",
+        "value": 2839786
+      },
+      {
+        "id": "JO",
+        "iso": "JO",
+        "name": "Jordanien",
+        "value": 11439213
+      },
+      {
+        "id": "KZ",
+        "iso": "KZ",
+        "name": "Kasachstan",
+        "value": 20330104
+      },
+      {
+        "id": "LV",
+        "iso": "LV",
+        "name": "Lettland",
+        "value": 1883710
+      },
+      {
+        "id": "LT",
+        "iso": "LT",
+        "name": "Litauen",
+        "value": 2871585
+      },
+      {
+        "id": "MX",
+        "iso": "MX",
+        "name": "Mexiko",
+        "value": 129739759
+      },
+      {
+        "id": "MN",
+        "iso": "MN",
+        "name": "Mongolei",
+        "value": 3481145
+      },
+      {
+        "id": "NP",
+        "iso": "NP",
+        "name": "Nepal",
+        "value": 29694614
+      },
+      {
+        "id": "NL",
+        "iso": "NL",
+        "name": "Niederlande",
+        "value": 17877117
+      },
+      {
+        "id": "NZ",
+        "iso": "NZ",
+        "name": "Neuseeland",
+        "value": 5200000
+      },
+      {
+        "id": "NI",
+        "iso": "NI",
+        "name": "Nicaragua",
+        "value": 6823613
+      },
+      {
+        "id": "OM",
+        "iso": "OM",
+        "name": "Oman",
+        "value": 5049269
+      },
+      {
+        "id": "PG",
+        "iso": "PG",
+        "name": "Papua-Neuguinea",
+        "value": 10389635
+      },
+      {
+        "id": "PY",
+        "iso": "PY",
+        "name": "Paraguay",
+        "value": 6844146
+      },
+      {
+        "id": "PE",
+        "iso": "PE",
+        "name": "Peru",
+        "value": 33845617
+      },
+      {
+        "id": "PT",
+        "iso": "PT",
+        "name": "Portugal",
+        "value": 10578174
+      },
+      {
+        "id": "RO",
+        "iso": "RO",
+        "name": "Rumänien",
+        "value": 19061062
+      },
+      {
+        "id": "WS",
+        "iso": "WS",
+        "name": "Samoa",
+        "value": 216663
+      },
+      {
+        "id": "SA",
+        "iso": "SA",
+        "name": "Saudi-Arabien",
+        "value": 33702731
+      },
+      {
+        "id": "SK",
+        "iso": "SK",
+        "name": "Slowakei",
+        "value": 5426740
+      },
+      {
+        "id": "SI",
+        "iso": "SI",
+        "name": "Slowenien",
+        "value": 2120461
+      },
+      {
+        "id": "LK",
+        "iso": "LK",
+        "name": "Sri Lanka",
+        "value": 22037000
+      },
+      {
+        "id": "TH",
+        "iso": "TH",
+        "name": "Thailand",
+        "value": 71702435
+      },
+      {
+        "id": "TR",
+        "iso": "TR",
+        "name": "Türkei",
+        "value": 85325965
+      },
+      {
+        "id": "UA",
+        "iso": "UA",
+        "name": "Ukraine",
+        "value": 37732836
+      },
+      {
+        "id": "AE",
+        "iso": "AE",
+        "name": "Vereinigte Arabische Emirate",
+        "value": 10483751
+      },
+      {
+        "id": "UY",
+        "iso": "UY",
+        "name": "Uruguay",
+        "value": 3388081
+      },
+      {
+        "id": "UZ",
+        "iso": "UZ",
+        "name": "Usbekistan",
+        "value": 35652307
+      },
+      {
+        "id": "VU",
+        "iso": "VU",
+        "name": "Vanuatu",
+        "value": 320409
+      },
+      {
+        "id": "VE",
+        "iso": "VE",
+        "name": "Venezuela",
+        "value": 28300854
+      }
+    ]
+  },
+  "cityPopulation": {
+    "source": {
+      "series": "WUP2025-F21",
+      "url": "https://population.un.org/wup/downloads?tab=Cities",
+      "download": "https://population.un.org/wup/assets/Download/Cities/WUP2025-F21-DEGURBA-Cities_Pop.xlsx",
+      "sha256": "3a96030d87aec6c1c50f658d5321067d6345e1ab936c5d2854524f972caa75c0",
+      "year": 2025
+    },
+    "records": [
+      {
+        "id": "un-wup2025-5576",
+        "iso": "DE",
+        "name": "Berlin",
+        "value": 3560908
+      },
+      {
+        "id": "un-wup2025-5337",
+        "iso": "DE",
+        "name": "München",
+        "value": 1815022
+      },
+      {
+        "id": "un-wup2025-4278",
+        "iso": "DE",
+        "name": "Hamburg",
+        "value": 1759377
+      },
+      {
+        "id": "un-wup2025-1160",
+        "iso": "DE",
+        "name": "Köln",
+        "value": 1125292
+      },
+      {
+        "id": "un-wup2025-5938",
+        "iso": "GB",
+        "name": "London",
+        "value": 10416420
+      },
+      {
+        "id": "un-wup2025-3388",
+        "iso": "GB",
+        "name": "Manchester",
+        "value": 2535427
+      },
+      {
+        "id": "un-wup2025-2994",
+        "iso": "FR",
+        "name": "Paris",
+        "value": 9381921
+      },
+      {
+        "id": "un-wup2025-4068",
+        "iso": "FR",
+        "name": "Lyon",
+        "value": 1202985
+      },
+      {
+        "id": "un-wup2025-4156",
+        "iso": "IT",
+        "name": "Rom",
+        "value": 2376474
+      },
+      {
+        "id": "un-wup2025-1848",
+        "iso": "IT",
+        "name": "Mailand",
+        "value": 2599022
+      },
+      {
+        "id": "un-wup2025-4726",
+        "iso": "IT",
+        "name": "Neapel",
+        "value": 2767923
+      },
+      {
+        "id": "un-wup2025-3440",
+        "iso": "ES",
+        "name": "Madrid",
+        "value": 5583601
+      },
+      {
+        "id": "un-wup2025-5068",
+        "iso": "ES",
+        "name": "Barcelona",
+        "value": 3982704
+      },
+      {
+        "id": "un-wup2025-1054",
+        "iso": "AT",
+        "name": "Wien",
+        "value": 2031326
+      },
+      {
+        "id": "un-wup2025-60",
+        "iso": "CH",
+        "name": "Genf",
+        "value": 436587
+      },
+      {
+        "id": "un-wup2025-3660",
+        "iso": "PL",
+        "name": "Warschau",
+        "value": 1882756
+      },
+      {
+        "id": "un-wup2025-942",
+        "iso": "HU",
+        "name": "Budapest",
+        "value": 1609260
+      },
+      {
+        "id": "un-wup2025-1754",
+        "iso": "NL",
+        "name": "Amsterdam",
+        "value": 1235985
+      },
+      {
+        "id": "un-wup2025-931",
+        "iso": "NO",
+        "name": "Oslo",
+        "value": 874991
+      },
+      {
+        "id": "un-wup2025-217",
+        "iso": "PT",
+        "name": "Lissabon",
+        "value": 1913798
+      },
+      {
+        "id": "un-wup2025-8354",
+        "iso": "US",
+        "name": "New York City",
+        "value": 13920148
+      },
+      {
+        "id": "un-wup2025-1725",
+        "iso": "US",
+        "name": "Los Angeles",
+        "value": 12740420
+      },
+      {
+        "id": "un-wup2025-7747",
+        "iso": "US",
+        "name": "Chicago",
+        "value": 3683385
+      },
+      {
+        "id": "un-wup2025-6237",
+        "iso": "US",
+        "name": "Houston",
+        "value": 3955046
+      },
+      {
+        "id": "un-wup2025-1233",
+        "iso": "US",
+        "name": "San Francisco",
+        "value": 3163486
+      },
+      {
+        "id": "un-wup2025-8123",
+        "iso": "US",
+        "name": "Washington, D.C.",
+        "value": 3270018
+      },
+      {
+        "id": "un-wup2025-2925",
+        "iso": "CA",
+        "name": "Toronto",
+        "value": 5494431
+      },
+      {
+        "id": "un-wup2025-3645",
+        "iso": "CA",
+        "name": "Montreal",
+        "value": 2668723
+      },
+      {
+        "id": "un-wup2025-341",
+        "iso": "CA",
+        "name": "Vancouver",
+        "value": 1707865
+      },
+      {
+        "id": "un-wup2025-5439",
+        "iso": "MX",
+        "name": "Mexiko-Stadt",
+        "value": 17734212
+      },
+      {
+        "id": "un-wup2025-3099",
+        "iso": "MX",
+        "name": "Guadalajara",
+        "value": 4135440
+      },
+      {
+        "id": "un-wup2025-7935",
+        "iso": "BR",
+        "name": "Rio de Janeiro",
+        "value": 9500336
+      },
+      {
+        "id": "un-wup2025-4459",
+        "iso": "AR",
+        "name": "Buenos Aires",
+        "value": 14017736
+      },
+      {
+        "id": "un-wup2025-1987",
+        "iso": "PE",
+        "name": "Lima",
+        "value": 10580241
+      },
+      {
+        "id": "un-wup2025-2380",
+        "iso": "CL",
+        "name": "Santiago de Chile",
+        "value": 6726045
+      },
+      {
+        "id": "un-wup2025-3883",
+        "iso": "CO",
+        "name": "Bogotá",
+        "value": 10624315
+      },
+      {
+        "id": "un-wup2025-2525",
+        "iso": "CO",
+        "name": "Medellín",
+        "value": 3350384
+      },
+      {
+        "id": "un-wup2025-2139",
+        "iso": "AU",
+        "name": "Sydney",
+        "value": 4150917
+      },
+      {
+        "id": "un-wup2025-1634",
+        "iso": "AU",
+        "name": "Melbourne",
+        "value": 3639893
+      },
+      {
+        "id": "un-wup2025-1005",
+        "iso": "NZ",
+        "name": "Auckland",
+        "value": 1123094
+      },
+      {
+        "id": "un-wup2025-4490",
+        "iso": "JP",
+        "name": "Osaka",
+        "value": 12964145
+      },
+      {
+        "id": "un-wup2025-5245",
+        "iso": "JP",
+        "name": "Nagoya",
+        "value": 7146160
+      },
+      {
+        "id": "un-wup2025-11306",
+        "iso": "CN",
+        "name": "Guangzhou",
+        "value": 27563372
+      },
+      {
+        "id": "un-wup2025-11478",
+        "iso": "CN",
+        "name": "Shenzhen",
+        "value": 13878396
+      },
+      {
+        "id": "un-wup2025-3878",
+        "iso": "KR",
+        "name": "Busan",
+        "value": 3263221
+      },
+      {
+        "id": "un-wup2025-2286",
+        "iso": "TH",
+        "name": "Bangkok",
+        "value": 18180280
+      },
+      {
+        "id": "un-wup2025-5991",
+        "iso": "ID",
+        "name": "Bandung",
+        "value": 8909104
+      },
+      {
+        "id": "un-wup2025-165",
+        "iso": "SG",
+        "name": "Singapur",
+        "value": 4963998
+      },
+      {
+        "id": "un-wup2025-8364",
+        "iso": "IN",
+        "name": "Neu-Delhi",
+        "value": 30222405
+      },
+      {
+        "id": "un-wup2025-7945",
+        "iso": "IN",
+        "name": "Mumbai",
+        "value": 20203056
+      },
+      {
+        "id": "un-wup2025-9949",
+        "iso": "IN",
+        "name": "Bengaluru",
+        "value": 13187098
+      },
+      {
+        "id": "un-wup2025-10747",
+        "iso": "IN",
+        "name": "Chennai",
+        "value": 11153205
+      },
+      {
+        "id": "un-wup2025-2578",
+        "iso": "PK",
+        "name": "Karachi",
+        "value": 21422590
+      },
+      {
+        "id": "un-wup2025-4941",
+        "iso": "TR",
+        "name": "Ankara",
+        "value": 3612251
+      },
+      {
+        "id": "un-wup2025-865",
+        "iso": "AE",
+        "name": "Dubai",
+        "value": 5283789
+      },
+      {
+        "id": "un-wup2025-2961",
+        "iso": "SA",
+        "name": "Riad",
+        "value": 6916417
+      },
+      {
+        "id": "un-wup2025-3303",
+        "iso": "IQ",
+        "name": "Bagdad",
+        "value": 6390735
+      }
+    ]
+  }
+}

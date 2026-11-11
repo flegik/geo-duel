@@ -7,6 +7,9 @@ import type {Category} from './engine';
 type Preview={title:string;text:string;src?:string;license?:string;atlasIso?:string;map?:boolean};
 export function answerPreview(category:Category,option:string,resolution?:QuestionResolution|null):Preview{
  const country=registry.find(f=>f.name===option);
+ const comparison=resolution?.comparison;
+ const measured=comparison?.values.find(value=>value.name===option);
+ if(comparison&&measured)return {title:option,text:`${comparison.label} ${comparison.year} · etwa ${measured.display}.`};
  if(country&&(category==='maps'||category==='silhouettes'))return {title:option,text:category==='maps'?'Das mintfarben markierte Land.':'Der Länderumriss.',atlasIso:country.iso,map:category==='maps'};
  if(category==='capitals'){
  const match=Object.entries(facts).find(([,f])=>f.capital===option);

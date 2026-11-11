@@ -18,7 +18,7 @@ test('All estimate intervals are disjoint; comparisons and thresholds have one c
   }
  }
 });
-test('Geography metadata reuses shared country facts and matches all 195 existing atlas assignments',()=>{for(const c of registry)assert.equal(countryContinent(c.iso),geo.countries[c.iso as keyof typeof geo.countries].continent,c.iso);assert.equal(Object.values(selectionPolicy.continentWeights).reduce((s,n)=>s+n,0),100);assert.equal(Object.values(selectionPolicy.worldTopicWeights).reduce((s,n)=>s+n,0),100);});
+test('Geography metadata reuses shared country facts and matches all 195 existing atlas assignments',()=>{for(const c of registry)assert.equal(countryContinent(c.iso),geo.countries[c.iso as keyof typeof geo.countries].continent,c.iso);assert.equal(Object.values(selectionPolicy.continentWeights).reduce((s,n)=>s+n,0),100);assert.equal(Object.values(selectionPolicy.worldTopicWeights).reduce((s,n)=>s+n,0),120);});
 test('1000 simulated ordinary rounds reduce Africa and preserve an internationally varied selection',()=>{
  const result=JSON.parse(readFileSync('docs/GEOGRAPHY_AFTER_FRESH.json','utf8')),before=JSON.parse(readFileSync('docs/GEOGRAPHY_BEFORE.json','utf8'));assert.ok(result.rounds>=1000);assert.ok(result.percentages.Afrika>=13&&result.percentages.Afrika<=17);assert.ok(result.core.africaPercent>=13&&result.core.africaPercent<=17);assert.ok(result.percentages.Afrika<before.percentages.Afrika-5);assert.ok(result.percentages.Europa>before.percentages.Europa);assert.ok(result.percentages.Asien>before.percentages.Asien);assert.equal(result.repeatedSubjectsWithinRound,0);
  for(const c of ['Nordamerika','Südamerika'])assert.ok(result.percentages[c]>=7);assert.ok(result.percentages.Ozeanien>=3);

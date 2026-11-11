@@ -6,8 +6,9 @@ const Geography=lazy(()=>import('./AtlasGeography').then(m=>({default:m.AtlasGeo
 const legacy=new Map(raw.filter(q=>q.category==='maps'||q.category==='silhouettes').map(q=>[q.media!.src,registry.find(f=>f.name===q.options[q.correct])!.iso]));
 export type QuestionMediaData={src:string;alt:string;license:string;type?:string};
 export type CityLocation={name:string;iso:string;point:[number,number]};
+type Comparison={label:string;year:number;values:{name:string;display:string}[]};
 type ImageCredit={source:string;title:string;license:string;licenseUrl:string;author:string};
-export type QuestionResolution={sources:string[];cityLocation?:CityLocation;cityChoices?:CityLocation[];imageCredit?:ImageCredit};
+export type QuestionResolution={sources:string[];cityLocation?:CityLocation;cityChoices?:CityLocation[];imageCredit?:ImageCredit;comparison?:Comparison};
 export function QuestionImageCredit({credit}:{credit?:ImageCredit}){
  if(!credit)return null;
  return <p className="question-credit">Foto von {credit.author} ·{' '}

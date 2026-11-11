@@ -4,7 +4,7 @@ import {questionSubject} from './flags';
 import type {Category,Question} from './engine';
 export {policy as selectionPolicy};
 export function countryContinent(iso:string){return (policy.continentOverrides as Record<string,string>)[iso]??(policy.subregionContinents as Record<string,string>)[(facts as Record<string,{subregion:string}>)[iso]?.subregion];}
-export function worldTopic(q:Question){if(q.provenance.population)return 'population';return ({Naturregionen:'nature',Länderflächen:'area',Binnenstaaten:'landlocked',Kontinente:'continents'} as Record<string,string>)[q.provenance.topic??'']??'general';}
+export function worldTopic(q:Question){if(q.provenance.population)return 'population';if(q.provenance.comparison)return 'comparisons';return ({Naturregionen:'nature',Länderflächen:'area',Binnenstaaten:'landlocked',Kontinente:'continents'} as Record<string,string>)[q.provenance.topic??'']??'general';}
 export function weighted<T>(items:T[],weight:(x:T)=>number,random:()=>number){const total=items.reduce((s,x)=>s+weight(x),0);let n=random()*total;for(const item of items){n-=weight(item);if(n<0)return item;}return items[items.length-1];}
 // A shared phase spreads the expected Africa count over the round. Each
 // category and the round as a whole get at most the ceiling of their targets.
