@@ -1,4 +1,4 @@
-import {pickBalanced} from './selection';
+import {africaSlots,pickBalanced,selectionPolicy} from './selection';
 import raw from '../data/questions.json';
 import {expandedQuestions,retiredQuestions} from './questionPool';
 import {flagQuestions,questionSubject,seenSubject} from './flags';
@@ -14,6 +14,7 @@ export const categories = {
 export type Category=keyof typeof categories;
 export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:{sources:string[];subjectKey?:string;iso?:string;challenge?:number;confusions?:string[];topic?:string;population?:{[key:string]:unknown}};enabled:boolean};
 export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...expandedQuestions,...retiredQuestions];
+const questionById=new Map(questions.map(q=>[q.id,q]));
 export type Answer={selected:number;points:number};
 export type Round={id:string;mode:'quick'|'training';category?:Category;questions:Question[];answers:Answer[];cursor:number;status:'playing'|'completed';createdAt:string};
 export type SoloRecord={id:string;mode:Round['mode'];category?:Category;date:string;points:number;maxPoints:number;correct:number;total:number;categories:Partial<Record<Category,{correct:number;total:number;points:number}>>};
@@ -24,20 +25,31 @@ export function createRound(state:SoloState,count:8|12|16,category?:Category,ran
  const chosen=category?[category]:shuffle(Object.keys(categories) as Category[],random).slice(0,4);
  const per=count/chosen.length;
  const seen=state.seen.map(seenSubject);
+ const lastSeen=new Map(seen.map((subject,index)=>[subject,index]));
+ const age=(q:Question)=>lastSeen.get(questionSubject(q))??-1;
+ const slots=africaSlots(chosen,per,random());
+ const recentCountries=new Set(state.seen.slice(-selectionPolicy.recentQuestionWindow).flatMap(id=>{
+  const iso=questionById.get(id)?.provenance.iso;
+  return iso?[iso]:[];
+ }));
  const selected:Question[]=[];
  for(const cat of chosen){
   const pool=shuffle(questions.filter(q=>q.enabled&&q.category===cat),random);
-  // Unseen questions always precede repeats; exhausted pools recycle oldest first.
-  pool.sort((a,b)=>seen.lastIndexOf(questionSubject(a))-seen.lastIndexOf(questionSubject(b)));
+  const regional=slots.get(cat);
+  const balanced=regional||!category&&cat!=='flags';
+  if(!balanced)pool.sort((a,b)=>age(a)-age(b));
   const chosenSubjects=new Set<string>();
   for(let i=0;i<per;i++){
-   // Unseen subjects take priority over difficulty targets, including inverse capital variants.
    const available=pool.filter(q=>!chosenSubjects.has(questionSubject(q)));
-   const unseen=available.filter(q=>!seen.includes(questionSubject(q)));
-   const oldest=available.length?seen.lastIndexOf(questionSubject(available[0])):-1;
-   const eligible=unseen.length?unseen:available.filter(q=>seen.lastIndexOf(questionSubject(q))===oldest);
    const target=[1,2,3,2][i%4];
-   const q=!category&&cat!=='flags'?pickBalanced(available,target,seen,random):eligible.find(q=>q.difficulty===target)??eligible[0];
+   let q:Question|undefined;
+   if(balanced)q=pickBalanced(available,target,seen,random,regional?.[i],recentCountries);
+   else{
+    // The native flag and world-training paths still exhaust unseen subjects first.
+    const oldest=available.length?age(available[0]):-1;
+    const eligible=available.filter(q=>age(q)===oldest);
+    q=eligible.find(q=>q.difficulty===target)??eligible[0];
+   }
    if(q){selected.push(q);chosenSubjects.add(questionSubject(q));}
   }
  }

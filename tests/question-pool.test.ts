@@ -28,8 +28,8 @@ test('Every positive and negative border choice is consistent with the conservat
 test('Additional landmarks/nature regions correspond to single-country UNESCO entries',()=>{
  for(const q of expandedQuestions.filter(q=>q.id.startsWith('geo-v3-landmarks')||q.category==='world'&&q.provenance.subjectKey?.startsWith('world:nature:'))){const p=q.provenance as typeof q.provenance&{siteId?:string};const id=p.siteId??q.provenance.subjectKey!.split(':').at(-1);if(id==='91')continue;const s=sites.find(s=>s.id===id)!;assert.ok(s);assert.equal(s.iso,q.provenance.iso);assert.ok(q.provenance.sources.includes(s.source));}
 });
-test('Unseen subjects take priority; inverse capital questions do not repeat during 128 answers',()=>{
- let state=emptyState();const seen=new Set<string>();for(let n=0;n<8;n++){let r=createRound(state,16,'capitals');for(const q of r.questions){assert.ok(!seen.has(questionSubject(q)));seen.add(questionSubject(q));}while(r.status==='playing')r=nextRound(answerRound(r,0));state=recordRound(state,r);}assert.equal(seen.size,128);
+test('Capital directions share a subject and never repeat in consecutive rounds',()=>{
+ let state=emptyState();const seen=new Set<string>();for(let n=0;n<8;n++){let r=createRound(state,16,'capitals');for(const q of r.questions)assert.ok(!seen.has(questionSubject(q)));seen.clear();for(const q of r.questions)seen.add(questionSubject(q));while(r.status==='playing')r=nextRound(answerRound(r,0));state=recordRound(state,r);}assert.equal(seen.size,16);
 });
 test('Round difficulty targets distribute 1/2/3 points while new subjects remain',()=>{const round=createRound(emptyState(),16,'maps',()=>.4);assert.deepEqual([1,2,3].map(d=>round.questions.filter(q=>q.difficulty===d).length),[4,8,4]);});
 test('Country-revealing UNESCO prompts are retired immutably and replaced with distinct site IDs',()=>{

@@ -1,5 +1,5 @@
 {
-  "version": "population-balance-2026-11",
+  "version": "regional-rounds-2026-11",
   "continentWeights": {
     "Europa": 34,
     "Asien": 28,
@@ -126,5 +126,38 @@
   "populationKindWeights": {
     "country": 50,
     "city": 50
+  },
+  "regionalAfricaTargets": {
+    "borders": 5,
+    "capitals": 8,
+    "silhouettes": 10,
+    "maps": 10,
+    "landmarks": 10
+  },
+  "regionalContinentWeights": {
+    "Europa": 28,
+    "Asien": 26,
+    "Nordamerika": 16,
+    "Südamerika": 14,
+    "Ozeanien": 11
+  },
+  "regionalAfricaFocusShare": 0.9,
+  "regionalAfricaFocusCountries": [
+    "EG",
+    "ZA",
+    "NG",
+    "MA",
+    "DZ",
+    "TN",
+    "KE",
+    "ET",
+    "TZ",
+    "GH"
+  ],
+  "recentQuestionWindow": 16,
+  "regionalContinentOverrides": {
+    "borders": {
+      "Ozeanien": 4
+    }
   }
 }
