@@ -1,6 +1,12 @@
 export type Point=[number,number];
 export function pathPoints(path:string):Point[]{return [...path.matchAll(/(?:M|L)(-?[\d.]+),(-?[\d.]+)/g)].map(m=>[Number(m[1]),Number(m[2])]);}
-const nearX=(x:number,center:number)=>center+((x-center+1080)%720)-360;
+const WORLD_WIDTH=720;
+const WORLD_HEIGHT=360;
+const nearX=(x:number,center:number)=>center+((x-center+WORLD_WIDTH*1.5)%WORLD_WIDTH)-WORLD_WIDTH/2;
+
+export function projectWorldPoint([latitude,longitude]:readonly number[]):Point{
+ return [(longitude+180)*2,(90-latitude)*2];
+}
 function bounds(points:Point[]){
  const xs=[...new Set(points.map(p=>p[0]))].sort((a,b)=>a-b);let gap=-1,start=xs[0];
  xs.forEach((x,i)=>{const next=xs[(i+1)%xs.length],d=(next-x+720)%720;if(d>gap){gap=d;start=next;}});
@@ -42,4 +48,29 @@ export function regionalViews(paths:string[]){
 }
 export function mapViewport(paths:string[]){return regionalViews(paths)[0]??{viewBox:'0 0 16 10',x:8,y:5,width:16,height:10,scaleX:1,aspect:1.6,tiny:false,sourceX:8,sourceWidth:16,detail:null};}
 
-export function pointMapViewport(points:Point[]){return camera(points);}
+export function cityMapViewport(markers:Point[],city?:Point){
+ // Fit the four answer countries before the answer. Expand for a revealed city
+ // only when necessary (e.g. a coastal city far from its country's interior).
+ let view=camera(markers);
+ function toViewport([x,y]:Point):Point{
+  return [nearX(x,view.sourceX)*view.scaleX,y];
+ }
+ if(city){
+  const [x,y]=toViewport(city);
+  const [left,top,width,height]=view.viewBox.split(' ').map(Number);
+  const margin=width*.035;
+  if(x<left+margin||x>left+width-margin||y<top+margin||y>top+height-margin){
+   view=camera([...markers,city]);
+  }
+ }
+ // Use at most one world's worth of longitude. At the date line draw the
+ // adjacent strip only for the fraction that actually enters the viewport.
+ const width=Math.min(view.width,WORLD_WIDTH*view.scaleX);
+ const height=Math.min(width/view.aspect,WORLD_HEIGHT);
+ const left=view.x-width/2;
+ const top=Math.max(0,Math.min(WORLD_HEIGHT-height,view.y-height/2));
+ const first=Math.floor(left/view.scaleX/WORLD_WIDTH);
+ const last=Math.ceil((left+width)/view.scaleX/WORLD_WIDTH)-1;
+ const offsets=Array.from({length:last-first+1},(_,i)=>(first+i)*WORLD_WIDTH);
+ return {viewBox:`${left} ${top} ${width} ${height}`,width,height,left,top,scaleX:view.scaleX,offsets,toViewport};
+}
