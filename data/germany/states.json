@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Schleswig-Holstein",
+    "capital": "Kiel",
+    "capitalAgs": "01002000",
+    "flagDetail": "Blau, Weiß und Rot in drei Querstreifen",
+    "flagLaw": "https://www.schleswig-holstein.de/DE/fachinhalte/L/landeskundewappen/LandeskundeFlagge",
+    "code": "SH",
+    "ags": "01",
+    "neighbors": [
+      "HH",
+      "MV",
+      "NI"
+    ],
+    "population": 2959517,
+    "area": 15804.31,
+    "flag": "/media/de/9bfa9f8e0ad8.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Schleswig-Holstein.svg",
+    "flagHash": "5128006a983bb95208a82c79b6bb93fbc0381e4f92bd7cd724efe5038bad0c91",
+    "mapKey": "9bfa9f8e0ad8"
+  },
+  {
+    "name": "Hamburg",
+    "capital": "Hamburg",
+    "capitalAgs": "02000000",
+    "flagDetail": "Weiße Burg auf rotem Grund",
+    "flagLaw": "https://www.hamburg.de/politik-und-verwaltung/senat/landessymbole",
+    "code": "HH",
+    "ags": "02",
+    "neighbors": [
+      "NI",
+      "SH"
+    ],
+    "population": 1862565,
+    "area": 755.09,
+    "flag": "/media/de/7fdb2c1590e0.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Hamburg.svg",
+    "flagHash": "1e77551684b87c057436f015f24f2174fcf872d0fa51f7af413ecf47913a2de2",
+    "mapKey": "7fdb2c1590e0"
+  },
+  {
+    "name": "Niedersachsen",
+    "capital": "Hannover",
+    "capitalAgs": "03241001",
+    "flagDetail": "Weißes Sachsenross auf Schwarz-Rot-Gold",
+    "flagLaw": "https://www.niedersachsen.de/startseite/land_leute/das_land/wappen_flagge/wappen-und-flagge-19957.html",
+    "code": "NI",
+    "ags": "03",
+    "neighbors": [
+      "BB",
+      "HB",
+      "HE",
+      "HH",
+      "MV",
+      "NW",
+      "SH",
+      "ST",
+      "TH"
+    ],
+    "population": 8004489,
+    "area": 47709.83,
+    "flag": "/media/de/837f75fe2522.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Lower_Saxony.svg",
+    "flagHash": "0b3eb0a1ab66b2b94e05e0e200600af4c5307bc2fea31271f79d02d10d7493fb",
+    "mapKey": "837f75fe2522"
+  },
+  {
+    "name": "Bremen",
+    "capital": "Bremen",
+    "capitalAgs": "04011000",
+    "flagDetail": "Rot-weiße Streifen und Schachmuster am Mast",
+    "flagLaw": "https://www.bremen.de/leben-in-bremen/bremer-wappen",
+    "code": "HB",
+    "ags": "04",
+    "neighbors": [
+      "NI"
+    ],
+    "population": 704881,
+    "area": 419.94,
+    "flag": "/media/de/e7144e89c365.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Bremen.svg",
+    "flagHash": "bbb59db0cfdae4561629e1e08e6deb42f15c8f67cd12364368444a89fba1964e",
+    "mapKey": "e7144e89c365"
+  },
+  {
+    "name": "Nordrhein-Westfalen",
+    "capital": "Düsseldorf",
+    "capitalAgs": "05111000",
+    "flagDetail": "Grün, Weiß und Rot in drei Querstreifen",
+    "flagLaw": "https://www.im.nrw/themen/verwaltung/beflaggung-und-wappen/rechtsgrundlagen-von-wappen-flagge-und-farben",
+    "code": "NW",
+    "ags": "05",
+    "neighbors": [
+      "HE",
+      "NI",
+      "RP"
+    ],
+    "population": 18034454,
+    "area": 34112.34,
+    "flag": "/media/de/ba07406f43aa.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_North_Rhine-Westphalia.svg",
+    "flagHash": "cc434d47e466092c73883a63538ba3b5ec1afa0d10b1c3529f07b4473368053a",
+    "mapKey": "ba07406f43aa"
+  },
+  {
+    "name": "Hessen",
+    "capital": "Wiesbaden",
+    "capitalAgs": "06414000",
+    "flagDetail": "Rot und Weiß in zwei Querstreifen",
+    "flagLaw": "https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-WappGHErahmen",
+    "code": "HE",
+    "ags": "06",
+    "neighbors": [
+      "BW",
+      "BY",
+      "NI",
+      "NW",
+      "RP",
+      "TH"
+    ],
+    "population": 6280793,
+    "area": 21115.7,
+    "flag": "/media/de/8d06ec31c3b4.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Hesse.svg",
+    "flagHash": "8dac2ad601db683573c22618300b7d68e350aab7382b9b2b000d5e492c883cc3",
+    "mapKey": "8d06ec31c3b4"
+  },
+  {
+    "name": "Rheinland-Pfalz",
+    "capital": "Mainz",
+    "capitalAgs": "07315000",
+    "flagDetail": "Landeswappen im oberen Mastviertel von Schwarz-Rot-Gold",
+    "flagLaw": "https://www.landesrecht.rlp.de/bsrp/document/jlr-HohZGRPrahmen",
+    "code": "RP",
+    "ags": "07",
+    "neighbors": [
+      "BW",
+      "HE",
+      "NW",
+      "SL"
+    ],
+    "population": 4129569,
+    "area": 19857.87,
+    "flag": "/media/de/8f2d1a7f1ea7.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Rhineland-Palatinate.svg",
+    "flagHash": "887f88b79733b768381609b6bbe1ee468dc131dc6e241b8a4a993d27d19bbd71",
+    "mapKey": "8f2d1a7f1ea7"
+  },
+  {
+    "name": "Baden-Württemberg",
+    "capital": "Stuttgart",
+    "capitalAgs": "08111000",
+    "flagDetail": "Schwarz über Gold",
+    "flagLaw": "https://www.baden-wuerttemberg.de/de/unser-land/landeswappen-und-landesflagge",
+    "code": "BW",
+    "ags": "08",
+    "neighbors": [
+      "BY",
+      "HE",
+      "RP"
+    ],
+    "population": 11245898,
+    "area": 35747.82,
+    "flag": "/media/de/4c877f5bc2da.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Baden-W%C3%BCrttemberg.svg",
+    "flagHash": "475a0b954ce45a42c1998e6295d7863b4e6f5a876c72a0e63d0541698f095ea2",
+    "mapKey": "4c877f5bc2da"
+  },
+  {
+    "name": "Bayern",
+    "capital": "München",
+    "capitalAgs": "09162000",
+    "flagDetail": "Weiße und blaue Rauten. Bayern führt auch eine weiß-blaue Streifenflagge",
+    "flagLaw": "https://www.gesetze-bayern.de/Content/Document/BayAVHoheitszeichen",
+    "code": "BY",
+    "ags": "09",
+    "neighbors": [
+      "BW",
+      "HE",
+      "SN",
+      "TH"
+    ],
+    "population": 13248928,
+    "area": 70541.58,
+    "flag": "/media/de/74a58c89215e.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Bavaria_(lozengy).svg",
+    "flagHash": "6e4d78f25b32ac6c0f5006847dcd5e5a4a03f2bc971bcea19b609fb2cea60851",
+    "mapKey": "74a58c89215e"
+  },
+  {
+    "name": "Saarland",
+    "capital": "Saarbrücken",
+    "capitalAgs": "10041100",
+    "flagDetail": "Landeswappen mittig auf Schwarz-Rot-Gold",
+    "flagLaw": "https://recht.saarland.de/bssl/document/jlr-HohZSLrahmen",
+    "code": "SL",
+    "ags": "10",
+    "neighbors": [
+      "RP"
+    ],
+    "population": 1012141,
+    "area": 2572.01,
+    "flag": "/media/de/251992293d07.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Saarland.svg",
+    "flagHash": "4745a2fe367da418d6ff426fb7db9d2b0e1b5502c785e6c7112f4ef68452874d",
+    "mapKey": "251992293d07"
+  },
+  {
+    "name": "Berlin",
+    "capital": "Berlin",
+    "capitalAgs": "11000000",
+    "flagDetail": "Schwarzer Bär im weißen Feld zwischen roten Randstreifen",
+    "flagLaw": "https://www.berlin.de/rbmskzl/regierende-buergermeisterin/berlin-wappen/",
+    "code": "BE",
+    "ags": "11",
+    "neighbors": [
+      "BB"
+    ],
+    "population": 3685265,
+    "area": 891.12,
+    "flag": "/media/de/8cb497425369.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Berlin.svg",
+    "flagHash": "ed7c4172df8d03f044af0a34b30b940a52c8a125f9990d060122ed714f65bc80",
+    "mapKey": "8cb497425369"
+  },
+  {
+    "name": "Brandenburg",
+    "capital": "Potsdam",
+    "capitalAgs": "12054000",
+    "flagDetail": "Roter Adler in der Mitte der rot-weißen Flagge",
+    "flagLaw": "https://bravors.brandenburg.de/gesetze/hoheitszeichengesetz",
+    "code": "BB",
+    "ags": "12",
+    "neighbors": [
+      "BE",
+      "MV",
+      "NI",
+      "SN",
+      "ST"
+    ],
+    "population": 2556747,
+    "area": 29654.42,
+    "flag": "/media/de/4748a58012ee.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Brandenburg.svg",
+    "flagHash": "b4bbdb338de0931bf089f64f8c7caa0d7b7ef0f976f3024bc0185a68fc6b0460",
+    "mapKey": "4748a58012ee"
+  },
+  {
+    "name": "Mecklenburg-Vorpommern",
+    "capital": "Schwerin",
+    "capitalAgs": "13004000",
+    "flagDetail": "Schmaler gelber Streifen in der Mitte; darüber Blau und Weiß, darunter Weiß und Rot",
+    "flagLaw": "https://www.regierung-mv.de/Landesregierung/im/Verwaltung/Hoheitszeichen/",
+    "code": "MV",
+    "ags": "13",
+    "neighbors": [
+      "BB",
+      "NI",
+      "SH"
+    ],
+    "population": 1573597,
+    "area": 23294.9,
+    "flag": "/media/de/680d18c667ae.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Mecklenburg-Western_Pomerania.svg",
+    "flagHash": "71edf0c56baf3be14e6a4cdb65b6129f4bc54dc43c400ff56b1e6014e56834e2",
+    "mapKey": "680d18c667ae"
+  },
+  {
+    "name": "Sachsen",
+    "capital": "Dresden",
+    "capitalAgs": "14612000",
+    "flagDetail": "Weiß und Grün in zwei Querstreifen",
+    "flagLaw": "https://www.revosax.sachsen.de/vorschrift/3975-Verfassung",
+    "code": "SN",
+    "ags": "14",
+    "neighbors": [
+      "BB",
+      "BY",
+      "ST",
+      "TH"
+    ],
+    "population": 4042422,
+    "area": 18449.85,
+    "flag": "/media/de/9fa141898bc1.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Saxony.svg",
+    "flagHash": "5f5bfe43c9c7215ffb4e5210f6c9768abde8ae43e705ba9478df808176e38e4f",
+    "mapKey": "9fa141898bc1"
+  },
+  {
+    "name": "Sachsen-Anhalt",
+    "capital": "Magdeburg",
+    "capitalAgs": "15003000",
+    "flagDetail": "Landeswappen auf Gelb und Schwarz. Seit 2017 gilt eine einheitliche Landesflagge",
+    "flagLaw": "https://mi.sachsen-anhalt.de/themen/wappen-flagge-symbol-siegel-und-landeslogo",
+    "code": "ST",
+    "ags": "15",
+    "neighbors": [
+      "BB",
+      "NI",
+      "SN",
+      "TH"
+    ],
+    "population": 2135597,
+    "area": 20554.84,
+    "flag": "/media/de/9d237ff84264.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Saxony-Anhalt_(state).svg",
+    "flagHash": "79825556e5e32f9b91bd1745bc89454e5becf504a93fad0094b57b4dba950ab8",
+    "mapKey": "9d237ff84264"
+  },
+  {
+    "name": "Thüringen",
+    "capital": "Erfurt",
+    "capitalAgs": "16051000",
+    "flagDetail": "Weiß und Rot in zwei Querstreifen",
+    "flagLaw": "https://landesrecht.thueringen.de/bsth/document/jlr-WappGTHrahmen",
+    "code": "TH",
+    "ags": "16",
+    "neighbors": [
+      "BY",
+      "HE",
+      "NI",
+      "SN",
+      "ST"
+    ],
+    "population": 2100277,
+    "area": 16202.28,
+    "flag": "/media/de/d7699fda9758.svg",
+    "flagSource": "https://commons.wikimedia.org/wiki/File:Flag_of_Thuringia.svg",
+    "flagHash": "af1a13abde963b08e7ee631264d7dc40cb0876be21b2d1cc438d558f8f0dcef0",
+    "mapKey": "d7699fda9758"
+  }
+]
