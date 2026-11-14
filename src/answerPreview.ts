@@ -4,8 +4,20 @@ import facts from '../data/learning/countries.json';
 import sites from '../data/learning/unesco-sites.json';
 import type {QuestionResolution} from './QuestionMedia';
 import type {Category} from './engine';
-type Preview={title:string;text:string;src?:string;license?:string;atlasIso?:string;map?:boolean};
+import {germanCities,stateByName,stateByCode} from './germanyPool';
+type Preview={title:string;text:string;src?:string;license?:string;atlasIso?:string;map?:boolean;deState?:string;dePoint?:number[]};
 export function answerPreview(category:Category,option:string,resolution?:QuestionResolution|null):Preview{
+ if(category==='germany'){
+  const stat=resolution?.germany?.stat;
+  const measured=stat?.values.find(v=>v.name===option);
+  if(stat&&measured)return {title:option,text:`${measured.value.toLocaleString('de-DE')}${stat.metric==='area'?' km²':' Einwohner'} · ${stat.date}`};
+  const mappedCity=resolution?.germany?.cityChoices?.find(c=>c.name===option);
+  if(mappedCity)return {title:option,text:`${option} liegt in ${stateByCode.get(mappedCity.state)?.name}.`,dePoint:mappedCity.point};
+  const state=stateByName.get(option);
+  if(state)return {title:option,text:`Landeshauptstadt ${state.capital}. ${state.flagDetail}.`,src:state.flag,deState:state.code};
+  const city=germanCities.find(c=>c.name===option);
+  if(city)return {title:option,text:`${option} liegt in ${stateByCode.get(city.state)?.name}.`,dePoint:city.point};
+ }
  const country=registry.find(f=>f.name===option);
  const comparison=resolution?.comparison;
  const measured=comparison?.values.find(value=>value.name===option);

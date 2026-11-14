@@ -3,6 +3,7 @@ import {africaSlots,pickBalanced,selectionPolicy} from './selection';
 import raw from '../data/questions.json';
 import {expandedQuestions,retiredQuestions} from './questionPool';
 import {flagQuestions,reverseFlagQuestions,questionSubject,seenSubject} from './flags';
+import {germanyQuestions,selectGermany} from './germanyPool';
 export const categories = {
  flags:{name:'Flaggen',description:'195 Staaten. Originalgetreue Flaggen.',icon:'Flag'},
  maps:{name:'Länder auf Karten',description:'Finde deinen Platz auf der Welt',icon:'Map'},
@@ -11,10 +12,11 @@ export const categories = {
  borders:{name:'Nachbarländer',description:'Was liegt gleich nebenan?',icon:'Signpost'},
  landmarks:{name:'Sehenswürdigkeiten',description:'Die besonderen Orte unserer Erde',icon:'Landmark'},
  world:{name:'Weltwissen',description:'Kleine Fragen, große Welt',icon:'Globe2'},
+ germany:{name:'Deutschland',description:'Bundesländer, Städte, Natur und Kultur',icon:'MapPinned'},
 } as const;
 export type Category=keyof typeof categories;
 export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:QuestionResolution&{subjectKey?:string;iso?:string;challenge?:number;confusions?:string[];topic?:string;population?:{[key:string]:unknown}};enabled:boolean};
-export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...reverseFlagQuestions,...expandedQuestions,...retiredQuestions];
+export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...reverseFlagQuestions,...expandedQuestions,...retiredQuestions,...germanyQuestions];
 const questionById=new Map(questions.map(q=>[q.id,q]));
 export type Answer={selected:number;points:number};
 export type Round={id:string;mode:'quick'|'training';category?:Category;questions:Question[];answers:Answer[];cursor:number;status:'playing'|'completed';createdAt:string};
@@ -22,7 +24,7 @@ export type SoloRecord={id:string;mode:Round['mode'];category?:Category;date:str
 export type SoloState={version:1;round:Round|null;records:SoloRecord[];seen:string[]};
 export const emptyState=():SoloState=>({version:1,round:null,records:[],seen:[]});
 export function shuffle<T>(values:T[],random:()=>number=Math.random){const a=[...values];for(let i=a.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
-export function createRound(state:SoloState,count:8|12|16,category?:Category,random:()=>number=Math.random):Round{
+export function createRound(state:SoloState,count:8|12|16|24,category?:Category,random:()=>number=Math.random):Round{
  const chosen=category?[category]:shuffle(Object.keys(categories) as Category[],random).slice(0,4);
  const per=count/chosen.length;
  const seen=state.seen.map(seenSubject);
@@ -36,6 +38,10 @@ export function createRound(state:SoloState,count:8|12|16,category?:Category,ran
  const selected:Question[]=[];
  for(const cat of chosen){
   const pool=shuffle(questions.filter(q=>q.enabled&&q.category===cat),random);
+  if(cat==='germany'){
+   selected.push(...selectGermany(pool,per,state.seen,random));
+   continue;
+  }
   const regional=slots.get(cat);
   const balanced=regional||!category&&cat!=='flags';
   if(!balanced)pool.sort((a,b)=>age(a)-age(b));
@@ -54,7 +60,7 @@ export function createRound(state:SoloState,count:8|12|16,category?:Category,ran
    if(q){selected.push(q);chosenSubjects.add(questionSubject(q));}
   }
  }
- const prepared=shuffle(selected,random).map(q=>{const indices=shuffle([0,1,2,3],random);return {...q,options:indices.map(i=>q.options[i]),correct:indices.indexOf(q.correct)};});
+ const prepared=(category==='germany'?selected:shuffle(selected,random)).map(q=>{const indices=shuffle([0,1,2,3],random);return {...q,options:indices.map(i=>q.options[i]),correct:indices.indexOf(q.correct)};});
  return {id:Array.from(crypto.getRandomValues(new Uint8Array(16)),v=>v.toString(16).padStart(2,'0')).join(''),mode:category?'training':'quick',...(category?{category}:{}),questions:prepared,answers:[],cursor:0,status:'playing',createdAt:new Date().toISOString()};
 }
 export function answerRound(round:Round,selected:number):Round{

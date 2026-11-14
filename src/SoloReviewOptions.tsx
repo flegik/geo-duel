@@ -7,7 +7,7 @@ import type {Question} from './engine';
 export function SoloReviewOptions({question,selected}:{question:Question;selected?:number}){
  const [preview,setPreview]=useState<number|null>(null);
  return <>
-  {question.provenance.cityChoices&&question.media&&<>
+  {(question.provenance.cityChoices||question.category==='germany'&&!hasFlagOptions(question.media))&&question.media&&<>
    <div className="question-image landmarks"><QuestionMedia media={question.media}/></div>
    <QuestionImageCredit credit={question.provenance.imageCredit}/>
   </>}

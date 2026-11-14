@@ -130,7 +130,7 @@ export function landmarkQuestions(){
    /^(Kölner|Trierer|Speyerer|Naumburger|Würzburger|Dresdner|Hamburger|Heidelberger)\b/.test(name);
   const key='de-landmark:'+i;
   const explanation=`${name} · ${kind} in ${city}, ${stateName(state)}.`;
-  const common={state,topic:'landmark',subjectKey:key,sources:[source,bkg],explanation,provenance:{landmark:name,cityName:city}};
+  const common={state,topic:'landmark',subjectKey:key,sources:[source,bkg],explanation,provenance:{landmark:name,cityName:city,city:cities.find(c=>c.name===city)?.ags}};
   const photo=photos[reusedPhotos[name]];
   pool.push(question({...common,key:key+'-location',difficulty:reverse||obvious?2:1,
    prompt:reverse?`Welche Sehenswürdigkeit befindet sich in ${city}?`:obvious?

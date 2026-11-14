@@ -82,7 +82,7 @@ function statsQuestions(){
  const estimates=[
   ...lands.map(r=>buildEstimate(r,'population')),
   ...lands.map(r=>buildEstimate(r,'area')),
-  ...towns.filter(c=>c.population>=100000).slice(0,16).map(r=>buildEstimate(r,'population')),
+  ...towns.filter(c=>c.population>=100000&&!lands.some(s=>s.name===c.name)).slice(0,16).map(r=>buildEstimate(r,'population')),
  ];
  const comparisons=[];
  for(const [records,metric,count] of [[lands,'population',8],[lands,'area',8],[towns,'population',8],[towns,'area',8]]){

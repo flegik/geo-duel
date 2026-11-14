@@ -5421,7 +5421,8 @@
    "germany": {
     "state": "NW",
     "landmark": "Aachener Dom",
-    "cityName": "Aachen"
+    "cityName": "Aachen",
+    "city": "05334002"
    }
   }
  },
@@ -5456,6 +5457,7 @@
     "state": "NW",
     "landmark": "Aachener Dom",
     "cityName": "Aachen",
+    "city": "05334002",
     "additionalLandmark": true
    },
    "imageCredit": {
@@ -5494,7 +5496,8 @@
    "germany": {
     "state": "RP",
     "landmark": "Speyerer Dom",
-    "cityName": "Speyer"
+    "cityName": "Speyer",
+    "city": "07318000"
    }
   }
  },
@@ -5523,7 +5526,8 @@
    "germany": {
     "state": "NW",
     "landmark": "Kölner Dom",
-    "cityName": "Köln"
+    "cityName": "Köln",
+    "city": "05315000"
    }
   }
  },
@@ -5558,6 +5562,7 @@
     "state": "NW",
     "landmark": "Kölner Dom",
     "cityName": "Köln",
+    "city": "05315000",
     "additionalLandmark": true
    },
    "imageCredit": {
@@ -5625,7 +5630,8 @@
    "germany": {
     "state": "NI",
     "landmark": "Mariendom Hildesheim",
-    "cityName": "Hildesheim"
+    "cityName": "Hildesheim",
+    "city": "03254021"
    }
   }
  },
@@ -5654,7 +5660,8 @@
    "germany": {
     "state": "NI",
     "landmark": "Michaeliskirche",
-    "cityName": "Hildesheim"
+    "cityName": "Hildesheim",
+    "city": "03254021"
    }
   }
  },
@@ -5684,6 +5691,7 @@
     "state": "NI",
     "landmark": "Michaeliskirche",
     "cityName": "Hildesheim",
+    "city": "03254021",
     "additionalLandmark": true
    }
   }
@@ -5713,7 +5721,8 @@
    "germany": {
     "state": "RP",
     "landmark": "Porta Nigra",
-    "cityName": "Trier"
+    "cityName": "Trier",
+    "city": "07211000"
    }
   }
  },
@@ -5743,6 +5752,7 @@
     "state": "RP",
     "landmark": "Porta Nigra",
     "cityName": "Trier",
+    "city": "07211000",
     "additionalLandmark": true
    }
   }
@@ -5772,7 +5782,8 @@
    "germany": {
     "state": "RP",
     "landmark": "Liebfrauenkirche am Trierer Dom",
-    "cityName": "Trier"
+    "cityName": "Trier",
+    "city": "07211000"
    }
   }
  },
@@ -5801,7 +5812,8 @@
    "germany": {
     "state": "RP",
     "landmark": "Trierer Kaiserthermen",
-    "cityName": "Trier"
+    "cityName": "Trier",
+    "city": "07211000"
    }
   }
  },
@@ -5830,7 +5842,8 @@
    "germany": {
     "state": "SL",
     "landmark": "Völklinger Hütte",
-    "cityName": "Völklingen"
+    "cityName": "Völklingen",
+    "city": "10041519"
    }
   }
  },
@@ -5859,7 +5872,8 @@
    "germany": {
     "state": "NW",
     "landmark": "Zeche Zollverein",
-    "cityName": "Essen"
+    "cityName": "Essen",
+    "city": "05113000"
    }
   }
  },
@@ -5889,6 +5903,7 @@
     "state": "NW",
     "landmark": "Zeche Zollverein",
     "cityName": "Essen",
+    "city": "05113000",
     "additionalLandmark": true
    }
   }
@@ -6271,7 +6286,8 @@
    "germany": {
     "state": "TH",
     "landmark": "Wartburg",
-    "cityName": "Eisenach"
+    "cityName": "Eisenach",
+    "city": "16063105"
    }
   }
  },
@@ -6301,6 +6317,7 @@
     "state": "TH",
     "landmark": "Wartburg",
     "cityName": "Eisenach",
+    "city": "16063105",
     "additionalLandmark": true
    }
   }
@@ -6330,7 +6347,8 @@
    "germany": {
     "state": "BB",
     "landmark": "Schloss Sanssouci",
-    "cityName": "Potsdam"
+    "cityName": "Potsdam",
+    "city": "12054000"
    }
   }
  },
@@ -6359,7 +6377,8 @@
    "germany": {
     "state": "BB",
     "landmark": "Schloss Cecilienhof",
-    "cityName": "Potsdam"
+    "cityName": "Potsdam",
+    "city": "12054000"
    }
   }
  },
@@ -6389,6 +6408,7 @@
     "state": "BB",
     "landmark": "Schloss Cecilienhof",
     "cityName": "Potsdam",
+    "city": "12054000",
     "additionalLandmark": true
    }
   }
@@ -6418,7 +6438,8 @@
    "germany": {
     "state": "BB",
     "landmark": "Schloss und Park Babelsberg",
-    "cityName": "Potsdam"
+    "cityName": "Potsdam",
+    "city": "12054000"
    }
   }
  },
@@ -6447,7 +6468,8 @@
    "germany": {
     "state": "BY",
     "landmark": "Würzburger Residenz",
-    "cityName": "Würzburg"
+    "cityName": "Würzburg",
+    "city": "09663000"
    }
   }
  },
@@ -6482,6 +6504,7 @@
     "state": "BY",
     "landmark": "Würzburger Residenz",
     "cityName": "Würzburg",
+    "city": "09663000",
     "additionalLandmark": true
    },
    "imageCredit": {
@@ -6520,7 +6543,8 @@
    "germany": {
     "state": "BY",
     "landmark": "Markgräfliches Opernhaus",
-    "cityName": "Bayreuth"
+    "cityName": "Bayreuth",
+    "city": "09462000"
    }
   }
  },
@@ -6549,7 +6573,8 @@
    "germany": {
     "state": "HE",
     "landmark": "Bergpark Wilhelmshöhe",
-    "cityName": "Kassel"
+    "cityName": "Kassel",
+    "city": "06611000"
    }
   }
  },
@@ -6579,6 +6604,7 @@
     "state": "HE",
     "landmark": "Bergpark Wilhelmshöhe",
     "cityName": "Kassel",
+    "city": "06611000",
     "additionalLandmark": true
    }
   }
@@ -6608,7 +6634,8 @@
    "germany": {
     "state": "HE",
     "landmark": "Mathildenhöhe",
-    "cityName": "Darmstadt"
+    "cityName": "Darmstadt",
+    "city": "06411000"
    }
   }
  },
@@ -6754,7 +6781,8 @@
    "germany": {
     "state": "BE",
     "landmark": "Museumsinsel",
-    "cityName": "Berlin"
+    "cityName": "Berlin",
+    "city": "11000000"
    }
   }
  },
@@ -6783,7 +6811,8 @@
    "germany": {
     "state": "HH",
     "landmark": "Chilehaus",
-    "cityName": "Hamburg"
+    "cityName": "Hamburg",
+    "city": "02000000"
    }
   }
  },
@@ -6813,6 +6842,7 @@
     "state": "HH",
     "landmark": "Chilehaus",
     "cityName": "Hamburg",
+    "city": "02000000",
     "additionalLandmark": true
    }
   }
@@ -6842,7 +6872,8 @@
    "germany": {
     "state": "HB",
     "landmark": "Rathaus mit Roland am Marktplatz",
-    "cityName": "Bremen"
+    "cityName": "Bremen",
+    "city": "04011000"
    }
   }
  },
@@ -6871,7 +6902,8 @@
    "germany": {
     "state": "SH",
     "landmark": "Holstentor",
-    "cityName": "Lübeck"
+    "cityName": "Lübeck",
+    "city": "01003000"
    }
   }
  },
@@ -6901,6 +6933,7 @@
     "state": "SH",
     "landmark": "Holstentor",
     "cityName": "Lübeck",
+    "city": "01003000",
     "additionalLandmark": true
    }
   }
@@ -6930,7 +6963,8 @@
    "germany": {
     "state": "MV",
     "landmark": "Schloss Schwerin",
-    "cityName": "Schwerin"
+    "cityName": "Schwerin",
+    "city": "13004000"
    }
   }
  },
@@ -7018,7 +7052,8 @@
    "germany": {
     "state": "BY",
     "landmark": "Altstadt mit der Alten Hofhaltung",
-    "cityName": "Bamberg"
+    "cityName": "Bamberg",
+    "city": "09461000"
    }
   }
  },
@@ -7047,7 +7082,8 @@
    "germany": {
     "state": "BY",
     "landmark": "Steinerne Brücke über die Donau",
-    "cityName": "Regensburg"
+    "cityName": "Regensburg",
+    "city": "09362000"
    }
   }
  },
@@ -7077,6 +7113,7 @@
     "state": "BY",
     "landmark": "Steinerne Brücke über die Donau",
     "cityName": "Regensburg",
+    "city": "09362000",
     "additionalLandmark": true
    }
   }
@@ -7165,7 +7202,8 @@
    "germany": {
     "state": "ST",
     "landmark": "Bauhausgebäude von 1926",
-    "cityName": "Dessau-Roßlau"
+    "cityName": "Dessau-Roßlau",
+    "city": "15001000"
    }
   }
  },
@@ -7195,6 +7233,7 @@
     "state": "ST",
     "landmark": "Bauhausgebäude von 1926",
     "cityName": "Dessau-Roßlau",
+    "city": "15001000",
     "additionalLandmark": true
    }
   }
@@ -7224,7 +7263,8 @@
    "germany": {
     "state": "BB",
     "landmark": "ADGB-Bundesschule",
-    "cityName": "Bernau bei Berlin"
+    "cityName": "Bernau bei Berlin",
+    "city": "12060020"
    }
   }
  },
@@ -7253,7 +7293,8 @@
    "germany": {
     "state": "TH",
     "landmark": "Goethes Wohnhaus am Frauenplan",
-    "cityName": "Weimar"
+    "cityName": "Weimar",
+    "city": "16055000"
    }
   }
  },
@@ -7283,6 +7324,7 @@
     "state": "TH",
     "landmark": "Goethes Wohnhaus am Frauenplan",
     "cityName": "Weimar",
+    "city": "16055000",
     "additionalLandmark": true
    }
   }
@@ -7312,7 +7354,8 @@
    "germany": {
     "state": "TH",
     "landmark": "Schillers Wohnhaus",
-    "cityName": "Weimar"
+    "cityName": "Weimar",
+    "city": "16055000"
    }
   }
  },
@@ -7459,7 +7502,8 @@
    "germany": {
     "state": "TH",
     "landmark": "Alte Synagoge des Welterbes „Jüdisch-mittelalterliches Erbe“",
-    "cityName": "Erfurt"
+    "cityName": "Erfurt",
+    "city": "16051000"
    }
   }
  },
@@ -7488,7 +7532,8 @@
    "germany": {
     "state": "RP",
     "landmark": "Judenhof mit mittelalterlicher Mikwe",
-    "cityName": "Speyer"
+    "cityName": "Speyer",
+    "city": "07318000"
    }
   }
  },
@@ -7517,7 +7562,8 @@
    "germany": {
     "state": "RP",
     "landmark": "Jüdischer Friedhof „Heiliger Sand“",
-    "cityName": "Worms"
+    "cityName": "Worms",
+    "city": "07319000"
    }
   }
  },
@@ -7546,7 +7592,8 @@
    "germany": {
     "state": "HH",
     "landmark": "Speicherstadt",
-    "cityName": "Hamburg"
+    "cityName": "Hamburg",
+    "city": "02000000"
    }
   }
  },
@@ -7662,7 +7709,8 @@
    "germany": {
     "state": "BE",
     "landmark": "Brandenburger Tor am Pariser Platz",
-    "cityName": "Berlin"
+    "cityName": "Berlin",
+    "city": "11000000"
    }
   }
  },
@@ -7691,7 +7739,8 @@
    "germany": {
     "state": "BE",
     "landmark": "Reichstagsgebäude",
-    "cityName": "Berlin"
+    "cityName": "Berlin",
+    "city": "11000000"
    }
   }
  },
@@ -7720,7 +7769,8 @@
    "germany": {
     "state": "HH",
     "landmark": "Elbphilharmonie",
-    "cityName": "Hamburg"
+    "cityName": "Hamburg",
+    "city": "02000000"
    }
   }
  },
@@ -7749,7 +7799,8 @@
    "germany": {
     "state": "SN",
     "landmark": "Frauenkirche am Neumarkt",
-    "cityName": "Dresden"
+    "cityName": "Dresden",
+    "city": "14612000"
    }
   }
  },
@@ -7778,7 +7829,8 @@
    "germany": {
     "state": "BW",
     "landmark": "Heidelberger Schloss",
-    "cityName": "Heidelberg"
+    "cityName": "Heidelberg",
+    "city": "08221000"
    }
   }
  },
@@ -7807,7 +7859,8 @@
    "germany": {
     "state": "SN",
     "landmark": "Dresdner Zwinger",
-    "cityName": "Dresden"
+    "cityName": "Dresden",
+    "city": "14612000"
    }
   }
  },
@@ -7836,7 +7889,8 @@
    "germany": {
     "state": "SN",
     "landmark": "Semperoper",
-    "cityName": "Dresden"
+    "cityName": "Dresden",
+    "city": "14612000"
    }
   }
  },
@@ -7865,7 +7919,8 @@
    "germany": {
     "state": "HH",
     "landmark": "Hamburger Michel (Hauptkirche St. Michaelis)",
-    "cityName": "Hamburg"
+    "cityName": "Hamburg",
+    "city": "02000000"
    }
   }
  },
@@ -7894,7 +7949,8 @@
    "germany": {
     "state": "SN",
     "landmark": "Völkerschlachtdenkmal",
-    "cityName": "Leipzig"
+    "cityName": "Leipzig",
+    "city": "14713000"
    }
   }
  },
@@ -7923,7 +7979,8 @@
    "germany": {
     "state": "BY",
     "landmark": "Kaiserburg",
-    "cityName": "Nürnberg"
+    "cityName": "Nürnberg",
+    "city": "09564000"
    }
   }
  },
@@ -7952,7 +8009,8 @@
    "germany": {
     "state": "BY",
     "landmark": "Schloss Nymphenburg",
-    "cityName": "München"
+    "cityName": "München",
+    "city": "09162000"
    }
   }
  },
@@ -7981,7 +8039,8 @@
    "germany": {
     "state": "RP",
     "landmark": "Festung Ehrenbreitstein",
-    "cityName": "Koblenz"
+    "cityName": "Koblenz",
+    "city": "07111000"
    }
   }
  },
@@ -8126,7 +8185,8 @@
    "germany": {
     "state": "SN",
     "landmark": "Burg Rabenstein (Chemnitzer Stadtgebiet)",
-    "cityName": "Chemnitz"
+    "cityName": "Chemnitz",
+    "city": "14511000"
    }
   }
  },
@@ -8155,7 +8215,8 @@
    "germany": {
     "state": "HE",
     "landmark": "Paulskirche, Tagungsort der Nationalversammlung von 1848",
-    "cityName": "Frankfurt am Main"
+    "cityName": "Frankfurt am Main",
+    "city": "06412000"
    }
   }
  },
@@ -8184,7 +8245,8 @@
    "germany": {
     "state": "BW",
     "landmark": "Porsche Museum",
-    "cityName": "Stuttgart"
+    "cityName": "Stuttgart",
+    "city": "08111000"
    }
   }
  },
@@ -8213,7 +8275,8 @@
    "germany": {
     "state": "BW",
     "landmark": "Mercedes-Benz Museum",
-    "cityName": "Stuttgart"
+    "cityName": "Stuttgart",
+    "city": "08111000"
    }
   }
  },
@@ -8242,7 +8305,8 @@
    "germany": {
     "state": "HB",
     "landmark": "Klimahaus an der Havenwelten-Promenade",
-    "cityName": "Bremerhaven"
+    "cityName": "Bremerhaven",
+    "city": "04012000"
    }
   }
  },
@@ -8271,7 +8335,8 @@
    "germany": {
     "state": "MV",
     "landmark": "Ozeaneum",
-    "cityName": "Stralsund"
+    "cityName": "Stralsund",
+    "city": "13073088"
    }
   }
  },

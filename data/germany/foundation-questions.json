@@ -317,7 +317,13 @@
       "capital": "Potsdam"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/9bfa9f8e0ad8.svg",
+    "/media/de/7fdb2c1590e0.svg",
+    "/media/de/4748a58012ee.svg",
+    "/media/de/d7699fda9758.svg"
+   ]
   }
  },
  {
@@ -371,7 +377,13 @@
       "capital": "Dresden"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/680d18c667ae.svg",
+    "/media/de/ba07406f43aa.svg",
+    "/media/de/9bfa9f8e0ad8.svg",
+    "/media/de/9fa141898bc1.svg"
+   ]
   }
  },
  {
@@ -827,7 +839,13 @@
       "capital": "München"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/7fdb2c1590e0.svg",
+    "/media/de/4748a58012ee.svg",
+    "/media/de/74a58c89215e.svg",
+    "/media/de/d7699fda9758.svg"
+   ]
   }
  },
  {
@@ -881,7 +899,13 @@
       "capital": "Wiesbaden"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/8d06ec31c3b4.svg",
+    "/media/de/8cb497425369.svg",
+    "/media/de/e7144e89c365.svg",
+    "/media/de/7fdb2c1590e0.svg"
+   ]
   }
  },
  {
@@ -1337,7 +1361,13 @@
       "capital": "Schwerin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/837f75fe2522.svg",
+    "/media/de/8d06ec31c3b4.svg",
+    "/media/de/9d237ff84264.svg",
+    "/media/de/680d18c667ae.svg"
+   ]
   }
  },
  {
@@ -1391,7 +1421,13 @@
       "capital": "Stuttgart"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/251992293d07.svg",
+    "/media/de/8f2d1a7f1ea7.svg",
+    "/media/de/837f75fe2522.svg",
+    "/media/de/4c877f5bc2da.svg"
+   ]
   }
  },
  {
@@ -1847,7 +1883,13 @@
       "capital": "München"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/74a58c89215e.svg",
+    "/media/de/8d06ec31c3b4.svg",
+    "/media/de/e7144e89c365.svg",
+    "/media/de/d7699fda9758.svg"
+   ]
   }
  },
  {
@@ -1901,7 +1943,13 @@
       "capital": "Potsdam"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/8cb497425369.svg",
+    "/media/de/7fdb2c1590e0.svg",
+    "/media/de/e7144e89c365.svg",
+    "/media/de/4748a58012ee.svg"
+   ]
   }
  },
  {
@@ -2357,7 +2405,13 @@
       "capital": "Stuttgart"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/4c877f5bc2da.svg",
+    "/media/de/ba07406f43aa.svg",
+    "/media/de/d7699fda9758.svg",
+    "/media/de/8d06ec31c3b4.svg"
+   ]
   }
  },
  {
@@ -2411,7 +2465,13 @@
       "capital": "Schwerin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/9fa141898bc1.svg",
+    "/media/de/9bfa9f8e0ad8.svg",
+    "/media/de/680d18c667ae.svg",
+    "/media/de/ba07406f43aa.svg"
+   ]
   }
  },
  {
@@ -2867,7 +2927,13 @@
       "capital": "Dresden"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/7fdb2c1590e0.svg",
+    "/media/de/e7144e89c365.svg",
+    "/media/de/9fa141898bc1.svg",
+    "/media/de/8d06ec31c3b4.svg"
+   ]
   }
  },
  {
@@ -2921,7 +2987,13 @@
       "capital": "Berlin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/8cb497425369.svg",
+    "/media/de/4748a58012ee.svg",
+    "/media/de/d7699fda9758.svg",
+    "/media/de/8d06ec31c3b4.svg"
+   ]
   }
  },
  {
@@ -3377,7 +3449,13 @@
       "capital": "Schwerin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/4c877f5bc2da.svg",
+    "/media/de/680d18c667ae.svg",
+    "/media/de/8d06ec31c3b4.svg",
+    "/media/de/8f2d1a7f1ea7.svg"
+   ]
   }
  },
  {
@@ -3431,7 +3509,13 @@
       "capital": "Magdeburg"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/8f2d1a7f1ea7.svg",
+    "/media/de/9d237ff84264.svg",
+    "/media/de/837f75fe2522.svg",
+    "/media/de/251992293d07.svg"
+   ]
   }
  },
  {
@@ -3887,7 +3971,13 @@
       "capital": "Dresden"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/8f2d1a7f1ea7.svg",
+    "/media/de/4c877f5bc2da.svg",
+    "/media/de/8d06ec31c3b4.svg",
+    "/media/de/9fa141898bc1.svg"
+   ]
   }
  },
  {
@@ -3941,7 +4031,13 @@
       "capital": "Saarbrücken"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/837f75fe2522.svg",
+    "/media/de/4c877f5bc2da.svg",
+    "/media/de/251992293d07.svg",
+    "/media/de/9d237ff84264.svg"
+   ]
   }
  },
  {
@@ -4397,7 +4493,13 @@
       "capital": "Kiel"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/74a58c89215e.svg",
+    "/media/de/e7144e89c365.svg",
+    "/media/de/9bfa9f8e0ad8.svg",
+    "/media/de/680d18c667ae.svg"
+   ]
   }
  },
  {
@@ -4451,7 +4553,13 @@
       "capital": "Berlin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/9fa141898bc1.svg",
+    "/media/de/8cb497425369.svg",
+    "/media/de/7fdb2c1590e0.svg",
+    "/media/de/74a58c89215e.svg"
+   ]
   }
  },
  {
@@ -4907,7 +5015,13 @@
       "capital": "Düsseldorf"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/ba07406f43aa.svg",
+    "/media/de/9bfa9f8e0ad8.svg",
+    "/media/de/251992293d07.svg",
+    "/media/de/4c877f5bc2da.svg"
+   ]
   }
  },
  {
@@ -4961,7 +5075,13 @@
       "capital": "Magdeburg"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/9d237ff84264.svg",
+    "/media/de/8f2d1a7f1ea7.svg",
+    "/media/de/251992293d07.svg",
+    "/media/de/837f75fe2522.svg"
+   ]
   }
  },
  {
@@ -5417,7 +5537,13 @@
       "capital": "Schwerin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/8cb497425369.svg",
+    "/media/de/680d18c667ae.svg",
+    "/media/de/e7144e89c365.svg",
+    "/media/de/8d06ec31c3b4.svg"
+   ]
   }
  },
  {
@@ -5471,7 +5597,13 @@
       "capital": "Erfurt"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/8cb497425369.svg",
+    "/media/de/4748a58012ee.svg",
+    "/media/de/7fdb2c1590e0.svg",
+    "/media/de/d7699fda9758.svg"
+   ]
   }
  },
  {
@@ -5927,7 +6059,13 @@
       "capital": "Schwerin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/e7144e89c365.svg",
+    "/media/de/7fdb2c1590e0.svg",
+    "/media/de/4748a58012ee.svg",
+    "/media/de/680d18c667ae.svg"
+   ]
   }
  },
  {
@@ -5981,7 +6119,13 @@
       "capital": "Erfurt"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/4748a58012ee.svg",
+    "/media/de/8d06ec31c3b4.svg",
+    "/media/de/d7699fda9758.svg",
+    "/media/de/8cb497425369.svg"
+   ]
   }
  },
  {
@@ -6437,7 +6581,13 @@
       "capital": "Dresden"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/d7699fda9758.svg",
+    "/media/de/9fa141898bc1.svg",
+    "/media/de/680d18c667ae.svg",
+    "/media/de/8d06ec31c3b4.svg"
+   ]
   }
  },
  {
@@ -6491,7 +6641,13 @@
       "capital": "Potsdam"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/4748a58012ee.svg",
+    "/media/de/9bfa9f8e0ad8.svg",
+    "/media/de/680d18c667ae.svg",
+    "/media/de/ba07406f43aa.svg"
+   ]
   }
  },
  {
@@ -6947,7 +7103,13 @@
       "capital": "Stuttgart"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/9fa141898bc1.svg",
+    "/media/de/74a58c89215e.svg",
+    "/media/de/4c877f5bc2da.svg",
+    "/media/de/8d06ec31c3b4.svg"
+   ]
   }
  },
  {
@@ -7001,7 +7163,13 @@
       "capital": "Kiel"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/9bfa9f8e0ad8.svg",
+    "/media/de/ba07406f43aa.svg",
+    "/media/de/9fa141898bc1.svg",
+    "/media/de/d7699fda9758.svg"
+   ]
   }
  },
  {
@@ -7457,7 +7625,13 @@
       "capital": "Schwerin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/680d18c667ae.svg",
+    "/media/de/9d237ff84264.svg",
+    "/media/de/251992293d07.svg",
+    "/media/de/4748a58012ee.svg"
+   ]
   }
  },
  {
@@ -7511,7 +7685,13 @@
       "capital": "Mainz"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/4c877f5bc2da.svg",
+    "/media/de/8f2d1a7f1ea7.svg",
+    "/media/de/9d237ff84264.svg",
+    "/media/de/837f75fe2522.svg"
+   ]
   }
  },
  {
@@ -7967,7 +8147,13 @@
       "capital": "Kiel"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/e7144e89c365.svg",
+    "/media/de/7fdb2c1590e0.svg",
+    "/media/de/d7699fda9758.svg",
+    "/media/de/9bfa9f8e0ad8.svg"
+   ]
   }
  },
  {
@@ -8021,7 +8207,13 @@
       "capital": "Berlin"
      }
     ]
-   }
+   },
+   "optionImages": [
+    "/media/de/d7699fda9758.svg",
+    "/media/de/4748a58012ee.svg",
+    "/media/de/8cb497425369.svg",
+    "/media/de/8d06ec31c3b4.svg"
+   ]
   }
  },
  {

@@ -51,10 +51,12 @@ const objects = raw.map(({properties: {lkz, ags, gen, ewz, kfl}}) => {
  assert.equal(info.name, gen);
  const key = hash('geoduel.de:' + ags).slice(0,12);
  const flag = `/media/de/${key}.svg`;
- const original = read(file);
+ const original = read(file).replace(/\r\n/g,'\n');
  // Strip editor metadata and embedded titles from quiz media.
  const svg = original.replace(/<!--[\s\S]*?-->/g, '').replace(/<(title|desc|metadata)\b[^>]*>[\s\S]*?<\/\1>/gi, '')
-  .replace(/<\?xml[^>]*\?>/g,'').replace(/<!DOCTYPE[^>]*>/g,'').trim();
+  .replace(/<\?xml[^>]*\?>/g,'').replace(/<!DOCTYPE[^>]*>/g,'')
+  .replace(/\s+(?:(?:inkscape|sodipodi):[\w-]+|id)=(?:"[^"]*"|'[^']*')/g,(attribute)=>
+   /\sid=/.test(attribute)&&!attribute.match(/flag|thuring|saxony|bremen|berlin/i)?attribute:'').trim();
  assert.match(svg, /^<svg\b/);
  assert.doesNotMatch(svg, /<script\b|<foreignObject\b|\son[a-z]+\s*=|(?:href|src)\s*=\s*["'](?!#)/i);
  writeFileSync('public' + flag, svg + '\n');

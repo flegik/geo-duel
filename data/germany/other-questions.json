@@ -4789,48 +4789,6 @@
   }
  },
  {
-  "id": "de1-70defabc37f9fd",
-  "category": "germany",
-  "difficulty": 1,
-  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Hamburg ungefähr (Stand 31.12.2024)?",
-  "options": [
-   "700.000",
-   "1.200.000",
-   "1.900.000",
-   "3.200.000"
-  ],
-  "correct": 2,
-  "explanation": "Hamburg · 1.862.565 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
-  "media": null,
-  "enabled": true,
-  "provenance": {
-   "topic": "statistics",
-   "subjectKey": "de-stat:02000000:population",
-   "sources": [
-    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
-    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
-   ],
-   "germany": {
-    "state": "HH",
-    "stat": {
-     "year": 2024,
-     "date": "31.12.2024",
-     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
-     "metric": "population",
-     "mode": "estimate",
-     "values": [
-      {
-       "name": "Hamburg",
-       "value": 1862565
-      }
-     ],
-     "step": 100000
-    },
-    "city": "02000000"
-   }
-  }
- },
- {
   "id": "de1-44fe29e550b435",
   "category": "germany",
   "difficulty": 1,
@@ -4869,48 +4827,6 @@
      "step": 10000
     },
     "city": "03241001"
-   }
-  }
- },
- {
-  "id": "de1-8df632108934b9",
-  "category": "germany",
-  "difficulty": 1,
-  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Bremen ungefähr (Stand 31.12.2024)?",
-  "options": [
-   "590.000",
-   "1.000.000",
-   "370.000",
-   "210.000"
-  ],
-  "correct": 0,
-  "explanation": "Bremen · 586.271 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
-  "media": null,
-  "enabled": true,
-  "provenance": {
-   "topic": "statistics",
-   "subjectKey": "de-stat:04011000:population",
-   "sources": [
-    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
-    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
-   ],
-   "germany": {
-    "state": "HB",
-    "stat": {
-     "year": 2024,
-     "date": "31.12.2024",
-     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
-     "metric": "population",
-     "mode": "estimate",
-     "values": [
-      {
-       "name": "Bremen",
-       "value": 586271
-      }
-     ],
-     "step": 10000
-    },
-    "city": "04011000"
    }
   }
  },
@@ -5167,48 +5083,6 @@
   }
  },
  {
-  "id": "de1-cba31c6319106e",
-  "category": "germany",
-  "difficulty": 1,
-  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Berlin ungefähr (Stand 31.12.2024)?",
-  "options": [
-   "3.700.000",
-   "2.300.000",
-   "1.300.000",
-   "6.300.000"
-  ],
-  "correct": 0,
-  "explanation": "Berlin · 3.685.265 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
-  "media": null,
-  "enabled": true,
-  "provenance": {
-   "topic": "statistics",
-   "subjectKey": "de-stat:11000000:population",
-   "sources": [
-    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
-    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
-   ],
-   "germany": {
-    "state": "BE",
-    "stat": {
-     "year": 2024,
-     "date": "31.12.2024",
-     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
-     "metric": "population",
-     "mode": "estimate",
-     "values": [
-      {
-       "name": "Berlin",
-       "value": 3685265
-      }
-     ],
-     "step": 100000
-    },
-    "city": "11000000"
-   }
-  }
- },
- {
   "id": "de1-c9bbb23a0c9e73",
   "category": "germany",
   "difficulty": 2,
@@ -5415,6 +5289,132 @@
      "step": 100000
     },
     "city": "05315000"
+   }
+  }
+ },
+ {
+  "id": "de1-4596f3e23b709e",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Leipzig ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "1.040.000",
+   "210.000",
+   "380.000",
+   "610.000"
+  ],
+  "correct": 3,
+  "explanation": "Leipzig · 611.850 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:14713000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SN",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Leipzig",
+       "value": 611850
+      }
+     ],
+     "step": 10000
+    },
+    "city": "14713000"
+   }
+  }
+ },
+ {
+  "id": "de1-90986aaf5e3b2c",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Dortmund ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "1.020.000",
+   "210.000",
+   "380.000",
+   "600.000"
+  ],
+  "correct": 3,
+  "explanation": "Dortmund · 603.462 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05913000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Dortmund",
+       "value": 603462
+      }
+     ],
+     "step": 10000
+    },
+    "city": "05913000"
+   }
+  }
+ },
+ {
+  "id": "de1-7b44ad9787ad56",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Mannheim ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "200.000",
+   "320.000",
+   "110.000",
+   "540.000"
+  ],
+  "correct": 1,
+  "explanation": "Mannheim · 318.035 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:08222000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Mannheim",
+       "value": 318035
+      }
+     ],
+     "step": 10000
+    },
+    "city": "08222000"
    }
   }
  },

@@ -17,7 +17,7 @@ export type Room={id:string;code:string;host:string;status:'waiting'|'playing'|'
 export type DuelStats={played:number;wins:number;losses:number;draws:number;points:number;correct:number;answers:number;history:{id:string;date:string;total:number;me:MatchResult['players'][0];opponent:MatchResult['players'][0]}[];categories:{category:Category;total:number;correct:number;points:number}[]};
 export async function rpc<T>(action:string,payload:Record<string,unknown>={}):Promise<T>{
  if(!supabase)throw Error('Der Duellserver ist noch nicht konfiguriert. Singleplayer ist verfügbar.');
- if(action==='ready')payload={...payload,questionFormat:2};
+ if(action==='ready'||action==='join'||action==='create')payload={...payload,questionFormat:3};
  const {data,error}=action==='join'||action==='create'?await supabase.functions.invoke('game',{body:{action,payload}}):await supabase.rpc('geoduel',{action,payload});
  if(error)throw Error('Die Verbindung zum Spielserver ist unterbrochen. Bitte versuche es erneut.');
  if(data?.error)throw Error(data.error);

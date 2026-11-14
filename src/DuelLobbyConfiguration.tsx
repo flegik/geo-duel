@@ -7,6 +7,7 @@ const presets:{label:string;counts:QuestionCounts}[]=[
  {label:'12× Flaggen',counts:{flags:12}},
  {label:'16× Flaggen',counts:{flags:16}},
  {label:'8× Flaggen + 8× Karten',counts:{flags:8,maps:8}},
+ {label:'12× Deutschland',counts:{germany:12}},
 ];
 const equal=(a:QuestionCounts,b:QuestionCounts)=>duelCategories.every(c=>(a[c]??0)===(b[c]??0));
 const lengths=[2,3,4] as const;

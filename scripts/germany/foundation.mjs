@@ -27,7 +27,8 @@ export function question({topic,key,subjectKey,difficulty,prompt,answer,choices,
  const id = 'de1-' + hash(topic + ':' + key).slice(0,14);
  const options = [answer,...choices].sort((a,b)=>hash(id+':'+a).localeCompare(hash(id+':'+b)));
  return {id,category:'germany',difficulty,prompt,options,correct:options.indexOf(answer),explanation,media,enabled:true,
-  provenance:{topic,subjectKey,sources,germany:{state,...provenance}}};
+  provenance:{topic,subjectKey,sources,germany:{state,...provenance},
+   ...(media?.src==='choice:de-flags'?{optionImages:options.map(name=>states.find(s=>s.name===name).flag)}:{})}};
 }
 function alts(state, names, offset) {
  const codes = names.split(' ').filter(code=>code!==state.code);

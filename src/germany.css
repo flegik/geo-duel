@@ -1,0 +1,23 @@
+.germany-map {
+ display: grid;
+ justify-items: center;
+ gap: .35rem;
+ width: 100%;
+}
+.germany-map-svg {
+ display: block;
+ width: 100%;
+ max-width: 26rem;
+ height: min(55svh, 28rem);
+ min-height: 225px;
+}
+.germany-map .atlas-source {
+ margin: 0;
+ text-align: center;
+ font-size: .7rem;
+}
+.germany-map a, .germany-atlas-card .atlas-source a { text-decoration: underline; }
+.germany-atlas-card { margin-top: 1rem; }
+.germany-atlas-card .atlas-flag { max-width: 14rem; height: 7rem; object-fit: contain; }
+.preview-card .germany-map-svg { max-height: 18rem; }
+.category-icon.germany, .question-meta .germany { color: var(--mint, #6fe0c4); }

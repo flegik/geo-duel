@@ -2,7 +2,7 @@ import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {createElement} from 'react';
 import {renderToStaticMarkup} from 'react-dom/server';
-import {DuelConfiguration} from '../src/DuelConfiguration';
+import {DuelConfiguration} from '../src/DuelLobbyConfiguration';
 import {adjustQuestionCount,countQuestions,duelDistribution,validDuelLength,type QuestionCounts} from '../src/duelConfiguration';
 
 test('Host counters allow arbitrary combinations and respect both bounds',()=>{
@@ -33,9 +33,9 @@ function configuration(counts:QuestionCounts|null,host=true){
 }
 test('Host presets, guest read-only distribution and 24-question stop render accessibly',()=>{
  const max=configuration({flags:24});
- for(const label of ['12× Flaggen','16× Flaggen','8× Flaggen + 8× Karten','Vier Kategorien zufällig','Eigene Zusammenstellung'])assert.ok(max.includes(label));
- assert.equal((max.match(/eine Frage mehr" disabled=""/g)??[]).length,7);
- assert.equal((max.match(/eine Frage weniger" disabled=""/g)??[]).length,6);
+ for(const label of ['12× Flaggen','16× Flaggen','8× Flaggen + 8× Karten','Vier Kategorien zufällig','Eigene Zusammenstellung','12× Deutschland'])assert.ok(max.includes(label));
+ assert.equal((max.match(/eine Frage mehr" disabled=""/g)??[]).length,8);
+ assert.equal((max.match(/eine Frage weniger" disabled=""/g)??[]).length,7);
  assert.match(max,/24 \/ 24 Fragen/);
  const draft=configuration({flags:2});
  assert.match(draft,/mindestens 4 Fragen/);
