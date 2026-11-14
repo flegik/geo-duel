@@ -1,0 +1,2342 @@
+[
+ {
+  "ags": "01002000",
+  "state": "SH",
+  "name": "Kiel",
+  "point": [
+   10.13489,
+   54.32133
+  ],
+  "geoname": "2891122",
+  "population": 252668,
+  "area": 118.65,
+  "map": true
+ },
+ {
+  "ags": "02000000",
+  "state": "HH",
+  "name": "Hamburg",
+  "point": [
+   9.99302,
+   53.55073
+  ],
+  "geoname": "2911298",
+  "population": 1862565,
+  "area": 755.09,
+  "map": true
+ },
+ {
+  "ags": "03241001",
+  "state": "NI",
+  "name": "Hannover",
+  "point": [
+   9.73322,
+   52.37052
+  ],
+  "geoname": "2910831",
+  "population": 522131,
+  "area": 204.3,
+  "map": true
+ },
+ {
+  "ags": "04011000",
+  "state": "HB",
+  "name": "Bremen",
+  "point": [
+   8.80717,
+   53.07582
+  ],
+  "geoname": "2944388",
+  "population": 586271,
+  "area": 326.17,
+  "map": true
+ },
+ {
+  "ags": "05111000",
+  "state": "NW",
+  "name": "Düsseldorf",
+  "point": [
+   6.77927,
+   51.22319
+  ],
+  "geoname": "2934246",
+  "population": 618685,
+  "area": 217.41,
+  "map": true
+ },
+ {
+  "ags": "06414000",
+  "state": "HE",
+  "name": "Wiesbaden",
+  "point": [
+   8.24435,
+   50.08601
+  ],
+  "geoname": "2809346",
+  "population": 288850,
+  "area": 203.87,
+  "map": true
+ },
+ {
+  "ags": "07315000",
+  "state": "RP",
+  "name": "Mainz",
+  "point": [
+   8.28008,
+   49.98185
+  ],
+  "geoname": "2874225",
+  "population": 224684,
+  "area": 97.73,
+  "map": true
+ },
+ {
+  "ags": "08111000",
+  "state": "BW",
+  "name": "Stuttgart",
+  "point": [
+   9.17702,
+   48.78232
+  ],
+  "geoname": "2825297",
+  "population": 612663,
+  "area": 207.33,
+  "map": true
+ },
+ {
+  "ags": "09162000",
+  "state": "BY",
+  "name": "München",
+  "point": [
+   11.57549,
+   48.13743
+  ],
+  "geoname": "2867714",
+  "population": 1505005,
+  "area": 310.7,
+  "map": true
+ },
+ {
+  "ags": "10041100",
+  "state": "SL",
+  "name": "Saarbrücken",
+  "point": [
+   7.00982,
+   49.23262
+  ],
+  "geoname": "2842647",
+  "population": 182971,
+  "area": 167.52,
+  "map": true
+ },
+ {
+  "ags": "11000000",
+  "state": "BE",
+  "name": "Berlin",
+  "point": [
+   13.41053,
+   52.52437
+  ],
+  "geoname": "2950159",
+  "population": 3685265,
+  "area": 891.12,
+  "map": true
+ },
+ {
+  "ags": "12054000",
+  "state": "BB",
+  "name": "Potsdam",
+  "point": [
+   13.06566,
+   52.39886
+  ],
+  "geoname": "2852458",
+  "population": 184754,
+  "area": 188.24,
+  "map": true
+ },
+ {
+  "ags": "13004000",
+  "state": "MV",
+  "name": "Schwerin",
+  "point": [
+   11.41316,
+   53.62937
+  ],
+  "geoname": "2834282",
+  "population": 98308,
+  "area": 130.52,
+  "map": true
+ },
+ {
+  "ags": "14612000",
+  "state": "SN",
+  "name": "Dresden",
+  "point": [
+   13.73832,
+   51.05089
+  ],
+  "geoname": "2935022",
+  "population": 564904,
+  "area": 328.48,
+  "map": true
+ },
+ {
+  "ags": "15003000",
+  "state": "ST",
+  "name": "Magdeburg",
+  "point": [
+   11.63189,
+   52.13129
+  ],
+  "geoname": "2874545",
+  "population": 244329,
+  "area": 201.68,
+  "map": true
+ },
+ {
+  "ags": "16051000",
+  "state": "TH",
+  "name": "Erfurt",
+  "point": [
+   11.03536,
+   50.97734
+  ],
+  "geoname": "2929670",
+  "population": 218793,
+  "area": 269.91,
+  "map": true
+ },
+ {
+  "ags": "05315000",
+  "state": "NW",
+  "name": "Köln",
+  "point": [
+   6.95,
+   50.93333
+  ],
+  "geoname": "2886242",
+  "population": 1024621,
+  "area": 405.02,
+  "map": true
+ },
+ {
+  "ags": "14713000",
+  "state": "SN",
+  "name": "Leipzig",
+  "point": [
+   12.37129,
+   51.33962
+  ],
+  "geoname": "2879139",
+  "population": 611850,
+  "area": 297.8,
+  "map": true
+ },
+ {
+  "ags": "05913000",
+  "state": "NW",
+  "name": "Dortmund",
+  "point": [
+   7.466,
+   51.51494
+  ],
+  "geoname": "2935517",
+  "population": 603462,
+  "area": 280.71,
+  "map": true
+ },
+ {
+  "ags": "08222000",
+  "state": "BW",
+  "name": "Mannheim",
+  "point": [
+   8.46694,
+   49.4891
+  ],
+  "geoname": "2873891",
+  "population": 318035,
+  "area": 144.97,
+  "map": true
+ },
+ {
+  "ags": "09761000",
+  "state": "BY",
+  "name": "Augsburg",
+  "point": [
+   10.89851,
+   48.37154
+  ],
+  "geoname": "2954172",
+  "population": 301105,
+  "area": 146.85,
+  "map": true
+ },
+ {
+  "ags": "08311000",
+  "state": "BW",
+  "name": "Freiburg im Breisgau",
+  "point": [
+   7.85222,
+   47.9959
+  ],
+  "geoname": "2925177",
+  "population": 237460,
+  "area": 153.04,
+  "map": true
+ },
+ {
+  "ags": "13003000",
+  "state": "MV",
+  "name": "Rostock",
+  "point": [
+   12.14049,
+   54.0887
+  ],
+  "geoname": "2844588",
+  "population": 205307,
+  "area": 181.38,
+  "map": true
+ },
+ {
+  "ags": "07314000",
+  "state": "RP",
+  "name": "Ludwigshafen am Rhein",
+  "point": [
+   8.44641,
+   49.48121
+  ],
+  "geoname": "2875376",
+  "population": 177222,
+  "area": 77.43,
+  "map": true
+ },
+ {
+  "ags": "08221000",
+  "state": "BW",
+  "name": "Heidelberg",
+  "point": [
+   8.69079,
+   49.40768
+  ],
+  "geoname": "2907911",
+  "population": 155756,
+  "area": 108.83,
+  "map": true
+ },
+ {
+  "ags": "16053000",
+  "state": "TH",
+  "name": "Jena",
+  "point": [
+   11.5899,
+   50.92878
+  ],
+  "geoname": "2895044",
+  "population": 109725,
+  "area": 114.77,
+  "map": true
+ },
+ {
+  "ags": "07211000",
+  "state": "RP",
+  "name": "Trier",
+  "point": [
+   6.63935,
+   49.75565
+  ],
+  "geoname": "2821164",
+  "population": 104342,
+  "area": 117.06,
+  "map": true
+ },
+ {
+  "ags": "08335043",
+  "state": "BW",
+  "name": "Konstanz",
+  "point": [
+   9.17582,
+   47.66033
+  ],
+  "geoname": "2885679",
+  "population": 86919,
+  "area": 54.12,
+  "map": true
+ },
+ {
+  "ags": "07319000",
+  "state": "RP",
+  "name": "Worms",
+  "point": [
+   8.35916,
+   49.63278
+  ],
+  "geoname": "2806142",
+  "population": 86753,
+  "area": 108.73,
+  "map": true
+ },
+ {
+  "ags": "16055000",
+  "state": "TH",
+  "name": "Weimar",
+  "point": [
+   11.32903,
+   50.9803
+  ],
+  "geoname": "2812482",
+  "population": 65954,
+  "area": 84.47,
+  "map": true
+ },
+ {
+  "ags": "14626110",
+  "state": "SN",
+  "name": "Görlitz",
+  "point": [
+   14.98853,
+   51.15518
+  ],
+  "geoname": "2918987",
+  "population": 55186,
+  "area": 67.53,
+  "map": true
+ },
+ {
+  "ags": "06532023",
+  "state": "HE",
+  "name": "Wetzlar",
+  "point": [
+   8.50495,
+   50.56109
+  ],
+  "geoname": "2809889",
+  "population": 54665,
+  "area": 75.65,
+  "map": true
+ },
+ {
+  "ags": "13073088",
+  "state": "MV",
+  "name": "Stralsund",
+  "point": [
+   13.0818,
+   54.30911
+  ],
+  "geoname": "2826287",
+  "population": 54094,
+  "area": 54.59,
+  "map": true
+ },
+ {
+  "ags": "09262000",
+  "state": "BY",
+  "name": "Passau",
+  "point": [
+   13.43122,
+   48.5665
+  ],
+  "geoname": "2855328",
+  "population": 53039,
+  "area": 69.56,
+  "map": true
+ },
+ {
+  "ags": "10044115",
+  "state": "SL",
+  "name": "Saarlouis",
+  "point": [
+   6.75154,
+   49.31366
+  ],
+  "geoname": "2842632",
+  "population": 37667,
+  "area": 43.3,
+  "map": true
+ },
+ {
+  "ags": "06412000",
+  "state": "HE",
+  "name": "Frankfurt am Main",
+  "point": [
+   8.68417,
+   50.11552
+  ],
+  "geoname": "2925533",
+  "population": 756021,
+  "area": 248.31,
+  "map": true
+ },
+ {
+  "ags": "05113000",
+  "state": "NW",
+  "name": "Essen",
+  "point": [
+   7.01228,
+   51.45657
+  ],
+  "geoname": "2928810",
+  "population": 574682,
+  "area": 210.34,
+  "map": true
+ },
+ {
+  "ags": "09564000",
+  "state": "BY",
+  "name": "Nürnberg",
+  "point": [
+   11.07752,
+   49.45421
+  ],
+  "geoname": "2861650",
+  "population": 529508,
+  "area": 186.44,
+  "map": true
+ },
+ {
+  "ags": "05112000",
+  "state": "NW",
+  "name": "Duisburg",
+  "point": [
+   6.76516,
+   51.43247
+  ],
+  "geoname": "2934691",
+  "population": 502270,
+  "area": 232.84,
+  "map": true
+ },
+ {
+  "ags": "05911000",
+  "state": "NW",
+  "name": "Bochum",
+  "point": [
+   7.21648,
+   51.48165
+  ],
+  "geoname": "2947416",
+  "population": 358676,
+  "area": 145.66,
+  "map": true
+ },
+ {
+  "ags": "05124000",
+  "state": "NW",
+  "name": "Wuppertal",
+  "point": [
+   7.14816,
+   51.25627
+  ],
+  "geoname": "2805753",
+  "population": 358193,
+  "area": 168.39,
+  "map": true
+ },
+ {
+  "ags": "05711000",
+  "state": "NW",
+  "name": "Bielefeld",
+  "point": [
+   8.53333,
+   52.03333
+  ],
+  "geoname": "2949186",
+  "population": 331605,
+  "area": 258.83,
+  "map": true
+ },
+ {
+  "ags": "05314000",
+  "state": "NW",
+  "name": "Bonn",
+  "point": [
+   7.09549,
+   50.73438
+  ],
+  "geoname": "2946447",
+  "population": 323336,
+  "area": 141.06,
+  "map": true
+ },
+ {
+  "ags": "08212000",
+  "state": "BW",
+  "name": "Karlsruhe",
+  "point": [
+   8.40444,
+   49.00937
+  ],
+  "geoname": "2892794",
+  "population": 309050,
+  "area": 173.42,
+  "map": true
+ },
+ {
+  "ags": "05515000",
+  "state": "NW",
+  "name": "Münster",
+  "point": [
+   7.62571,
+   51.96236
+  ],
+  "geoname": "2867543",
+  "population": 308258,
+  "area": 303.28,
+  "map": true
+ },
+ {
+  "ags": "05513000",
+  "state": "NW",
+  "name": "Gelsenkirchen",
+  "point": [
+   7.09654,
+   51.50508
+  ],
+  "geoname": "2921466",
+  "population": 267930,
+  "area": 104.94,
+  "map": true
+ },
+ {
+  "ags": "05116000",
+  "state": "NW",
+  "name": "Mönchengladbach",
+  "point": [
+   6.44172,
+   51.18539
+  ],
+  "geoname": "2869894",
+  "population": 267213,
+  "area": 170.47,
+  "map": true
+ },
+ {
+  "ags": "05334002",
+  "state": "NW",
+  "name": "Aachen",
+  "point": [
+   6.08342,
+   50.77664
+  ],
+  "geoname": "3247449",
+  "population": 262670,
+  "area": 160.85,
+  "map": true
+ },
+ {
+  "ags": "03101000",
+  "state": "NI",
+  "name": "Braunschweig",
+  "point": [
+   10.52673,
+   52.26594
+  ],
+  "geoname": "2945024",
+  "population": 252962,
+  "area": 192.7,
+  "map": true
+ },
+ {
+  "ags": "14511000",
+  "state": "SN",
+  "name": "Chemnitz",
+  "point": [
+   12.92922,
+   50.8357
+  ],
+  "geoname": "2940132",
+  "population": 245618,
+  "area": 221.03,
+  "map": true
+ },
+ {
+  "ags": "05114000",
+  "state": "NW",
+  "name": "Krefeld",
+  "point": [
+   6.55381,
+   51.33645
+  ],
+  "geoname": "2884509",
+  "population": 231406,
+  "area": 137.78,
+  "map": true
+ },
+ {
+  "ags": "15002000",
+  "state": "ST",
+  "name": "Halle (Saale)",
+  "point": [
+   11.97947,
+   51.48158
+  ],
+  "geoname": "2911522",
+  "population": 226767,
+  "area": 135.56,
+  "map": true
+ },
+ {
+  "ags": "01003000",
+  "state": "SH",
+  "name": "Lübeck",
+  "point": [
+   10.68729,
+   53.86893
+  ],
+  "geoname": "2875601",
+  "population": 216889,
+  "area": 214.19,
+  "map": true
+ },
+ {
+  "ags": "05119000",
+  "state": "NW",
+  "name": "Oberhausen",
+  "point": [
+   6.8625,
+   51.47805
+  ],
+  "geoname": "2860410",
+  "population": 213646,
+  "area": 77.09,
+  "map": true
+ },
+ {
+  "ags": "06611000",
+  "state": "HE",
+  "name": "Kassel",
+  "point": [
+   9.5,
+   51.31667
+  ],
+  "geoname": "2892518",
+  "population": 197230,
+  "area": 106.79,
+  "map": true
+ },
+ {
+  "ags": "05914000",
+  "state": "NW",
+  "name": "Hagen",
+  "point": [
+   7.47168,
+   51.36081
+  ],
+  "geoname": "2912621",
+  "population": 190384,
+  "area": 160.45,
+  "map": true
+ },
+ {
+  "ags": "05915000",
+  "state": "NW",
+  "name": "Hamm",
+  "point": [
+   7.82089,
+   51.68033
+  ],
+  "geoname": "2911240",
+  "population": 179968,
+  "area": 226.43,
+  "map": true
+ },
+ {
+  "ags": "05117000",
+  "state": "NW",
+  "name": "Mülheim an der Ruhr",
+  "point": [
+   6.87967,
+   51.43218
+  ],
+  "geoname": "2867838",
+  "population": 173050,
+  "area": 91.28,
+  "map": true
+ },
+ {
+  "ags": "05316000",
+  "state": "NW",
+  "name": "Leverkusen",
+  "point": [
+   6.98432,
+   51.0303
+  ],
+  "geoname": "2878234",
+  "population": 168581,
+  "area": 78.87,
+  "map": true
+ },
+ {
+  "ags": "06411000",
+  "state": "HE",
+  "name": "Darmstadt",
+  "point": [
+   8.65027,
+   49.87167
+  ],
+  "geoname": "2938913",
+  "population": 167029,
+  "area": 122.07,
+  "map": true
+ },
+ {
+  "ags": "03404000",
+  "state": "NI",
+  "name": "Osnabrück",
+  "point": [
+   8.05056,
+   52.27411
+  ],
+  "geoname": "2856883",
+  "population": 166057,
+  "area": 119.8,
+  "map": true
+ },
+ {
+  "ags": "05122000",
+  "state": "NW",
+  "name": "Solingen",
+  "point": [
+   7.0845,
+   51.17343
+  ],
+  "geoname": "2831580",
+  "population": 165626,
+  "area": 89.54,
+  "map": true
+ },
+ {
+  "ags": "05774032",
+  "state": "NW",
+  "name": "Paderborn",
+  "point": [
+   8.75439,
+   51.71905
+  ],
+  "geoname": "2855745",
+  "population": 156378,
+  "area": 179.59,
+  "map": true
+ },
+ {
+  "ags": "05916000",
+  "state": "NW",
+  "name": "Herne",
+  "point": [
+   7.22572,
+   51.5388
+  ],
+  "geoname": "2905891",
+  "population": 155851,
+  "area": 51.42,
+  "map": true
+ },
+ {
+  "ags": "05162024",
+  "state": "NW",
+  "name": "Neuss",
+  "point": [
+   6.68504,
+   51.19807
+  ],
+  "geoname": "2864118",
+  "population": 154317,
+  "area": 99.52,
+  "map": true
+ },
+ {
+  "ags": "09362000",
+  "state": "BY",
+  "name": "Regensburg",
+  "point": [
+   12.10161,
+   49.01513
+  ],
+  "geoname": "2849483",
+  "population": 151389,
+  "area": 80.86,
+  "map": true
+ },
+ {
+  "ags": "09161000",
+  "state": "BY",
+  "name": "Ingolstadt",
+  "point": [
+   11.42372,
+   48.76508
+  ],
+  "geoname": "2895992",
+  "population": 141185,
+  "area": 133.35,
+  "map": true
+ },
+ {
+  "ags": "08231000",
+  "state": "BW",
+  "name": "Pforzheim",
+  "point": [
+   8.69892,
+   48.88436
+  ],
+  "geoname": "2853969",
+  "population": 134912,
+  "area": 97.99,
+  "map": true
+ },
+ {
+  "ags": "09663000",
+  "state": "BY",
+  "name": "Würzburg",
+  "point": [
+   9.95121,
+   49.79391
+  ],
+  "geoname": "2805615",
+  "population": 133258,
+  "area": 87.6,
+  "map": true
+ },
+ {
+  "ags": "06413000",
+  "state": "HE",
+  "name": "Offenbach am Main",
+  "point": [
+   8.76647,
+   50.10061
+  ],
+  "geoname": "2857807",
+  "population": 132746,
+  "area": 44.88,
+  "map": true
+ },
+ {
+  "ags": "09563000",
+  "state": "BY",
+  "name": "Fürth",
+  "point": [
+   10.98856,
+   49.47593
+  ],
+  "geoname": "2923544",
+  "population": 132036,
+  "area": 63.35,
+  "map": true
+ },
+ {
+  "ags": "08121000",
+  "state": "BW",
+  "name": "Heilbronn",
+  "point": [
+   9.22054,
+   49.13995
+  ],
+  "geoname": "2907669",
+  "population": 131986,
+  "area": 99.89,
+  "map": true
+ },
+ {
+  "ags": "08421000",
+  "state": "BW",
+  "name": "Ulm",
+  "point": [
+   9.99155,
+   48.39841
+  ],
+  "geoname": "2820256",
+  "population": 129882,
+  "area": 118.68,
+  "map": true
+ },
+ {
+  "ags": "03103000",
+  "state": "NI",
+  "name": "Wolfsburg",
+  "point": [
+   10.77597,
+   52.4236
+  ],
+  "geoname": "2806654",
+  "population": 129560,
+  "area": 204.62,
+  "map": true
+ },
+ {
+  "ags": "03159016",
+  "state": "NI",
+  "name": "Göttingen",
+  "point": [
+   9.93228,
+   51.53443
+  ],
+  "geoname": "2918632",
+  "population": 127259,
+  "area": 117.02,
+  "map": true
+ },
+ {
+  "ags": "08415061",
+  "state": "BW",
+  "name": "Reutlingen",
+  "point": [
+   9.20427,
+   48.49144
+  ],
+  "geoname": "2847736",
+  "population": 118852,
+  "area": 87.04,
+  "map": true
+ },
+ {
+  "ags": "04012000",
+  "state": "HB",
+  "name": "Bremerhaven",
+  "point": [
+   8.57553,
+   53.55357
+  ],
+  "geoname": "2944368",
+  "population": 118610,
+  "area": 93.77,
+  "map": true
+ },
+ {
+  "ags": "09562000",
+  "state": "BY",
+  "name": "Erlangen",
+  "point": [
+   11.00783,
+   49.59099
+  ],
+  "geoname": "2929567",
+  "population": 115928,
+  "area": 76.96,
+  "map": true
+ },
+ {
+  "ags": "07111000",
+  "state": "RP",
+  "name": "Koblenz",
+  "point": [
+   7.57883,
+   50.35357
+  ],
+  "geoname": "2886946",
+  "population": 113378,
+  "area": 105.25,
+  "map": true
+ },
+ {
+  "ags": "03102000",
+  "state": "NI",
+  "name": "Salzgitter",
+  "point": [
+   10.4154,
+   52.15705
+  ],
+  "geoname": "2842150",
+  "population": 104970,
+  "area": 224.48,
+  "map": true
+ },
+ {
+  "ags": "07312000",
+  "state": "RP",
+  "name": "Kaiserslautern",
+  "point": [
+   7.77161,
+   49.443
+  ],
+  "geoname": "2894003",
+  "population": 100426,
+  "area": 139.7,
+  "map": true
+ },
+ {
+  "ags": "03254021",
+  "state": "NI",
+  "name": "Hildesheim",
+  "point": [
+   9.95112,
+   52.15077
+  ],
+  "geoname": "2904789",
+  "population": 98510,
+  "area": 92.29,
+  "map": true
+ },
+ {
+  "ags": "06435014",
+  "state": "HE",
+  "name": "Hanau",
+  "point": [
+   8.91418,
+   50.13423
+  ],
+  "geoname": "2911007",
+  "population": 97956,
+  "area": 76.28,
+  "map": true
+ },
+ {
+  "ags": "01001000",
+  "state": "SH",
+  "name": "Flensburg",
+  "point": [
+   9.43722,
+   54.78805
+  ],
+  "geoname": "2926271",
+  "population": 96326,
+  "area": 56.73,
+  "map": true
+ },
+ {
+  "ags": "08116019",
+  "state": "BW",
+  "name": "Esslingen am Neckar",
+  "point": [
+   9.30473,
+   48.73961
+  ],
+  "geoname": "2928751",
+  "population": 96182,
+  "area": 46.43,
+  "map": true
+ },
+ {
+  "ags": "16052000",
+  "state": "TH",
+  "name": "Gera",
+  "point": [
+   12.08187,
+   50.88029
+  ],
+  "geoname": "2921232",
+  "population": 95608,
+  "area": 152.18,
+  "map": true
+ },
+ {
+  "ags": "12052000",
+  "state": "BB",
+  "name": "Cottbus",
+  "point": [
+   14.32888,
+   51.75769
+  ],
+  "geoname": "2939811",
+  "population": 95123,
+  "area": 165.61,
+  "map": true
+ },
+ {
+  "ags": "08118048",
+  "state": "BW",
+  "name": "Ludwigsburg",
+  "point": [
+   9.19161,
+   48.89731
+  ],
+  "geoname": "2875392",
+  "population": 92858,
+  "area": 43.34,
+  "map": true
+ },
+ {
+  "ags": "08416041",
+  "state": "BW",
+  "name": "Tübingen",
+  "point": [
+   9.05222,
+   48.52266
+  ],
+  "geoname": "2820860",
+  "population": 92322,
+  "area": 108.07,
+  "map": true
+ },
+ {
+  "ags": "08326074",
+  "state": "BW",
+  "name": "Villingen-Schwenningen",
+  "point": [
+   8.49358,
+   48.06226
+  ],
+  "geoname": "2817220",
+  "population": 89756,
+  "area": 165.53,
+  "map": true
+ },
+ {
+  "ags": "06531005",
+  "state": "HE",
+  "name": "Gießen",
+  "point": [
+   8.67554,
+   50.58727
+  ],
+  "geoname": "2920512",
+  "population": 89179,
+  "area": 72.61,
+  "map": true
+ },
+ {
+  "ags": "14524330",
+  "state": "SN",
+  "name": "Zwickau",
+  "point": [
+   12.48839,
+   50.72724
+  ],
+  "geoname": "2803560",
+  "population": 87410,
+  "area": 102.58,
+  "map": false
+ },
+ {
+  "ags": "01060063",
+  "state": "SH",
+  "name": "Norderstedt",
+  "point": [
+   9.99328,
+   53.70177
+  ],
+  "geoname": "2862026",
+  "population": 82844,
+  "area": 58.1,
+  "map": true
+ },
+ {
+  "ags": "03401000",
+  "state": "NI",
+  "name": "Delmenhorst",
+  "point": [
+   8.63091,
+   53.0511
+  ],
+  "geoname": "2938323",
+  "population": 81406,
+  "area": 62.45,
+  "map": true
+ },
+ {
+  "ags": "01004000",
+  "state": "SH",
+  "name": "Neumünster",
+  "point": [
+   9.98456,
+   54.07399
+  ],
+  "geoname": "2864475",
+  "population": 79809,
+  "area": 71.66,
+  "map": true
+ },
+ {
+  "ags": "09461000",
+  "state": "BY",
+  "name": "Bamberg",
+  "point": [
+   10.90067,
+   49.89873
+  ],
+  "geoname": "2952984",
+  "population": 77150,
+  "area": 54.62,
+  "map": true
+ },
+ {
+  "ags": "03405000",
+  "state": "NI",
+  "name": "Wilhelmshaven",
+  "point": [
+   8.10395,
+   53.5476
+  ],
+  "geoname": "2808720",
+  "population": 75745,
+  "area": 107.11,
+  "map": true
+ },
+ {
+  "ags": "15001000",
+  "state": "ST",
+  "name": "Dessau-Roßlau",
+  "point": [
+   12.24555,
+   51.83864
+  ],
+  "geoname": "2937959",
+  "population": 75402,
+  "area": 245.78,
+  "map": false
+ },
+ {
+  "ags": "03355022",
+  "state": "NI",
+  "name": "Lüneburg",
+  "point": [
+   10.41548,
+   53.25122
+  ],
+  "geoname": "2875115",
+  "population": 74785,
+  "area": 70.5,
+  "map": true
+ },
+ {
+  "ags": "12051000",
+  "state": "BB",
+  "name": "Brandenburg an der Havel",
+  "point": [
+   12.55,
+   52.41667
+  ],
+  "geoname": "2945358",
+  "population": 74113,
+  "area": 229.73,
+  "map": true
+ },
+ {
+  "ags": "06534014",
+  "state": "HE",
+  "name": "Marburg",
+  "point": [
+   8.77069,
+   50.80904
+  ],
+  "geoname": "2873759",
+  "population": 73544,
+  "area": 123.91,
+  "map": true
+ },
+ {
+  "ags": "09661000",
+  "state": "BY",
+  "name": "Aschaffenburg",
+  "point": [
+   9.15214,
+   49.97704
+  ],
+  "geoname": "2955272",
+  "population": 73091,
+  "area": 62.45,
+  "map": true
+ },
+ {
+  "ags": "09462000",
+  "state": "BY",
+  "name": "Bayreuth",
+  "point": [
+   11.57893,
+   49.94782
+  ],
+  "geoname": "2951825",
+  "population": 72940,
+  "area": 66.89,
+  "map": true
+ },
+ {
+  "ags": "09261000",
+  "state": "BY",
+  "name": "Landshut",
+  "point": [
+   12.16179,
+   48.52961
+  ],
+  "geoname": "2881485",
+  "population": 71863,
+  "area": 65.83,
+  "map": true
+ },
+ {
+  "ags": "09763000",
+  "state": "BY",
+  "name": "Kempten (Allgäu)",
+  "point": [
+   10.31389,
+   47.72674
+  ],
+  "geoname": "2891621",
+  "population": 67645,
+  "area": 63.28,
+  "map": false
+ },
+ {
+  "ags": "08136088",
+  "state": "BW",
+  "name": "Aalen",
+  "point": [
+   10.0933,
+   48.83777
+  ],
+  "geoname": "2959927",
+  "population": 67621,
+  "area": 146.58,
+  "map": false
+ },
+ {
+  "ags": "07138045",
+  "state": "RP",
+  "name": "Neuwied",
+  "point": [
+   7.47057,
+   50.4336
+  ],
+  "geoname": "2863840",
+  "population": 67083,
+  "area": 86.5,
+  "map": true
+ },
+ {
+  "ags": "03351006",
+  "state": "NI",
+  "name": "Celle",
+  "point": [
+   10.08047,
+   52.62264
+  ],
+  "geoname": "2940213",
+  "population": 66834,
+  "area": 176.02,
+  "map": true
+ },
+ {
+  "ags": "06433012",
+  "state": "HE",
+  "name": "Rüsselsheim am Main",
+  "point": [
+   8.42251,
+   49.98955
+  ],
+  "geoname": "2842884",
+  "population": 65627,
+  "area": 58.29,
+  "map": true
+ },
+ {
+  "ags": "14523320",
+  "state": "SN",
+  "name": "Plauen",
+  "point": [
+   12.13782,
+   50.4973
+  ],
+  "geoname": "2853292",
+  "population": 65599,
+  "area": 102.11,
+  "map": false
+ },
+ {
+  "ags": "06631009",
+  "state": "HE",
+  "name": "Fulda",
+  "point": [
+   9.67518,
+   50.55162
+  ],
+  "geoname": "2923822",
+  "population": 65434,
+  "area": 104.05,
+  "map": false
+ },
+ {
+  "ags": "09163000",
+  "state": "BY",
+  "name": "Rosenheim",
+  "point": [
+   12.12247,
+   47.85637
+  ],
+  "geoname": "2844988",
+  "population": 65274,
+  "area": 37.22,
+  "map": false
+ },
+ {
+  "ags": "08136065",
+  "state": "BW",
+  "name": "Schwäbisch Gmünd",
+  "point": [
+   9.79809,
+   48.79947
+  ],
+  "geoname": "2835482",
+  "population": 64416,
+  "area": 113.81,
+  "map": false
+ },
+ {
+  "ags": "08317096",
+  "state": "BW",
+  "name": "Offenburg",
+  "point": [
+   7.94495,
+   48.47377
+  ],
+  "geoname": "2857798",
+  "population": 62993,
+  "area": 78.37,
+  "map": false
+ },
+ {
+  "ags": "08435016",
+  "state": "BW",
+  "name": "Friedrichshafen",
+  "point": [
+   9.47554,
+   47.65689
+  ],
+  "geoname": "2924585",
+  "population": 62796,
+  "area": 69.93,
+  "map": false
+ },
+ {
+  "ags": "09775135",
+  "state": "BY",
+  "name": "Neu-Ulm",
+  "point": [
+   10.01112,
+   48.39279
+  ],
+  "geoname": "2863941",
+  "population": 62641,
+  "area": 80.95,
+  "map": false
+ },
+ {
+  "ags": "08115045",
+  "state": "BW",
+  "name": "Sindelfingen",
+  "point": [
+   9.01667,
+   48.7
+  ],
+  "geoname": "2831948",
+  "population": 61422,
+  "area": 50.83,
+  "map": false
+ },
+ {
+  "ags": "13071107",
+  "state": "MV",
+  "name": "Neubrandenburg",
+  "point": [
+   13.26105,
+   53.55735
+  ],
+  "geoname": "2866135",
+  "population": 60344,
+  "area": 86.12,
+  "map": true
+ },
+ {
+  "ags": "03241005",
+  "state": "NI",
+  "name": "Garbsen",
+  "point": [
+   9.6033,
+   52.41961
+  ],
+  "geoname": "2922586",
+  "population": 59903,
+  "area": 79.49,
+  "map": true
+ },
+ {
+  "ags": "08117026",
+  "state": "BW",
+  "name": "Göppingen",
+  "point": [
+   9.65209,
+   48.70354
+  ],
+  "geoname": "2919054",
+  "population": 58937,
+  "area": 59.21,
+  "map": false
+ },
+ {
+  "ags": "03252006",
+  "state": "NI",
+  "name": "Hameln",
+  "point": [
+   9.35623,
+   52.10397
+  ],
+  "geoname": "2911271",
+  "population": 58244,
+  "area": 102.53,
+  "map": false
+ },
+ {
+  "ags": "08119079",
+  "state": "BW",
+  "name": "Waiblingen",
+  "point": [
+   9.31641,
+   48.83241
+  ],
+  "geoname": "2815330",
+  "population": 57313,
+  "area": 42.75,
+  "map": false
+ },
+ {
+  "ags": "12053000",
+  "state": "BB",
+  "name": "Frankfurt (Oder)",
+  "point": [
+   14.55062,
+   52.34714
+  ],
+  "geoname": "2925535",
+  "population": 57107,
+  "area": 147.85,
+  "map": true
+ },
+ {
+  "ags": "03456015",
+  "state": "NI",
+  "name": "Nordhorn",
+  "point": [
+   7.06833,
+   52.43081
+  ],
+  "geoname": "2861934",
+  "population": 56973,
+  "area": 149.86,
+  "map": false
+ },
+ {
+  "ags": "06434001",
+  "state": "HE",
+  "name": "Bad Homburg v.d.Höhe",
+  "point": [
+   8.61816,
+   50.22683
+  ],
+  "geoname": "2953436",
+  "population": 56688,
+  "area": 51.14,
+  "map": false
+ },
+ {
+  "ags": "03454032",
+  "state": "NI",
+  "name": "Lingen (Ems)",
+  "point": [
+   7.32555,
+   52.52269
+  ],
+  "geoname": "2877088",
+  "population": 56498,
+  "area": 176.19,
+  "map": false
+ },
+ {
+  "ags": "13075039",
+  "state": "MV",
+  "name": "Greifswald",
+  "point": [
+   13.40244,
+   54.08905
+  ],
+  "geoname": "2917788",
+  "population": 56092,
+  "area": 50.81,
+  "map": true
+ },
+ {
+  "ags": "09662000",
+  "state": "BY",
+  "name": "Schweinfurt",
+  "point": [
+   10.22175,
+   50.04937
+  ],
+  "geoname": "2834498",
+  "population": 54481,
+  "area": 35.7,
+  "map": false
+ },
+ {
+  "ags": "07133006",
+  "state": "RP",
+  "name": "Bad Kreuznach",
+  "point": [
+   7.86713,
+   49.8414
+  ],
+  "geoname": "2953416",
+  "population": 54168,
+  "area": 55.56,
+  "map": true
+ },
+ {
+  "ags": "03241010",
+  "state": "NI",
+  "name": "Langenhagen",
+  "point": [
+   9.73651,
+   52.44219
+  ],
+  "geoname": "2881062",
+  "population": 54142,
+  "area": 71.97,
+  "map": false
+ },
+ {
+  "ags": "07316000",
+  "state": "RP",
+  "name": "Neustadt an der Weinstraße",
+  "point": [
+   8.13886,
+   49.35009
+  ],
+  "geoname": "2864054",
+  "population": 52945,
+  "area": 117.09,
+  "map": true
+ },
+ {
+  "ags": "03158037",
+  "state": "NI",
+  "name": "Wolfenbüttel",
+  "point": [
+   10.54095,
+   52.16442
+  ],
+  "geoname": "2806914",
+  "population": 52604,
+  "area": 78.74,
+  "map": false
+ },
+ {
+  "ags": "01056015",
+  "state": "SH",
+  "name": "Elmshorn",
+  "point": [
+   9.66176,
+   53.74912
+  ],
+  "geoname": "2930821",
+  "population": 51342,
+  "area": 21.36,
+  "map": true
+ },
+ {
+  "ags": "03157006",
+  "state": "NI",
+  "name": "Peine",
+  "point": [
+   10.2352,
+   52.31928
+  ],
+  "geoname": "2855047",
+  "population": 50987,
+  "area": 119.84,
+  "map": false
+ },
+ {
+  "ags": "03352011",
+  "state": "NI",
+  "name": "Cuxhaven",
+  "point": [
+   8.69902,
+   53.86828
+  ],
+  "geoname": "2939658",
+  "population": 49697,
+  "area": 161.93,
+  "map": false
+ },
+ {
+  "ags": "07318000",
+  "state": "RP",
+  "name": "Speyer",
+  "point": [
+   8.43111,
+   49.32083
+  ],
+  "geoname": "2830582",
+  "population": 49564,
+  "area": 42.71,
+  "map": false
+ },
+ {
+  "ags": "12065256",
+  "state": "BB",
+  "name": "Oranienburg",
+  "point": [
+   13.25194,
+   52.748
+  ],
+  "geoname": "2857129",
+  "population": 49122,
+  "area": 163.69,
+  "map": true
+ },
+ {
+  "ags": "09263000",
+  "state": "BY",
+  "name": "Straubing",
+  "point": [
+   12.57385,
+   48.88126
+  ],
+  "geoname": "2826099",
+  "population": 49002,
+  "area": 67.59,
+  "map": false
+ },
+ {
+  "ags": "09178124",
+  "state": "BY",
+  "name": "Freising",
+  "point": [
+   11.74876,
+   48.40351
+  ],
+  "geoname": "2925034",
+  "population": 48928,
+  "area": 88.59,
+  "map": false
+ },
+ {
+  "ags": "07313000",
+  "state": "RP",
+  "name": "Landau in der Pfalz",
+  "point": [
+   8.11692,
+   49.19844
+  ],
+  "geoname": "2881646",
+  "population": 48209,
+  "area": 82.94,
+  "map": false
+ },
+ {
+  "ags": "10043114",
+  "state": "SL",
+  "name": "Neunkirchen",
+  "point": [
+   7.18045,
+   49.34449
+  ],
+  "geoname": "2864435",
+  "population": 47344,
+  "area": 75.26,
+  "map": true
+ },
+ {
+  "ags": "09174115",
+  "state": "BY",
+  "name": "Dachau",
+  "point": [
+   11.43402,
+   48.26
+  ],
+  "geoname": "2939623",
+  "population": 47138,
+  "area": 34.96,
+  "map": false
+ },
+ {
+  "ags": "09464000",
+  "state": "BY",
+  "name": "Hof",
+  "point": [
+   11.91261,
+   50.31297
+  ],
+  "geoname": "2902768",
+  "population": 46778,
+  "area": 58.02,
+  "map": false
+ },
+ {
+  "ags": "16067029",
+  "state": "TH",
+  "name": "Gotha",
+  "point": [
+   10.70193,
+   50.94823
+  ],
+  "geoname": "2918752",
+  "population": 46400,
+  "area": 69.58,
+  "map": false
+ },
+ {
+  "ags": "09762000",
+  "state": "BY",
+  "name": "Kaufbeuren",
+  "point": [
+   10.62192,
+   47.88238
+  ],
+  "geoname": "2892080",
+  "population": 46193,
+  "area": 40.02,
+  "map": false
+ },
+ {
+  "ags": "12063080",
+  "state": "BB",
+  "name": "Falkensee",
+  "point": [
+   13.08718,
+   52.56261
+  ],
+  "geoname": "2927930",
+  "population": 45720,
+  "area": 43.34,
+  "map": true
+ },
+ {
+  "ags": "06438011",
+  "state": "HE",
+  "name": "Rodgau",
+  "point": [
+   8.88588,
+   50.02627
+  ],
+  "geoname": "3336893",
+  "population": 45277,
+  "area": 65.04,
+  "map": false
+ },
+ {
+  "ags": "15091375",
+  "state": "ST",
+  "name": "Wittenberg",
+  "point": [
+   12.64973,
+   51.8661
+  ],
+  "geoname": "7303020",
+  "population": 45249,
+  "area": 241.77,
+  "map": false
+ },
+ {
+  "ags": "01056039",
+  "state": "SH",
+  "name": "Pinneberg",
+  "point": [
+   9.79698,
+   53.65887
+  ],
+  "geoname": "2853658",
+  "population": 44865,
+  "area": 21.54,
+  "map": true
+ },
+ {
+  "ags": "12060020",
+  "state": "BB",
+  "name": "Bernau bei Berlin",
+  "point": [
+   13.58708,
+   52.67982
+  ],
+  "geoname": "2950096",
+  "population": 44597,
+  "area": 104.21,
+  "map": true
+ },
+ {
+  "ags": "10045114",
+  "state": "SL",
+  "name": "Homburg",
+  "point": [
+   7.33867,
+   49.32637
+  ],
+  "geoname": "2899449",
+  "population": 43382,
+  "area": 82.61,
+  "map": true
+ },
+ {
+  "ags": "13074087",
+  "state": "MV",
+  "name": "Wismar",
+  "point": [
+   11.45563,
+   53.89218
+  ],
+  "geoname": "2807465",
+  "population": 43329,
+  "area": 41.84,
+  "map": true
+ },
+ {
+  "ags": "06438002",
+  "state": "HE",
+  "name": "Dreieich",
+  "point": [
+   8.69611,
+   50.01997
+  ],
+  "geoname": "2935220",
+  "population": 41692,
+  "area": 53.27,
+  "map": false
+ },
+ {
+  "ags": "14522180",
+  "state": "SN",
+  "name": "Freiberg",
+  "point": [
+   13.33881,
+   50.91089
+  ],
+  "geoname": "2925192",
+  "population": 41519,
+  "area": 48.31,
+  "map": false
+ },
+ {
+  "ags": "12060052",
+  "state": "BB",
+  "name": "Eberswalde",
+  "point": [
+   13.81951,
+   52.83492
+  ],
+  "geoname": "2933882",
+  "population": 41481,
+  "area": 93.63,
+  "map": false
+ },
+ {
+  "ags": "06431002",
+  "state": "HE",
+  "name": "Bensheim",
+  "point": [
+   8.61839,
+   49.68369
+  ],
+  "geoname": "2950978",
+  "population": 41124,
+  "area": 57.83,
+  "map": false
+ },
+ {
+  "ags": "10041519",
+  "state": "SL",
+  "name": "Völklingen",
+  "point": [
+   6.85873,
+   49.25162
+  ],
+  "geoname": "2816630",
+  "population": 40952,
+  "area": 67.1,
+  "map": true
+ },
+ {
+  "ags": "16062041",
+  "state": "TH",
+  "name": "Nordhausen",
+  "point": [
+   10.7957,
+   51.5018
+  ],
+  "geoname": "2861982",
+  "population": 40767,
+  "area": 108.24,
+  "map": false
+ },
+ {
+  "ags": "16063105",
+  "state": "TH",
+  "name": "Eisenach",
+  "point": [
+   10.31522,
+   50.9807
+  ],
+  "geoname": "2931574",
+  "population": 40747,
+  "area": 104.17,
+  "map": false
+ },
+ {
+  "ags": "14628270",
+  "state": "SN",
+  "name": "Pirna",
+  "point": [
+   13.93702,
+   50.95843
+  ],
+  "geoname": "2853572",
+  "population": 40128,
+  "area": 53.06,
+  "map": false
+ },
+ {
+  "ags": "07317000",
+  "state": "RP",
+  "name": "Pirmasens",
+  "point": [
+   7.60529,
+   49.20145
+  ],
+  "geoname": "2853574",
+  "population": 39761,
+  "area": 61.35,
+  "map": false
+ },
+ {
+  "ags": "12061260",
+  "state": "BB",
+  "name": "Königs Wusterhausen",
+  "point": [
+   13.633,
+   52.30141
+  ],
+  "geoname": "2885732",
+  "population": 39360,
+  "area": 96.04,
+  "map": false
+ },
+ {
+  "ags": "14628110",
+  "state": "SN",
+  "name": "Freital",
+  "point": [
+   13.6488,
+   51.00166
+  ],
+  "geoname": "2925017",
+  "population": 39281,
+  "area": 40.46,
+  "map": false
+ },
+ {
+  "ags": "06436007",
+  "state": "HE",
+  "name": "Hofheim am Taunus",
+  "point": [
+   8.4493,
+   50.09019
+  ],
+  "geoname": "2902533",
+  "population": 39259,
+  "area": 57.43,
+  "map": false
+ },
+ {
+  "ags": "16070029",
+  "state": "TH",
+  "name": "Ilmenau",
+  "point": [
+   10.91858,
+   50.68322
+  ],
+  "geoname": "2896514",
+  "population": 38834,
+  "area": 198.69,
+  "map": false
+ },
+ {
+  "ags": "15084550",
+  "state": "ST",
+  "name": "Weißenfels",
+  "point": [
+   11.96843,
+   51.20148
+  ],
+  "geoname": "2811899",
+  "population": 37929,
+  "area": 113.96,
+  "map": false
+ },
+ {
+  "ags": "15085135",
+  "state": "ST",
+  "name": "Halberstadt",
+  "point": [
+   11.05622,
+   51.89562
+  ],
+  "geoname": "2911665",
+  "population": 37898,
+  "area": 143.27,
+  "map": false
+ },
+ {
+  "ags": "15090535",
+  "state": "ST",
+  "name": "Stendal",
+  "point": [
+   11.86091,
+   52.60578
+  ],
+  "geoname": "2827479",
+  "population": 37850,
+  "area": 269.24,
+  "map": false
+ },
+ {
+  "ags": "14625020",
+  "state": "SN",
+  "name": "Bautzen",
+  "point": [
+   14.43494,
+   51.18035
+  ],
+  "geoname": "2951881",
+  "population": 37566,
+  "area": 66.66,
+  "map": false
+ },
+ {
+  "ags": "15082015",
+  "state": "ST",
+  "name": "Bitterfeld-Wolfen",
+  "point": [
+   12.32395,
+   51.62355
+  ],
+  "geoname": "2948164",
+  "population": 36592,
+  "area": 87.23,
+  "map": false
+ },
+ {
+  "ags": "07339030",
+  "state": "RP",
+  "name": "Ingelheim am Rhein",
+  "point": [
+   8.05883,
+   49.97078
+  ],
+  "geoname": "2896020",
+  "population": 35016,
+  "area": 73.31,
+  "map": false
+ },
+ {
+  "ags": "01056050",
+  "state": "SH",
+  "name": "Wedel",
+  "point": [
+   9.69835,
+   53.58374
+  ],
+  "geoname": "2813464",
+  "population": 34912,
+  "area": 33.81,
+  "map": false
+ },
+ {
+  "ags": "01062001",
+  "state": "SH",
+  "name": "Ahrensburg",
+  "point": [
+   10.23705,
+   53.67661
+  ],
+  "geoname": "2959083",
+  "population": 34534,
+  "area": 35.29,
+  "map": false
+ },
+ {
+  "ags": "15088220",
+  "state": "ST",
+  "name": "Merseburg",
+  "point": [
+   11.98923,
+   51.35478
+  ],
+  "geoname": "2871736",
+  "population": 34392,
+  "area": 53.87,
+  "map": false
+ },
+ {
+  "ags": "12073532",
+  "state": "BB",
+  "name": "Schwedt/Oder",
+  "point": [
+   14.28154,
+   53.05963
+  ],
+  "geoname": "2834629",
+  "population": 33730,
+  "area": 360.74,
+  "map": false
+ },
+ {
+  "ags": "01053032",
+  "state": "SH",
+  "name": "Geesthacht",
+  "point": [
+   10.37339,
+   53.4366
+  ],
+  "geoname": "2922102",
+  "population": 33519,
+  "area": 33.25,
+  "map": false
+ },
+ {
+  "ags": "10042113",
+  "state": "SL",
+  "name": "Merzig",
+  "point": [
+   6.63874,
+   49.44331
+  ],
+  "geoname": "2871675",
+  "population": 31697,
+  "area": 108.98,
+  "map": false
+ },
+ {
+  "ags": "13072043",
+  "state": "MV",
+  "name": "Güstrow",
+  "point": [
+   12.17337,
+   53.7972
+  ],
+  "geoname": "2913433",
+  "population": 28959,
+  "area": 71.09,
+  "map": false
+ },
+ {
+  "ags": "13071156",
+  "state": "MV",
+  "name": "Waren (Müritz)",
+  "point": [
+   12.68128,
+   53.51986
+  ],
+  "geoname": "2814131",
+  "population": 20260,
+  "area": 159.45,
+  "map": false
+ },
+ {
+  "ags": "10045112",
+  "state": "SL",
+  "name": "Blieskastel",
+  "point": [
+   7.25617,
+   49.23724
+  ],
+  "geoname": "2947739",
+  "population": 20197,
+  "area": 108.21,
+  "map": false
+ }
+]

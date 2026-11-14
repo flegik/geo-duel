@@ -9,3 +9,9 @@
 1. `vg250-ew:vg250_lan` als GeoJSON in EPSG:4326 vom [BKG-WFS](https://sgx.geodatenzentrum.de/wfs_vg250-ew?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetCapabilities) als `lands.json` speichern. Die 16 Landesflaggen unter den Commons-Dateinamen in denselben Quellordner laden.
 2. `mapshaper lands.json -filter 'gf==4' -simplify 8% keep-shapes -o format=geojson lands-simplified.json` im Quellordner ausführen.
 3. Aus dem Projektverzeichnis `node scripts/germany/prepare-states.mjs <Quellordner>` und `node scripts/germany/foundation.mjs` ausführen.
+
+## Städte
+
+Die 180 Stadtzuordnungen verwenden BKG VG250-EW und die amtlichen Gemeindeschlüssel. Die 120 Kartenpunkte basieren auf GeoNames (CC BY 4.0) und wurden über AGS, Ortsnamen und einen Punkt-in-Polygon-Test mit den unvereinfachten Landesgrenzen verbunden. Koordinaten sind [Längengrad, Breitengrad] in WGS84.
+Abruf: BKG-Layer vg250-ew:vg250_gem als gemeinden.csv mit PROPERTYNAME=ags,gen,bez,ewz,kfl,ibz,ade,ars,gf,bsg,lkz. GeoNames: https://download.geonames.org/export/dump/DE.zip (DE.txt).
+Aus dem Projekt: node scripts/germany/prepare-cities.mjs <Quellordner>, danach node scripts/germany/cities.mjs.
