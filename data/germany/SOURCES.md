@@ -19,3 +19,9 @@ Aus dem Projekt: node scripts/germany/prepare-cities.mjs <Quellordner>, danach n
 ## Nachbarschaften, Natur und Kultur
 
 Die Fragen nutzen die Nachbarschaftsliste aus dem BKG-Rohdatensatz, BKG-Themenkarten zur Höhe, die Deutschlandkarte der bpb, das Nationalparkverzeichnis und Landschaftssteckbriefe des BfN sowie die Deutsche UNESCO-Kommission und die verlinkten Träger der Sehenswürdigkeiten. Belege stehen je Frage. Die drei bereits im Repository enthaltenen doppelverwendeten Fotos behalten ihre Commons-Attributionen und Lizenzen. Der Build bindet die Bilder lokal ein.
+
+## Kennzeichen und Statistik
+
+KBA, Kfz-Kennzeichen und auslaufende Kennzeichen in Deutschland, 16.04.2026. Die Auswahl der 109 geprüften Kürzel steht in plates.json samt amtlicher Bezeichnung. Laufende Neuzuteilungen werden von historischen, auslaufenden Zuordnungen unterschieden. Mehrere heutige Vergabebezirke werden bei geteilten Kennzeichen gemeinsam genannt. Für die Aufbereitung PDF seitenweise in Tabellenreihenfolge als UTF-8-Text extrahieren und node scripts/germany/prepare-plates.mjs <Textdatei> ausführen.
+
+Statistik: amtliche Fortschreibung auf Basis des Zensus 2022 am 31.12.2024 und amtliche Flächen desselben Gebietsstands. Destatis/GV-ISys über BKG VG250-EW. Stadtwerte entsprechen dem administrativen Stadtgebiet. Vergleiche trennen den richtigen Extremwert von jeder anderen Wahl um einen Faktor von mindestens 1,22. node scripts/germany/other.mjs baut beide Unterthemen.

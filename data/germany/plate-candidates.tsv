@@ -1,0 +1,181 @@
+K	Köln	NW
+D	Düsseldorf	NW
+DO	Dortmund	NW
+E	Essen	NW
+DU	Duisburg	NW
+BO	Bochum	NW
+BN	Bonn	NW
+MS	Münster	NW
+BI	Bielefeld	NW
+GE	Gelsenkirchen	NW
+W	Wuppertal	NW
+MG	Mönchengladbach	NW
+SG	Solingen	NW
+RS	Remscheid	NW
+OB	Oberhausen	NW
+BOT	Bottrop	NW
+HER	Herne	NW
+HAM	Hamm	NW
+LEV	Leverkusen	NW
+HA	Hagen	NW
+RE	Recklinghausen	NW
+GT	Gütersloh	NW
+BOR	Borken	NW
+UN	Unna	NW
+WES	Wesel	NW
+HF	Herford	NW
+MI	Minden-Lübbecke	NW
+SI	Siegen-Wittgenstein	NW
+SO	Soest	NW
+PB	Paderborn	NW
+B	Berlin	BE
+HH	Hamburg	HH
+HB	Bremen/Bremerhaven	HB
+HL	Lübeck	SH
+FL	Flensburg	SH
+KI	Kiel	SH
+NMS	Neumünster	SH
+PI	Pinneberg	SH
+SE	Segeberg	SH
+OH	Ostholstein	SH
+RD	Rendsburg-Eckernförde	SH
+NF	Nordfriesland	SH
+HEI	Dithmarschen	SH
+OD	Stormarn	SH
+RZ	Herzogtum Lauenburg	SH
+H	Region Hannover	NI
+BS	Braunschweig	NI
+WOB	Wolfsburg	NI
+SZ	Salzgitter	NI
+DEL	Delmenhorst	NI
+WHV	Wilhelmshaven	NI
+EMD	Emden	NI
+CE	Celle	NI
+EL	Emsland	NI
+LER	Leer	NI
+STD	Stade	NI
+WL	Harburg	NI
+HI	Hildesheim	NI
+LG	Lüneburg	NI
+CUX	Cuxhaven	NI
+VER	Verden	NI
+ROW	Rotenburg (Wümme)	NI
+F	Frankfurt am Main	HE
+WI	Wiesbaden	HE
+KS	Kassel	HE
+FD	Fulda	HE
+DA	Darmstadt	HE
+HP	Bergstraße	HE
+MTK	Main-Taunus-Kreis	HE
+HG	Hochtaunuskreis	HE
+MKK	Main-Kinzig-Kreis	HE
+MR	Marburg-Biedenkopf	HE
+KB	Waldeck-Frankenberg	HE
+ERB	Odenwaldkreis	HE
+GG	Groß-Gerau	HE
+MZ	Mainz	RP
+LU	Ludwigshafen am Rhein	RP
+KO	Koblenz	RP
+SP	Speyer	RP
+WO	Worms	RP
+TR	Trier	RP
+KL	Kaiserslautern	RP
+NR	Neuwied	RP
+AK	Altenkirchen (Westerwald)	RP
+SIM	Rhein-Hunsrück-Kreis	RP
+MYK	Mayen-Koblenz	RP
+EMS	Rhein-Lahn-Kreis	RP
+DAU	Vulkaneifel	RP
+BIT	Eifelkreis Bitburg-Prüm	RP
+S	Stuttgart	BW
+MA	Mannheim	BW
+HD	Heidelberg	BW
+KA	Karlsruhe	BW
+FR	Freiburg im Breisgau	BW
+PF	Pforzheim	BW
+BAD	Baden-Baden	BW
+UL	Ulm	BW
+HN	Heilbronn	BW
+LB	Ludwigsburg	BW
+ES	Esslingen	BW
+RT	Reutlingen	BW
+TÜ	Tübingen	BW
+KN	Konstanz	BW
+RV	Ravensburg	BW
+LÖ	Lörrach	BW
+OG	Ortenaukreis	BW
+AA	Ostalbkreis	BW
+EM	Emmendingen	BW
+M	München	BY
+N	Nürnberg	BY
+A	Augsburg	BY
+R	Regensburg	BY
+WÜ	Würzburg	BY
+PA	Passau	BY
+IN	Ingolstadt	BY
+FÜ	Fürth	BY
+ER	Erlangen	BY
+SAD	Schwandorf	BY
+KE	Kempten (Allgäu)	BY
+MM	Memmingen	BY
+EI	Eichstätt	BY
+DGF	Dingolfing-Landau	BY
+ED	Erding	BY
+FS	Freising	BY
+MB	Miesbach	BY
+GAP	Garmisch-Partenkirchen	BY
+FFB	Fürstenfeldbruck	BY
+NEW	Neustadt an der Waldnaab	BY
+L	Leipzig	SN
+DD	Dresden	SN
+C	Chemnitz	SN
+GR	Görlitz	SN
+MEI	Meißen	SN
+BZ	Bautzen	SN
+PIR	Sächsische Schweiz-Osterzgebirge	SN
+ERZ	Erzgebirgskreis	SN
+V	Vogtlandkreis	SN
+Z	Zwickau	SN
+EF	Erfurt	TH
+J	Jena	TH
+WE	Weimar	TH
+G	Gera	TH
+SHL	Suhl	TH
+AP	Weimarer Land	TH
+SON	Sonneberg	TH
+IK	Ilm-Kreis	TH
+SÖM	Sömmerda	TH
+KYF	Kyffhäuserkreis	TH
+UH	Unstrut-Hainich-Kreis	TH
+MD	Magdeburg	ST
+HAL	Halle (Saale)	ST
+DE	Dessau-Roßlau	ST
+HZ	Harz	ST
+BK	Börde	ST
+ABI	Anhalt-Bitterfeld	ST
+SLK	Salzlandkreis	ST
+BLK	Burgenlandkreis	ST
+P	Potsdam	BB
+FF	Frankfurt (Oder)	BB
+CB	Cottbus	BB
+BRB	Brandenburg an der Havel	BB
+HVL	Havelland	BB
+PM	Potsdam-Mittelmark	BB
+TF	Teltow-Fläming	BB
+BAR	Barnim	BB
+UM	Uckermark	BB
+LDS	Dahme-Spreewald	BB
+HRO	Rostock	MV
+SN	Schwerin	MV
+LRO	Landkreis Rostock	MV
+LUP	Ludwigslust-Parchim	MV
+VR	Vorpommern-Rügen	MV
+VG	Vorpommern-Greifswald	MV
+MSE	Mecklenburgische Seenplatte	MV
+NWM	Nordwestmecklenburg	MV
+SB	Regionalverband Saarbrücken	SL
+SLS	Saarlouis	SL
+MZG	Merzig-Wadern	SL
+WND	St. Wendel	SL
+NK	Neunkirchen	SL
+HOM	Saarpfalz-Kreis	SL

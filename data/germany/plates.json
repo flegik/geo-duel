@@ -1,0 +1,874 @@
+[
+ {
+  "code": "K",
+  "name": "Köln",
+  "state": "NW",
+  "caption": "Köln, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "D",
+  "name": "Düsseldorf",
+  "state": "NW",
+  "caption": "Düsseldorf, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "DO",
+  "name": "Dortmund",
+  "state": "NW",
+  "caption": "Dortmund, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "E",
+  "name": "Essen",
+  "state": "NW",
+  "caption": "Essen, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "DU",
+  "name": "Duisburg",
+  "state": "NW",
+  "caption": "Duisburg, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "BO",
+  "name": "Bochum",
+  "state": "NW",
+  "caption": "Bochum, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "BN",
+  "name": "Bonn",
+  "state": "NW",
+  "caption": "Bonn, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MS",
+  "name": "Münster",
+  "state": "NW",
+  "caption": "Münster, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "BI",
+  "name": "Bielefeld",
+  "state": "NW",
+  "caption": "Bielefeld, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "GE",
+  "name": "Gelsenkirchen",
+  "state": "NW",
+  "caption": "Gelsenkirchen, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "W",
+  "name": "Wuppertal",
+  "state": "NW",
+  "caption": "Wuppertal, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MG",
+  "name": "Mönchengladbach",
+  "state": "NW",
+  "caption": "Mönchengladbach, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "B",
+  "name": "Berlin",
+  "state": "BE",
+  "caption": "Berlin",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "HH",
+  "name": "Hamburg",
+  "state": "HH",
+  "caption": "Freie und Hansestadt Hamburg",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "HB",
+  "name": "Bremen/Bremerhaven",
+  "state": "HB",
+  "caption": "Freie Hansestadt Bremen",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "HL",
+  "name": "Lübeck",
+  "state": "SH",
+  "caption": "Hansestadt Lübeck",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "FL",
+  "name": "Flensburg",
+  "state": "SH",
+  "caption": "Flensburg",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "KI",
+  "name": "Kiel",
+  "state": "SH",
+  "caption": "Kiel",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "NMS",
+  "name": "Neumünster",
+  "state": "SH",
+  "caption": "Neumünster",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "PI",
+  "name": "Pinneberg",
+  "state": "SH",
+  "caption": "Pinneberg",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "SE",
+  "name": "Segeberg",
+  "state": "SH",
+  "caption": "Segeberg",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "OH",
+  "name": "Ostholstein",
+  "state": "SH",
+  "caption": "Ostholstein",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "RD",
+  "name": "Rendsburg-Eckernförde",
+  "state": "SH",
+  "caption": "Rendsburg-Eckernförde",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "H",
+  "name": "Region Hannover",
+  "state": "NI",
+  "caption": "Hannover",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "BS",
+  "name": "Braunschweig",
+  "state": "NI",
+  "caption": "Braunschweig, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "WOB",
+  "name": "Wolfsburg",
+  "state": "NI",
+  "caption": "Wolfsburg, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "SZ",
+  "name": "Salzgitter",
+  "state": "NI",
+  "caption": "Salzgitter, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "DEL",
+  "name": "Delmenhorst",
+  "state": "NI",
+  "caption": "Delmenhorst, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "WHV",
+  "name": "Wilhelmshaven",
+  "state": "NI",
+  "caption": "Wilhelmshaven, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "EMD",
+  "name": "Emden",
+  "state": "NI",
+  "caption": "Emden, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "CE",
+  "name": "Celle",
+  "state": "NI",
+  "caption": "Celle",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "EL",
+  "name": "Emsland",
+  "state": "NI",
+  "caption": "Emsland",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "LER",
+  "name": "Leer",
+  "state": "NI",
+  "caption": "Leer",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "STD",
+  "name": "Stade",
+  "state": "NI",
+  "caption": "Stade",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "F",
+  "name": "Frankfurt am Main",
+  "state": "HE",
+  "caption": "Frankfurt/Main, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "WI",
+  "name": "Wiesbaden",
+  "state": "HE",
+  "caption": "Wiesbaden, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "KS",
+  "name": "Kassel",
+  "state": "HE",
+  "caption": "Kassel",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "FD",
+  "name": "Fulda",
+  "state": "HE",
+  "caption": "Fulda",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "DA",
+  "name": "Darmstadt",
+  "state": "HE",
+  "caption": "Darmstadt",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "HP",
+  "name": "Bergstraße",
+  "state": "HE",
+  "caption": "Bergstraße",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MTK",
+  "name": "Main-Taunus-Kreis",
+  "state": "HE",
+  "caption": "Main-Taunus-Kreis",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "HG",
+  "name": "Hochtaunuskreis",
+  "state": "HE",
+  "caption": "Hochtaunuskreis",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MKK",
+  "name": "Main-Kinzig-Kreis",
+  "state": "HE",
+  "caption": "Main-Kinzig-Kreis",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MZ",
+  "name": "Mainz",
+  "state": "RP",
+  "caption": "Mainz",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "LU",
+  "name": "Ludwigshafen am Rhein",
+  "state": "RP",
+  "caption": "Ludwigshafen am Rhein",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "KO",
+  "name": "Koblenz",
+  "state": "RP",
+  "caption": "Koblenz, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "SP",
+  "name": "Speyer",
+  "state": "RP",
+  "caption": "Speyer, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "WO",
+  "name": "Worms",
+  "state": "RP",
+  "caption": "Worms, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "TR",
+  "name": "Trier",
+  "state": "RP",
+  "caption": "Trier, Stadt und Trier-Saarburg",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "KL",
+  "name": "Kaiserslautern",
+  "state": "RP",
+  "caption": "Kaiserslautern",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "NR",
+  "name": "Neuwied",
+  "state": "RP",
+  "caption": "Neuwied",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "AK",
+  "name": "Altenkirchen (Westerwald)",
+  "state": "RP",
+  "caption": "Altenkirchen (Westerwald)",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "S",
+  "name": "Stuttgart",
+  "state": "BW",
+  "caption": "Stuttgart, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MA",
+  "name": "Mannheim",
+  "state": "BW",
+  "caption": "Mannheim, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "HD",
+  "name": "Heidelberg",
+  "state": "BW",
+  "caption": "Heidelberg, Stadt; Rhein-Neckar-Kreis",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "KA",
+  "name": "Karlsruhe",
+  "state": "BW",
+  "caption": "Karlsruhe",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "FR",
+  "name": "Freiburg im Breisgau",
+  "state": "BW",
+  "caption": "Freiburg im Breisgau, Stadt; Breisgau-Hochschwarzwald",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "PF",
+  "name": "Pforzheim",
+  "state": "BW",
+  "caption": "Pforzheim, Stadt; Enzkreis",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "BAD",
+  "name": "Baden-Baden",
+  "state": "BW",
+  "caption": "Baden-Baden, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "UL",
+  "name": "Ulm",
+  "state": "BW",
+  "caption": "Ulm, Stadt; Alb-Donaukreis",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "HN",
+  "name": "Heilbronn",
+  "state": "BW",
+  "caption": "Heilbronn",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "LB",
+  "name": "Ludwigsburg",
+  "state": "BW",
+  "caption": "Ludwigsburg",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "ES",
+  "name": "Esslingen",
+  "state": "BW",
+  "caption": "Esslingen",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "RT",
+  "name": "Reutlingen",
+  "state": "BW",
+  "caption": "Reutlingen",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "M",
+  "name": "München",
+  "state": "BY",
+  "caption": "München",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "A",
+  "name": "Augsburg",
+  "state": "BY",
+  "caption": "Augsburg",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "R",
+  "name": "Regensburg",
+  "state": "BY",
+  "caption": "Regensburg",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "WÜ",
+  "name": "Würzburg",
+  "state": "BY",
+  "caption": "Würzburg",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "PA",
+  "name": "Passau",
+  "state": "BY",
+  "caption": "Passau",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "IN",
+  "name": "Ingolstadt",
+  "state": "BY",
+  "caption": "Ingolstadt, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "FÜ",
+  "name": "Fürth",
+  "state": "BY",
+  "caption": "Fürth",
+  "shared": true,
+  "historical": false
+ },
+ {
+  "code": "ER",
+  "name": "Erlangen",
+  "state": "BY",
+  "caption": "Erlangen, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "SAD",
+  "name": "Schwandorf",
+  "state": "BY",
+  "caption": "Schwandorf",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "KE",
+  "name": "Kempten (Allgäu)",
+  "state": "BY",
+  "caption": "Kempten (Allgäu), Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "MM",
+  "name": "Memmingen",
+  "state": "BY",
+  "caption": "Memmingen, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "EI",
+  "name": "Eichstätt",
+  "state": "BY",
+  "caption": "Eichstätt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "C",
+  "name": "Chemnitz",
+  "state": "SN",
+  "caption": "Chemnitz, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "GR",
+  "name": "Görlitz",
+  "state": "SN",
+  "caption": "Görlitz",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MEI",
+  "name": "Meißen",
+  "state": "SN",
+  "caption": "Meißen",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "BZ",
+  "name": "Bautzen",
+  "state": "SN",
+  "caption": "Bautzen",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "PIR",
+  "name": "Sächsische Schweiz-Osterzgebirge",
+  "state": "SN",
+  "caption": "Sächsische Schweiz-Osterzgebirge",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "EF",
+  "name": "Erfurt",
+  "state": "TH",
+  "caption": "Erfurt, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "J",
+  "name": "Jena",
+  "state": "TH",
+  "caption": "Jena, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "WE",
+  "name": "Weimar",
+  "state": "TH",
+  "caption": "Weimar, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "G",
+  "name": "Gera",
+  "state": "TH",
+  "caption": "Gera, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "SHL",
+  "name": "Suhl",
+  "state": "TH",
+  "caption": "Suhl, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "AP",
+  "name": "Weimarer Land",
+  "state": "TH",
+  "caption": "Weimarer Land",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MD",
+  "name": "Magdeburg",
+  "state": "ST",
+  "caption": "Magdeburg, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "HAL",
+  "name": "Halle (Saale)",
+  "state": "ST",
+  "caption": "Halle, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "DE",
+  "name": "Dessau-Roßlau",
+  "state": "ST",
+  "caption": "Dessau-Roßlau, Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "ABI",
+  "name": "Anhalt-Bitterfeld",
+  "state": "ST",
+  "caption": "Anhalt-Bitterfeld",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "SLK",
+  "name": "Salzlandkreis",
+  "state": "ST",
+  "caption": "Salzlandkreis",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "P",
+  "name": "Potsdam",
+  "state": "BB",
+  "caption": "Potsdam, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "FF",
+  "name": "Frankfurt (Oder)",
+  "state": "BB",
+  "caption": "Frankfurt (Oder), Stadt",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "CB",
+  "name": "Cottbus",
+  "state": "BB",
+  "caption": "Cottbus, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "BRB",
+  "name": "Brandenburg an der Havel",
+  "state": "BB",
+  "caption": "Brandenburg, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "HVL",
+  "name": "Havelland",
+  "state": "BB",
+  "caption": "Havelland",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "PM",
+  "name": "Potsdam-Mittelmark",
+  "state": "BB",
+  "caption": "Potsdam-Mittelmark",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "HRO",
+  "name": "Rostock",
+  "state": "MV",
+  "caption": "Hansestadt Rostock",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "SN",
+  "name": "Schwerin",
+  "state": "MV",
+  "caption": "Schwerin, Stadt",
+  "shared": false,
+  "historical": true
+ },
+ {
+  "code": "LRO",
+  "name": "Landkreis Rostock",
+  "state": "MV",
+  "caption": "Rostock, Landkreis",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "LUP",
+  "name": "Ludwigslust-Parchim",
+  "state": "MV",
+  "caption": "Ludwigslust-Parchim",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "VR",
+  "name": "Vorpommern-Rügen",
+  "state": "MV",
+  "caption": "Vorpommern-Rügen",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "VG",
+  "name": "Vorpommern-Greifswald",
+  "state": "MV",
+  "caption": "Vorpommern-Greifswald",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "SB",
+  "name": "Regionalverband Saarbrücken",
+  "state": "SL",
+  "caption": "Saarbrücken, Stadt und Stadtver-band außer Völklingen, Stadt (VK)",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "SLS",
+  "name": "Saarlouis",
+  "state": "SL",
+  "caption": "Saarlouis",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "MZG",
+  "name": "Merzig-Wadern",
+  "state": "SL",
+  "caption": "Merzig-Wadern",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "WND",
+  "name": "St. Wendel",
+  "state": "SL",
+  "caption": "St. Wendel",
+  "shared": false,
+  "historical": false
+ },
+ {
+  "code": "NK",
+  "name": "Neunkirchen",
+  "state": "SL",
+  "caption": "Neunkirchen Saar",
+  "shared": false,
+  "historical": false
+ }
+]

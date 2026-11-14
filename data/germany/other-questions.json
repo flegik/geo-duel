@@ -1,0 +1,7101 @@
+[
+ {
+  "id": "de1-f8c2c8764607a9",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Köln",
+  "options": [
+   "W",
+   "D",
+   "K",
+   "E"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen K wird derzeit für Köln in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:K",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "K",
+    "plateDistrict": "Köln",
+    "city": "05315000"
+   }
+  }
+ },
+ {
+  "id": "de1-0516eef05cc79a",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel D laut KBA neu vergeben?",
+  "options": [
+   "Köln",
+   "Düsseldorf",
+   "Dortmund",
+   "Duisburg"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen D wird derzeit für Düsseldorf in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:D",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "D",
+    "plateDistrict": "Düsseldorf",
+    "city": "05111000"
+   }
+  }
+ },
+ {
+  "id": "de1-151f5a82ee2d2c",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel DO laut KBA neu vergeben?",
+  "options": [
+   "Stadt und Landkreis Darmstadt",
+   "Duisburg",
+   "Düsseldorf",
+   "Dortmund"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen DO wird derzeit für Dortmund in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:DO",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "DO",
+    "plateDistrict": "Dortmund",
+    "city": "05913000"
+   }
+  }
+ },
+ {
+  "id": "de1-ac66c58338dbdc",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Essen",
+  "options": [
+   "E",
+   "W",
+   "D",
+   "K"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen E wird derzeit für Essen in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:E",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "E",
+    "plateDistrict": "Essen",
+    "city": "05113000"
+   }
+  }
+ },
+ {
+  "id": "de1-0947610ceef892",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel DU laut KBA neu vergeben?",
+  "options": [
+   "Düsseldorf",
+   "Dortmund",
+   "Duisburg",
+   "Stadt und Landkreis Darmstadt"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen DU wird derzeit für Duisburg in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:DU",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "DU",
+    "plateDistrict": "Duisburg",
+    "city": "05112000"
+   }
+  }
+ },
+ {
+  "id": "de1-4c8927fdc4494a",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel BO laut KBA neu vergeben?",
+  "options": [
+   "Bochum",
+   "Bonn",
+   "Bielefeld",
+   "Braunschweig"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen BO wird derzeit für Bochum in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:BO",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "BO",
+    "plateDistrict": "Bochum",
+    "city": "05911000"
+   }
+  }
+ },
+ {
+  "id": "de1-9d1a5809329bd1",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Bonn",
+  "options": [
+   "BS",
+   "BN",
+   "BI",
+   "BO"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen BN wird derzeit für Bonn in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:BN",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "BN",
+    "plateDistrict": "Bonn",
+    "city": "05314000"
+   }
+  }
+ },
+ {
+  "id": "de1-e17a912aac6ffb",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel MS laut KBA neu vergeben?",
+  "options": [
+   "Münster",
+   "Mönchengladbach",
+   "Mannheim",
+   "Stadt Mainz und Landkreis Mainz-Bingen"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen MS wird derzeit für Münster in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MS",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "MS",
+    "plateDistrict": "Münster",
+    "city": "05515000"
+   }
+  }
+ },
+ {
+  "id": "de1-24d57936d8a3f0",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel BI laut KBA neu vergeben?",
+  "options": [
+   "Braunschweig",
+   "Bielefeld",
+   "Bonn",
+   "Bochum"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen BI wird derzeit für Bielefeld in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:BI",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "BI",
+    "plateDistrict": "Bielefeld",
+    "city": "05711000"
+   }
+  }
+ },
+ {
+  "id": "de1-71e15a7ba91c7a",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Gelsenkirchen",
+  "options": [
+   "DO",
+   "GR",
+   "GE",
+   "DU"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen GE wird derzeit für Gelsenkirchen in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:GE",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "GE",
+    "plateDistrict": "Gelsenkirchen",
+    "city": "05513000"
+   }
+  }
+ },
+ {
+  "id": "de1-2b9f5f5503d68b",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel W laut KBA neu vergeben?",
+  "options": [
+   "Köln",
+   "Wuppertal",
+   "Essen",
+   "Düsseldorf"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen W wird derzeit für Wuppertal in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:W",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "W",
+    "plateDistrict": "Wuppertal",
+    "city": "05124000"
+   }
+  }
+ },
+ {
+  "id": "de1-831f85ac931722",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel MG laut KBA neu vergeben?",
+  "options": [
+   "Mannheim",
+   "Stadt Mainz und Landkreis Mainz-Bingen",
+   "Mönchengladbach",
+   "Münster"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen MG wird derzeit für Mönchengladbach in Nordrhein-Westfalen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MG",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "MG",
+    "plateDistrict": "Mönchengladbach",
+    "city": "05116000"
+   }
+  }
+ },
+ {
+  "id": "de1-6171ab4444c80a",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Berlin",
+  "options": [
+   "BO",
+   "B",
+   "BN",
+   "BI"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen B wird derzeit für Berlin in Berlin ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:B",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BE",
+    "plate": "B",
+    "plateDistrict": "Berlin",
+    "city": "11000000"
+   }
+  }
+ },
+ {
+  "id": "de1-2c618538d38245",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel HH laut KBA neu vergeben?",
+  "options": [
+   "Lübeck",
+   "Hamburg",
+   "Stadtgemeinden Bremen und Bremerhaven",
+   "Bergstraße"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen HH wird derzeit für Hamburg in Hamburg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HH",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HH",
+    "plate": "HH",
+    "plateDistrict": "Hamburg",
+    "city": "02000000"
+   }
+  }
+ },
+ {
+  "id": "de1-0c4fdff4bc4e10",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel HB laut KBA neu vergeben?",
+  "options": [
+   "Lübeck",
+   "Stadtgemeinden Bremen und Bremerhaven",
+   "Bergstraße",
+   "Hamburg"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen HB wird derzeit für Stadtgemeinden Bremen und Bremerhaven in Bremen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HB",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HB",
+    "plate": "HB",
+    "plateDistrict": "Bremen/Bremerhaven"
+   }
+  }
+ },
+ {
+  "id": "de1-664719a5b4c81f",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Lübeck",
+  "options": [
+   "HL",
+   "HP",
+   "HH",
+   "HB"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen HL wird derzeit für Lübeck in Schleswig-Holstein ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "HL",
+    "plateDistrict": "Lübeck",
+    "city": "01003000"
+   }
+  }
+ },
+ {
+  "id": "de1-0f7a64148497ea",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel FL laut KBA neu vergeben?",
+  "options": [
+   "Flensburg",
+   "Stadtkreis Freiburg im Breisgau und Landkreis Breisgau-Hochschwarzwald",
+   "Stadt und Landkreis Fulda",
+   "Stadt und Landkreis Fürth"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen FL wird derzeit für Flensburg in Schleswig-Holstein ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:FL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "FL",
+    "plateDistrict": "Flensburg",
+    "city": "01001000"
+   }
+  }
+ },
+ {
+  "id": "de1-669cf3171be76a",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel KI laut KBA neu vergeben?",
+  "options": [
+   "Koblenz",
+   "Stadt und Landkreis Kaiserslautern",
+   "Kiel",
+   "Stadt und Landkreis Kassel"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen KI wird derzeit für Kiel in Schleswig-Holstein ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:KI",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "KI",
+    "plateDistrict": "Kiel",
+    "city": "01002000"
+   }
+  }
+ },
+ {
+  "id": "de1-1aa091edec4c10",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Neumünster",
+  "options": [
+   "HL",
+   "NMS",
+   "NR",
+   "NK"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen NMS wird derzeit für Neumünster in Schleswig-Holstein ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:NMS",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "NMS",
+    "plateDistrict": "Neumünster",
+    "city": "01004000"
+   }
+  }
+ },
+ {
+  "id": "de1-41513768b38e79",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel PI laut KBA neu vergeben?",
+  "options": [
+   "Pinneberg",
+   "Stadt und Landkreis Passau",
+   "Potsdam-Mittelmark",
+   "Stadtkreis Pforzheim und Enzkreis"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen PI wird derzeit für Pinneberg in Schleswig-Holstein ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:PI",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "PI",
+    "plateDistrict": "Pinneberg",
+    "city": "01056039"
+   }
+  }
+ },
+ {
+  "id": "de1-ecc10b307f8428",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel SE laut KBA neu vergeben?",
+  "options": [
+   "Schwerin",
+   "Speyer",
+   "Segeberg",
+   "Salzgitter"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen SE wird derzeit für Segeberg in Schleswig-Holstein ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SE",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "SE",
+    "plateDistrict": "Segeberg"
+   }
+  }
+ },
+ {
+  "id": "de1-6b209b38d35839",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Ostholstein",
+  "options": [
+   "OH",
+   "HL",
+   "FL",
+   "KI"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen OH wird derzeit für Ostholstein in Schleswig-Holstein ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:OH",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "OH",
+    "plateDistrict": "Ostholstein"
+   }
+  }
+ },
+ {
+  "id": "de1-ad16244e89f3a7",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel RD laut KBA neu vergeben?",
+  "options": [
+   "Lübeck",
+   "Reutlingen",
+   "Flensburg",
+   "Rendsburg-Eckernförde"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen RD wird derzeit für Rendsburg-Eckernförde in Schleswig-Holstein ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:RD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "RD",
+    "plateDistrict": "Rendsburg-Eckernförde"
+   }
+  }
+ },
+ {
+  "id": "de1-36bab26f9e6a3f",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel H laut KBA neu vergeben?",
+  "options": [
+   "Hamburg",
+   "Stadtgemeinden Bremen und Bremerhaven",
+   "Lübeck",
+   "Region Hannover"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen H wird derzeit für Region Hannover in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:H",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "H",
+    "plateDistrict": "Region Hannover"
+   }
+  }
+ },
+ {
+  "id": "de1-41c1e5c8120128",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Braunschweig",
+  "options": [
+   "BO",
+   "BN",
+   "BS",
+   "BI"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen BS wird derzeit für Braunschweig in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:BS",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "BS",
+    "plateDistrict": "Braunschweig",
+    "city": "03101000"
+   }
+  }
+ },
+ {
+  "id": "de1-abc9d91bc61075",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel WOB laut KBA neu vergeben?",
+  "options": [
+   "Wolfsburg",
+   "Wilhelmshaven",
+   "Wuppertal",
+   "St. Wendel"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen WOB wird derzeit für Wolfsburg in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:WOB",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "WOB",
+    "plateDistrict": "Wolfsburg",
+    "city": "03103000"
+   }
+  }
+ },
+ {
+  "id": "de1-dafcd20d566445",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel SZ laut KBA neu vergeben?",
+  "options": [
+   "Speyer",
+   "Salzgitter",
+   "Stade",
+   "Segeberg"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen SZ wird derzeit für Salzgitter in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SZ",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "SZ",
+    "plateDistrict": "Salzgitter",
+    "city": "03102000"
+   }
+  }
+ },
+ {
+  "id": "de1-018fe9386f0e16",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Delmenhorst",
+  "options": [
+   "D",
+   "DU",
+   "DO",
+   "DEL"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen DEL wird derzeit für Delmenhorst in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:DEL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "DEL",
+    "plateDistrict": "Delmenhorst",
+    "city": "03401000"
+   }
+  }
+ },
+ {
+  "id": "de1-0188215fafb0a2",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel WHV laut KBA neu vergeben?",
+  "options": [
+   "Wilhelmshaven",
+   "St. Wendel",
+   "Wolfsburg",
+   "Wuppertal"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen WHV wird derzeit für Wilhelmshaven in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:WHV",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "WHV",
+    "plateDistrict": "Wilhelmshaven",
+    "city": "03405000"
+   }
+  }
+ },
+ {
+  "id": "de1-c17655df987ffa",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel EMD laut KBA neu vergeben?",
+  "options": [
+   "Emsland",
+   "Essen",
+   "Emden",
+   "Wolfsburg"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen EMD wird derzeit für Emden in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:EMD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "EMD",
+    "plateDistrict": "Emden"
+   }
+  }
+ },
+ {
+  "id": "de1-6eae9e020faa68",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Celle",
+  "options": [
+   "SZ",
+   "CB",
+   "BS",
+   "CE"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen CE wird derzeit für Celle in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:CE",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "CE",
+    "plateDistrict": "Celle",
+    "city": "03351006"
+   }
+  }
+ },
+ {
+  "id": "de1-8f71b674f43961",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel EL laut KBA neu vergeben?",
+  "options": [
+   "Emsland",
+   "Erlangen",
+   "Esslingen",
+   "Emden"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen EL wird derzeit für Emsland in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:EL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "EL",
+    "plateDistrict": "Emsland"
+   }
+  }
+ },
+ {
+  "id": "de1-bfa821108097a8",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel LER laut KBA neu vergeben?",
+  "options": [
+   "Leer",
+   "Wolfsburg",
+   "Ludwigslust-Parchim",
+   "Landkreis Rostock"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen LER wird derzeit für Leer in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:LER",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "LER",
+    "plateDistrict": "Leer"
+   }
+  }
+ },
+ {
+  "id": "de1-94e90bc986a01a",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Stade",
+  "options": [
+   "STD",
+   "SAD",
+   "SHL",
+   "SZ"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen STD wird derzeit für Stade in Niedersachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:STD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "STD",
+    "plateDistrict": "Stade"
+   }
+  }
+ },
+ {
+  "id": "de1-00bd95184599a2",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Frankfurt am Main",
+  "options": [
+   "FR",
+   "FL",
+   "FD",
+   "F"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen F wird derzeit für Frankfurt am Main in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:F",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "F",
+    "plateDistrict": "Frankfurt am Main",
+    "city": "06412000"
+   }
+  }
+ },
+ {
+  "id": "de1-8bd92fbaf51db0",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel WI laut KBA neu vergeben?",
+  "options": [
+   "Stadt und Landkreis Würzburg",
+   "Wiesbaden",
+   "Worms",
+   "Weimar"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen WI wird derzeit für Wiesbaden in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:WI",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "WI",
+    "plateDistrict": "Wiesbaden",
+    "city": "06414000"
+   }
+  }
+ },
+ {
+  "id": "de1-849fc900d8e633",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Stadt und Landkreis Kassel",
+  "options": [
+   "KS",
+   "KO",
+   "KI",
+   "KL"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen KS wird derzeit für Stadt und Landkreis Kassel in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:KS",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "KS",
+    "plateDistrict": "Kassel",
+    "city": "06611000"
+   }
+  }
+ },
+ {
+  "id": "de1-bd60e0f492b9d4",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel FD laut KBA neu vergeben?",
+  "options": [
+   "Flensburg",
+   "Frankfurt am Main",
+   "Stadt und Landkreis Fulda",
+   "Stadtkreis Freiburg im Breisgau und Landkreis Breisgau-Hochschwarzwald"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen FD wird derzeit für Stadt und Landkreis Fulda in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:FD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "FD",
+    "plateDistrict": "Fulda",
+    "city": "06631009"
+   }
+  }
+ },
+ {
+  "id": "de1-e799047a42573c",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel DA laut KBA neu vergeben?",
+  "options": [
+   "Dortmund",
+   "Dessau-Roßlau",
+   "Stadt und Landkreis Darmstadt",
+   "Duisburg"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen DA wird derzeit für Stadt und Landkreis Darmstadt in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:DA",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "DA",
+    "plateDistrict": "Darmstadt",
+    "city": "06411000"
+   }
+  }
+ },
+ {
+  "id": "de1-684fce7e4b809c",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Bergstraße",
+  "options": [
+   "HG",
+   "HH",
+   "HP",
+   "HB"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen HP wird derzeit für Bergstraße in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HP",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "HP",
+    "plateDistrict": "Bergstraße"
+   }
+  }
+ },
+ {
+  "id": "de1-9f48b918a50cb4",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel MTK laut KBA neu vergeben?",
+  "options": [
+   "Main-Kinzig-Kreis",
+   "Merzig-Wadern",
+   "Meißen",
+   "Main-Taunus-Kreis"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen MTK wird derzeit für Main-Taunus-Kreis in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MTK",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "MTK",
+    "plateDistrict": "Main-Taunus-Kreis"
+   }
+  }
+ },
+ {
+  "id": "de1-83546a09ce3eb1",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel HG laut KBA neu vergeben?",
+  "options": [
+   "Stadtgemeinden Bremen und Bremerhaven",
+   "Bergstraße",
+   "Hochtaunuskreis",
+   "Hamburg"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen HG wird derzeit für Hochtaunuskreis in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HG",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "HG",
+    "plateDistrict": "Hochtaunuskreis"
+   }
+  }
+ },
+ {
+  "id": "de1-a9a4515fbd72f0",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Main-Kinzig-Kreis",
+  "options": [
+   "MKK",
+   "MTK",
+   "MEI",
+   "MZG"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen MKK wird derzeit für Main-Kinzig-Kreis in Hessen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MKK",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "MKK",
+    "plateDistrict": "Main-Kinzig-Kreis"
+   }
+  }
+ },
+ {
+  "id": "de1-1b6cbc16d733bb",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel MZ laut KBA neu vergeben?",
+  "options": [
+   "Stadt Mainz und Landkreis Mainz-Bingen",
+   "Münster",
+   "Mannheim",
+   "Mönchengladbach"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen MZ wird derzeit für Stadt Mainz und Landkreis Mainz-Bingen in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MZ",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "MZ",
+    "plateDistrict": "Mainz",
+    "city": "07315000"
+   }
+  }
+ },
+ {
+  "id": "de1-fcdc08dfbb1365",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Welches aktuell neu vergebene Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Ludwigshafen am Rhein",
+  "options": [
+   "MZ",
+   "LER",
+   "LB",
+   "LU"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen LU wird derzeit für Ludwigshafen am Rhein in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:LU",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "LU",
+    "plateDistrict": "Ludwigshafen am Rhein",
+    "city": "07314000"
+   }
+  }
+ },
+ {
+  "id": "de1-7ecb33e101f4a3",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuell neu vergebene Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Koblenz",
+  "options": [
+   "KO",
+   "KI",
+   "KS",
+   "KL"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen KO wird derzeit für Koblenz in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:KO",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "KO",
+    "plateDistrict": "Koblenz",
+    "city": "07111000"
+   }
+  }
+ },
+ {
+  "id": "de1-703fbb0f9cfc36",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel SP laut KBA neu vergeben?",
+  "options": [
+   "Salzgitter",
+   "Segeberg",
+   "Schwerin",
+   "Speyer"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen SP wird derzeit für Speyer in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SP",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "SP",
+    "plateDistrict": "Speyer",
+    "city": "07318000"
+   }
+  }
+ },
+ {
+  "id": "de1-d1f12166ac1d5b",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel WO laut KBA neu vergeben?",
+  "options": [
+   "Worms",
+   "Wiesbaden",
+   "Weimar",
+   "Stadt und Landkreis Würzburg"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen WO wird derzeit für Worms in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:WO",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "WO",
+    "plateDistrict": "Worms",
+    "city": "07319000"
+   }
+  }
+ },
+ {
+  "id": "de1-5e87c5af971e66",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Stadt Trier und Landkreis Trier-Saarburg",
+  "options": [
+   "LU",
+   "KO",
+   "MZ",
+   "TR"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen TR wird derzeit für Stadt Trier und Landkreis Trier-Saarburg in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:TR",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "TR",
+    "plateDistrict": "Trier",
+    "city": "07211000"
+   }
+  }
+ },
+ {
+  "id": "de1-008034c8321f24",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel KL laut KBA neu vergeben?",
+  "options": [
+   "Koblenz",
+   "Stadt und Landkreis Kassel",
+   "Stadt und Landkreis Kaiserslautern",
+   "Kiel"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen KL wird derzeit für Stadt und Landkreis Kaiserslautern in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:KL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "KL",
+    "plateDistrict": "Kaiserslautern",
+    "city": "07312000"
+   }
+  }
+ },
+ {
+  "id": "de1-1afc0e75ec231a",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel NR laut KBA neu vergeben?",
+  "options": [
+   "Neumünster",
+   "Neuwied",
+   "Stadt Mainz und Landkreis Mainz-Bingen",
+   "Neunkirchen"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen NR wird derzeit für Neuwied in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:NR",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "NR",
+    "plateDistrict": "Neuwied",
+    "city": "07138045"
+   }
+  }
+ },
+ {
+  "id": "de1-36127789b74cc3",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Altenkirchen (Westerwald)",
+  "options": [
+   "AP",
+   "AK",
+   "LU",
+   "MZ"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen AK wird derzeit für Altenkirchen (Westerwald) in Rheinland-Pfalz ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:AK",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "AK",
+    "plateDistrict": "Altenkirchen (Westerwald)"
+   }
+  }
+ },
+ {
+  "id": "de1-0a5e64447a7fb9",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel S laut KBA neu vergeben?",
+  "options": [
+   "Stuttgart",
+   "Segeberg",
+   "Salzgitter",
+   "Stade"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen S wird derzeit für Stuttgart in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:S",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "S",
+    "plateDistrict": "Stuttgart",
+    "city": "08111000"
+   }
+  }
+ },
+ {
+  "id": "de1-f2a4829f6c8827",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel MA laut KBA neu vergeben?",
+  "options": [
+   "Mönchengladbach",
+   "Münster",
+   "Stadt Mainz und Landkreis Mainz-Bingen",
+   "Mannheim"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen MA wird derzeit für Mannheim in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MA",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "MA",
+    "plateDistrict": "Mannheim",
+    "city": "08222000"
+   }
+  }
+ },
+ {
+  "id": "de1-f5d2c6f612405d",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Stadtkreis Heidelberg und Rhein-Neckar-Kreis",
+  "options": [
+   "HB",
+   "HH",
+   "HD",
+   "HN"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen HD wird derzeit für Stadtkreis Heidelberg und Rhein-Neckar-Kreis in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "HD",
+    "plateDistrict": "Heidelberg",
+    "city": "08221000"
+   }
+  }
+ },
+ {
+  "id": "de1-8df06fc28dfeea",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel KA laut KBA neu vergeben?",
+  "options": [
+   "Koblenz",
+   "Kiel",
+   "Stadt und Landkreis Karlsruhe",
+   "Stadt und Landkreis Kassel"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen KA wird derzeit für Stadt und Landkreis Karlsruhe in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:KA",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "KA",
+    "plateDistrict": "Karlsruhe",
+    "city": "08212000"
+   }
+  }
+ },
+ {
+  "id": "de1-58e84ae36a7725",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel FR laut KBA neu vergeben?",
+  "options": [
+   "Flensburg",
+   "Stadt und Landkreis Fürth",
+   "Stadtkreis Freiburg im Breisgau und Landkreis Breisgau-Hochschwarzwald",
+   "Stadt und Landkreis Fulda"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen FR wird derzeit für Stadtkreis Freiburg im Breisgau und Landkreis Breisgau-Hochschwarzwald in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:FR",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "FR",
+    "plateDistrict": "Freiburg im Breisgau",
+    "city": "08311000"
+   }
+  }
+ },
+ {
+  "id": "de1-542cebce07fdd5",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Stadtkreis Pforzheim und Enzkreis",
+  "options": [
+   "PA",
+   "PF",
+   "PM",
+   "PI"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen PF wird derzeit für Stadtkreis Pforzheim und Enzkreis in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:PF",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "PF",
+    "plateDistrict": "Pforzheim",
+    "city": "08231000"
+   }
+  }
+ },
+ {
+  "id": "de1-cc0501e16e93f2",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel BAD laut KBA neu vergeben?",
+  "options": [
+   "Bochum",
+   "Brandenburg an der Havel",
+   "Baden-Baden",
+   "Bonn"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen BAD wird derzeit für Baden-Baden in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:BAD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "BAD",
+    "plateDistrict": "Baden-Baden"
+   }
+  }
+ },
+ {
+  "id": "de1-1530f8e3673283",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel UL laut KBA neu vergeben?",
+  "options": [
+   "Stadtkreis Ulm und Alb-Donau-Kreis",
+   "Mannheim",
+   "Stadtkreis Heidelberg und Rhein-Neckar-Kreis",
+   "Stadt und Landkreis Karlsruhe"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen UL wird derzeit für Stadtkreis Ulm und Alb-Donau-Kreis in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:UL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "UL",
+    "plateDistrict": "Ulm",
+    "city": "08421000"
+   }
+  }
+ },
+ {
+  "id": "de1-a54f8cb504f0b2",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Stadt und Landkreis Heilbronn",
+  "options": [
+   "HN",
+   "HH",
+   "HD",
+   "HB"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen HN wird derzeit für Stadt und Landkreis Heilbronn in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HN",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "HN",
+    "plateDistrict": "Heilbronn",
+    "city": "08121000"
+   }
+  }
+ },
+ {
+  "id": "de1-bdfc6ad8d881f2",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel LB laut KBA neu vergeben?",
+  "options": [
+   "Ludwigshafen am Rhein",
+   "Ludwigsburg",
+   "Mannheim",
+   "Leer"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen LB wird derzeit für Ludwigsburg in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:LB",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "LB",
+    "plateDistrict": "Ludwigsburg",
+    "city": "08118048"
+   }
+  }
+ },
+ {
+  "id": "de1-c04e0ec0090cb1",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel ES laut KBA neu vergeben?",
+  "options": [
+   "Eichstätt",
+   "Esslingen",
+   "Emsland",
+   "Erlangen"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen ES wird derzeit für Esslingen in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:ES",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "ES",
+    "plateDistrict": "Esslingen"
+   }
+  }
+ },
+ {
+  "id": "de1-9d59361c5f4ac8",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Reutlingen",
+  "options": [
+   "RD",
+   "MA",
+   "HD",
+   "RT"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen RT wird derzeit für Reutlingen in Baden-Württemberg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:RT",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "RT",
+    "plateDistrict": "Reutlingen",
+    "city": "08415061"
+   }
+  }
+ },
+ {
+  "id": "de1-c047257d674622",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Stadt und Landkreis München",
+  "options": [
+   "M",
+   "MG",
+   "MM",
+   "MS"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen M wird derzeit für Stadt und Landkreis München in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:M",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "M",
+    "plateDistrict": "München",
+    "city": "09162000"
+   }
+  }
+ },
+ {
+  "id": "de1-10b40ac5763542",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel A laut KBA neu vergeben?",
+  "options": [
+   "Stadt und Landkreis Augsburg",
+   "Altenkirchen (Westerwald)",
+   "Stadt und Landkreis Regensburg",
+   "Stadt und Landkreis München"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen A wird derzeit für Stadt und Landkreis Augsburg in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:A",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "A",
+    "plateDistrict": "Augsburg",
+    "city": "09761000"
+   }
+  }
+ },
+ {
+  "id": "de1-7a6bd963957810",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Stadt und Landkreis Regensburg",
+  "options": [
+   "RD",
+   "M",
+   "R",
+   "RT"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen R wird derzeit für Stadt und Landkreis Regensburg in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:R",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "R",
+    "plateDistrict": "Regensburg",
+    "city": "09362000"
+   }
+  }
+ },
+ {
+  "id": "de1-0bea35f81eb099",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel WÜ laut KBA neu vergeben?",
+  "options": [
+   "Stadt und Landkreis Würzburg",
+   "Worms",
+   "Weimar",
+   "Wiesbaden"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen WÜ wird derzeit für Stadt und Landkreis Würzburg in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:WÜ",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "WÜ",
+    "plateDistrict": "Würzburg",
+    "city": "09663000"
+   }
+  }
+ },
+ {
+  "id": "de1-08ccdf0999c77d",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel PA laut KBA neu vergeben?",
+  "options": [
+   "Potsdam-Mittelmark",
+   "Pinneberg",
+   "Stadt und Landkreis Passau",
+   "Stadtkreis Pforzheim und Enzkreis"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen PA wird derzeit für Stadt und Landkreis Passau in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:PA",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "PA",
+    "plateDistrict": "Passau",
+    "city": "09262000"
+   }
+  }
+ },
+ {
+  "id": "de1-b6f1fc4f5283a6",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuell neu vergebene Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Ingolstadt",
+  "options": [
+   "PA",
+   "FÜ",
+   "WÜ",
+   "IN"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen IN wird derzeit für Ingolstadt in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:IN",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "IN",
+    "plateDistrict": "Ingolstadt",
+    "city": "09161000"
+   }
+  }
+ },
+ {
+  "id": "de1-7056da11367ea8",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel FÜ laut KBA neu vergeben?",
+  "options": [
+   "Stadt und Landkreis Fulda",
+   "Stadt und Landkreis Fürth",
+   "Stadtkreis Freiburg im Breisgau und Landkreis Breisgau-Hochschwarzwald",
+   "Flensburg"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen FÜ wird derzeit für Stadt und Landkreis Fürth in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:FÜ",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "FÜ",
+    "plateDistrict": "Fürth",
+    "city": "09563000"
+   }
+  }
+ },
+ {
+  "id": "de1-ecfc581967db7c",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel ER laut KBA neu vergeben?",
+  "options": [
+   "Emsland",
+   "Esslingen",
+   "Erlangen",
+   "Eichstätt"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen ER wird derzeit für Erlangen in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:ER",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "ER",
+    "plateDistrict": "Erlangen",
+    "city": "09562000"
+   }
+  }
+ },
+ {
+  "id": "de1-df7cbc451aaaf5",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Schwandorf",
+  "options": [
+   "SHL",
+   "SLK",
+   "SAD",
+   "STD"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen SAD wird derzeit für Schwandorf in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SAD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "SAD",
+    "plateDistrict": "Schwandorf"
+   }
+  }
+ },
+ {
+  "id": "de1-72003bbdddecb8",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel KE laut KBA neu vergeben?",
+  "options": [
+   "Kempten (Allgäu)",
+   "Kiel",
+   "Koblenz",
+   "Stadt und Landkreis Kassel"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen KE wird derzeit für Kempten (Allgäu) in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:KE",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "KE",
+    "plateDistrict": "Kempten (Allgäu)",
+    "city": "09763000"
+   }
+  }
+ },
+ {
+  "id": "de1-787477214d54e2",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel MM laut KBA neu vergeben?",
+  "options": [
+   "Stadt und Landkreis München",
+   "Mönchengladbach",
+   "Münster",
+   "Memmingen"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen MM wird derzeit für Memmingen in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MM",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "MM",
+    "plateDistrict": "Memmingen"
+   }
+  }
+ },
+ {
+  "id": "de1-76902a08ec11fc",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Eichstätt",
+  "options": [
+   "EI",
+   "EL",
+   "ER",
+   "ES"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen EI wird derzeit für Eichstätt in Bayern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:EI",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "EI",
+    "plateDistrict": "Eichstätt"
+   }
+  }
+ },
+ {
+  "id": "de1-1e44ec57b23010",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel C laut KBA neu vergeben?",
+  "options": [
+   "Cottbus",
+   "Chemnitz",
+   "Celle",
+   "Görlitz"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen C wird derzeit für Chemnitz in Sachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:C",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SN",
+    "plate": "C",
+    "plateDistrict": "Chemnitz",
+    "city": "14511000"
+   }
+  }
+ },
+ {
+  "id": "de1-65d711965be600",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel GR laut KBA neu vergeben?",
+  "options": [
+   "Görlitz",
+   "Bautzen",
+   "Gera",
+   "Gelsenkirchen"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen GR wird derzeit für Görlitz in Sachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:GR",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SN",
+    "plate": "GR",
+    "plateDistrict": "Görlitz",
+    "city": "14626110"
+   }
+  }
+ },
+ {
+  "id": "de1-e3e7a634950928",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Meißen",
+  "options": [
+   "MTK",
+   "MEI",
+   "MZG",
+   "MKK"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen MEI wird derzeit für Meißen in Sachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MEI",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SN",
+    "plate": "MEI",
+    "plateDistrict": "Meißen"
+   }
+  }
+ },
+ {
+  "id": "de1-b00e187ac01240",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel BZ laut KBA neu vergeben?",
+  "options": [
+   "Bochum",
+   "Bielefeld",
+   "Bautzen",
+   "Bonn"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen BZ wird derzeit für Bautzen in Sachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:BZ",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SN",
+    "plate": "BZ",
+    "plateDistrict": "Bautzen",
+    "city": "14625020"
+   }
+  }
+ },
+ {
+  "id": "de1-df29af3f552e05",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel PIR laut KBA neu vergeben?",
+  "options": [
+   "Stadtkreis Pforzheim und Enzkreis",
+   "Sächsische Schweiz-Osterzgebirge",
+   "Pinneberg",
+   "Stadt und Landkreis Passau"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen PIR wird derzeit für Sächsische Schweiz-Osterzgebirge in Sachsen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:PIR",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SN",
+    "plate": "PIR",
+    "plateDistrict": "Sächsische Schweiz-Osterzgebirge"
+   }
+  }
+ },
+ {
+  "id": "de1-18379e5a33f3b1",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuell neu vergebene Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Erfurt",
+  "options": [
+   "ES",
+   "EL",
+   "ER",
+   "EF"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen EF wird derzeit für Erfurt in Thüringen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:EF",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "TH",
+    "plate": "EF",
+    "plateDistrict": "Erfurt",
+    "city": "16051000"
+   }
+  }
+ },
+ {
+  "id": "de1-164210a2f547de",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel J laut KBA neu vergeben?",
+  "options": [
+   "Gera",
+   "Weimar",
+   "Erfurt",
+   "Jena"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen J wird derzeit für Jena in Thüringen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:J",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "TH",
+    "plate": "J",
+    "plateDistrict": "Jena",
+    "city": "16053000"
+   }
+  }
+ },
+ {
+  "id": "de1-fda84a1a28240e",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel WE laut KBA neu vergeben?",
+  "options": [
+   "Weimar",
+   "Worms",
+   "Stadt und Landkreis Würzburg",
+   "Wiesbaden"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen WE wird derzeit für Weimar in Thüringen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:WE",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "TH",
+    "plate": "WE",
+    "plateDistrict": "Weimar",
+    "city": "16055000"
+   }
+  }
+ },
+ {
+  "id": "de1-4f6a9ad942b4bf",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuell neu vergebene Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Gera",
+  "options": [
+   "J",
+   "GR",
+   "G",
+   "GE"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen G wird derzeit für Gera in Thüringen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:G",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "TH",
+    "plate": "G",
+    "plateDistrict": "Gera",
+    "city": "16052000"
+   }
+  }
+ },
+ {
+  "id": "de1-00f372e082c669",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel SHL laut KBA neu vergeben?",
+  "options": [
+   "Stade",
+   "Suhl",
+   "Schwandorf",
+   "Salzlandkreis"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen SHL wird derzeit für Suhl in Thüringen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SHL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "TH",
+    "plate": "SHL",
+    "plateDistrict": "Suhl"
+   }
+  }
+ },
+ {
+  "id": "de1-bc8c7efc45aa19",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel AP laut KBA neu vergeben?",
+  "options": [
+   "Altenkirchen (Westerwald)",
+   "Weimarer Land",
+   "Erfurt",
+   "Stadt und Landkreis Augsburg"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen AP wird derzeit für Weimarer Land in Thüringen ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:AP",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "TH",
+    "plate": "AP",
+    "plateDistrict": "Weimarer Land"
+   }
+  }
+ },
+ {
+  "id": "de1-74f2304df19b9a",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Magdeburg",
+  "options": [
+   "MZ",
+   "MS",
+   "MG",
+   "MD"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen MD wird derzeit für Magdeburg in Sachsen-Anhalt ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "ST",
+    "plate": "MD",
+    "plateDistrict": "Magdeburg",
+    "city": "15003000"
+   }
+  }
+ },
+ {
+  "id": "de1-e4c72e1e1645a9",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel HAL laut KBA neu vergeben?",
+  "options": [
+   "Halle (Saale)",
+   "Rostock",
+   "Hamburg",
+   "Havelland"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen HAL wird derzeit für Halle (Saale) in Sachsen-Anhalt ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HAL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "ST",
+    "plate": "HAL",
+    "plateDistrict": "Halle (Saale)",
+    "city": "15002000"
+   }
+  }
+ },
+ {
+  "id": "de1-f0061c3e421bdf",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel DE laut KBA neu vergeben?",
+  "options": [
+   "Duisburg",
+   "Dessau-Roßlau",
+   "Stadt und Landkreis Darmstadt",
+   "Dortmund"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen DE wird derzeit für Dessau-Roßlau in Sachsen-Anhalt ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:DE",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "ST",
+    "plate": "DE",
+    "plateDistrict": "Dessau-Roßlau",
+    "city": "15001000"
+   }
+  }
+ },
+ {
+  "id": "de1-802cb7d25e408a",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Anhalt-Bitterfeld",
+  "options": [
+   "ABI",
+   "A",
+   "AK",
+   "AP"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen ABI wird derzeit für Anhalt-Bitterfeld in Sachsen-Anhalt ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:ABI",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "ST",
+    "plate": "ABI",
+    "plateDistrict": "Anhalt-Bitterfeld"
+   }
+  }
+ },
+ {
+  "id": "de1-8965b3cea07585",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel SLK laut KBA neu vergeben?",
+  "options": [
+   "Stade",
+   "Schwandorf",
+   "Salzlandkreis",
+   "Suhl"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen SLK wird derzeit für Salzlandkreis in Sachsen-Anhalt ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SLK",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "ST",
+    "plate": "SLK",
+    "plateDistrict": "Salzlandkreis"
+   }
+  }
+ },
+ {
+  "id": "de1-51d098f2009d3f",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel P laut KBA neu vergeben?",
+  "options": [
+   "Potsdam-Mittelmark",
+   "Pinneberg",
+   "Potsdam",
+   "Stadtkreis Pforzheim und Enzkreis"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen P wird derzeit für Potsdam in Brandenburg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:P",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BB",
+    "plate": "P",
+    "plateDistrict": "Potsdam",
+    "city": "12054000"
+   }
+  }
+ },
+ {
+  "id": "de1-0e52d8ef4316cb",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Frankfurt (Oder)",
+  "options": [
+   "FD",
+   "FL",
+   "FR",
+   "FF"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen FF wird derzeit für Frankfurt (Oder) in Brandenburg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:FF",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BB",
+    "plate": "FF",
+    "plateDistrict": "Frankfurt (Oder)",
+    "city": "12053000"
+   }
+  }
+ },
+ {
+  "id": "de1-69336914bec8c8",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel CB laut KBA neu vergeben?",
+  "options": [
+   "Cottbus",
+   "Frankfurt (Oder)",
+   "Chemnitz",
+   "Celle"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen CB wird derzeit für Cottbus in Brandenburg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:CB",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BB",
+    "plate": "CB",
+    "plateDistrict": "Cottbus",
+    "city": "12052000"
+   }
+  }
+ },
+ {
+  "id": "de1-7856d9af43f580",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel BRB laut KBA neu vergeben?",
+  "options": [
+   "Baden-Baden",
+   "Bochum",
+   "Bonn",
+   "Brandenburg an der Havel"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen BRB wird derzeit für Brandenburg an der Havel in Brandenburg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:BRB",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BB",
+    "plate": "BRB",
+    "plateDistrict": "Brandenburg an der Havel",
+    "city": "12051000"
+   }
+  }
+ },
+ {
+  "id": "de1-5cb2fdecb2bfe9",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Havelland",
+  "options": [
+   "HRO",
+   "HH",
+   "HVL",
+   "HAL"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen HVL wird derzeit für Havelland in Brandenburg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HVL",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BB",
+    "plate": "HVL",
+    "plateDistrict": "Havelland"
+   }
+  }
+ },
+ {
+  "id": "de1-f17a55ade4bb89",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel PM laut KBA neu vergeben?",
+  "options": [
+   "Potsdam",
+   "Stadtkreis Pforzheim und Enzkreis",
+   "Potsdam-Mittelmark",
+   "Pinneberg"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen PM wird derzeit für Potsdam-Mittelmark in Brandenburg ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:PM",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BB",
+    "plate": "PM",
+    "plateDistrict": "Potsdam-Mittelmark"
+   }
+  }
+ },
+ {
+  "id": "de1-e8347e47da0b57",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel HRO laut KBA neu vergeben?",
+  "options": [
+   "Havelland",
+   "Rostock",
+   "Hamburg",
+   "Halle (Saale)"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen HRO wird derzeit für Rostock in Mecklenburg-Vorpommern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:HRO",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "MV",
+    "plate": "HRO",
+    "plateDistrict": "Rostock",
+    "city": "13003000"
+   }
+  }
+ },
+ {
+  "id": "de1-44dce9b773cf11",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuell neu vergebene Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Schwerin",
+  "options": [
+   "SE",
+   "SZ",
+   "SP",
+   "SN"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen SN wird derzeit für Schwerin in Mecklenburg-Vorpommern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SN",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "MV",
+    "plate": "SN",
+    "plateDistrict": "Schwerin",
+    "city": "13004000"
+   }
+  }
+ },
+ {
+  "id": "de1-2df639d9386f53",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel LRO laut KBA neu vergeben?",
+  "options": [
+   "Landkreis Rostock",
+   "Leer",
+   "Ludwigshafen am Rhein",
+   "Ludwigslust-Parchim"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen LRO wird derzeit für Landkreis Rostock in Mecklenburg-Vorpommern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:LRO",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "MV",
+    "plate": "LRO",
+    "plateDistrict": "Landkreis Rostock"
+   }
+  }
+ },
+ {
+  "id": "de1-3bd15c7e0bf6e1",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel LUP laut KBA neu vergeben?",
+  "options": [
+   "Ludwigshafen am Rhein",
+   "Leer",
+   "Landkreis Rostock",
+   "Ludwigslust-Parchim"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen LUP wird derzeit für Ludwigslust-Parchim in Mecklenburg-Vorpommern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:LUP",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "MV",
+    "plate": "LUP",
+    "plateDistrict": "Ludwigslust-Parchim"
+   }
+  }
+ },
+ {
+  "id": "de1-d859e3d4347e61",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Vorpommern-Rügen",
+  "options": [
+   "HRO",
+   "VG",
+   "VR",
+   "SN"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen VR wird derzeit für Vorpommern-Rügen in Mecklenburg-Vorpommern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:VR",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "MV",
+    "plate": "VR",
+    "plateDistrict": "Vorpommern-Rügen"
+   }
+  }
+ },
+ {
+  "id": "de1-347a4a53a30688",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel VG laut KBA neu vergeben?",
+  "options": [
+   "Schwerin",
+   "Vorpommern-Greifswald",
+   "Vorpommern-Rügen",
+   "Rostock"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen VG wird derzeit für Vorpommern-Greifswald in Mecklenburg-Vorpommern ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:VG",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "MV",
+    "plate": "VG",
+    "plateDistrict": "Vorpommern-Greifswald"
+   }
+  }
+ },
+ {
+  "id": "de1-3b0c2e9874b3ef",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel SB laut KBA neu vergeben?",
+  "options": [
+   "Salzgitter",
+   "Regionalverband Saarbrücken (außer Völklingen)",
+   "Segeberg",
+   "Saarlouis"
+  ],
+  "correct": 1,
+  "explanation": "Das Unterscheidungszeichen SB wird derzeit für Regionalverband Saarbrücken (außer Völklingen) in Saarland ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SB",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SL",
+    "plate": "SB",
+    "plateDistrict": "Regionalverband Saarbrücken"
+   }
+  }
+ },
+ {
+  "id": "de1-0e7a19a254a681",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Saarlouis",
+  "options": [
+   "SB",
+   "SAD",
+   "SLS",
+   "STD"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen SLS wird derzeit für Saarlouis in Saarland ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:SLS",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SL",
+    "plate": "SLS",
+    "plateDistrict": "Saarlouis",
+    "city": "10044115"
+   }
+  }
+ },
+ {
+  "id": "de1-11740bee0f63a0",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel MZG laut KBA neu vergeben?",
+  "options": [
+   "Main-Kinzig-Kreis",
+   "Main-Taunus-Kreis",
+   "Merzig-Wadern",
+   "Meißen"
+  ],
+  "correct": 2,
+  "explanation": "Das Unterscheidungszeichen MZG wird derzeit für Merzig-Wadern in Saarland ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MZG",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SL",
+    "plate": "MZG",
+    "plateDistrict": "Merzig-Wadern"
+   }
+  }
+ },
+ {
+  "id": "de1-79a926920b6553",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Für welches Zulassungsgebiet wird das Kfz-Kürzel WND laut KBA neu vergeben?",
+  "options": [
+   "Wuppertal",
+   "Wilhelmshaven",
+   "Wolfsburg",
+   "St. Wendel"
+  ],
+  "correct": 3,
+  "explanation": "Das Unterscheidungszeichen WND wird derzeit für St. Wendel in Saarland ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:WND",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SL",
+    "plate": "WND",
+    "plateDistrict": "St. Wendel"
+   }
+  }
+ },
+ {
+  "id": "de1-f3a25827e31901",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches aktuelle Kfz-Kürzel gehört zu diesem Zulassungsgebiet? Neunkirchen",
+  "options": [
+   "NK",
+   "NR",
+   "NMS",
+   "SB"
+  ],
+  "correct": 0,
+  "explanation": "Das Unterscheidungszeichen NK wird derzeit für Neunkirchen in Saarland ausgegeben (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:NK",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SL",
+    "plate": "NK",
+    "plateDistrict": "Neunkirchen",
+    "city": "10043114"
+   }
+  }
+ },
+ {
+  "id": "de1-b0c3315ab51995",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Bayern neu vergeben?",
+  "options": [
+   "EI",
+   "S",
+   "F",
+   "C"
+  ],
+  "correct": 0,
+  "explanation": "EI gehört zu Eichstätt in Bayern (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:EI",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BY",
+    "plate": "EI",
+    "plateDistrict": "Eichstätt"
+   }
+  }
+ },
+ {
+  "id": "de1-96eddce0ff3071",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Baden-Württemberg neu vergeben?",
+  "options": [
+   "F",
+   "RT",
+   "M",
+   "MZ"
+  ],
+  "correct": 1,
+  "explanation": "RT gehört zu Reutlingen in Baden-Württemberg (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:RT",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BW",
+    "plate": "RT",
+    "plateDistrict": "Reutlingen"
+   }
+  }
+ },
+ {
+  "id": "de1-20618e44209552",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Nordrhein-Westfalen neu vergeben?",
+  "options": [
+   "F",
+   "H",
+   "MG",
+   "MZ"
+  ],
+  "correct": 2,
+  "explanation": "MG gehört zu Mönchengladbach in Nordrhein-Westfalen (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MG",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NW",
+    "plate": "MG",
+    "plateDistrict": "Mönchengladbach"
+   }
+  }
+ },
+ {
+  "id": "de1-dcce886625f454",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Rheinland-Pfalz neu vergeben?",
+  "options": [
+   "K",
+   "AK",
+   "F",
+   "S"
+  ],
+  "correct": 1,
+  "explanation": "AK gehört zu Altenkirchen (Westerwald) in Rheinland-Pfalz (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:AK",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "RP",
+    "plate": "AK",
+    "plateDistrict": "Altenkirchen (Westerwald)"
+   }
+  }
+ },
+ {
+  "id": "de1-39083c84f88419",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Hessen neu vergeben?",
+  "options": [
+   "S",
+   "H",
+   "MKK",
+   "M"
+  ],
+  "correct": 2,
+  "explanation": "MKK gehört zu Main-Kinzig-Kreis in Hessen (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:MKK",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "HE",
+    "plate": "MKK",
+    "plateDistrict": "Main-Kinzig-Kreis"
+   }
+  }
+ },
+ {
+  "id": "de1-618db3bc871470",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Niedersachsen neu vergeben?",
+  "options": [
+   "STD",
+   "P",
+   "F",
+   "HB"
+  ],
+  "correct": 0,
+  "explanation": "STD gehört zu Stade in Niedersachsen (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:STD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "NI",
+    "plate": "STD",
+    "plateDistrict": "Stade"
+   }
+  }
+ },
+ {
+  "id": "de1-c81d62945f5912",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Schleswig-Holstein neu vergeben?",
+  "options": [
+   "HRO",
+   "RD",
+   "HH",
+   "H"
+  ],
+  "correct": 1,
+  "explanation": "RD gehört zu Rendsburg-Eckernförde in Schleswig-Holstein (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:RD",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SH",
+    "plate": "RD",
+    "plateDistrict": "Rendsburg-Eckernförde"
+   }
+  }
+ },
+ {
+  "id": "de1-f9133bc836f80c",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Brandenburg neu vergeben?",
+  "options": [
+   "H",
+   "PM",
+   "B",
+   "HRO"
+  ],
+  "correct": 1,
+  "explanation": "PM gehört zu Potsdam-Mittelmark in Brandenburg (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:PM",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "BB",
+    "plate": "PM",
+    "plateDistrict": "Potsdam-Mittelmark"
+   }
+  }
+ },
+ {
+  "id": "de1-793fe840576def",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Mecklenburg-Vorpommern neu vergeben?",
+  "options": [
+   "H",
+   "P",
+   "VG",
+   "HL"
+  ],
+  "correct": 2,
+  "explanation": "VG gehört zu Vorpommern-Greifswald in Mecklenburg-Vorpommern (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:VG",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "MV",
+    "plate": "VG",
+    "plateDistrict": "Vorpommern-Greifswald"
+   }
+  }
+ },
+ {
+  "id": "de1-4d80ef528129ad",
+  "category": "germany",
+  "difficulty": 3,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Thüringen neu vergeben?",
+  "options": [
+   "F",
+   "H",
+   "M",
+   "AP"
+  ],
+  "correct": 3,
+  "explanation": "AP gehört zu Weimarer Land in Thüringen (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:AP",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "TH",
+    "plate": "AP",
+    "plateDistrict": "Weimarer Land"
+   }
+  }
+ },
+ {
+  "id": "de1-6d03b8ac926560",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Kfz-Kürzel wird in Sachsen neu vergeben?",
+  "options": [
+   "PIR",
+   "MD",
+   "M",
+   "P"
+  ],
+  "correct": 0,
+  "explanation": "PIR gehört zu Sächsische Schweiz-Osterzgebirge in Sachsen (KBA, 16.04.2026).",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "plate",
+   "subjectKey": "de-plate:PIR",
+   "sources": [
+    "https://www.kba.de/SharedDocs/Downloads/DE/Presse/kfz_kennzeichenliste_faltblatt.pdf?__blob=publicationFile&v=12"
+   ],
+   "germany": {
+    "state": "SN",
+    "plate": "PIR",
+    "plateDistrict": "Sächsische Schweiz-Osterzgebirge"
+   }
+  }
+ },
+ {
+  "id": "de1-8eb3bb11c78156",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Schleswig-Holstein ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "1.100.000",
+   "1.900.000",
+   "3.000.000",
+   "5.100.000"
+  ],
+  "correct": 2,
+  "explanation": "Schleswig-Holstein · 2.959.517 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:01:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Schleswig-Holstein",
+       "value": 2959517
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-d8afc03ed396d8",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Hamburg ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "700.000",
+   "1.200.000",
+   "1.900.000",
+   "3.200.000"
+  ],
+  "correct": 2,
+  "explanation": "Hamburg · 1.862.565 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:02:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Hamburg",
+       "value": 1862565
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-928f20d731342b",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Niedersachsen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "13.600.000",
+   "2.800.000",
+   "5.000.000",
+   "8.000.000"
+  ],
+  "correct": 3,
+  "explanation": "Niedersachsen · 8.004.489 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:03:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NI",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Niedersachsen",
+       "value": 8004489
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-56e11255045c32",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Bremen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "440.000",
+   "700.000",
+   "240.000",
+   "1.190.000"
+  ],
+  "correct": 1,
+  "explanation": "Bremen · 704.881 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:04:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HB",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Bremen",
+       "value": 704881
+      }
+     ],
+     "step": 10000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-15e3a878eb7eae",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Nordrhein-Westfalen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "18.000.000",
+   "11.300.000",
+   "30.600.000",
+   "6.300.000"
+  ],
+  "correct": 0,
+  "explanation": "Nordrhein-Westfalen · 18.034.454 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Nordrhein-Westfalen",
+       "value": 18034454
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-84cd4de5ac41a0",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Hessen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "10.700.000",
+   "6.300.000",
+   "4.000.000",
+   "2.200.000"
+  ],
+  "correct": 1,
+  "explanation": "Hessen · 6.280.793 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:06:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Hessen",
+       "value": 6280793
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-64e4e8c531d3ed",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Rheinland-Pfalz ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "7.000.000",
+   "4.100.000",
+   "2.600.000",
+   "1.400.000"
+  ],
+  "correct": 1,
+  "explanation": "Rheinland-Pfalz · 4.129.569 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:07:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "RP",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Rheinland-Pfalz",
+       "value": 4129569
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-d1f6e0ea07bbff",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Baden-Württemberg ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "7.100.000",
+   "19.000.000",
+   "11.200.000",
+   "3.900.000"
+  ],
+  "correct": 2,
+  "explanation": "Baden-Württemberg · 11.245.898 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:08:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Baden-Württemberg",
+       "value": 11245898
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-7d53c34989622d",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Bayern ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "22.400.000",
+   "8.300.000",
+   "13.200.000",
+   "4.600.000"
+  ],
+  "correct": 2,
+  "explanation": "Bayern · 13.248.928 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:09:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BY",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Bayern",
+       "value": 13248928
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-a161a986e408a6",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Saarland ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "1.000.000",
+   "400.000",
+   "600.000",
+   "1.700.000"
+  ],
+  "correct": 0,
+  "explanation": "Saarland · 1.012.141 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:10:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SL",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Saarland",
+       "value": 1012141
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-290d0a881a50b7",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Berlin ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "2.300.000",
+   "1.300.000",
+   "3.700.000",
+   "6.300.000"
+  ],
+  "correct": 2,
+  "explanation": "Berlin · 3.685.265 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:11:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Berlin",
+       "value": 3685265
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-330bc14b2b2273",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Brandenburg ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "900.000",
+   "2.600.000",
+   "4.400.000",
+   "1.600.000"
+  ],
+  "correct": 1,
+  "explanation": "Brandenburg · 2.556.747 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:12:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BB",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Brandenburg",
+       "value": 2556747
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-fc332624363d53",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Mecklenburg-Vorpommern ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "600.000",
+   "1.000.000",
+   "2.700.000",
+   "1.600.000"
+  ],
+  "correct": 3,
+  "explanation": "Mecklenburg-Vorpommern · 1.573.597 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:13:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "MV",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Mecklenburg-Vorpommern",
+       "value": 1573597
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-fdd37a77c02cb8",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Sachsen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "4.000.000",
+   "6.800.000",
+   "1.400.000",
+   "2.500.000"
+  ],
+  "correct": 0,
+  "explanation": "Sachsen · 4.042.422 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:14:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SN",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Sachsen",
+       "value": 4042422
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-084592a1dafb53",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Sachsen-Anhalt ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "1.300.000",
+   "2.100.000",
+   "700.000",
+   "3.600.000"
+  ],
+  "correct": 1,
+  "explanation": "Sachsen-Anhalt · 2.135.597 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:15:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "ST",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Sachsen-Anhalt",
+       "value": 2135597
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-fe2f8a19f8e60c",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Thüringen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "1.300.000",
+   "3.600.000",
+   "2.100.000",
+   "700.000"
+  ],
+  "correct": 2,
+  "explanation": "Thüringen · 2.100.277 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:16:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "TH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Thüringen",
+       "value": 2100277
+      }
+     ],
+     "step": 100000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-932d2d7ddcf4d7",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Schleswig-Holstein ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "27.000 km²",
+   "6.000 km²",
+   "10.000 km²",
+   "16.000 km²"
+  ],
+  "correct": 3,
+  "explanation": "Schleswig-Holstein · 15.804 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:01:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Schleswig-Holstein",
+       "value": 15804.31
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-6db03fa4999d1e",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Hamburg ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "480 km²",
+   "760 km²",
+   "270 km²",
+   "1.290 km²"
+  ],
+  "correct": 1,
+  "explanation": "Hamburg · 755 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:02:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Hamburg",
+       "value": 755.09
+      }
+     ],
+     "step": 10
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-7380341d846137",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Niedersachsen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "48.000 km²",
+   "82.000 km²",
+   "30.000 km²",
+   "17.000 km²"
+  ],
+  "correct": 0,
+  "explanation": "Niedersachsen · 47.710 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:03:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NI",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Niedersachsen",
+       "value": 47709.83
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-584525e21284ed",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Bremen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "150 km²",
+   "710 km²",
+   "420 km²",
+   "260 km²"
+  ],
+  "correct": 2,
+  "explanation": "Bremen · 420 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:04:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HB",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Bremen",
+       "value": 419.94
+      }
+     ],
+     "step": 10
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-bb1a1b773c1627",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Nordrhein-Westfalen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "34.000 km²",
+   "21.000 km²",
+   "58.000 km²",
+   "12.000 km²"
+  ],
+  "correct": 0,
+  "explanation": "Nordrhein-Westfalen · 34.112 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Nordrhein-Westfalen",
+       "value": 34112.34
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-ed9dc3724c3cc9",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Hessen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "21.000 km²",
+   "36.000 km²",
+   "13.000 km²",
+   "7.000 km²"
+  ],
+  "correct": 0,
+  "explanation": "Hessen · 21.116 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:06:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Hessen",
+       "value": 21115.7
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-92def0d29c331a",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Rheinland-Pfalz ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "34.000 km²",
+   "13.000 km²",
+   "20.000 km²",
+   "7.000 km²"
+  ],
+  "correct": 2,
+  "explanation": "Rheinland-Pfalz · 19.858 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:07:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "RP",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Rheinland-Pfalz",
+       "value": 19857.87
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-e0bce84d172409",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Baden-Württemberg ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "13.000 km²",
+   "36.000 km²",
+   "61.000 km²",
+   "23.000 km²"
+  ],
+  "correct": 1,
+  "explanation": "Baden-Württemberg · 35.748 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:08:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Baden-Württemberg",
+       "value": 35747.82
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-0891a6d1e26613",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Bayern ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "121.000 km²",
+   "25.000 km²",
+   "45.000 km²",
+   "71.000 km²"
+  ],
+  "correct": 3,
+  "explanation": "Bayern · 70.542 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:09:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BY",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Bayern",
+       "value": 70541.58
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-136a69251e15ea",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Saarland ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "4.400 km²",
+   "2.600 km²",
+   "1.600 km²",
+   "900 km²"
+  ],
+  "correct": 1,
+  "explanation": "Saarland · 2.572 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:10:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SL",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Saarland",
+       "value": 2572.01
+      }
+     ],
+     "step": 100
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-6464d6a2d02cf3",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Berlin ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "890 km²",
+   "310 km²",
+   "560 km²",
+   "1.510 km²"
+  ],
+  "correct": 0,
+  "explanation": "Berlin · 891 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:11:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Berlin",
+       "value": 891.12
+      }
+     ],
+     "step": 10
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-c3bda29587eccc",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Brandenburg ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "19.000 km²",
+   "51.000 km²",
+   "30.000 km²",
+   "11.000 km²"
+  ],
+  "correct": 2,
+  "explanation": "Brandenburg · 29.654 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:12:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BB",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Brandenburg",
+       "value": 29654.42
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-0575762fd11a2c",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Mecklenburg-Vorpommern ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "14.000 km²",
+   "8.000 km²",
+   "23.000 km²",
+   "39.000 km²"
+  ],
+  "correct": 2,
+  "explanation": "Mecklenburg-Vorpommern · 23.295 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:13:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "MV",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Mecklenburg-Vorpommern",
+       "value": 23294.9
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-348aff017f2704",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Sachsen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "6.000 km²",
+   "11.000 km²",
+   "31.000 km²",
+   "18.000 km²"
+  ],
+  "correct": 3,
+  "explanation": "Sachsen · 18.450 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:14:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SN",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Sachsen",
+       "value": 18449.85
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-6321380842332b",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Sachsen-Anhalt ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "21.000 km²",
+   "13.000 km²",
+   "7.000 km²",
+   "36.000 km²"
+  ],
+  "correct": 0,
+  "explanation": "Sachsen-Anhalt · 20.555 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:15:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "ST",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Sachsen-Anhalt",
+       "value": 20554.84
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-3019579c28e477",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie groß ist die Fläche von Thüringen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "6.000 km²",
+   "27.000 km²",
+   "10.000 km²",
+   "16.000 km²"
+  ],
+  "correct": 3,
+  "explanation": "Thüringen · 16.202 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:16:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "TH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Thüringen",
+       "value": 16202.28
+      }
+     ],
+     "step": 1000
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-55042c01e50ffa",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Kiel ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "90.000",
+   "160.000",
+   "430.000",
+   "250.000"
+  ],
+  "correct": 3,
+  "explanation": "Kiel · 252.668 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:01002000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Kiel",
+       "value": 252668
+      }
+     ],
+     "step": 10000
+    },
+    "city": "01002000"
+   }
+  }
+ },
+ {
+  "id": "de1-70defabc37f9fd",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Hamburg ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "700.000",
+   "1.200.000",
+   "1.900.000",
+   "3.200.000"
+  ],
+  "correct": 2,
+  "explanation": "Hamburg · 1.862.565 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:02000000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Hamburg",
+       "value": 1862565
+      }
+     ],
+     "step": 100000
+    },
+    "city": "02000000"
+   }
+  }
+ },
+ {
+  "id": "de1-44fe29e550b435",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Hannover ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "520.000",
+   "330.000",
+   "880.000",
+   "180.000"
+  ],
+  "correct": 0,
+  "explanation": "Hannover · 522.131 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:03241001:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NI",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Hannover",
+       "value": 522131
+      }
+     ],
+     "step": 10000
+    },
+    "city": "03241001"
+   }
+  }
+ },
+ {
+  "id": "de1-8df632108934b9",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Bremen ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "590.000",
+   "1.000.000",
+   "370.000",
+   "210.000"
+  ],
+  "correct": 0,
+  "explanation": "Bremen · 586.271 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:04011000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HB",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Bremen",
+       "value": 586271
+      }
+     ],
+     "step": 10000
+    },
+    "city": "04011000"
+   }
+  }
+ },
+ {
+  "id": "de1-f04b435deec4c0",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Düsseldorf ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "620.000",
+   "1.050.000",
+   "390.000",
+   "220.000"
+  ],
+  "correct": 0,
+  "explanation": "Düsseldorf · 618.685 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05111000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Düsseldorf",
+       "value": 618685
+      }
+     ],
+     "step": 10000
+    },
+    "city": "05111000"
+   }
+  }
+ },
+ {
+  "id": "de1-a121ce304719e3",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Wiesbaden ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "490.000",
+   "180.000",
+   "290.000",
+   "100.000"
+  ],
+  "correct": 2,
+  "explanation": "Wiesbaden · 288.850 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:06414000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Wiesbaden",
+       "value": 288850
+      }
+     ],
+     "step": 10000
+    },
+    "city": "06414000"
+   }
+  }
+ },
+ {
+  "id": "de1-5ac1aa4072c769",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Mainz ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "220.000",
+   "370.000",
+   "140.000",
+   "80.000"
+  ],
+  "correct": 0,
+  "explanation": "Mainz · 224.684 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:07315000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "RP",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Mainz",
+       "value": 224684
+      }
+     ],
+     "step": 10000
+    },
+    "city": "07315000"
+   }
+  }
+ },
+ {
+  "id": "de1-9c4a2c8b727b83",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Stuttgart ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "1.040.000",
+   "380.000",
+   "210.000",
+   "610.000"
+  ],
+  "correct": 3,
+  "explanation": "Stuttgart · 612.663 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:08111000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Stuttgart",
+       "value": 612663
+      }
+     ],
+     "step": 10000
+    },
+    "city": "08111000"
+   }
+  }
+ },
+ {
+  "id": "de1-270db933c45764",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet München ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "2.600.000",
+   "900.000",
+   "500.000",
+   "1.500.000"
+  ],
+  "correct": 3,
+  "explanation": "München · 1.505.005 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:09162000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BY",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "München",
+       "value": 1505005
+      }
+     ],
+     "step": 100000
+    },
+    "city": "09162000"
+   }
+  }
+ },
+ {
+  "id": "de1-7228066853d6e7",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Saarbrücken ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "180.000",
+   "310.000",
+   "60.000",
+   "110.000"
+  ],
+  "correct": 0,
+  "explanation": "Saarbrücken · 182.971 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:10041100:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SL",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Saarbrücken",
+       "value": 182971
+      }
+     ],
+     "step": 10000
+    },
+    "city": "10041100"
+   }
+  }
+ },
+ {
+  "id": "de1-cba31c6319106e",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Berlin ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "3.700.000",
+   "2.300.000",
+   "1.300.000",
+   "6.300.000"
+  ],
+  "correct": 0,
+  "explanation": "Berlin · 3.685.265 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:11000000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Berlin",
+       "value": 3685265
+      }
+     ],
+     "step": 100000
+    },
+    "city": "11000000"
+   }
+  }
+ },
+ {
+  "id": "de1-c9bbb23a0c9e73",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Potsdam ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "180.000",
+   "110.000",
+   "310.000",
+   "60.000"
+  ],
+  "correct": 0,
+  "explanation": "Potsdam · 184.754 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:12054000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BB",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Potsdam",
+       "value": 184754
+      }
+     ],
+     "step": 10000
+    },
+    "city": "12054000"
+   }
+  }
+ },
+ {
+  "id": "de1-4c73d45356edfe",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Dresden ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "200.000",
+   "350.000",
+   "560.000",
+   "950.000"
+  ],
+  "correct": 2,
+  "explanation": "Dresden · 564.904 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:14612000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SN",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Dresden",
+       "value": 564904
+      }
+     ],
+     "step": 10000
+    },
+    "city": "14612000"
+   }
+  }
+ },
+ {
+  "id": "de1-68a780e152ad7a",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Magdeburg ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "150.000",
+   "80.000",
+   "240.000",
+   "410.000"
+  ],
+  "correct": 2,
+  "explanation": "Magdeburg · 244.329 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:15003000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "ST",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Magdeburg",
+       "value": 244329
+      }
+     ],
+     "step": 10000
+    },
+    "city": "15003000"
+   }
+  }
+ },
+ {
+  "id": "de1-9e842f1bb004bc",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Erfurt ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "220.000",
+   "140.000",
+   "80.000",
+   "370.000"
+  ],
+  "correct": 0,
+  "explanation": "Erfurt · 218.793 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:16051000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "TH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Erfurt",
+       "value": 218793
+      }
+     ],
+     "step": 10000
+    },
+    "city": "16051000"
+   }
+  }
+ },
+ {
+  "id": "de1-8b37240ef938c2",
+  "category": "germany",
+  "difficulty": 1,
+  "prompt": "Wie viele Menschen leben im Verwaltungsgebiet Köln ungefähr (Stand 31.12.2024)?",
+  "options": [
+   "400.000",
+   "600.000",
+   "1.700.000",
+   "1.000.000"
+  ],
+  "correct": 3,
+  "explanation": "Köln · 1.024.621 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05315000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "estimate",
+     "values": [
+      {
+       "name": "Köln",
+       "value": 1024621
+      }
+     ],
+     "step": 100000
+    },
+    "city": "05315000"
+   }
+  }
+ },
+ {
+  "id": "de1-854ec68d3ec73c",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die meisten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Niedersachsen",
+   "Bayern",
+   "Nordrhein-Westfalen",
+   "Baden-Württemberg"
+  ],
+  "correct": 2,
+  "explanation": "Nordrhein-Westfalen · 18.034.454 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Nordrhein-Westfalen",
+       "value": 18034454
+      },
+      {
+       "name": "Bayern",
+       "value": 13248928
+      },
+      {
+       "name": "Baden-Württemberg",
+       "value": 11245898
+      },
+      {
+       "name": "Niedersachsen",
+       "value": 8004489
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-3f94b4d5a8402b",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die wenigsten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Mecklenburg-Vorpommern",
+   "Hamburg",
+   "Thüringen",
+   "Bremen"
+  ],
+  "correct": 3,
+  "explanation": "Bremen · 704.881 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:04:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HB",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Bremen",
+       "value": 704881
+      },
+      {
+       "name": "Mecklenburg-Vorpommern",
+       "value": 1573597
+      },
+      {
+       "name": "Hamburg",
+       "value": 1862565
+      },
+      {
+       "name": "Thüringen",
+       "value": 2100277
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-9361b4756510ee",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die meisten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Bayern",
+   "Sachsen",
+   "Berlin",
+   "Rheinland-Pfalz"
+  ],
+  "correct": 0,
+  "explanation": "Bayern · 13.248.928 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:09:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BY",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Bayern",
+       "value": 13248928
+      },
+      {
+       "name": "Rheinland-Pfalz",
+       "value": 4129569
+      },
+      {
+       "name": "Sachsen",
+       "value": 4042422
+      },
+      {
+       "name": "Berlin",
+       "value": 3685265
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-e57140eaea97f5",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die wenigsten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Hamburg",
+   "Thüringen",
+   "Saarland",
+   "Mecklenburg-Vorpommern"
+  ],
+  "correct": 2,
+  "explanation": "Saarland · 1.012.141 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:10:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SL",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Saarland",
+       "value": 1012141
+      },
+      {
+       "name": "Mecklenburg-Vorpommern",
+       "value": 1573597
+      },
+      {
+       "name": "Hamburg",
+       "value": 1862565
+      },
+      {
+       "name": "Thüringen",
+       "value": 2100277
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-54e39c3fec7775",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die meisten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Hessen",
+   "Sachsen",
+   "Rheinland-Pfalz",
+   "Baden-Württemberg"
+  ],
+  "correct": 3,
+  "explanation": "Baden-Württemberg · 11.245.898 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:08:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Baden-Württemberg",
+       "value": 11245898
+      },
+      {
+       "name": "Hessen",
+       "value": 6280793
+      },
+      {
+       "name": "Rheinland-Pfalz",
+       "value": 4129569
+      },
+      {
+       "name": "Sachsen",
+       "value": 4042422
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-0d523942660f65",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die wenigsten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Schleswig-Holstein",
+   "Mecklenburg-Vorpommern",
+   "Brandenburg",
+   "Berlin"
+  ],
+  "correct": 1,
+  "explanation": "Mecklenburg-Vorpommern · 1.573.597 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:13:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "MV",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Mecklenburg-Vorpommern",
+       "value": 1573597
+      },
+      {
+       "name": "Brandenburg",
+       "value": 2556747
+      },
+      {
+       "name": "Schleswig-Holstein",
+       "value": 2959517
+      },
+      {
+       "name": "Berlin",
+       "value": 3685265
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-41770ac8ea4ab4",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die meisten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Sachsen",
+   "Hessen",
+   "Rheinland-Pfalz",
+   "Niedersachsen"
+  ],
+  "correct": 3,
+  "explanation": "Niedersachsen · 8.004.489 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:03:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NI",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Niedersachsen",
+       "value": 8004489
+      },
+      {
+       "name": "Hessen",
+       "value": 6280793
+      },
+      {
+       "name": "Rheinland-Pfalz",
+       "value": 4129569
+      },
+      {
+       "name": "Sachsen",
+       "value": 4042422
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-e6213ebe8d5b8b",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die wenigsten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Sachsen",
+   "Schleswig-Holstein",
+   "Berlin",
+   "Hamburg"
+  ],
+  "correct": 3,
+  "explanation": "Hamburg · 1.862.565 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:02:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Hamburg",
+       "value": 1862565
+      },
+      {
+       "name": "Schleswig-Holstein",
+       "value": 2959517
+      },
+      {
+       "name": "Berlin",
+       "value": 3685265
+      },
+      {
+       "name": "Sachsen",
+       "value": 4042422
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-dd238b216b1012",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die größte Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Nordrhein-Westfalen",
+   "Niedersachsen",
+   "Baden-Württemberg",
+   "Bayern"
+  ],
+  "correct": 3,
+  "explanation": "Bayern · 70.542 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:09:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BY",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Bayern",
+       "value": 70541.58
+      },
+      {
+       "name": "Niedersachsen",
+       "value": 47709.83
+      },
+      {
+       "name": "Baden-Württemberg",
+       "value": 35747.82
+      },
+      {
+       "name": "Nordrhein-Westfalen",
+       "value": 34112.34
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-a05e0ca56bd7b7",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die kleinste Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Saarland",
+   "Berlin",
+   "Schleswig-Holstein",
+   "Bremen"
+  ],
+  "correct": 3,
+  "explanation": "Bremen · 420 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:04:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HB",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Bremen",
+       "value": 419.94
+      },
+      {
+       "name": "Berlin",
+       "value": 891.12
+      },
+      {
+       "name": "Saarland",
+       "value": 2572.01
+      },
+      {
+       "name": "Schleswig-Holstein",
+       "value": 15804.31
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-9d416e5a90ead9",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die größte Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Niedersachsen",
+   "Brandenburg",
+   "Mecklenburg-Vorpommern",
+   "Hessen"
+  ],
+  "correct": 0,
+  "explanation": "Niedersachsen · 47.710 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:03:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NI",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Niedersachsen",
+       "value": 47709.83
+      },
+      {
+       "name": "Brandenburg",
+       "value": 29654.42
+      },
+      {
+       "name": "Mecklenburg-Vorpommern",
+       "value": 23294.9
+      },
+      {
+       "name": "Hessen",
+       "value": 21115.7
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-eebca2e32f4050",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die kleinste Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Saarland",
+   "Hamburg",
+   "Thüringen",
+   "Schleswig-Holstein"
+  ],
+  "correct": 1,
+  "explanation": "Hamburg · 755 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:02:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Hamburg",
+       "value": 755.09
+      },
+      {
+       "name": "Saarland",
+       "value": 2572.01
+      },
+      {
+       "name": "Schleswig-Holstein",
+       "value": 15804.31
+      },
+      {
+       "name": "Thüringen",
+       "value": 16202.28
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-889e34f9e5ebe2",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die größte Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Hessen",
+   "Sachsen-Anhalt",
+   "Baden-Württemberg",
+   "Rheinland-Pfalz"
+  ],
+  "correct": 2,
+  "explanation": "Baden-Württemberg · 35.748 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:08:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Baden-Württemberg",
+       "value": 35747.82
+      },
+      {
+       "name": "Hessen",
+       "value": 21115.7
+      },
+      {
+       "name": "Sachsen-Anhalt",
+       "value": 20554.84
+      },
+      {
+       "name": "Rheinland-Pfalz",
+       "value": 19857.87
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-145d4b656306a9",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die kleinste Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Berlin",
+   "Rheinland-Pfalz",
+   "Thüringen",
+   "Sachsen"
+  ],
+  "correct": 0,
+  "explanation": "Berlin · 891 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:11:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Berlin",
+       "value": 891.12
+      },
+      {
+       "name": "Thüringen",
+       "value": 16202.28
+      },
+      {
+       "name": "Sachsen",
+       "value": 18449.85
+      },
+      {
+       "name": "Rheinland-Pfalz",
+       "value": 19857.87
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-cf84baeb8b2ae1",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die größte Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Hessen",
+   "Nordrhein-Westfalen",
+   "Sachsen-Anhalt",
+   "Mecklenburg-Vorpommern"
+  ],
+  "correct": 1,
+  "explanation": "Nordrhein-Westfalen · 34.112 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Nordrhein-Westfalen",
+       "value": 34112.34
+      },
+      {
+       "name": "Mecklenburg-Vorpommern",
+       "value": 23294.9
+      },
+      {
+       "name": "Hessen",
+       "value": 21115.7
+      },
+      {
+       "name": "Sachsen-Anhalt",
+       "value": 20554.84
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-5b2a6a7f626a3f",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welches dieser Bundesländer hat die kleinste Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Thüringen",
+   "Sachsen",
+   "Rheinland-Pfalz",
+   "Saarland"
+  ],
+  "correct": 3,
+  "explanation": "Saarland · 2.572 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:10:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SL",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Saarland",
+       "value": 2572.01
+      },
+      {
+       "name": "Thüringen",
+       "value": 16202.28
+      },
+      {
+       "name": "Sachsen",
+       "value": 18449.85
+      },
+      {
+       "name": "Rheinland-Pfalz",
+       "value": 19857.87
+      }
+     ]
+    }
+   }
+  }
+ },
+ {
+  "id": "de1-d11d4d7ae4395c",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die meisten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Köln",
+   "Hamburg",
+   "Berlin",
+   "München"
+  ],
+  "correct": 2,
+  "explanation": "Berlin · 3.685.265 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:11000000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Berlin",
+       "value": 3685265
+      },
+      {
+       "name": "Hamburg",
+       "value": 1862565
+      },
+      {
+       "name": "München",
+       "value": 1505005
+      },
+      {
+       "name": "Köln",
+       "value": 1024621
+      }
+     ]
+    },
+    "city": "11000000"
+   }
+  }
+ },
+ {
+  "id": "de1-bae34a5afa455f",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die wenigsten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Dessau-Roßlau",
+   "Gera",
+   "Cottbus",
+   "Ludwigsburg"
+  ],
+  "correct": 0,
+  "explanation": "Dessau-Roßlau · 75.402 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:15001000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "ST",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Dessau-Roßlau",
+       "value": 75402
+      },
+      {
+       "name": "Ludwigsburg",
+       "value": 92858
+      },
+      {
+       "name": "Cottbus",
+       "value": 95123
+      },
+      {
+       "name": "Gera",
+       "value": 95608
+      }
+     ]
+    },
+    "city": "15001000"
+   }
+  }
+ },
+ {
+  "id": "de1-eabacc9b36c735",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die meisten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Stuttgart",
+   "Frankfurt am Main",
+   "Düsseldorf",
+   "Hamburg"
+  ],
+  "correct": 3,
+  "explanation": "Hamburg · 1.862.565 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:02000000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Hamburg",
+       "value": 1862565
+      },
+      {
+       "name": "Frankfurt am Main",
+       "value": 756021
+      },
+      {
+       "name": "Düsseldorf",
+       "value": 618685
+      },
+      {
+       "name": "Stuttgart",
+       "value": 612663
+      }
+     ]
+    },
+    "city": "02000000"
+   }
+  }
+ },
+ {
+  "id": "de1-82f32f67103ef9",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die wenigsten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Gera",
+   "Wilhelmshaven",
+   "Ludwigsburg",
+   "Cottbus"
+  ],
+  "correct": 1,
+  "explanation": "Wilhelmshaven · 75.745 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:03405000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NI",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Wilhelmshaven",
+       "value": 75745
+      },
+      {
+       "name": "Ludwigsburg",
+       "value": 92858
+      },
+      {
+       "name": "Cottbus",
+       "value": 95123
+      },
+      {
+       "name": "Gera",
+       "value": 95608
+      }
+     ]
+    },
+    "city": "03405000"
+   }
+  }
+ },
+ {
+  "id": "de1-70400d16182fb9",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die meisten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Stuttgart",
+   "Düsseldorf",
+   "Frankfurt am Main",
+   "München"
+  ],
+  "correct": 3,
+  "explanation": "München · 1.505.005 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:09162000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BY",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "max",
+     "values": [
+      {
+       "name": "München",
+       "value": 1505005
+      },
+      {
+       "name": "Frankfurt am Main",
+       "value": 756021
+      },
+      {
+       "name": "Düsseldorf",
+       "value": 618685
+      },
+      {
+       "name": "Stuttgart",
+       "value": 612663
+      }
+     ]
+    },
+    "city": "09162000"
+   }
+  }
+ },
+ {
+  "id": "de1-29587cea2de18b",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die wenigsten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Esslingen am Neckar",
+   "Hanau",
+   "Flensburg",
+   "Bamberg"
+  ],
+  "correct": 3,
+  "explanation": "Bamberg · 77.150 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:09461000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BY",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Bamberg",
+       "value": 77150
+      },
+      {
+       "name": "Esslingen am Neckar",
+       "value": 96182
+      },
+      {
+       "name": "Flensburg",
+       "value": 96326
+      },
+      {
+       "name": "Hanau",
+       "value": 97956
+      }
+     ]
+    },
+    "city": "09461000"
+   }
+  }
+ },
+ {
+  "id": "de1-7e424e2635b47c",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die meisten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Köln",
+   "Düsseldorf",
+   "Stuttgart",
+   "Frankfurt am Main"
+  ],
+  "correct": 0,
+  "explanation": "Köln · 1.024.621 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05315000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Köln",
+       "value": 1024621
+      },
+      {
+       "name": "Frankfurt am Main",
+       "value": 756021
+      },
+      {
+       "name": "Düsseldorf",
+       "value": 618685
+      },
+      {
+       "name": "Stuttgart",
+       "value": 612663
+      }
+     ]
+    },
+    "city": "05315000"
+   }
+  }
+ },
+ {
+  "id": "de1-83031eb6098263",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die wenigsten Einwohner (Stand 31.12.2024)?",
+  "options": [
+   "Kaiserslautern",
+   "Schwerin",
+   "Neumünster",
+   "Hildesheim"
+  ],
+  "correct": 2,
+  "explanation": "Neumünster · 79.809 am 31.12.2024. Grundlage: Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:01004000:population",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "Einwohnerzahl der amtlichen Bevölkerungsfortschreibung auf Basis des Zensus 2022",
+     "metric": "population",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Neumünster",
+       "value": 79809
+      },
+      {
+       "name": "Schwerin",
+       "value": 98308
+      },
+      {
+       "name": "Hildesheim",
+       "value": 98510
+      },
+      {
+       "name": "Kaiserslautern",
+       "value": 100426
+      }
+     ]
+    },
+    "city": "01004000"
+   }
+  }
+ },
+ {
+  "id": "de1-c8121c8711eb51",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die größte Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Berlin",
+   "Köln",
+   "Dresden",
+   "Schwedt/Oder"
+  ],
+  "correct": 0,
+  "explanation": "Berlin · 891 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:11000000:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Berlin",
+       "value": 891.12
+      },
+      {
+       "name": "Köln",
+       "value": 405.02
+      },
+      {
+       "name": "Schwedt/Oder",
+       "value": 360.74
+      },
+      {
+       "name": "Dresden",
+       "value": 328.48
+      }
+     ]
+    },
+    "city": "11000000"
+   }
+  }
+ },
+ {
+  "id": "de1-21a10524dc344c",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die kleinste Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Konstanz",
+   "Ludwigsburg",
+   "Dreieich",
+   "Merseburg"
+  ],
+  "correct": 1,
+  "explanation": "Ludwigsburg · 43 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:08118048:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Ludwigsburg",
+       "value": 43.34
+      },
+      {
+       "name": "Dreieich",
+       "value": 53.27
+      },
+      {
+       "name": "Merseburg",
+       "value": 53.87
+      },
+      {
+       "name": "Konstanz",
+       "value": 54.12
+      }
+     ]
+    },
+    "city": "08118048"
+   }
+  }
+ },
+ {
+  "id": "de1-da723dea767a49",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die größte Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Hamburg",
+   "München",
+   "Bremen",
+   "Dresden"
+  ],
+  "correct": 0,
+  "explanation": "Hamburg · 755 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:02000000:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HH",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Hamburg",
+       "value": 755.09
+      },
+      {
+       "name": "Dresden",
+       "value": 328.48
+      },
+      {
+       "name": "Bremen",
+       "value": 326.17
+      },
+      {
+       "name": "München",
+       "value": 310.7
+      }
+     ]
+    },
+    "city": "02000000"
+   }
+  }
+ },
+ {
+  "id": "de1-170830fa212dd7",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die kleinste Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Flensburg",
+   "Bad Kreuznach",
+   "Offenbach am Main",
+   "Hofheim am Taunus"
+  ],
+  "correct": 2,
+  "explanation": "Offenbach am Main · 45 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:06413000:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "HE",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Offenbach am Main",
+       "value": 44.88
+      },
+      {
+       "name": "Bad Kreuznach",
+       "value": 55.56
+      },
+      {
+       "name": "Flensburg",
+       "value": 56.73
+      },
+      {
+       "name": "Hofheim am Taunus",
+       "value": 57.43
+      }
+     ]
+    },
+    "city": "06413000"
+   }
+  }
+ },
+ {
+  "id": "de1-77822a8b7cd771",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die größte Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Münster",
+   "München",
+   "Bremen",
+   "Köln"
+  ],
+  "correct": 3,
+  "explanation": "Köln · 405 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05315000:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Köln",
+       "value": 405.02
+      },
+      {
+       "name": "Bremen",
+       "value": 326.17
+      },
+      {
+       "name": "München",
+       "value": 310.7
+      },
+      {
+       "name": "Münster",
+       "value": 303.28
+      }
+     ]
+    },
+    "city": "05315000"
+   }
+  }
+ },
+ {
+  "id": "de1-2ebddb8a0895cd",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die kleinste Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Bensheim",
+   "Esslingen am Neckar",
+   "Hof",
+   "Norderstedt"
+  ],
+  "correct": 1,
+  "explanation": "Esslingen am Neckar · 46 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:08116019:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "BW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Esslingen am Neckar",
+       "value": 46.43
+      },
+      {
+       "name": "Bensheim",
+       "value": 57.83
+      },
+      {
+       "name": "Hof",
+       "value": 58.02
+      },
+      {
+       "name": "Norderstedt",
+       "value": 58.1
+      }
+     ]
+    },
+    "city": "08116019"
+   }
+  }
+ },
+ {
+  "id": "de1-33f2deea43891f",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die größte Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Stendal",
+   "Dresden",
+   "Frankfurt am Main",
+   "Bielefeld"
+  ],
+  "correct": 1,
+  "explanation": "Dresden · 328 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:14612000:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "SN",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "max",
+     "values": [
+      {
+       "name": "Dresden",
+       "value": 328.48
+      },
+      {
+       "name": "Stendal",
+       "value": 269.24
+      },
+      {
+       "name": "Bielefeld",
+       "value": 258.83
+      },
+      {
+       "name": "Frankfurt am Main",
+       "value": 248.31
+      }
+     ]
+    },
+    "city": "14612000"
+   }
+  }
+ },
+ {
+  "id": "de1-1839a5c2851618",
+  "category": "germany",
+  "difficulty": 2,
+  "prompt": "Welche dieser Städte hat die kleinste Fläche (Stand 31.12.2024)?",
+  "options": [
+   "Fürth",
+   "Herne",
+   "Landshut",
+   "Rodgau"
+  ],
+  "correct": 1,
+  "explanation": "Herne · 51 km² am 31.12.2024. Grundlage: amtliche Katasterfläche des Verwaltungsgebiets.",
+  "media": null,
+  "enabled": true,
+  "provenance": {
+   "topic": "statistics",
+   "subjectKey": "de-stat:05916000:area",
+   "sources": [
+    "https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/_inhalt.html",
+    "https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-250-000-mit-einwohnerzahlen-stand-31-12-vg250-ew-31-12.html"
+   ],
+   "germany": {
+    "state": "NW",
+    "stat": {
+     "year": 2024,
+     "date": "31.12.2024",
+     "definition": "amtliche Katasterfläche des Verwaltungsgebiets",
+     "metric": "area",
+     "mode": "min",
+     "values": [
+      {
+       "name": "Herne",
+       "value": 51.42
+      },
+      {
+       "name": "Fürth",
+       "value": 63.35
+      },
+      {
+       "name": "Rodgau",
+       "value": 65.04
+      },
+      {
+       "name": "Landshut",
+       "value": 65.83
+      }
+     ]
+    },
+    "city": "05916000"
+   }
+  }
+ }
+]
