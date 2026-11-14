@@ -8,8 +8,22 @@
  display: block;
  width: 100%;
  max-width: 26rem;
- height: min(55svh, 28rem);
- min-height: 225px;
+ height: auto;
+ max-height: min(48svh, 24rem);
+}
+.question-image:has(.germany-map) {
+ display: block;
+ height: auto;
+ max-height: none;
+ padding: .6rem .7rem;
+ overflow: visible;
+}
+.question-image .germany-map .atlas-source {
+ position: static;
+ display: block;
+}
+.question-image.germany:not(:has(.germany-map)) img {
+ object-fit: contain;
 }
 .germany-map .atlas-source {
  margin: 0;
