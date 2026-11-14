@@ -15,3 +15,7 @@
 Die 180 Stadtzuordnungen verwenden BKG VG250-EW und die amtlichen Gemeindeschlüssel. Die 120 Kartenpunkte basieren auf GeoNames (CC BY 4.0) und wurden über AGS, Ortsnamen und einen Punkt-in-Polygon-Test mit den unvereinfachten Landesgrenzen verbunden. Koordinaten sind [Längengrad, Breitengrad] in WGS84.
 Abruf: BKG-Layer vg250-ew:vg250_gem als gemeinden.csv mit PROPERTYNAME=ags,gen,bez,ewz,kfl,ibz,ade,ars,gf,bsg,lkz. GeoNames: https://download.geonames.org/export/dump/DE.zip (DE.txt).
 Aus dem Projekt: node scripts/germany/prepare-cities.mjs <Quellordner>, danach node scripts/germany/cities.mjs.
+
+## Nachbarschaften, Natur und Kultur
+
+Die Fragen nutzen die Nachbarschaftsliste aus dem BKG-Rohdatensatz, BKG-Themenkarten zur Höhe, die Deutschlandkarte der bpb, das Nationalparkverzeichnis und Landschaftssteckbriefe des BfN sowie die Deutsche UNESCO-Kommission und die verlinkten Träger der Sehenswürdigkeiten. Belege stehen je Frage. Die drei bereits im Repository enthaltenen doppelverwendeten Fotos behalten ihre Commons-Attributionen und Lizenzen. Der Build bindet die Bilder lokal ein.
