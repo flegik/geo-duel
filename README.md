@@ -12,7 +12,7 @@ Geografiequiz im Browser mit Singleplayer und 1v1-Duellen. Kein Pflichtkonto, ke
 
 ## Spielen
 
-Singleplayer bietet 8/12/16 Fragen aus vier zufälligen Kategorien sowie Training aller sieben Kategorien. Der lokale Fortschritt, Antworten und Statistiken bleiben beim Neuladen erhalten. Schwierigkeit: 1/2/3 Punkte.
+Singleplayer bietet 8/12/16 Fragen aus vier zufälligen Kategorien sowie Training aller acht Kategorien. Der lokale Fortschritt, Antworten und Statistiken bleiben beim Neuladen erhalten. Schwierigkeit: 1/2/3 Punkte. [Deutschland](docs/2026-11-14-deutschland.md) ergänzt 970 Fragen sowie einen Bundesländerbereich im Weltatlas.
 
 Für Duelle wählen beide einen Gastnamen. Einer erstellt einen Raum, der andere tritt mit dem vierstelligen Code oder Einladungslink bei. Beide werden bereit; der Host startet. Beide beantworten dieselben Fragen im eigenen Tempo. Gegnerpunkte erscheinen erst am Ende. Bilanz und Ergebnisse werden serverseitig gespeichert.
 

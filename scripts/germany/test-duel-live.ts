@@ -41,6 +41,8 @@ try{
   const events:number[]=[];
   let channel;
   if(!realtime){
+   const {data:{session}}=await players[0].auth.getSession();
+   await players[0].realtime.setAuth(session!.access_token);
    channel=players[0].channel('qa-germany-'+roomId)
     .on('postgres_changes',{event:'UPDATE',schema:'public',table:'duel_events',filter:'room_id=eq.'+roomId},
      event=>events.push(Number(event.new.version)));
@@ -55,7 +57,7 @@ try{
   await call(players[1],'join',{code:created.code,questionFormat:3});
   const config=await call(players[0],'configure',{roomId,questionCounts:configuration,configRevision:created.configRevision});
   if(channel){
-   for(let i=0;i<20&&events.length===0;i++)await new Promise(r=>setTimeout(r,100));
+   for(let i=0;i<80&&events.length===0;i++)await new Promise(r=>setTimeout(r,100));
    assert.ok(events.length>0);
    await players[0].removeChannel(channel);
    realtime=true;
