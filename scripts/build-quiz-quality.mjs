@@ -26,7 +26,7 @@ function estimate(question,target,subject,explanation){
  const values=[approximate/4,approximate/2,approximate,approximate*2].map(Math.round);
  assert.equal(values.reduce((best,v)=>Math.abs(v-target)<Math.abs(best-target)?v:best),approximate);
  return {...question,prompt:'Wie viele Einwohner hat '+subject+' ungefähr?',
-  options:values.map(v=>'Ca. '+amount(v)),correct:2,explanation:amount(approximate)+' ist die nächste Größenordnung. '+explanation};
+  options:values.map(v=>'Ca. '+amount(v)),correct:2,explanation:'Ca. '+amount(approximate)+' liegt am nächsten. '+explanation};
 }
 
 const german= ['foundation','city','geography','other'].flatMap(name=>read('germany/'+name+'-questions'));
@@ -112,6 +112,10 @@ for(const {code,name} of states){
 // cities are already covered in the dedicated pool with municipality data.
 const lessFamiliarCities=new Set(['Genf','Medellín','Bandung','Guangzhou','Addis Abeba','Dakar','Dhaka','Bengaluru','Riad','Chennai','Shenzhen','Kolkata']);
 const lessFamiliarCountries=new Set(['Papua-Neuguinea','Fidschi','Samoa','Tansania','Ghana','Senegal']);
+const countryArticle=new Map([
+ ['Vereinigtes Königreich','dem'],['Iran','dem'],['Schweiz','der'],['Türkei','der'],['Demokratische Republik Kongo','der'],
+ ['Dominikanische Republik','der'],['Vereinigte Staaten','den'],['Niederlande','den'],['Philippinen','den'],
+]);
 const globalSubjects=new Set();
 for(const q of read('question-pool/population')){
  const p=q.provenance.population;
@@ -125,8 +129,12 @@ for(const q of read('question-pool/population')){
  const label=city?record.name+' im zusammenhängenden Stadtgebiet':record.name;
  const {ranges,threshold,...source}=p;
  const provenance={...q.provenance,population:{...source,variant:'estimate',values:[record]}};
- replace(q,estimate(revise(q,{difficulty:2,provenance}),record.population,label,
-  record.name+': '+amount(record.population)+' ('+definition+', 2025).'));
+ const next=estimate(revise(q,{difficulty:2,provenance}),record.population,label,
+  record.name+': '+amount(record.population)+' ('+definition+', 2025).');
+ const article=countryArticle.get(record.name);
+ const inflected={'Vereinigtes Königreich':'Vereinigten Königreich','Vereinigte Staaten':'Vereinigten Staaten'};
+ if(!city&&article)next.prompt='Wie viele Menschen leben ungefähr in '+article+' '+(inflected[record.name]??record.name)+'?';
+ replace(q,next);
  globalSubjects.add(q.provenance.subjectKey);
 }
 
