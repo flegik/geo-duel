@@ -12,7 +12,7 @@ export const categories = {
  borders:{name:'Nachbarländer',description:'Was liegt gleich nebenan?',icon:'Signpost'},
  landmarks:{name:'Sehenswürdigkeiten',description:'Die besonderen Orte unserer Erde',icon:'Landmark'},
  world:{name:'Weltwissen',description:'Kleine Fragen, große Welt',icon:'Globe2'},
- germany:{name:'Deutschland',description:'Bundesländer, Städte, Natur und Kultur',icon:'MapPinned'},
+ germany:{name:'Deutschland',description:'Bundesländer, Städte und Grenzen',icon:'MapPinned'},
 } as const;
 export type Category=keyof typeof categories;
 export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:QuestionResolution&{subjectKey?:string;iso?:string;challenge?:number;confusions?:string[];topic?:string;population?:{[key:string]:unknown}};enabled:boolean};

@@ -1,7 +1,7 @@
 import {QuestionMedia,QuestionImageCredit} from './QuestionMedia';
 import {useState} from 'react';
 import {AnswerDiscovery} from './AnswerDiscovery';
-import {AnswerOption,answerLetter,hasFlagOptions} from './AnswerOption';
+import {AnswerOption,answerLetter,hasFlagOptions,hasMapMarkers} from './AnswerOption';
 import type {Question} from './engine';
 
 export function SoloReviewOptions({question,selected}:{question:Question;selected?:number}){
@@ -16,7 +16,7 @@ export function SoloReviewOptions({question,selected}:{question:Question;selecte
   <div className={hasFlagOptions(question.media)?'answers flag-options':'answers'}>
    {question.options.map((option,index)=><button key={index} type="button"
      className={`answer ${index===question.correct?'correct':index===selected?'incorrect':''}`}
-     aria-label={`Entdecken: ${option}${index===question.correct?', richtige Lösung':''}`}
+     aria-label={`Entdecken: ${hasMapMarkers(question.media)?answerLetter(index)+', ':''}${option}${index===question.correct?', richtige Lösung':''}${index===selected?', deine Antwort':''}`}
      aria-pressed={preview===index} onClick={()=>setPreview(preview===index?null:index)}>
      <span className="letter" aria-hidden="true">{answerLetter(index)}</span>
      <AnswerOption option={option} media={question.media} revealed/>

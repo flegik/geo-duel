@@ -10,6 +10,10 @@ import landmarks from '../data/question-pool/landmarks.json';
 import comparisons from '../data/question-pool/world-comparisons.json';
 import world from '../data/question-pool/world.json';
 import type {Question} from './engine';
-export const expandedQuestions=[...capitals,...silhouettes,...maps,...cityMaps,...borders,...landmarks,...landmarkCities,...world,...population,...comparisons] as Question[];
+import {excludeRetiredQuestions,reviewedQuestions} from './quizQuality';
+export const expandedQuestions=[
+ ...excludeRetiredQuestions([...capitals,...silhouettes,...maps,...cityMaps,...borders,...landmarks,...landmarkCities,...world,...population,...comparisons] as Question[]),
+ ...reviewedQuestions.filter(q=>q.category==='world'),
+];
 export const retiredQuestions=retired as Question[];
 export const expandedSubjects=new Map([...expandedQuestions,...retiredQuestions].map(q=>[q.id,q.provenance.subjectKey!]));

@@ -67,3 +67,13 @@
  font-size:12px;
 }
 .city-map-location span {width:8px;height:8px;border-radius:50%}
+.answers.marker-options {
+ display:grid;
+ grid-template-columns:repeat(4,minmax(0,1fr));
+}
+.answers.marker-options .answer {
+ justify-content:center;
+ min-width:0;
+ min-height:48px;
+ padding:8px;
+}

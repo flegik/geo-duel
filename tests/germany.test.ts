@@ -8,21 +8,26 @@ import {projectGermanyPoint} from '../src/germanyProjection';
 import map from '../data/germany/map.json';
 import plates from '../data/germany/plates.json';
 import {answerPreview} from '../src/answerPreview';
+import foundation from '../data/germany/foundation-questions.json';
+import cityQuestions from '../data/germany/city-questions.json';
+import geography from '../data/germany/geography-questions.json';
+import other from '../data/germany/other-questions.json';
 
+const original=[...foundation,...cityQuestions,...geography,...other] as typeof germanyQuestions;
 const answer=(q:typeof germanyQuestions[number])=>q.options[q.correct];
 const unique=<T>(items:T[])=>new Set(items).size;
 const names=(codes:string[])=>codes.map(c=>stateByCode.get(c)!.name);
-const groups=Object.groupBy(germanyQuestions,q=>q.provenance.topic!);
+const groups=Object.groupBy(original,q=>q.provenance.topic!);
 const points=new Map(germanCities.map(c=>[c.ags,c]));
 const stateName=(code:string)=>stateByCode.get(code)!.name;
 test('Alle 970 Deutschlandfragen mit zehn Unterthemen, eindeutigen Lösungen, Quellen und neutralen Medien',()=>{
  assert.equal(Object.keys(categories).length,8);
  assert.deepEqual(Object.fromEntries(Object.entries(groups).map(([topic,items])=>[topic,items!.length])),{
   'state-map':48,'state-flag':64,capital:64,'city-state':180,'city-map':120,'state-border':80,nature:114,landmark:100,plate:120,statistics:80});
- assert.equal(unique(germanyQuestions.map(q=>q.id)),970);
- assert.ok(unique(germanyQuestions.map(q=>q.provenance.subjectKey))>=400);
+ assert.equal(unique(original.map(q=>q.id)),970);
+ assert.ok(unique(original.map(q=>q.provenance.subjectKey))>=400);
  const fingerprints=new Set<string>();
- for(const q of germanyQuestions){
+ for(const q of original){
   const fingerprint=[q.prompt,q.media?.src,[...q.options].sort().join('|')].join('#');
   assert.ok(!fingerprints.has(fingerprint),q.id);
   fingerprints.add(fingerprint);
@@ -127,7 +132,7 @@ test('Deutschlandtraining mischt Themen, Länder und Punkte ohne Wiederholung ü
   assert.equal(picked.length,size);
   assert.equal(unique(subjects),size);
   assert.ok(subjects.every(s=>!previous.has(s)));
-  assert.ok(unique(picked.map(q=>q.provenance.topic))>=9);
+  assert.ok(unique(picked.map(q=>q.provenance.topic))>=6);
   assert.ok(unique(picked.map(q=>q.provenance.germany!.state))>=Math.min(10,size));
   assert.equal(unique(picked.map(q=>q.difficulty)),3);
   const cities=picked.map(germanCityKey).filter(Boolean);

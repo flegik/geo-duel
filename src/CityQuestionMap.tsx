@@ -1,19 +1,18 @@
 import atlas from '../data/atlas/geography.json';
 import anchors from '../data/learning/map-country-anchors.json';
-import registry from '../data/flags/registry.json';
 import {cityMapViewport,projectWorldPoint} from './mapViewport';
+import {mapMarkerCountry} from './cityMapOptions';
 import type {CityLocation} from './QuestionMedia';
 
-const codes=new Map(registry.map(country=>[country.name,country.iso]));
 const points:Record<string,number[]>=anchors;
 
 export function CityQuestionMap({options,location,correct,selected,onSelect,disabled}:{
  options:string[];location?:CityLocation;correct?:number;selected?:number;
  onSelect?:(index:number)=>void;disabled?:boolean;
 }){
- const markers=options.map((name,index)=>{
-  const iso=codes.get(name);
-  return iso&&points[iso]?{iso,name,index,point:projectWorldPoint(points[iso])}:null;
+ const markers=options.map((option,index)=>{
+  const iso=mapMarkerCountry(option);
+  return iso&&points[iso]?{iso,option,index,point:projectWorldPoint(points[iso])}:null;
  }).filter(marker=>marker!==null);
  if(markers.length!==4)return null;
  const revealed=correct!==undefined;
@@ -30,12 +29,12 @@ export function CityQuestionMap({options,location,correct,selected,onSelect,disa
       fillOpacity={feature.iso===correctIso?'.7':'1'}
       fillRule="evenodd" stroke="#102638" strokeWidth=".6" vectorEffect="non-scaling-stroke"/>)}
    </g>)}
-   {markers.map(({point,index,name})=>{
+   {markers.map(({point,index,option})=>{
     const [x,y]=view.toViewport(point);
     const tone=index===correct?'correct':revealed&&index===selected?'incorrect':'';
     const choose=onSelect&&!disabled?()=>onSelect(index):undefined;
-    return <g key={name} transform={`translate(${x} ${y})`} className={`city-country-pin ${tone}`}
-      role={choose?'button':undefined} tabIndex={choose?0:undefined} aria-label={choose?`Karte ${'ABCD'[index]}: ${name}`:undefined}
+    return <g key={index} transform={`translate(${x} ${y})`} className={`city-country-pin ${tone}`}
+      role={choose?'button':undefined} tabIndex={choose?0:undefined} aria-label={choose?`Marker ${'ABCD'[index]}${revealed?', '+option:''}`:undefined}
       aria-hidden={choose?undefined:true} onClick={choose} onKeyDown={event=>{
        if(choose&&(event.key==='Enter'||event.key===' ')){event.preventDefault();choose();}
       }}>

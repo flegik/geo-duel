@@ -5,8 +5,12 @@ import other from '../data/germany/other-questions.json';
 import states from '../data/germany/states.json';
 import towns from '../data/germany/cities.json';
 import type {Question} from './engine';
+import {excludeRetiredQuestions,reviewedQuestions} from './quizQuality';
 
-export const germanyQuestions=[...foundation,...cities,...geography,...other] as Question[];
+export const germanyQuestions=[
+ ...excludeRetiredQuestions([...foundation,...cities,...geography,...other] as Question[]),
+ ...reviewedQuestions.filter(q=>q.category==='germany'),
+];
 export const germanStates=states;
 export const germanCities=towns;
 export const stateByName=new Map(states.map(state=>[state.name,state]));

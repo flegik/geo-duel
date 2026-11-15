@@ -9,6 +9,8 @@ import atlas from '../data/atlas/geography.json';
 import {cityMapViewport,pathPoints,projectWorldPoint} from '../src/mapViewport';
 import registry from '../data/flags/registry.json';
 import {countryContinent} from '../src/selection';
+import {cityMapPrompt,mapMarkerCountry} from '../src/cityMapOptions';
+import {createHash} from 'node:crypto';
 
 const countries=new Map(registry.map(country=>[country.name,country.iso]));
 
@@ -38,12 +40,24 @@ test('The map offers four equivalent controls before answering and reveals exact
  const initial=renderToStaticMarkup(createElement(CityQuestionMap,{options:q.options,onSelect:()=>{}}));
  assert.equal((initial.match(/class="city-country-pin /g)??[]).length,4);
  assert.equal((initial.match(/role="button"/g)??[]).length,4);
+ for(const option of q.options)assert.ok(!initial.includes(option));
+ for(const letter of 'ABCD')assert.ok(initial.includes(`aria-label="Marker ${letter}"`));
  assert.doesNotMatch(initial,/city-location-pin|Lage von Osaka|city-country-pin correct/);
  const location={...q.provenance.cityLocation,point:q.provenance.cityLocation.point as [number,number]};
- const after=renderToStaticMarkup(createElement(CityQuestionMap,{options:q.options,location,correct:q.correct}));
+ const after=renderToStaticMarkup(createElement(CityQuestionMap,{options:q.options,location,correct:q.correct,onSelect:()=>{}}));
  assert.equal((after.match(/city-location-pin/g)??[]).length,1);
  assert.match(after,/Lage von Osaka/);
  assert.match(after,/city-country-pin correct/);
+ for(const option of q.options)assert.ok(after.includes(option));
+});
+
+test('All city map IDs support format 4 marker references and keep their option order',()=>{
+ for(const q of questions){
+  const tokens=q.options.map(name=>'marker:'+createHash('md5').update(name).digest('hex'));
+  assert.deepEqual(tokens.map(mapMarkerCountry),q.options.map(mapMarkerCountry));
+  assert.equal(mapMarkerCountry(tokens[q.correct]),q.provenance.iso);
+  assert.match(cityMapPrompt(q.prompt),/^Welcher Marker zeigt das Land, in dem .+ liegt\?$/);
+ }
 });
 
 test('all stored anchors are geographic points inside their rendered country',()=>{

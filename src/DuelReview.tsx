@@ -1,6 +1,7 @@
 import {useState} from 'react';
 import {Check, ChevronDown, Minus, X} from 'lucide-react';
-import {AnswerOption,hasFlagOptions} from './AnswerOption';
+import {AnswerOption,hasFlagOptions,hasMapMarkers,answerLetter} from './AnswerOption';
+import {cityMapPrompt} from './cityMapOptions';
 import {AnswerDiscovery} from './AnswerDiscovery';
 import {QuestionMedia,QuestionImageCredit} from './QuestionMedia';
 import {categories} from './engine';
@@ -46,7 +47,7 @@ function ReviewCard({question, players, ownId}:{
       <summary>
         <span className="duel-review-meta">Frage {question.position + 1} · {categories[question.category].name}</span>
         <ChevronDown className="duel-review-chevron" size={19} aria-hidden="true"/>
-        <span className="duel-review-prompt">{question.prompt}</span>
+        <span className="duel-review-prompt">{hasMapMarkers(question.media)?cityMapPrompt(question.prompt):question.prompt}</span>
         <span className="duel-review-players">
           {choices.map(choice => <PlayerStatus key={choice.id} {...choice} correct={question.correct}/>)}
         </span>
@@ -62,7 +63,7 @@ function ReviewCard({question, players, ownId}:{
             return (
               <button key={index} type="button" className={`answer duel-review-option ${correct ? 'correct' : ''}`}
                 aria-pressed={preview === index} onClick={() => setPreview(preview === index ? null : index)}>
-                <span className="letter" aria-hidden="true">{'ABCD'[index]}</span>
+                <span className="letter" aria-hidden={!hasMapMarkers(question.media)}>{answerLetter(index)}</span>
                 <span className="duel-review-option-text">
                   <AnswerOption option={option} media={question.media} revealed/>
                   {(correct || selectedBy.length > 0) && <span className="duel-review-tags">

@@ -7,8 +7,10 @@ const countries=new Map(registry.map(country=>[country.name,country]));
 const flagPaths=new Set(registry.map(country=>country.svg));
 export const answerLetter=(index:number)=>'ABCD'[index];
 export const hasFlagOptions=(media?:QuestionMediaData|null)=>media?.type==='flag-options';
+export const hasMapMarkers=(media?:QuestionMediaData|null)=>media?.type==='city-map';
 
 export function AnswerOption({option,media,revealed=false}:{option:string;media?:QuestionMediaData|null;revealed?:boolean}){
+ if(hasMapMarkers(media)&&!revealed)return null;
  const image=hasFlagOptions(media)?(media?.src==='choice:de-flags'?
   stateByName.get(option)?.flag??(germanFlagPaths.has(option)?option:undefined):
   countries.get(option)?.svg??(flagPaths.has(option)?option:undefined)):undefined;
