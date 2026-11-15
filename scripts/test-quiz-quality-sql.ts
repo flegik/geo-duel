@@ -30,9 +30,11 @@ const oldRoom=await start({germany:12},[3,3]);
 const saved=await query('select q.id,q.correct,q.difficulty,q.options,m.option_order from game.match_questions m join game.questions q on q.id=m.question_id where m.room_id=$1 order by position',[oldRoom.id]);
 await db.exec(migration('_city_map_answer_formats'));
 await db.exec(migration('_quiz_quality'));
+await db.exec(migration('_retire_specialist_city_maps'));
 assert.deepEqual(await query('select q.id,q.correct,q.difficulty,q.options,m.option_order from game.match_questions m join game.questions q on q.id=m.question_id where m.room_id=$1 order by position',[oldRoom.id]),saved);
 const enabled=await query("select id from game.questions where category='germany' and enabled order by id");
 assert.deepEqual(enabled.map(row=>row.id),germanyQuestions.filter(q=>q.enabled).map(q=>q.id).sort());
+assert.equal((await query("select count(*)::int as n from game.questions where enabled and media->>'type'='city-map'"))[0].n,175);
 await rpc(host,'leave',{roomId:oldRoom.id});
 
 const germany=await start({germany:12},[4,3]);
@@ -65,7 +67,14 @@ for(let position=0;position<4;position++){
 }
 assert.equal(right.status,'completed');
 const reviews=[await rpc(host,'review',{roomId:id}),await rpc(guest,'review',{roomId:id})];
-assert.deepEqual(reviews[0],reviews[1]);
+for(const [index,review] of reviews.entries()){
+ for(const row of review){
+  assert.equal(row.selected,(row.correct+index)%4);
+  assert.equal(row.points,index===0?row.answers.find((a:{profileId:string})=>a.profileId===host).points:0);
+ }
+}
+const sharedReview=(review:Record<string,unknown>[])=>review.map(({selected,points,...shared})=>shared);
+assert.deepEqual(sharedReview(reviews[0]),sharedReview(reviews[1]));
 assert.ok(reviews[0].every((row:{answers:unknown[];options:string[]})=>
  row.answers.length===2&&row.options.every(v=>!v.startsWith('marker:'))));
 const mixed=await start({maps:4},[4,3]);

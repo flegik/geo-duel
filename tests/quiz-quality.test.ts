@@ -11,6 +11,14 @@ const active=questions.filter(q=>q.enabled);
 const germany=active.filter(q=>q.category==='germany');
 const byId=new Map(questions.map(q=>[q.id,q]));
 const answer=(q:typeof questions[number])=>q.options[q.correct];
+test('City map training keeps familiar examples and retires ambiguous and specialist entries',()=>{
+ const maps=questions.filter(q=>q.media?.type==='city-map');
+ assert.equal(maps.length,201);
+ assert.equal(maps.filter(q=>q.enabled).length,175);
+ const byCity=new Map(maps.map(q=>[q.provenance.cityLocation?.name,q.enabled]));
+ for(const name of ['Seoul','Barcelona','Wien','Sydney','Rio de Janeiro'])assert.equal(byCity.get(name),true);
+ for(const name of ['Holguín','San José','Córdoba','Cuenca (Ecuador)','Lae'])assert.equal(byCity.get(name),false);
+});
 const parseEstimate=(s:string)=>{
  const number=Number(s.replace('Ca. ','').replace(/[^\d,.]/g,'').replaceAll('.','').replace(',','.'));
  return Math.round(number*(s.includes('Mrd')?1e9:s.includes('Mio')?1e6:1));
