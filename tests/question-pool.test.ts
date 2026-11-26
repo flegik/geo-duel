@@ -4,7 +4,7 @@ import {expandedQuestions} from '../src/questionPool';import {answerRound,create
 const codes=Object.keys(facts) as (keyof typeof facts)[];const byName=new Map(registry.map(c=>[c.name,c.iso]));
 test('Expanded data: exact targets, opaque IDs, four choices, sources, historical rows retained',()=>{
  const expected={capitals:292,silhouettes:195,maps:396,borders:294,landmarks:162,world:334};
- const original=expandedQuestions.filter(q=>!q.id.startsWith('quiz-v2-'));
+ const original=expandedQuestions.filter(q=>!q.id.startsWith('quiz-v2-')&&!q.id.startsWith('world-territory-v1-'));
  assert.equal(original.length,1673);assert.equal(new Set(expandedQuestions.map(q=>q.id)).size,expandedQuestions.length);
  for(const [cat,count] of Object.entries(expected))assert.equal(original.filter(q=>q.category===cat).length,count);
  for(const q of original){assert.match(q.id,/^(geo-v3-[a-z]+-[a-f0-9]{16}|(?:population-v1|capital-cities-v1|city-map-v1|landmark-city-v1|world-compare-v1)-[a-f0-9]{20})$/);assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);assert.ok(Number.isInteger(q.correct)&&q.correct>=0&&q.correct<=3);assert.ok(q.provenance.subjectKey);assert.ok(q.explanation.length>30);assert.ok(q.provenance.sources.every(s=>s.startsWith('https://')));}

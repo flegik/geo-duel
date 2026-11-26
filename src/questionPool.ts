@@ -1,3 +1,4 @@
+import {retiredTerritoryQuestions,territoryWorldQuestions} from './territoryFlags';
 import population from '../data/question-pool/population.json';
 import retired from '../data/question-pool/retired.json';
 import capitals from '../data/question-pool/capitals.json';
@@ -14,6 +15,7 @@ import {excludeRetiredQuestions,reviewedQuestions} from './quizQuality';
 export const expandedQuestions=[
  ...excludeRetiredQuestions([...capitals,...silhouettes,...maps,...cityMaps,...borders,...landmarks,...landmarkCities,...world,...population,...comparisons] as Question[]),
  ...reviewedQuestions.filter(q=>q.category==='world'),
+ ...territoryWorldQuestions,
 ];
-export const retiredQuestions=retired as Question[];
+export const retiredQuestions=[...retired as Question[],...retiredTerritoryQuestions];
 export const expandedSubjects=new Map([...expandedQuestions,...retiredQuestions].map(q=>[q.id,q.provenance.subjectKey!]));

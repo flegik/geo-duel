@@ -19,7 +19,7 @@ export function answerPreview(category:Category,option:string,resolution?:Questi
   const city=germanCities.find(c=>c.name===option);
   if(city)return {title:option,text:`${option} liegt in ${stateByCode.get(city.state)?.name}.`,dePoint:city.point};
  }
- if(category==='flags'){
+ if(category==='flags'||(category==='world'&&resolution?.territoryId)){
   const territory=territoryByName.get(option);
   if(territory)return {title:option,text:`${territory.description} Region: ${territory.region}.`,src:territory.svg,license:territory.license};
   const subject=resolution?.territoryId?territoryById.get(resolution.territoryId):undefined;

@@ -1,9 +1,9 @@
 import {appendFileSync} from 'node:fs';
-import {flagImagePath,territoryFlagQuestions} from '../src/territoryFlags';
+import {flagImagePath,territoryFlagQuestions,retiredTerritoryQuestions} from '../src/territoryFlags';
 
 const file=process.argv[2];
 if(!file)throw Error('Pass the destination migration file');
-const data=territoryFlagQuestions.map(question=>{
+const data=[...territoryFlagQuestions,...retiredTerritoryQuestions].map(question=>{
  if(question.media?.type!=='flag-options')return question;
  const optionImages=question.options.map(flagImagePath);
  if(optionImages.some(path=>!path))throw Error(`Missing image for ${question.id}`);

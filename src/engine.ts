@@ -1,5 +1,5 @@
 import type {QuestionResolution} from './QuestionMedia';
-import {africaSlots,pickBalanced,selectionPolicy} from './selection';
+import {africaSlots,pickBalanced,selectionPolicy,territoryWorldSlot,worldTopic} from './selection';
 import raw from '../data/questions.json';
 import {expandedQuestions,retiredQuestions} from './questionPool';
 import {territoryFlagQuestions} from './territoryFlags';
@@ -47,18 +47,27 @@ export function createRound(state:SoloState,count:8|12|16|24,category?:Category,
   const balanced=regional||!category&&cat!=='flags';
   if(!balanced)pool.sort((a,b)=>age(a)-age(b));
   const chosenSubjects=new Set<string>();
+  const territoryPhase=cat==='world'?random():0;
+  const territoryTypes=new Set<QuestionResolution['territoryQuestionType']>();
   for(let i=0;i<per;i++){
-   const available=pool.filter(q=>!chosenSubjects.has(questionSubject(q)));
+   const territorySlot=cat==='world'&&territoryWorldSlot(i,territoryPhase);
+   const available=pool.filter(q=>!chosenSubjects.has(questionSubject(q))
+    &&(cat!=='world'||(worldTopic(q)==='territories')===territorySlot)
+    &&(!territorySlot||!territoryTypes.has(q.provenance.territoryQuestionType)));
    const target=[1,2,3,2][i%4];
    let q:Question|undefined;
-   if(balanced)q=pickBalanced(available,target,seen,random,regional?.[i],recentCountries);
+   if(balanced&&!territorySlot)q=pickBalanced(available,target,seen,random,regional?.[i],recentCountries);
    else{
     // The native flag and world-training paths still exhaust unseen subjects first.
     const oldest=available.length?age(available[0]):-1;
     const eligible=available.filter(q=>age(q)===oldest);
     q=eligible.find(q=>q.difficulty===target)??eligible[0];
    }
-   if(q){selected.push(q);chosenSubjects.add(questionSubject(q));}
+   if(q){
+    selected.push(q);
+    chosenSubjects.add(questionSubject(q));
+    if(territorySlot)territoryTypes.add(q.provenance.territoryQuestionType);
+   }
   }
  }
  const prepared=(category==='germany'?selected:shuffle(selected,random)).map(q=>{const indices=shuffle([0,1,2,3],random);return {...q,options:indices.map(i=>q.options[i]),correct:indices.indexOf(q.correct)};});

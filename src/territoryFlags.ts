@@ -43,15 +43,15 @@ const regionGroups=[
 ];
 
 const features=[
- {code:'ky',choices:['vi','aw','cw'],label:'ein britisches Überseegebiet ist',test:(f:typeof territories[number])=>f.kind==='overseas'},
- {code:'aw',choices:['mq','pr','ky'],label:'ein konstituierendes Land im Königreich der Niederlande ist',test:(f:typeof territories[number])=>f.kind==='constituent'&&f.affiliation==='Königreich der Niederlande'},
- {code:'gu',choices:['tk','nc','cx'],label:'ein Gebiet der Vereinigten Staaten ist',test:(f:typeof territories[number])=>f.affiliation==='Vereinigte Staaten'},
- {code:'ck',choices:['tk','nf','pf'],label:'in freier Assoziierung mit Neuseeland steht',test:(f:typeof territories[number])=>f.kind==='associated'},
- {code:'mq',choices:['pf','pr','bq-bo'],label:'eine französische Gebietskörperschaft in der Karibik ist',test:(f:typeof territories[number])=>f.affiliation==='Frankreich'&&f.region==='Karibik'},
+ {code:'ky',choices:['vi','aw','cw'],label:'ein britisches Überseegebiet ist',prompt:'Welches dieser Gebiete ist ein britisches Überseegebiet?',test:(f:typeof territories[number])=>f.kind==='overseas'},
+ {code:'aw',choices:['mq','pr','ky'],label:'ein konstituierendes Land im Königreich der Niederlande ist',prompt:'Welches dieser Gebiete ist ein konstituierendes Land im Königreich der Niederlande?',test:(f:typeof territories[number])=>f.kind==='constituent'&&f.affiliation==='Königreich der Niederlande'},
+ {code:'gu',choices:['tk','nc','cx'],label:'ein Gebiet der Vereinigten Staaten ist',prompt:'Welches dieser Gebiete gehört zu den Vereinigten Staaten?',test:(f:typeof territories[number])=>f.affiliation==='Vereinigte Staaten'},
+ {code:'ck',choices:['tk','nf','pf'],label:'in freier Assoziierung mit Neuseeland steht',prompt:'Welches dieser Gebiete steht in freier Assoziierung mit Neuseeland?',test:(f:typeof territories[number])=>f.kind==='associated'},
+ {code:'mq',choices:['pf','pr','bq-bo'],label:'eine französische Gebietskörperschaft in der Karibik ist',prompt:'Welches dieser Gebiete ist eine französische Gebietskörperschaft in der Karibik?',test:(f:typeof territories[number])=>f.affiliation==='Frankreich'&&f.region==='Karibik'},
 ];
 const imageOptions={type:'flag-options',src:'choice:flags',alt:'Vier Flaggen als Antwortmöglichkeiten',license:'Public Domain – Flagpedia / Wikimedia Commons'};
 
-export const territoryFlagQuestions:Question[]=territories.flatMap((flag,index)=>{
+const territoryQuestions:Question[]=territories.flatMap((flag,index)=>{
  const code=flag.id.slice('territory-'.length);
  const create=(variant:string,prompt:string,answer:string,choices:string[],difficulty:number,media:Question['media']=null):Question=>{
   const options=[answer,...choices];
@@ -80,6 +80,23 @@ export const territoryFlagQuestions:Question[]=territories.flatMap((flag,index)=
   result.push(create('feature',`Welche Flagge steht für ein Gebiet, das ${feature.label}?`,flag.name,choices.map(choice=>choice.name),3,imageOptions));
  }
  return result;
+});
+
+const isFlagQuestion=(question:Question)=>/-(identify|reverse)$/.test(question.id);
+export const territoryFlagQuestions=territoryQuestions.filter(isFlagQuestion);
+export const retiredTerritoryQuestions=territoryQuestions.filter(question=>!isFlagQuestion(question))
+ .map(question=>({...question,enabled:false}));
+
+export const territoryWorldQuestions:Question[]=retiredTerritoryQuestions.map(question=>{
+ const flag=territoryById.get(question.provenance.territoryId!)!;
+ const code=flag.id.slice('territory-'.length);
+ const variant=question.id.endsWith('-feature')?'feature':question.id.endsWith('-region')?'region':'affiliation';
+ const feature=features.find(item=>item.code===code);
+ const prompt=variant==='feature'?feature!.prompt
+  :variant==='region'?`In welcher geografischen Region liegt das Gebiet „${flag.name}“?`
+  :`Zu welchem Staat oder Königreich gehört das Gebiet „${flag.name}“?`;
+ return {...question,id:`world-territory-v1-${code}-${variant}`,category:'world',prompt,media:null,enabled:true,
+  provenance:{...question.provenance,topic:'Regionen & Gebiete',territoryQuestionType:variant,subjectKey:`world:${flag.id}`}};
 });
 
 export const territoryAffiliations=new Map(registry.flatMap(flag=>
