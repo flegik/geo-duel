@@ -8,7 +8,7 @@ export const territoryByName=new Map(territories.map(flag=>[flag.name,flag]));
 export const territoryById=new Map(territories.map(flag=>[flag.id,flag]));
 export const territoryFlagPaths=new Set(territories.map(flag=>flag.svg));
 
-const allFlags=new Map([...registry.map(flag=>[flag.iso.toLowerCase(),flag] as const),
+const allFlags=new Map<string,{name:string;svg:string}>([...registry.map(flag=>[flag.iso.toLowerCase(),flag] as const),
  ...territories.map(flag=>[flag.id.slice('territory-'.length),flag] as const)]);
 const families=groups.map(([id,description,codes])=>({id,description,members:codes.split(' ')}));
 const nearIdentical=new Set(['cu:pr','ai:ms','ms:vg']);
@@ -30,14 +30,16 @@ const affiliationGroups=[
  ['Australien','Neuseeland','Fidschi','Papua-Neuguinea'],
 ];
 const regionGroups=[
- ['Karibik','Nordatlantik','Südatlantik','Mittelmeer'],
+ ['Karibik','Ostsee','Mittelmeer','Indischer Ozean'],
+ ['Nordatlantik','Südatlantik','Südwestpazifik','Indischer Ozean'],
  ['Großbritannien','Irische See','Ärmelkanal','Ostsee'],
  ['Ostsee','Ägäis','Adria','Schwarzes Meer'],
- ['Arktis','Nordatlantik','Ostsee','Mittelmeer'],
+ ['Arktis','Antarktis','Ostsee','Mittelmeer'],
  ['Straße von Gibraltar','Straße von Messina','Bosporus','Straße von Dover'],
  ['Balkan','Iberische Halbinsel','Bretagne','Skandinavien'],
  ['Ostasien','Südostasien','Südasien','Zentralasien'],
- ['Westpazifik','Südpazifik','Indischer Ozean','Karibik'],
+ ['Mikronesien','Melanesien','Polynesien','Indischer Ozean'],
+ ['Südwestpazifik','Karibik','Südatlantik','Indischer Ozean'],
 ];
 
 const features=[
@@ -79,3 +81,11 @@ export const territoryFlagQuestions:Question[]=territories.flatMap((flag,index)=
  }
  return result;
 });
+
+export const territoryAffiliations=new Map(registry.flatMap(flag=>
+ affiliationGroups.flat().filter(name=>name===flag.name||
+  (flag.iso==='NL'&&name==='Königreich der Niederlande')||
+  (flag.iso==='DK'&&name==='Königreich Dänemark')||
+  (flag.iso==='CN'&&name==='Volksrepublik China')).map(name=>[name,flag.svg] as const)));
+export const territoryRegions=new Set(regionGroups.flat());
+export const flagImagePath=(name:string)=>territoryByName.get(name)?.svg??registry.find(flag=>flag.name===name)?.svg;

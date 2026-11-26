@@ -11,7 +11,7 @@ type Comparison={label:string;year:number;values:{name:string;display:string}[]}
 type ImageCredit={source:string;title:string;license:string;licenseUrl:string;author:string};
 type GermanyResolution={state:string;city?:string;cityName?:string;stateChoices?:{name:string;code:string;capital:string}[];
  cityChoices?:{name:string;point:number[];state:string}[];stat?:{year:number;date:string;definition:string;metric:string;mode:string;step?:number;values:{name:string;value:number}[]}};
-export type QuestionResolution={sources:string[];cityLocation?:CityLocation;cityChoices?:CityLocation[];imageCredit?:ImageCredit;comparison?:Comparison;germany?:GermanyResolution};
+export type QuestionResolution={sources:string[];territoryId?:string;cityLocation?:CityLocation;cityChoices?:CityLocation[];imageCredit?:ImageCredit;comparison?:Comparison;germany?:GermanyResolution};
 export function QuestionImageCredit({credit}:{credit?:ImageCredit}){
  if(!credit)return null;
  return <p className="question-credit">Foto von {credit.author} ·{' '}

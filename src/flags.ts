@@ -1,6 +1,7 @@
 import {expandedSubjects} from './questionPool';
 import registry from '../data/flags/registry.json';
 import families from '../data/flags/groups.json';
+import {territoryFlagQuestions} from './territoryFlags';
 import type {Question} from './engine';
 export type FlagEntry=typeof registry[number];
 export const flags=registry;
@@ -50,7 +51,7 @@ export const reverseFlagQuestions:Question[]=flags.map(flag=>{
   provenance:{sources:[flag.source,'https://flagpedia.net/download'],subjectKey:`flag:${flag.iso}`,iso:flag.iso,challenge,confusions:alternatives.map(country=>country.iso)},
  };
 });
-const subjects=new Map([...flagQuestions,...reverseFlagQuestions].map(q=>[q.id,`flag:${q.provenance.iso}`]));
+const subjects=new Map([...flagQuestions,...reverseFlagQuestions,...territoryFlagQuestions].map(q=>[q.id,q.provenance.subjectKey!]));
 export function questionSubject(question:Pick<Question,'id'|'category'|'options'|'correct'|'provenance'>){
  if(question.category!=='flags')return question.provenance?.subjectKey??question.id;
  return question.provenance?.subjectKey??subjects.get(question.id)??`flag:${flags.find(f=>f.name===question.options[question.correct])?.iso??question.id}`;

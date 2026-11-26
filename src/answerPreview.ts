@@ -1,3 +1,4 @@
+import {territoryByName,territoryById,territoryRegions,territoryAffiliations} from './territoryFlags';
 import raw from '../data/questions.json';
 import registry from '../data/flags/registry.json';
 import facts from '../data/learning/countries.json';
@@ -17,6 +18,13 @@ export function answerPreview(category:Category,option:string,resolution?:Questi
   if(state)return {title:option,text:`Landeshauptstadt ${state.capital}. ${state.flagDetail}.`,src:state.flag,deState:state.code};
   const city=germanCities.find(c=>c.name===option);
   if(city)return {title:option,text:`${option} liegt in ${stateByCode.get(city.state)?.name}.`,dePoint:city.point};
+ }
+ if(category==='flags'){
+  const territory=territoryByName.get(option);
+  if(territory)return {title:option,text:`${territory.description} Region: ${territory.region}.`,src:territory.svg,license:territory.license};
+  const subject=resolution?.territoryId?territoryById.get(resolution.territoryId):undefined;
+  if(subject&&territoryRegions.has(option))return {title:option,text:`${subject.name} · geografische Region: ${subject.region}.`,src:subject.svg};
+  if(subject?.affiliation&&territoryAffiliations.has(option))return {title:option,text:`${subject.name} · Zugehörigkeit: ${subject.affiliation}.`,src:territoryAffiliations.get(option)};
  }
  const country=registry.find(f=>f.name===option);
  const comparison=resolution?.comparison;

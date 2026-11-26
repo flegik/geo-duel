@@ -2,10 +2,11 @@ import type {QuestionResolution} from './QuestionMedia';
 import {africaSlots,pickBalanced,selectionPolicy} from './selection';
 import raw from '../data/questions.json';
 import {expandedQuestions,retiredQuestions} from './questionPool';
+import {territoryFlagQuestions} from './territoryFlags';
 import {flagQuestions,reverseFlagQuestions,questionSubject,seenSubject} from './flags';
 import {germanyQuestions,selectGermany} from './germanyPool';
 export const categories = {
- flags:{name:'Flaggen',description:'195 Staaten. Originalgetreue Flaggen.',icon:'Flag'},
+ flags:{name:'Flaggen',description:'236 Flaggen von Staaten und Gebieten.',icon:'Flag'},
  maps:{name:'Länder auf Karten',description:'Finde deinen Platz auf der Welt',icon:'Map'},
  capitals:{name:'Hauptstädte',description:'Von Berlin bis Buenos Aires',icon:'Building2'},
  silhouettes:{name:'Länder-Silhouetten',description:'Erkennst du den Umriss?',icon:'Shapes'},
@@ -16,7 +17,7 @@ export const categories = {
 } as const;
 export type Category=keyof typeof categories;
 export type Question={id:string;category:Category;difficulty:number;prompt:string;options:string[];correct:number;explanation:string;media:null|{src:string;alt:string;license:string;type:string};provenance:QuestionResolution&{subjectKey?:string;iso?:string;challenge?:number;confusions?:string[];topic?:string;population?:{[key:string]:unknown}};enabled:boolean};
-export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...reverseFlagQuestions,...expandedQuestions,...retiredQuestions,...germanyQuestions];
+export const questions:Question[]=[...(raw as Question[]).map(q=>({...q,enabled:false})),...flagQuestions,...reverseFlagQuestions,...territoryFlagQuestions,...expandedQuestions,...retiredQuestions,...germanyQuestions];
 const questionById=new Map(questions.map(q=>[q.id,q]));
 export type Answer={selected:number;points:number};
 export type Round={id:string;mode:'quick'|'training';category?:Category;questions:Question[];answers:Answer[];cursor:number;status:'playing'|'completed';createdAt:string};

@@ -1,4 +1,5 @@
 import registry from '../data/flags/registry.json';
+import {territoryByName,territoryFlagPaths} from './territoryFlags';
 import type {QuestionMediaData} from './QuestionMedia';
 import './answerOptions.css';
 import {germanFlagPaths,stateByName} from './germanyPool';
@@ -13,7 +14,7 @@ export function AnswerOption({option,media,revealed=false}:{option:string;media?
  if(hasMapMarkers(media)&&!revealed)return null;
  const image=hasFlagOptions(media)?(media?.src==='choice:de-flags'?
   stateByName.get(option)?.flag??(germanFlagPaths.has(option)?option:undefined):
-  countries.get(option)?.svg??(flagPaths.has(option)?option:undefined)):undefined;
+  countries.get(option)?.svg??territoryByName.get(option)?.svg??(flagPaths.has(option)||territoryFlagPaths.has(option)?option:undefined)):undefined;
  if(!image)return <span>{option}</span>;
  return <span className="flag-option">
   <img src={image} alt="" decoding="async"/>
