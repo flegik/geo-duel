@@ -9,3 +9,9 @@ SVGs: Flagpedia/FlagCDN, unveränderte Originalproportionen, lokal gespeichert. 
 Pflege: `node scripts/prepare-flags.mjs` importiert die 195 SVGs. Bestehende Dateien werden wiederverwendet; für eine Aktualisierung die betroffene Datei gezielt entfernen, Quelle prüfen und erneut importieren. Keine dynamische CDN-Abhängigkeit im Spiel.
 
 Quellen: https://www.un.org/en/about-us/member-states · https://www.un.org/en/about-us/non-member-states · https://flagpedia.net/download · https://flagpedia.net/download/api
+
+## Zusätzliche Flaggen
+
+`territories.json` erfasst 41 weitere Flaggen getrennt vom 195er-Staatenregister. Jede Flagge hat eine stabile interne ID, Prüfsumme, Originalproportionen, Bildquelle und einen Statusbeleg. Die drei Inseln der Karibischen Niederlande verwenden ihre ISO-3166-2-Kennungen. Kosovo verwendet eine interne ID ohne ISO-Zuordnung. Die Flaggen von Weihnachtsinsel und Kokosinseln sind als gebräuchliche lokale Flaggen gekennzeichnet. Bei Neukaledonien wird die neben der französischen Trikolore verwendete Kanak-Flagge gezeigt.
+
+Die SVGs unter `public/flags/territories/` stammen aus der Public-Domain-Sammlung von Flagpedia und von den verlinkten Wikimedia-Commons-Dateiseiten. Die französische Trikolore ist bereits im Staatenregister vorhanden. Martinique nutzt die 2023 angenommene rot-grün-schwarze Flagge.
